@@ -205,5 +205,22 @@
     "material": [],
     "published_at": "2026-03-17T10:00:00.000Z",
     "ingested_at": "2026-03-17T18:02:07.673Z"
+  },
+  {
+    "id": "a901e295-19c1-4053-b4cd-67b1b2400eb5",
+    "title": "Leisure Center of Uzurat",
+    "creator": "atelier quatre + R2K Architectes",
+    "location": "Limoges",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039359/leisure-center-of-uzurat-atelier-quatre-plus-r2k-architectes",
+    "image_url": "https://images.adsttc.com/media/images/69b9/4df5/785c/2724/7893/239a/medium_jpg/leisure-center-of-uzurat-atelier-quatre-plus-r2k-architectes_9.jpg?1773751816",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T12:00:00.000Z",
+    "ingested_at": "2026-03-17T19:55:51.999Z"
   }
 ]
