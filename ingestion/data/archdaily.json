@@ -222,5 +222,23 @@
     "material": [],
     "published_at": "2026-03-17T12:00:00.000Z",
     "ingested_at": "2026-03-17T19:55:51.999Z"
+  },
+  {
+    "id": "9f1375e3-385e-46f1-85a7-8878ed2b457f",
+    "title": "Torrão House",
+    "creator": "Nommo Arquitetos + Luana Barichello",
+    "location": "Rio Verde",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039399/torrao-house-nommo-arquitetos-plus-luana-barichello",
+    "image_url": "https://images.adsttc.com/media/images/69a8/28de/1d07/d400/0132/3ce4/medium_jpg/JVS_20260117_CASA_TORR_O_04-13.jpg?1772628290",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T15:00:00.000Z",
+    "ingested_at": "2026-03-17T22:39:39.654Z"
   }
 ]
