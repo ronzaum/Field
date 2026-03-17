@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Barlow_Condensed, EB_Garamond, IBM_Plex_Mono } from "next/font/google";
-import { ThemeProvider } from "@/context/ThemeContext";
 import "./globals.css";
 
 const barlow = Barlow_Condensed({
@@ -37,7 +36,7 @@ export default function RootLayout({
       <body
         className={`${barlow.variable} ${garamond.variable} ${plexMono.variable} min-h-screen`}
       >
-        <ThemeProvider>{children}</ThemeProvider>
+        {children}
       </body>
     </html>
   );

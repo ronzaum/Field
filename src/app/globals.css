@@ -2,32 +2,122 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  border-radius: 0 !important;
+@layer base {
+  :root {
+    --background: 0 0% 2.7%;
+    --surface: 0 0% 5.5%;
+    --foreground: 44 10% 90.6%;
+    --muted-foreground: 44 10% 90.6%;
+    --hint-foreground: 44 10% 90.6%;
+    --border-color: 0 0% 100%;
+
+    --muted-alpha: 0.42;
+    --hint-alpha: 0.20;
+    --border-alpha: 0.10;
+
+    --card: 0 0% 5.5%;
+    --card-foreground: 44 10% 90.6%;
+    --popover: 0 0% 5.5%;
+    --popover-foreground: 44 10% 90.6%;
+    --primary: 44 10% 90.6%;
+    --primary-foreground: 0 0% 2.7%;
+    --secondary: 0 0% 5.5%;
+    --secondary-foreground: 44 10% 90.6%;
+    --muted: 0 0% 5.5%;
+    --accent: 0 0% 5.5%;
+    --accent-foreground: 44 10% 90.6%;
+    --destructive: 0 0% 50%;
+    --destructive-foreground: 44 10% 90.6%;
+    --border: 0 0% 100%;
+    --input: 0 0% 100%;
+    --ring: 44 10% 90.6%;
+    --radius: 0px;
+
+    --image-placeholder: #1a1a18;
+  }
+
+  .day {
+    --background: 40 8% 95.3%;
+    --surface: 40 5% 91%;
+    --foreground: 30 11% 3.5%;
+    --muted-foreground: 30 11% 3.5%;
+    --hint-foreground: 30 11% 3.5%;
+    --border-color: 0 0% 0%;
+
+    --muted-alpha: 0.44;
+    --hint-alpha: 0.22;
+    --border-alpha: 0.10;
+
+    --card: 40 5% 91%;
+    --card-foreground: 30 11% 3.5%;
+    --popover: 40 5% 91%;
+    --popover-foreground: 30 11% 3.5%;
+    --primary: 30 11% 3.5%;
+    --primary-foreground: 40 8% 95.3%;
+    --secondary: 40 5% 91%;
+    --secondary-foreground: 30 11% 3.5%;
+    --muted: 40 5% 91%;
+    --accent: 40 5% 91%;
+    --accent-foreground: 30 11% 3.5%;
+    --destructive: 0 0% 50%;
+    --destructive-foreground: 30 11% 3.5%;
+    --border: 0 0% 0%;
+    --input: 0 0% 0%;
+    --ring: 30 11% 3.5%;
+
+    --image-placeholder: #d4d2ce;
+  }
+
+  * {
+    border-color: hsl(var(--border-color) / var(--border-alpha));
+    border-radius: 0 !important;
+  }
+
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-family: 'IBM Plex Mono', monospace;
+    cursor: crosshair;
+    overflow: hidden;
+  }
+
+  /* Scrollbar — thin 2px track */
+  ::-webkit-scrollbar {
+    width: 2px;
+    height: 2px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: hsl(var(--border-color) / var(--border-alpha));
+  }
+
+  /* Firefox scrollbar */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--border-color) / var(--border-alpha)) transparent;
+  }
 }
 
-:root {
-  /* Night mode (default) */
-  --color-bg: #070707;
-  --color-surface: #0e0e0e;
-  --color-border: rgba(255, 255, 255, 0.10);
-  --color-text: #edeae4;
-  --color-muted: rgba(237, 234, 228, 0.42);
-  --color-hint: rgba(237, 234, 228, 0.20);
+/* Font utility classes — map to Next.js CSS variable font loading */
+.font-barlow {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
 }
 
-[data-theme="day"] {
-  --color-bg: #f4f3ef;
-  --color-surface: #ebebe6;
-  --color-border: rgba(0, 0, 0, 0.10);
-  --color-text: #0a0908;
-  --color-muted: rgba(10, 9, 8, 0.44);
-  --color-hint: rgba(10, 9, 8, 0.22);
+.font-garamond {
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
 }
 
-body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: var(--color-bg);
-  color: var(--color-text);
+.font-mono-light {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 300;
+}
+
+.font-mono-regular {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 400;
 }
