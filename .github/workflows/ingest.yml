@@ -1,0 +1,53 @@
+# RSS Ingestion Pipeline — Hourly Cron
+#
+# Fetches architecture project data from ArchDaily, Dezeen, and Designboom
+# RSS feeds every hour. New records are committed as JSON to the repo.
+#
+# Phase 0 only — this auto-commit pattern is replaced by direct Postgres
+# writes in Phase 2.
+
+name: RSS Ingestion
+
+on:
+  schedule:
+    # Every hour at minute 0
+    - cron: "0 * * * *"
+  # Allow manual triggering for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install ingestion dependencies
+        working-directory: ingestion
+        run: npm ci
+
+      - name: Run ingestion pipeline
+        working-directory: ingestion
+        run: node ingest.js
+
+      - name: Commit new data (if any)
+        run: |
+          git config user.name "field-bot"
+          git config user.email "field-bot@users.noreply.github.com"
+          git add ingestion/data/*.json
+          # Only commit if there are staged changes
+          if git diff --cached --quiet; then
+            echo "No new records — nothing to commit."
+          else
+            git commit -m "[bot] ingest — $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

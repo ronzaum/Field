@@ -1,0 +1,12 @@
+{
+  "name": "field-ingestion",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RSS ingestion pipeline for FIELD — pulls architecture project data from RSS feeds and stores normalized JSON records.",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "rss-parser": "^3.13.0",
+    "uuid": "^11.1.0"
+  }
+}

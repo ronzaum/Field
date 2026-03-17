@@ -13,6 +13,7 @@ interface ReferenceCardProps {
   aspectRatio: "4/3" | "1/1";
   isSaved: boolean;
   onToggleSave: (id: string) => void;
+  imageUrl?: string | null;
 }
 
 /** Inline bookmark SVG — 10×12, filled when saved */
@@ -40,6 +41,7 @@ export const ReferenceCard: React.FC<ReferenceCardProps> = ({
   aspectRatio,
   isSaved,
   onToggleSave,
+  imageUrl,
 }) => {
   return (
     <div className="group relative cursor-crosshair">
@@ -48,6 +50,17 @@ export const ReferenceCard: React.FC<ReferenceCardProps> = ({
         className="relative w-full overflow-hidden"
         style={{ aspectRatio, backgroundColor: "var(--image-placeholder)" }}
       >
+        {/* Project image */}
+        {imageUrl && (
+          <img
+            src={imageUrl}
+            alt={title}
+            loading="lazy"
+            className="absolute inset-0 w-full h-full"
+            style={{ objectFit: "cover" }}
+          />
+        )}
+
         {/* Index number — bottom-right of image */}
         <span
           className="font-mono-regular absolute"

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "ecbdf430-1a87-43b2-aa79-22fe682acac7",
+    "title": "Ancient clay ovens inform red-toned sports pavilion",
+    "creator": "Sam Crawford Architects",
+    "location": "Sydney",
+    "country": "Australia",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/17/willowdale-sports-precinct-sam-crawford/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/willowdale-sports-precinct-sam-crawford-architects-sydney-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Pavilions",
+      "Public and leisure",
+      "Red buildings",
+      "Public space",
+      "Sam Crawford Architects"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T11:30:11.000Z",
+    "ingested_at": "2026-03-17T14:17:29.234Z"
+  },
+  {
+    "id": "30bbb46c-83c7-4571-8fb5-152dfef6af54",
+    "title": "Protective seed pods inform timber forest pavilion",
+    "creator": "Walden Studio",
+    "location": null,
+    "country": "Netherlands",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/11/bolster-pavilion-walden-studio/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/bolster-pavilion-walden-studio-netherlands-sq2_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Pavilions",
+      "Wooden architecture",
+      "Oak"
+    ],
+    "material": [],
+    "published_at": "2026-03-11T11:30:57.000Z",
+    "ingested_at": "2026-03-17T14:17:29.234Z"
+  },
+  {
+    "id": "4008425a-85f4-44e5-811d-3d0d9684a121",
+    "title": "Boxy \"sky lounges\" protrude from Seattle skyscraper",
+    "creator": "Grzywinski + Pons",
+    "location": "Seattle",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/10/kaye-tower-seattle-grzywinski-pons/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/imgi_1_kaye-tower-seattle-grzywinski-pons_dezeen_2364_col_19-sq2-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Towers",
+      "Skyscrapers",
+      "Washington State",
+      "Grzywinski+Pons",
+      "Residential architecture and interiors",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-03-10T20:00:42.000Z",
+    "ingested_at": "2026-03-17T14:17:29.234Z"
+  },
+  {
+    "id": "4adb9453-df8d-4137-a9cf-f570b390199a",
+    "title": "Charred tree trunks support sauna on Finnish island",
+    "creator": "Jaakko Torvinen",
+    "location": null,
+    "country": "Finland",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/09/puusauna-jaakko-torvinen/",
+    "image_url": "http://static.dezeen.com/uploads/2026/02/puusauna-jaakko-torvinen-architecture-finland-public-leisure_dezeen_2364_sq1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Wooden architecture",
+      "Jaakko Torvinen",
+      "Public and leisure",
+      "Saunas"
+    ],
+    "material": [],
+    "published_at": "2026-03-09T11:30:22.000Z",
+    "ingested_at": "2026-03-17T14:17:29.234Z"
+  },
+  {
+    "id": "2186ced1-062d-4001-800d-d9ae983e6ed3",
+    "title": "Perforated floors cast dappled light through London extension",
+    "creator": "ConForm Architects",
+    "location": "London",
+    "country": "UK",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/06/komorebi-extension-conform-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/komorebi-home-extension-conform-architects_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "London houses",
+      "London house extensions",
+      "ConForm Architects",
+      "Residential architecture and interiors",
+      "Extensions",
+      "Houses",
+      "British houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-06T11:30:31.000Z",
+    "ingested_at": "2026-03-17T14:17:29.234Z"
+  }
+]

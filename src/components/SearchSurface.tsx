@@ -1,7 +1,8 @@
 "use client";
 
 import React, { useState, useMemo } from "react";
-import { searchReferences, filterChips } from "@/data/references";
+import { filterChips } from "@/data/references";
+import { liveReferences } from "@/data/load-references";
 import { ReferenceCard } from "./ReferenceCard";
 
 interface Props {
@@ -24,9 +25,9 @@ export const SearchSurface: React.FC<Props> = ({ savedIds, onToggleSave }) => {
 
   /** Filter references across title, creator, location, source, and year */
   const filteredRefs = useMemo(() => {
-    if (!query.trim()) return searchReferences;
+    if (!query.trim()) return liveReferences;
     const q = query.toLowerCase();
-    return searchReferences.filter(
+    return liveReferences.filter(
       (ref) =>
         ref.title.toLowerCase().includes(q) ||
         ref.creator.toLowerCase().includes(q) ||
@@ -150,11 +151,12 @@ export const SearchSurface: React.FC<Props> = ({ savedIds, onToggleSave }) => {
                 title={ref.title}
                 subtitle={ref.creator}
                 subtitleType="creator"
-                meta={`${ref.location} · ${ref.year}`}
+                meta={`${ref.location}${ref.year ? ` · ${ref.year}` : ""}`}
                 index={ref.index}
                 aspectRatio="4/3"
                 isSaved={savedIds.has(ref.id)}
                 onToggleSave={onToggleSave}
+                imageUrl={ref.image_url}
               />
             </div>
           ))}

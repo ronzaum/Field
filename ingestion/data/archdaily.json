@@ -1,0 +1,191 @@
+[
+  {
+    "id": "89b1f51f-076c-450d-ab23-d4070cb613a6",
+    "title": "Petti Restaurant",
+    "creator": "Wallmakers",
+    "location": "Tuticorin",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039545/petti-restaurant-wallmakers",
+    "image_url": "https://images.adsttc.com/media/images/69b1/6c93/3c49/4901/7d2a/f8c5/medium_jpg/petti-restaurant-wallmakers_13.jpg?1773235428",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T07:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.195Z"
+  },
+  {
+    "id": "df4a3de6-1bf8-4d75-9127-23deadc03c4e",
+    "title": "Falling Leaves House",
+    "creator": "Bercy Fadel + Partners",
+    "location": "Austin",
+    "country": "United States",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039462/falling-leaves-house-bercy-fadel-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/69af/012e/1d07/d400/0132/4082/medium_jpg/AD0723_BERCY_CHEN_3.jpg?1773076822",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T06:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.196Z"
+  },
+  {
+    "id": "478d9de7-48e2-470b-863c-fcacd73633d3",
+    "title": "The Glasshouse Theater",
+    "creator": "Blight Rayner Architecture + Snøhetta",
+    "location": "Brisbane City",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039673/the-glasshouse-theater-snohetta",
+    "image_url": "https://images.adsttc.com/media/images/69b8/3749/785c/2724/7893/2086/medium_jpg/the-glasshouse-theatre-snohetta_4.jpg?1773680478",
+    "typology": [
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "performing arts center"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T03:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.197Z"
+  },
+  {
+    "id": "a27f129e-0b60-4c15-bf22-b604188c5c4e",
+    "title": "Magnus Office",
+    "creator": "Sanjay Puri Architects",
+    "location": "Jaipur",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039653/magnus-office-sanjay-puri-architects",
+    "image_url": "https://images.adsttc.com/media/images/69b7/d436/3c49/4944/8bbc/7adb/medium_jpg/magnus-office-sanjay-puri-architects_5.jpg?1773655125",
+    "typology": [
+      "Offices",
+      "Institutional buildings"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T02:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.197Z"
+  },
+  {
+    "id": "d1a2a204-18c1-4faa-9632-f707c021eff2",
+    "title": "Weishan Chongzheng Academy Bookstore of Librairie Avant-Garde",
+    "creator": "TAO (Trace Architecture Office)",
+    "location": "Weishan",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1017272/weishan-chongzheng-academy-bookstore-of-librairie-avant-garde-tao-trace-architecture-office",
+    "image_url": "https://images.adsttc.com/media/images/665d/bcd8/f2be/df01/93db/01eb/medium_jpg/weishan-chongzheng-academy-bookstore-of-librairie-avant-garde-tao-trace-architecture-office_6.jpg?1717419234",
+    "typology": [
+      "visitor center",
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Library",
+      "Learning"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T00:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.198Z"
+  },
+  {
+    "id": "8c0548de-7cfb-49cc-a75f-7b1c6c420cb3",
+    "title": "Path Envelope in Maebashi",
+    "creator": "HAGISO",
+    "location": "Maebashi",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039618/path-envelope-in-maebashi-hagiso",
+    "image_url": "https://images.adsttc.com/media/images/69b4/3b28/1d07/d400/0132/4539/medium_jpg/_005_pem_Tomoyuki_Kusunose.jpg?1773419412",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-16T19:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.199Z"
+  },
+  {
+    "id": "a3f1328f-029e-4033-9aa9-1422a66af5af",
+    "title": "Shark House",
+    "creator": "TALC",
+    "location": "Tláhuac",
+    "country": "Mexico",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039487/shark-house-talc",
+    "image_url": "https://images.adsttc.com/media/images/69a7/f635/1d07/d400/0132/3c08/medium_jpg/_CKZ7019.jpg?1772615300",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-16T15:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.199Z"
+  },
+  {
+    "id": "d9eebb8f-fc15-4a12-b7a4-2c401f2f59e4",
+    "title": "Art Center",
+    "creator": "FELT architecture & design + Oskar architecten",
+    "location": "Asse",
+    "country": "Belgium",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039014/art-center-felt-architecture-and-design-plus-oskar-architecten",
+    "image_url": "https://images.adsttc.com/media/images/69aa/d7eb/3c49/4901/7d2a/ebaf/medium_jpg/art-center-felt-architecture-and-design-plus-oskar-architecten_9.jpg?1772804093",
+    "typology": [
+      "Cultural Architecture",
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-16T12:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.199Z"
+  },
+  {
+    "id": "c47976de-4c9b-4eb1-af06-4846c97a1ba5",
+    "title": "Counter-Slope House",
+    "creator": "YH2 Architecture",
+    "location": "Potton",
+    "country": "Canada",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039563/counter-slope-house-yh2-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69b2/1768/1d07/d400/0132/435a/medium_jpg/Potton_YH2-01.jpg?1773279142",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-16T10:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.200Z"
+  },
+  {
+    "id": "947ee36a-d9db-415b-b49e-b4a13d7f5bf4",
+    "title": "Casa Wabi Mushroom Pavilion",
+    "creator": "OMA",
+    "location": "Puerto Escondido",
+    "country": "Mexico",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039505/casa-wabi-mushroom-pavilion-oma",
+    "image_url": "https://images.adsttc.com/media/images/69b0/5100/314f/6601/8902/c2d2/medium_jpg/casa-wabi-mushroom-pavilion-oma_10.jpg?1773162773",
+    "typology": [
+      "Mixed Use Architecture",
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion",
+      "Public Architecture",
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-03-16T07:00:00.000Z",
+    "ingested_at": "2026-03-17T14:07:22.200Z"
+  }
+]

@@ -13,8 +13,9 @@ Not a consumer app. Not a mood board. Not Pinterest.
 ## Stack
 - Next.js 14 App Router, TypeScript
 - Tailwind CSS
-- Postgres (not yet — dummy data for now)
-- No backend yet — all data is hardcoded JSON
+- Postgres (not yet — JSON flat files for now)
+- Ingestion pipeline: `ingestion/` directory (Node.js, rss-parser, cheerio)
+- Data flow: RSS feeds → hourly GitHub Actions cron → JSON committed to repo → Next.js build imports JSON → UI renders live data
 
 ## Typography — three fonts only, no substitutions
 - Barlow Condensed 700 — titles and primary labels, always uppercase
@@ -71,6 +72,10 @@ CITY · YEAR ← mono 7.5px muted uppercase
 - [x] Card component
 - [x] Search surface
 - [x] Night/day toggle
+- [x] RSS ingestion pipeline (ArchDaily, Dezeen, Designboom)
+- [x] Live data wired to Search surface (replaces dummy cards)
+- [x] Card images from RSS feeds
+- [x] GitHub Actions hourly cron
 - [ ] Feed surface
 - [ ] Map surface
 - [ ] Save function

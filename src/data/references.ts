@@ -4,8 +4,10 @@ export interface Reference {
   title: string;
   creator: string;
   location: string;
-  year: number;
+  year: number | null;
   index: string;
+  image_url?: string | null;
+  source_url?: string | null;
 }
 
 export interface FeedItem {
