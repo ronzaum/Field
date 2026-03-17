@@ -187,5 +187,23 @@
     "material": [],
     "published_at": "2026-03-16T07:00:00.000Z",
     "ingested_at": "2026-03-17T14:07:22.200Z"
+  },
+  {
+    "id": "b390a850-9216-4a70-89d2-653c41418caa",
+    "title": "LofoS Residence",
+    "creator": "React Architects",
+    "location": "Paros",
+    "country": "Greece",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039501/lofos-residence-react-architects",
+    "image_url": "https://images.adsttc.com/media/images/69b0/37b5/1d07/d400/0132/4154/medium_jpg/254.jpg?1773156304",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T10:00:00.000Z",
+    "ingested_at": "2026-03-17T18:02:07.673Z"
   }
 ]
