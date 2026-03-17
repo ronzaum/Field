@@ -214,5 +214,26 @@
     "material": [],
     "published_at": "2026-03-13T11:30:07.000Z",
     "ingested_at": "2026-03-17T14:20:34.939Z"
+  },
+  {
+    "id": "5d7efbba-f358-4578-b51f-beec15391f67",
+    "title": "brick and concrete sculpt elevated riverfront residence in thailand by bodinchapa architects",
+    "creator": "bdca",
+    "location": "Chiang Saen",
+    "country": "Thailand",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/brick-concrete-elevated-riverfront-residence-thailand-bodinchapa-architects-baan-sudsaensuk/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/mekong-river-thailand-baan-sudsaensuk-residence-bodinchapa-architects-lanna-vernacular-architecture-contemporary-framework-designboom-700-500x400-22b08q85r093.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in thailand",
+      "bodinchapa architects",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T22:30:12.000Z",
+    "ingested_at": "2026-03-17T23:38:11.043Z"
   }
 ]
