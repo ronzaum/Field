@@ -409,5 +409,22 @@
     "material": [],
     "published_at": "2026-03-18T15:00:00.000Z",
     "ingested_at": "2026-03-18T21:40:44.034Z"
+  },
+  {
+    "id": "0f827055-b23a-4e33-9a1c-60f6ca834a4a",
+    "title": "ST01 Flagship Seoul",
+    "creator": "Order Matter",
+    "location": "Gangnam District",
+    "country": "South Korea",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039738/st01-flagship-seoul-order-matter",
+    "image_url": "https://images.adsttc.com/media/images/69ba/69fb/6e66/7900/01ef/d814/medium_jpg/ST01_3.jpg?1773824567",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T19:00:00.000Z",
+    "ingested_at": "2026-03-18T23:35:16.332Z"
   }
 ]

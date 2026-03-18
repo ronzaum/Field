@@ -337,5 +337,30 @@
     "material": [],
     "published_at": "2026-03-18T14:00:05.000Z",
     "ingested_at": "2026-03-18T15:09:54.381Z"
+  },
+  {
+    "id": "4f7e5627-25c2-41e4-b1ed-56b7e482d095",
+    "title": "OMA’s new museum expansion completes in NYC as space for ‘new humans’",
+    "creator": "OMA / Shohei Shigematsu",
+    "location": "235 Bowery",
+    "country": "NY",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/oma-new-museum-expansion-opens-nyc-humans-merories-future-massimiliano-gioni-shohei-shigematsu/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/new-museum-expansion-oma-shohei-shigematsu-massimiliano-gioni-new-york-designboom-700-500x400-22b08q85r213.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in new york",
+      "architecture in the US",
+      "exhibitions",
+      "massimiliano gioni",
+      "museums and galleries",
+      "new museum",
+      "OMA / rem koolhaas"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T23:15:44.000Z",
+    "ingested_at": "2026-03-18T23:35:17.107Z"
   }
 ]
