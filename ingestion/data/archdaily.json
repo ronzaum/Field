@@ -371,5 +371,25 @@
     "material": [],
     "published_at": "2026-03-18T10:00:00.000Z",
     "ingested_at": "2026-03-18T17:09:04.095Z"
+  },
+  {
+    "id": "5ab086d5-0809-4a6c-9a9c-3af7867e0b10",
+    "title": "Apartment Conversion into a Creative Studio",
+    "creator": "alchitekt",
+    "location": "Bratislava",
+    "country": "Slovakia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039747/apartment-conversion-into-a-creative-studio-alchitekt",
+    "image_url": "https://images.adsttc.com/media/images/69ba/81c8/6e66/7900/01ef/d88a/medium_jpg/atelier-alchitekt_andrea-lizakova_matejhakar__01_creative-studio.jpg?1773830769",
+    "typology": [
+      "Refurbishment",
+      "Interior Design",
+      "Offices Interiors",
+      "Cowork Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T12:00:00.000Z",
+    "ingested_at": "2026-03-18T19:10:08.076Z"
   }
 ]
