@@ -353,5 +353,23 @@
     "material": [],
     "published_at": "2026-03-18T07:00:00.000Z",
     "ingested_at": "2026-03-18T15:09:53.512Z"
+  },
+  {
+    "id": "10d0ac98-6a01-4a08-af47-427d83bf1c9d",
+    "title": "Copper House",
+    "creator": "Fabrication Studio",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039664/copper-house-fabrication-studio",
+    "image_url": "https://images.adsttc.com/media/images/69b8/0e07/1d07/d400/0132/4715/medium_jpg/Copper_House_by_Fabrication_Studio__Photo____Alex_Lesage_2.jpg?1773669939",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T10:00:00.000Z",
+    "ingested_at": "2026-03-18T17:09:04.095Z"
   }
 ]
