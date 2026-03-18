@@ -315,5 +315,25 @@
     "material": [],
     "published_at": "2026-03-18T03:00:00.000Z",
     "ingested_at": "2026-03-18T08:57:50.251Z"
+  },
+  {
+    "id": "22aab497-79ca-4c44-a463-6422326ba979",
+    "title": "Sayuwon Park Performance Pavilion",
+    "creator": "liveraniandrea",
+    "location": "Daegu",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039718/sayuwon-park-performance-pavilion",
+    "image_url": "https://images.adsttc.com/media/images/69b9/6f55/1d07/d400/0132/4815/medium_jpg/Saya_Park_Image-5.jpg?1773760391",
+    "typology": [
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "Museums & Exhibit",
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T06:00:00.000Z",
+    "ingested_at": "2026-03-18T11:50:13.083Z"
   }
 ]
