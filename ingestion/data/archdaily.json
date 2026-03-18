@@ -391,5 +391,23 @@
     "material": [],
     "published_at": "2026-03-18T12:00:00.000Z",
     "ingested_at": "2026-03-18T19:10:08.076Z"
+  },
+  {
+    "id": "418f963c-ad12-47bd-990f-ed54b58be43c",
+    "title": "Casa Mavra",
+    "creator": "TAC Taller Alberto Calleja",
+    "location": "San Juan Atezcapan",
+    "country": "Mexico",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039484/casa-mavra-tac-taller-alberto-calleja",
+    "image_url": "https://images.adsttc.com/media/images/69af/f7be/1d07/d400/0132/40f2/medium_jpg/04_-_34.jpg?1773139934",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T15:00:00.000Z",
+    "ingested_at": "2026-03-18T21:40:44.034Z"
   }
 ]
