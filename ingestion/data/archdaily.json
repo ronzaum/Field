@@ -294,5 +294,26 @@
     "material": [],
     "published_at": "2026-03-18T00:00:00.000Z",
     "ingested_at": "2026-03-18T07:09:36.169Z"
+  },
+  {
+    "id": "191adee6-3a2b-4cbc-886b-c90442cf30cb",
+    "title": "Repeat Wellness Club",
+    "creator": "MEAN* (Middle East Architecture Network)",
+    "location": "Barcelona",
+    "country": "Spain",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039611/repeat-wellness-club-mean-star-middle-east-architecture-network",
+    "image_url": "https://images.adsttc.com/media/images/69b4/2589/3c49/4944/8bbc/7660/medium_jpg/repeat-wellness-club-mean-star-middle-east-architecture-network_24.jpg?1773413780",
+    "typology": [
+      "Refurbishment",
+      "Adaptive reuse",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T03:00:00.000Z",
+    "ingested_at": "2026-03-18T08:57:50.251Z"
   }
 ]
