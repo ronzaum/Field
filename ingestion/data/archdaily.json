@@ -240,5 +240,22 @@
     "material": [],
     "published_at": "2026-03-17T15:00:00.000Z",
     "ingested_at": "2026-03-17T22:39:39.654Z"
+  },
+  {
+    "id": "0c9622e1-3098-4f5c-a4c8-ce91bc32ff1f",
+    "title": "Convention Center IIT Hyderabad",
+    "creator": "IITH Campus Design Team of the University of Tokyo + NIHON SEKKEI + APL design workshop",
+    "location": "Hyderabad",
+    "country": "India",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039660/convention-center-iit-hyderabad-iith-campus-design-team-of-the-university-of-tokyo-plus-nihon-sekkei-plus-apl-design-workshop",
+    "image_url": "https://images.adsttc.com/media/images/69b9/246c/314f/664f/06ca/f27c/medium_jpg/convention-center-iit-hyderabad-iith-campus-design-team-of-the-university-of-tokyo-plus-nihon-sekkei-plus-apl-design-workshop_23.jpg?1773741184",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-17T19:00:00.000Z",
+    "ingested_at": "2026-03-18T02:43:32.750Z"
   }
 ]
