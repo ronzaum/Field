@@ -257,5 +257,42 @@
     "material": [],
     "published_at": "2026-03-17T19:00:00.000Z",
     "ingested_at": "2026-03-18T02:43:32.750Z"
+  },
+  {
+    "id": "dc773c01-f8d1-4549-9039-82cc7a295284",
+    "title": "Point Lonsdale House",
+    "creator": "Field Office Architecture",
+    "location": "Point Lonsdale",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039719/point-lonsdale-house-field-office-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69b9/7a3d/3c49/4944/8bbc/8045/medium_jpg/point-lonsdale-house-field-office-architecture_7.jpg?1773763151",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T02:00:00.000Z",
+    "ingested_at": "2026-03-18T07:09:36.166Z"
+  },
+  {
+    "id": "e52ab561-565d-431e-a1bd-9e51dd80f153",
+    "title": "Shanghai Guohua Finance Center",
+    "creator": "AI Planetworks Limited",
+    "location": "Hong Kou Qu",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039666/shanghai-guohua-finance-center-ai-planetworks-limited",
+    "image_url": "https://images.adsttc.com/media/images/69b8/11b2/1d07/d400/0132/4744/medium_jpg/Guohua_Finance_Center_01_Public_Plaza_Connectivity_TAL.jpg?1773670910",
+    "typology": [
+      "Offices",
+      "Office buildings",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T00:00:00.000Z",
+    "ingested_at": "2026-03-18T07:09:36.169Z"
   }
 ]
