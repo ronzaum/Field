@@ -235,5 +235,29 @@
     "material": [],
     "published_at": "2026-03-17T22:30:12.000Z",
     "ingested_at": "2026-03-17T23:38:11.043Z"
+  },
+  {
+    "id": "b88ca6ed-b2b6-4bc4-b486-dd8ba37f38d7",
+    "title": "wallmakers rethinks tropical design through reused shipping containers and poured earth",
+    "creator": "Wallmakers",
+    "location": "Tamil Nadu",
+    "country": "India",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/wallmakers-tropical-reused-shipping-containers-poured-earth-petti-restaurant-india/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/petti-restaurant-wallmakers-india-designboom-700-500x400-22b08q85r343.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in india",
+      "earth architecture",
+      "facades",
+      "restaurant and café design",
+      "shipping container architecture",
+      "wallmakers"
+    ],
+    "material": [],
+    "published_at": "2026-03-18T04:30:43.000Z",
+    "ingested_at": "2026-03-18T05:01:42.796Z"
   }
 ]
