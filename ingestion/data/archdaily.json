@@ -557,5 +557,23 @@
     "material": [],
     "published_at": "2026-03-19T12:00:00.000Z",
     "ingested_at": "2026-03-19T17:10:10.015Z"
+  },
+  {
+    "id": "cf350e7c-119b-4dc6-9896-750fa991336d",
+    "title": "Witoca Laboratory",
+    "creator": "Al Borde",
+    "location": "San Vicente de Huaticocha",
+    "country": "Ecuador",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039689/witoca-laboratory-al-borde",
+    "image_url": "https://images.adsttc.com/media/images/69b8/6a48/785c/2772/79fe/f46a/medium_jpg/laboratorio-witoca-al-borde_20.jpg?1773693537",
+    "typology": [
+      "Industrial Architecture",
+      "Workshop"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T15:00:00.000Z",
+    "ingested_at": "2026-03-19T20:46:32.970Z"
   }
 ]
