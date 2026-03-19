@@ -539,5 +539,23 @@
     "material": [],
     "published_at": "2026-03-19T10:00:00.000Z",
     "ingested_at": "2026-03-19T15:59:46.983Z"
+  },
+  {
+    "id": "144dba10-0838-4131-ab80-56e971dfedbf",
+    "title": "School Complex of the Olive Tree",
+    "creator": "GGR architectes",
+    "location": "Pechbonnieu",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039539/school-complex-of-the-olive-tree-ggr-architectes",
+    "image_url": "https://images.adsttc.com/media/images/69b1/537f/1d07/d400/0132/4283/medium_jpg/_KevinDolmaire_GGR_GSPECHBONNIEU_071_CF048922_copie.jpg?1773229224",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T12:00:00.000Z",
+    "ingested_at": "2026-03-19T17:10:10.015Z"
   }
 ]
