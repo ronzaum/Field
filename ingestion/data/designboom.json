@@ -420,5 +420,25 @@
     "material": [],
     "published_at": "2026-03-19T11:50:44.000Z",
     "ingested_at": "2026-03-19T13:18:53.346Z"
+  },
+  {
+    "id": "a3a2b5da-021f-4d85-ac07-14ee42475664",
+    "title": "david altrath photographs vienna’s palmenhaus in analog stills of light, foliage and form",
+    "creator": "thomai tsimpou",
+    "location": "Vienna",
+    "country": "Austria",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/david-altrath-vienna-palmenhaus-analog-stills-light-foliage-form-05-08-2025/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2025/05/david-altrath-vienna-palmenhaus-analog-stills-light-foliage-form-designboom-700-500x400-22b08q85r636.jpg",
+    "typology": [
+      "architecture",
+      "architectural photography",
+      "david altrath",
+      "greenhouses in architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T14:00:00.000Z",
+    "ingested_at": "2026-03-19T14:54:30.691Z"
   }
 ]
