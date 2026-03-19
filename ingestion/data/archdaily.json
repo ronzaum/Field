@@ -426,5 +426,62 @@
     "material": [],
     "published_at": "2026-03-18T19:00:00.000Z",
     "ingested_at": "2026-03-18T23:35:16.332Z"
+  },
+  {
+    "id": "7b079fb4-e17d-4772-b722-8e2ccf8be8ca",
+    "title": "Taller Agropoetico - Foresta Collective",
+    "creator": "Atelier Poem",
+    "location": "Spain",
+    "country": null,
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039753/taller-agropoetico-foresta-collective-atelier-poem",
+    "image_url": "https://images.adsttc.com/media/images/69ba/9938/6e66/7900/01ef/d942/medium_jpg/02_PHOTOS__Atelierpoem_copie.jpg?1773836637",
+    "typology": [
+      "Educational Architecture",
+      "Public Architecture",
+      "Community",
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T03:00:00.000Z",
+    "ingested_at": "2026-03-19T07:51:10.228Z"
+  },
+  {
+    "id": "f952ad96-2709-4240-bf5f-e26efcd477ac",
+    "title": "House in Umenoki",
+    "creator": "Hidekazu Kishi Architects",
+    "location": "Nisshin",
+    "country": "Japan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039727/house-in-umenoki-hidekazu-kishi-architects",
+    "image_url": "https://images.adsttc.com/media/images/69b9/922c/6e66/7900/01ef/d800/medium_jpg/living4.jpg?1773769305",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T02:00:00.000Z",
+    "ingested_at": "2026-03-19T07:51:10.231Z"
+  },
+  {
+    "id": "b5803048-17e6-4bec-975c-e8f558383991",
+    "title": "\"Echo of the ruins\" Open-Air Museum of Sound and Memory",
+    "creator": "1Y Architects",
+    "location": "Zhuzhou",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039649/echo-of-the-ruins-open-air-museum-of-sound-and-memory-1y-architects",
+    "image_url": "https://images.adsttc.com/media/images/69b7/c0df/1d07/d400/0132/467d/medium_jpg/corridor_of_echo.jpg?1773650359",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T00:00:00.000Z",
+    "ingested_at": "2026-03-19T07:51:10.234Z"
   }
 ]
