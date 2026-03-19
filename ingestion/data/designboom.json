@@ -440,5 +440,23 @@
     "material": [],
     "published_at": "2026-03-19T14:00:00.000Z",
     "ingested_at": "2026-03-19T14:54:30.691Z"
+  },
+  {
+    "id": "5c341f4f-094c-4acc-87fa-e9ff3dbb2ccf",
+    "title": "existing residential spaces reconfigure as a flexible community art network in china",
+    "creator": "MINOR lab",
+    "location": "Yanjiao",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/existing-residential-spaces-flexible-community-art-network-china-jiadu-art-center-minor-lab/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/yanjiao-china-jiadu-art-center-minor-lab-designboom-700-500x400-22b08q85r473.jpg",
+    "typology": [
+      "architecture",
+      "readers"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T22:00:57.000Z",
+    "ingested_at": "2026-03-19T22:35:00.528Z"
   }
 ]
