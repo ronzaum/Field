@@ -362,5 +362,44 @@
     "material": [],
     "published_at": "2026-03-18T23:15:44.000Z",
     "ingested_at": "2026-03-18T23:35:17.107Z"
+  },
+  {
+    "id": "e5242332-77bd-4f85-a493-7d2ad08519aa",
+    "title": "circular timber pavilion anchors wildlife and wetland restoration park in mexico",
+    "creator": "In Light We Trust",
+    "location": "Parque de la Ciencia Sierra Morelos",
+    "country": "Mexico",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/circular-timber-pavilion-wildlife-wetland-restoration-park-mexico-sierra-morelos-ajolotario-riparia-mx/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/ajolotario-wildlife-pavilion-wetland-restoration-project-riparia-mx-sierra-morelos-park-mexico-designboom-700-500x400-22b08q85r711.jpg",
+    "typology": [
+      "architecture",
+      "readers"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T10:00:39.000Z",
+    "ingested_at": "2026-03-19T10:50:01.654Z"
+  },
+  {
+    "id": "0034e6f2-0d05-40b0-93b8-b70cd206f393",
+    "title": "rethinking a historical model of solitude: dionisio gonzález transforms wittgenstein’s cabin",
+    "creator": "sofia lekka angelopoulou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/wittgensteins-cabin-amphibious-dwellings-norwegian-fjords-dionisio-gonzalez-09-28-2021/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2021/09/wittgensteins-cabin-dionisio-gonzalez-designboom-700-500x400-22b08q85r916.jpg",
+    "typology": [
+      "architecture",
+      "dionisio gonzález",
+      "fictional architecture",
+      "floating architecture",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T07:30:59.000Z",
+    "ingested_at": "2026-03-19T10:50:01.663Z"
   }
 ]

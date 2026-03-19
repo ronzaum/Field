@@ -483,5 +483,24 @@
     "material": [],
     "published_at": "2026-03-19T00:00:00.000Z",
     "ingested_at": "2026-03-19T07:51:10.234Z"
+  },
+  {
+    "id": "2adbeaec-8b2f-4d44-a5e3-abaf0f2977db",
+    "title": "Kreuzberghof Front House",
+    "creator": "Nidus",
+    "location": "Düsseldorf",
+    "country": "Germany",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039754/kreuzberghof-front-house-nidus",
+    "image_url": "https://images.adsttc.com/media/images/69ba/993c/6e66/7900/01ef/d977/medium_jpg/Kreuzberghof-Essen-Volker_Conradus.jpg?1773836852",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T06:00:00.000Z",
+    "ingested_at": "2026-03-19T10:50:00.720Z"
   }
 ]
