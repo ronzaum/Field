@@ -521,5 +521,23 @@
     "material": [],
     "published_at": "2026-03-19T07:00:00.000Z",
     "ingested_at": "2026-03-19T13:18:52.492Z"
+  },
+  {
+    "id": "48563e3a-549e-474d-942c-789d11ef70ed",
+    "title": "Liten Hytte House",
+    "creator": "Bohlin Cywinski Jackson",
+    "location": "Michigan",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039665/liten-hytte-house-bohlin-cywinski-jackson",
+    "image_url": "https://images.adsttc.com/media/images/69b8/1012/1d07/d400/0132/4730/medium_jpg/Liten_Hytte_Bohlin_Cywinski_Jackson_Corey_Gaffer_1.jpg?1773670504",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T10:00:00.000Z",
+    "ingested_at": "2026-03-19T15:59:46.983Z"
   }
 ]
