@@ -502,5 +502,24 @@
     "material": [],
     "published_at": "2026-03-19T06:00:00.000Z",
     "ingested_at": "2026-03-19T10:50:00.720Z"
+  },
+  {
+    "id": "d91dab7f-1e0e-4a2f-b307-9de3532aae5a",
+    "title": "Monologue Café",
+    "creator": "SOSOKKI ANAC",
+    "location": "Hongcheon-gun",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039707/monologue-cafe-sosokki-anac",
+    "image_url": "https://images.adsttc.com/media/images/69b9/1f11/1d07/d400/0132/47b1/medium_jpg/Monologue_04.jpg?1773739820",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T07:00:00.000Z",
+    "ingested_at": "2026-03-19T13:18:52.492Z"
   }
 ]
