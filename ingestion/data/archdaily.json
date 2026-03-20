@@ -694,5 +694,28 @@
     "material": [],
     "published_at": "2026-03-20T07:00:00.000Z",
     "ingested_at": "2026-03-20T13:12:05.841Z"
+  },
+  {
+    "id": "6cb22e10-c6b1-42ee-bbee-5f5c3339b3f9",
+    "title": "Corner Apartment",
+    "creator": "Prokop Hartl",
+    "location": "Prague",
+    "country": "Czechia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039729/corner-apartment-prokop-hartl",
+    "image_url": "https://images.adsttc.com/media/images/69b9/f0c7/2d9f/8601/87bf/ffe6/medium_jpg/corner-apartment-prokop-hartl_2.jpg?1773793497",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments",
+      "Refurbishment",
+      "Renovation",
+      "Interior Design",
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T10:00:00.000Z",
+    "ingested_at": "2026-03-20T14:50:13.422Z"
   }
 ]
