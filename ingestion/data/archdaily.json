@@ -614,5 +614,47 @@
     "material": [],
     "published_at": "2026-03-20T00:00:00.000Z",
     "ingested_at": "2026-03-20T05:56:38.952Z"
+  },
+  {
+    "id": "3395bce0-10f5-4d4b-a96f-ef7fb7ab85f4",
+    "title": "New Museum of Contemporary Art",
+    "creator": "OMA",
+    "location": "231 Bowery",
+    "country": "United States",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039814/new-museum-of-contemporary-art-oma",
+    "image_url": "https://images.adsttc.com/media/images/69bc/467b/04e2/2c01/88fd/929e/medium_jpg/new-museum-of-contemporary-art-oma_3.jpg?1773946523",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T03:00:00.000Z",
+    "ingested_at": "2026-03-20T08:50:46.188Z"
+  },
+  {
+    "id": "ae0f1a86-a8c9-4a77-854b-d1f3b6211645",
+    "title": "Brisbane Plastic & Cosmetic Surgery",
+    "creator": "Studio Collective",
+    "location": "Brisbane",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039803/brisbane-plastic-and-cosmetic-surgery-studio-collective",
+    "image_url": "https://images.adsttc.com/media/images/69bb/b68a/e4b3/5801/8a48/5de1/medium_jpg/brisbane-plastic-and-cosmetic-surgery-studio-collective_23.jpg?1773909651",
+    "typology": [
+      "Healthcare Architecture",
+      "Healthcare",
+      "clinic",
+      "Interior Design",
+      "Healthcare Interiors",
+      "Hospitality Interiors",
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T02:00:00.000Z",
+    "ingested_at": "2026-03-20T08:50:46.191Z"
   }
 ]
