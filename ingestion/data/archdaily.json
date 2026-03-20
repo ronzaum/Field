@@ -575,5 +575,23 @@
     "material": [],
     "published_at": "2026-03-19T15:00:00.000Z",
     "ingested_at": "2026-03-19T20:46:32.970Z"
+  },
+  {
+    "id": "05bf627c-4d5e-4539-8783-cd403b21d93e",
+    "title": "House in Tamba",
+    "creator": "MIDW",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039759/house-in-tamba-midw",
+    "image_url": "https://images.adsttc.com/media/images/69ba/ad77/2d9f/8601/87c0/0449/medium_jpg/house-in-tamba-midw_4.jpg?1773841810",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-19T19:00:00.000Z",
+    "ingested_at": "2026-03-20T02:35:37.474Z"
   }
 ]
