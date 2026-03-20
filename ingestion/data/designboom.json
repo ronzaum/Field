@@ -521,5 +521,27 @@
     "material": [],
     "published_at": "2026-03-20T13:39:04.000Z",
     "ingested_at": "2026-03-20T14:50:14.748Z"
+  },
+  {
+    "id": "d23913c3-4133-4a6f-b3d3-3076a3aa7f9d",
+    "title": "where future homes could be for SAGA space architects: on moon, mars and underwater",
+    "creator": "SAGA Space Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/where-future-homes-saga-space-architects-moon-mars-underwater/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/future-homes-SAGA-space-architects-moon-mars-underwater-designboom-700-500x400-22b08q85r497.jpg",
+    "typology": [
+      "architecture",
+      "architecture on mars",
+      "human fascination with the moon",
+      "SAGA space architects",
+      "underwater architecture",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T17:00:41.000Z",
+    "ingested_at": "2026-03-20T17:39:06.109Z"
   }
 ]
