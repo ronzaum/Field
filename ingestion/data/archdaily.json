@@ -735,5 +735,22 @@
     "material": [],
     "published_at": "2026-03-20T12:00:00.000Z",
     "ingested_at": "2026-03-20T18:58:14.894Z"
+  },
+  {
+    "id": "e3b0c3c3-c613-46fb-a566-884fe8fdda79",
+    "title": "Research Center of the Colla Indigenous Community of the Municipality of Copiapó",
+    "creator": "Arquitika",
+    "location": "Copiapó",
+    "country": "Chile",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039488/research-center-of-the-colla-indigenous-community-of-the-municipality-of-copiapo-arquitika",
+    "image_url": "https://images.adsttc.com/media/images/69ab/df62/1d07/d400/0132/3fcf/medium_jpg/centro_colla_ok-02.jpg?1772871584",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T15:00:00.000Z",
+    "ingested_at": "2026-03-20T21:36:17.325Z"
   }
 ]
