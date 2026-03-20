@@ -717,5 +717,23 @@
     "material": [],
     "published_at": "2026-03-20T10:00:00.000Z",
     "ingested_at": "2026-03-20T14:50:13.422Z"
+  },
+  {
+    "id": "68d8a9dd-4dc1-4058-ba03-54064368e169",
+    "title": "Convento do Beato Residential Complex",
+    "creator": "RISCO",
+    "location": "Lisbon",
+    "country": "Portugal",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039438/convento-do-beato-residential-complex-risco",
+    "image_url": "https://images.adsttc.com/media/images/69ad/f668/785c/275c/907a/709c/medium_jpg/conjunto-residencial-do-convento-do-beato-risco_26.jpg?1773008548",
+    "typology": [
+      "Residential Architecture",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T12:00:00.000Z",
+    "ingested_at": "2026-03-20T18:58:14.894Z"
   }
 ]
