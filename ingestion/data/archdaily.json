@@ -656,5 +656,25 @@
     "material": [],
     "published_at": "2026-03-20T02:00:00.000Z",
     "ingested_at": "2026-03-20T08:50:46.191Z"
+  },
+  {
+    "id": "d7aafec5-3774-434f-9cbf-fa71daae3a0c",
+    "title": "Youth Center Mena",
+    "creator": "fijn atelier + Studio Kloek",
+    "location": "Rotselaar",
+    "country": "Belgium",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039746/youth-center-mena-fijn-atelier-plus-studio-kloek",
+    "image_url": "https://images.adsttc.com/media/images/69ba/81c8/6e66/7900/01ef/d87f/medium_jpg/mena-fijnatelier-_-PieterRabijns-18.jpg?1773830673",
+    "typology": [
+      "Cultural Architecture",
+      "Learning",
+      "youth center",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T06:00:00.000Z",
+    "ingested_at": "2026-03-20T11:36:27.504Z"
   }
 ]
