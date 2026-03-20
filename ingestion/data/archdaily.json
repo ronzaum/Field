@@ -593,5 +593,26 @@
     "material": [],
     "published_at": "2026-03-19T19:00:00.000Z",
     "ingested_at": "2026-03-20T02:35:37.474Z"
+  },
+  {
+    "id": "5b8fbbf6-7b4f-4af7-9579-82fa8b07232a",
+    "title": "Three Service Pavilions of Guiwan Park",
+    "creator": "hang cheng studio",
+    "location": "Guiwan Park",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039685/three-service-pavilions-of-guiwan-park-hang-cheng-studio",
+    "image_url": "https://images.adsttc.com/media/images/69b8/46cc/3c49/4941/64bf/30d2/medium_jpg/three-service-pavilions-of-guiwan-park-hang-cheng-studio_1.jpg?1773684467",
+    "typology": [
+      "Urbanism",
+      "Urban Design",
+      "Public Space",
+      "Landscape Architecture",
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T00:00:00.000Z",
+    "ingested_at": "2026-03-20T05:56:38.952Z"
   }
 ]
