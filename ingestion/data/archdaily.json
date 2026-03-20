@@ -676,5 +676,23 @@
     "material": [],
     "published_at": "2026-03-20T06:00:00.000Z",
     "ingested_at": "2026-03-20T11:36:27.504Z"
+  },
+  {
+    "id": "a6aa0b83-daa0-4778-8940-2359030350bb",
+    "title": "Riverhouse",
+    "creator": "WORKac",
+    "location": "Hopkinton",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039717/riverhouse-workac",
+    "image_url": "https://images.adsttc.com/media/images/69b9/6a51/1d07/d400/0132/47ff/medium_jpg/WORKac_-_Riverhouse_-_PH_24_-_photo___Bruce_Damonte_-_3000_px.jpg?1773759079",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T07:00:00.000Z",
+    "ingested_at": "2026-03-20T13:12:05.841Z"
   }
 ]
