@@ -543,5 +543,26 @@
     "material": [],
     "published_at": "2026-03-20T17:00:41.000Z",
     "ingested_at": "2026-03-20T17:39:06.109Z"
+  },
+  {
+    "id": "7ded2749-557e-425d-934e-6759a7d24807",
+    "title": "OPEN’s ‘shede culture museum’ is shaped from rammed-earth, glass and bronze",
+    "creator": "OPEN Architecture",
+    "location": "Shehong",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/open-shede-culture-museum-rammed-earth-glass-bronze-shehong-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/OPEN-architecture-shede-cultural-museum-china-designboom-700-500x400-22b08q85r150.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "museums and galleries",
+      "OPEN architecture",
+      "rammed earth architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-03-21T06:00:27.000Z",
+    "ingested_at": "2026-03-21T06:53:53.269Z"
   }
 ]
