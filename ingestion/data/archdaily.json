@@ -844,5 +844,23 @@
     "material": [],
     "published_at": "2026-03-21T11:00:00.000Z",
     "ingested_at": "2026-03-21T17:30:38.834Z"
+  },
+  {
+    "id": "e283477b-5060-4330-a366-eb4c67d721ca",
+    "title": "Casa La Ladera",
+    "creator": "Estudio Diagonal",
+    "location": "Puyehue",
+    "country": "Chile",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039691/casa-la-ladera-estudio-diagonal",
+    "image_url": "https://images.adsttc.com/media/images/69b8/6db0/3c49/4944/8bbc/7dca/medium_jpg/casa-la-ladera-estudio-diagonal_9.jpg?1773694403",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-21T15:00:00.000Z",
+    "ingested_at": "2026-03-21T19:30:10.485Z"
   }
 ]
