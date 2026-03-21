@@ -807,5 +807,23 @@
     "material": [],
     "published_at": "2026-03-21T06:00:00.000Z",
     "ingested_at": "2026-03-21T11:28:35.110Z"
+  },
+  {
+    "id": "811141fa-6dca-4cf5-8672-2cbb9279bb93",
+    "title": "Wooden Blocks",
+    "creator": "YH2 Architecture",
+    "location": "Lac Memphrémagog",
+    "country": "Canada",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039757/wooden-blocks-yh2-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69ba/9eea/6e66/7900/01ef/d9b7/medium_jpg/Austin-756.jpg?1773838225",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-21T09:00:00.000Z",
+    "ingested_at": "2026-03-21T15:31:52.547Z"
   }
 ]
