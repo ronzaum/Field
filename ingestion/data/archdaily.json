@@ -862,5 +862,23 @@
     "material": [],
     "published_at": "2026-03-21T15:00:00.000Z",
     "ingested_at": "2026-03-21T19:30:10.485Z"
+  },
+  {
+    "id": "1b4600c3-c964-4873-8bfb-b731b65fcb6e",
+    "title": "Concrete Curtain House",
+    "creator": "FGR Architects",
+    "location": "Toorak",
+    "country": "Australia",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039855/concrete-curtain-house-fgr-architects",
+    "image_url": "https://images.adsttc.com/media/images/69be/78a3/2adf/9301/8816/141a/medium_jpg/concrete-curtain-house-fgr-architects_20.jpg?1774090438",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-21T17:00:00.000Z",
+    "ingested_at": "2026-03-21T22:31:23.552Z"
   }
 ]
