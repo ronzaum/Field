@@ -772,5 +772,23 @@
     "material": [],
     "published_at": "2026-03-20T19:00:00.000Z",
     "ingested_at": "2026-03-21T02:30:10.940Z"
+  },
+  {
+    "id": "4444fb41-b34e-4ce6-8f07-784d76c9df5e",
+    "title": "XiaoZhuo Flagship Store",
+    "creator": "Offhand Practice",
+    "location": "No.368 Wukang Road",
+    "country": "China",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039796/xiaozhuo-flagship-store-offhand-practice",
+    "image_url": "https://images.adsttc.com/media/images/69bb/9449/6d20/7e00/0123/6225/medium_jpg/19_The_green_path_on_4F_connects_3F_and_5F__by_Hu_Yanyun.jpg?1773900930",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-21T02:00:00.000Z",
+    "ingested_at": "2026-03-21T07:36:55.749Z"
   }
 ]
