@@ -752,5 +752,25 @@
     "material": [],
     "published_at": "2026-03-20T15:00:00.000Z",
     "ingested_at": "2026-03-20T21:36:17.325Z"
+  },
+  {
+    "id": "312e62a2-adf2-4ab2-bd37-66a259587d37",
+    "title": "Resting Pavilion in Osaka Expo",
+    "creator": "MIDW",
+    "location": "Osaka",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039766/resting-pavilion-in-osaka-expo-midw",
+    "image_url": "https://images.adsttc.com/media/images/69ba/c739/2d9f/8601/87c0/0535/medium_jpg/resting-pavilion-in-osaka-expo-midw_3.jpg?1773848404",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion",
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-03-20T19:00:00.000Z",
+    "ingested_at": "2026-03-21T02:30:10.940Z"
   }
 ]
