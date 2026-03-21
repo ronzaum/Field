@@ -825,5 +825,24 @@
     "material": [],
     "published_at": "2026-03-21T09:00:00.000Z",
     "ingested_at": "2026-03-21T15:31:52.547Z"
+  },
+  {
+    "id": "a38ec9f9-8e14-45ea-a2aa-d8f3dc8d1cf6",
+    "title": "Redmond Library",
+    "creator": "Miller Hull Partnership",
+    "location": "Redmond",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039822/redmond-library-miller-hull-partnership",
+    "image_url": "https://images.adsttc.com/media/images/69bc/37fc/6d20/7e00/0123/6310/medium_jpg/2025LS02-001.jpg?1773942845",
+    "typology": [
+      "Cultural Architecture",
+      "Library",
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-21T11:00:00.000Z",
+    "ingested_at": "2026-03-21T17:30:38.834Z"
   }
 ]
