@@ -564,5 +564,27 @@
     "material": [],
     "published_at": "2026-03-21T06:00:27.000Z",
     "ingested_at": "2026-03-21T06:53:53.269Z"
+  },
+  {
+    "id": "6787a1ac-3540-4623-91f9-af952de3d973",
+    "title": "teedah hammer rethinks a rural quonset to design a light-filled cabin in quebec",
+    "creator": "Hammer&Son",
+    "location": "Quebec",
+    "country": "Canada",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/teedah-hammer-rural-quonset-design-cabin-quebec-canada-hanger-canada/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/45-ch-mccurdy-teedah-hammer-quebec-canada-designboom-700-500x400-22b08q85r402.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in canada",
+      "cabin architecture and design",
+      "residential architecture and interiors",
+      "spaces under 50 sqm"
+    ],
+    "material": [],
+    "published_at": "2026-03-22T09:00:35.000Z",
+    "ingested_at": "2026-03-22T09:38:56.109Z"
   }
 ]
