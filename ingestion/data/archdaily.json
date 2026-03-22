@@ -990,5 +990,23 @@
     "material": [],
     "published_at": "2026-03-22T15:00:00.000Z",
     "ingested_at": "2026-03-22T20:35:13.618Z"
+  },
+  {
+    "id": "858ae05a-e705-445f-ba28-d12d9e4335a4",
+    "title": "Vespa House",
+    "creator": "Habitat Studio Architects",
+    "location": "Queensland",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039857/vespa-house-habitat-studio-architects",
+    "image_url": "https://images.adsttc.com/media/images/69bf/055c/2adf/9301/8816/1491/medium_jpg/vespa-house-habitat-studio-architects_21.jpg?1774126518",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-22T17:00:00.000Z",
+    "ingested_at": "2026-03-22T21:32:05.542Z"
   }
 ]
