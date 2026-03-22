@@ -935,5 +935,23 @@
     "material": [],
     "published_at": "2026-03-22T06:00:00.000Z",
     "ingested_at": "2026-03-22T10:34:00.888Z"
+  },
+  {
+    "id": "dd2074f0-2023-4ba4-a139-86ac933b1e6f",
+    "title": "Chr. Tomters veg house",
+    "creator": "Rever & Drage Architects",
+    "location": "Raelingen",
+    "country": "Norway",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039538/chr-tomters-veg-house-rever-and-drage-architects",
+    "image_url": "https://images.adsttc.com/media/images/69b1/511f/1d07/d400/0132/4236/medium_jpg/03_VB_ReverDrage.jpg?1773228341",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-22T08:55:00.000Z",
+    "ingested_at": "2026-03-22T15:32:18.363Z"
   }
 ]
