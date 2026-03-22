@@ -953,5 +953,24 @@
     "material": [],
     "published_at": "2026-03-22T08:55:00.000Z",
     "ingested_at": "2026-03-22T15:32:18.363Z"
+  },
+  {
+    "id": "8b2e16d9-d27a-4857-94b1-00a4625e6bbf",
+    "title": "Auga Optical Salon",
+    "creator": "Znamy się",
+    "location": "Wrocław",
+    "country": "Poland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039837/auga-optical-salon-znamy-sie",
+    "image_url": "https://images.adsttc.com/media/images/69bd/5826/2adf/9301/8816/113e/medium_jpg/auga-optical-salon-znamy-sie_21.jpg?1774016580",
+    "typology": [
+      "Commercial Architecture",
+      "Retail",
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-03-22T11:00:00.000Z",
+    "ingested_at": "2026-03-22T17:30:24.464Z"
   }
 ]
