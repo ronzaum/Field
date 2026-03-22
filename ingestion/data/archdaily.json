@@ -918,5 +918,22 @@
     "material": [],
     "published_at": "2026-03-22T02:00:00.000Z",
     "ingested_at": "2026-03-22T08:41:39.428Z"
+  },
+  {
+    "id": "771ed07c-22f7-4ca2-ab83-62f463ceda4e",
+    "title": "De Hartenrust Residential Building",
+    "creator": "van Bergen Kolpa architects",
+    "location": "Rotterdam",
+    "country": "The Netherlands",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039751/de-hartenrust-residential-building-van-bergen-kolpa-architects",
+    "image_url": "https://images.adsttc.com/media/images/69ba/9930/6e66/7900/01ef/d904/medium_jpg/11-HARTENRUST-VANBERGENKOLPA-_FILIP_DUJARDIN.jpg?1773836632",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-22T06:00:00.000Z",
+    "ingested_at": "2026-03-22T10:34:00.888Z"
   }
 ]
