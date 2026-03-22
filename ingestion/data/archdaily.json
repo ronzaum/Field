@@ -880,5 +880,25 @@
     "material": [],
     "published_at": "2026-03-21T17:00:00.000Z",
     "ingested_at": "2026-03-21T22:31:23.552Z"
+  },
+  {
+    "id": "550708fe-d520-4af8-8e4e-0f9b9275cd34",
+    "title": "Renovation Project in the Heart of Shanghai’s Historic Area",
+    "creator": "dongqi Design",
+    "location": "Haifang Road",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039743/renovation-project-in-the-heart-of-shanghais-historic-area-dongqi-design",
+    "image_url": "https://images.adsttc.com/media/images/69ba/7b25/6e66/7900/01ef/d828/medium_jpg/dongqi_by_Yasu_Kojima1.jpg?1773828939",
+    "typology": [
+      "Refurbishment",
+      "Renovation",
+      "Commercial Architecture",
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-03-21T21:00:00.000Z",
+    "ingested_at": "2026-03-22T02:45:35.953Z"
   }
 ]
