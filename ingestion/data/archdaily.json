@@ -972,5 +972,23 @@
     "material": [],
     "published_at": "2026-03-22T11:00:00.000Z",
     "ingested_at": "2026-03-22T17:30:24.464Z"
+  },
+  {
+    "id": "9c84bfaa-ca1c-40ed-97c7-6912068036ba",
+    "title": "GM House",
+    "creator": "Frederico Bicalho Arquitetura",
+    "location": "Condomínio Serra dos Manacás",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039761/gm-house-frederico-bicalho-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69b9/392c/1d07/d400/0132/47e0/medium_jpg/_JBF1727.jpg?1773746529",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-22T15:00:00.000Z",
+    "ingested_at": "2026-03-22T20:35:13.618Z"
   }
 ]
