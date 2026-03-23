@@ -607,5 +607,46 @@
     "material": [],
     "published_at": "2026-03-22T15:00:36.000Z",
     "ingested_at": "2026-03-22T15:32:19.369Z"
+  },
+  {
+    "id": "066a86d3-0774-4d3c-b8ef-e61af78d476c",
+    "title": "ark-shelter & archekta craft off-grid cabin with a fold-down facade in devín, slovakia",
+    "creator": "Archekta",
+    "location": "Devín",
+    "country": "Slovakia",
+    "year": 2024,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ark-shelter-archekta-off-grid-cabin-fold-down-facade-devin-slovakia/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/ark-shelter-archekta-cabin-devin-boysplaynice-designboom-700-500x400-22b08q85r452.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in slovakia",
+      "cabin architecture and design",
+      "carbon neutrality?",
+      "spaces under 50 sqm"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T04:30:49.000Z",
+    "ingested_at": "2026-03-23T05:08:17.935Z"
+  },
+  {
+    "id": "2665765b-5f24-45d0-9d6c-c5e48d5737c3",
+    "title": "from capsule towers to circular cities: metabolism and the evolution of urban thinking",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/capsule-towers-circular-cities-metabolism-evolution-urban-thinking/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/capsule-towers-circular-cities-metabolism-evolution-urban-thinking-designboom-700-500x400-22b08q85r439.jpg",
+    "typology": [
+      "architecture",
+      "metabolism architecture movement in japan",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T03:00:35.000Z",
+    "ingested_at": "2026-03-23T05:08:17.940Z"
   }
 ]

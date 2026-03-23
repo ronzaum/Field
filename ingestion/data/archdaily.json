@@ -1027,5 +1027,24 @@
     "material": [],
     "published_at": "2026-03-22T21:00:00.000Z",
     "ingested_at": "2026-03-23T02:45:56.474Z"
+  },
+  {
+    "id": "984d353c-1e74-4a9c-a6f1-c74d90162a73",
+    "title": "Lakeside Restaurant at Silk Road Friendship Park",
+    "creator": "THAD SUP Atelier",
+    "location": "Dingzhou City",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039741/lakeside-restaurant-at-silk-road-friendship-park-thad-sup-atelier",
+    "image_url": "https://images.adsttc.com/media/images/69ba/796d/1d53/c764/c589/1062/medium_jpg/lakeside-restaurant-at-silk-road-friendship-park-in-dingzhou-thad-sup-atelier_1.jpg?1773828473",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T00:00:00.000Z",
+    "ingested_at": "2026-03-23T05:08:17.178Z"
   }
 ]
