@@ -1154,5 +1154,26 @@
     "material": [],
     "published_at": "2026-03-23T12:00:00.000Z",
     "ingested_at": "2026-03-23T17:58:33.752Z"
+  },
+  {
+    "id": "07d1518e-15fe-4819-a139-b7a5a41acf9f",
+    "title": "MS House Museum",
+    "creator": "UNO MÁS UNO Arquitectos",
+    "location": "Los Compartos",
+    "country": "Argentina",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039765/ms-house-museum-uno-mas-uno-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69b5/3402/1d07/d400/0132/4660/medium_jpg/Museo_-_Uno_mas_Uno_-___Luis_Abba-57.jpg?1773483050",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Preservation Site",
+      "Refurbishment",
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T15:00:00.000Z",
+    "ingested_at": "2026-03-23T20:42:59.856Z"
   }
 ]
