@@ -1046,5 +1046,42 @@
     "material": [],
     "published_at": "2026-03-23T00:00:00.000Z",
     "ingested_at": "2026-03-23T05:08:17.178Z"
+  },
+  {
+    "id": "7f15a457-ff1b-40be-bc91-c73d43b16554",
+    "title": "Nest Chapel",
+    "creator": "Felipe Caboclo Arquitetura",
+    "location": "Itu",
+    "country": "Brazil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039620/nest-chapel-felipe-caboclo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69b4/4358/3c49/492f/ade8/4377/medium_jpg/nest-chapel-felipe-caboclo-arquitetura_18.jpg?1773421419",
+    "typology": [
+      "Religious Architecture",
+      "Worship",
+      "Chapel"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T03:00:00.000Z",
+    "ingested_at": "2026-03-23T09:04:27.699Z"
+  },
+  {
+    "id": "16c98f38-951b-4b27-8f04-72d7ed826b33",
+    "title": "Anglesea House",
+    "creator": "Eckersley Architects",
+    "location": "Anglesea",
+    "country": "Australia",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039845/anglesea-house-eckersley-architects",
+    "image_url": "https://images.adsttc.com/media/images/69bd/6bd9/5102/3701/89e8/0097/medium_jpg/jackson-anglesea-house-eckersley-architects_6.jpg?1774021621",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T02:00:00.000Z",
+    "ingested_at": "2026-03-23T09:04:27.702Z"
   }
 ]
