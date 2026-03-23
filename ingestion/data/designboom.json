@@ -648,5 +648,25 @@
     "material": [],
     "published_at": "2026-03-23T03:00:35.000Z",
     "ingested_at": "2026-03-23T05:08:17.940Z"
+  },
+  {
+    "id": "7a988a04-4d39-475c-b9e3-1038eeae7a24",
+    "title": "red-toned stucco surfaces form layered facade for boutique hotel by RA! in mexico",
+    "creator": "RA!",
+    "location": "San José del Cabo",
+    "country": "Mexico",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/red-toned-stucco-surfaces-layered-facade-boutique-hotel-raarq-mexico/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/red-toned-stucco-surfaces-layered-facade-boutique-hotel-raarq-mexico-designboom-700-500x400-22b08q85r111.jpg",
+    "typology": [
+      "architecture",
+      "architecture in mexico",
+      "designer boutique hotels",
+      "hotel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T10:30:33.000Z",
+    "ingested_at": "2026-03-23T10:57:58.871Z"
   }
 ]
