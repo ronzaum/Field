@@ -1136,5 +1136,23 @@
     "material": [],
     "published_at": "2026-03-23T10:00:00.000Z",
     "ingested_at": "2026-03-23T16:59:52.940Z"
+  },
+  {
+    "id": "5d0ecf6c-b43d-4854-9bf7-090b34036e19",
+    "title": "Thionville Multipurpose Sports Complex",
+    "creator": "Dominique Coulon & associés",
+    "location": "Rue Général Walton Walker",
+    "country": "France",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039805/thionville-multipurpose-sports-complex-dominique-coulon-and-associes",
+    "image_url": "https://images.adsttc.com/media/images/69bb/d536/e4b3/584e/3b36/2967/medium_jpg/thionville-multipurpose-sports-complex-dominique-coulon-and-associes_13.jpg?1773917534",
+    "typology": [
+      "Sports Architecture",
+      "Recreation & Training"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T12:00:00.000Z",
+    "ingested_at": "2026-03-23T17:58:33.752Z"
   }
 ]
