@@ -111,5 +111,27 @@
     "material": [],
     "published_at": "2026-03-06T11:30:31.000Z",
     "ingested_at": "2026-03-17T14:17:29.234Z"
+  },
+  {
+    "id": "71c9c263-dcc1-4035-b42b-cded0e5a3b43",
+    "title": "Sandstone murals adorn giant office in Kolkata",
+    "creator": "Morphogenesis",
+    "location": "Mixed-use",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/23/itc-green-centre-morphogenesis/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/itc-green-centre-morphogenesis-architecture_dezeen_2364_col_0-sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Office architecture",
+      "Morphogenesis",
+      "Sandstone",
+      "Murals",
+      "Kolkata"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T11:00:28.000Z",
+    "ingested_at": "2026-03-23T11:50:33.047Z"
   }
 ]
