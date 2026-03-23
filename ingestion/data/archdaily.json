@@ -1008,5 +1008,24 @@
     "material": [],
     "published_at": "2026-03-22T17:00:00.000Z",
     "ingested_at": "2026-03-22T21:32:05.542Z"
+  },
+  {
+    "id": "46128ee4-a32c-46ba-8407-06f649ebea3f",
+    "title": "Gangnam q.d.c",
+    "creator": "Indiesalon",
+    "location": "Seocho District",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039661/gangnam-qdc-indiesalon",
+    "image_url": "https://images.adsttc.com/media/images/69b8/04e8/1d07/d400/0132/46e7/medium_jpg/6.jpg?1773667618",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-03-22T21:00:00.000Z",
+    "ingested_at": "2026-03-23T02:45:56.474Z"
   }
 ]
