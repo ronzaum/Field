@@ -767,5 +767,28 @@
     "material": [],
     "published_at": "2026-03-24T11:45:14.000Z",
     "ingested_at": "2026-03-24T11:50:46.369Z"
+  },
+  {
+    "id": "56ba63c9-1c18-47ef-88b2-64daf296eb1e",
+    "title": "shimmering facades wrap cavernous galleries of büro ole scheeren’s róng museum of art",
+    "creator": "Büro Ole Scheeren",
+    "location": "Shenzhen",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/shimmering-facades-cavernous-galleries-buro-ole-scheeren-rong-museum-art-shenzhen-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/buro-ole-scheeren-rong-museum-art-shenzhen-china-designboom-700-500x400-22b08q85r144.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in china",
+      "architecture in shenzhen",
+      "facades",
+      "museums and galleries",
+      "ole scheeren"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T16:00:11.000Z",
+    "ingested_at": "2026-03-24T17:05:50.962Z"
   }
 ]

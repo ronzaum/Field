@@ -1283,5 +1283,44 @@
     "material": [],
     "published_at": "2026-03-24T06:00:00.000Z",
     "ingested_at": "2026-03-24T11:50:45.356Z"
+  },
+  {
+    "id": "010b0406-a876-4b4d-b415-59dfe42c5d33",
+    "title": "Valbona Early Childhood Education Center",
+    "creator": "Colucci&Partners",
+    "location": "Lozzo Atestino",
+    "country": "Italy",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039921/valbona-preschool-complex-colucci-and-partners",
+    "image_url": "https://images.adsttc.com/media/images/69c2/6f8b/015c/4f00/015c/56d6/medium_jpg/1.1_Q1A1997.jpg?1774350286",
+    "typology": [
+      "Educational Architecture",
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T12:00:00.000Z",
+    "ingested_at": "2026-03-24T17:05:50.175Z"
+  },
+  {
+    "id": "acafdf31-5cbf-4701-9e2b-50409ac986e0",
+    "title": "Swiss Alpine Cabin Reconstruction",
+    "creator": "Guča arch.",
+    "location": "Ingenbohl",
+    "country": "Switzerland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039912/swiss-alpine-cabin-reconstruction-guca-arch",
+    "image_url": "https://images.adsttc.com/media/images/69c2/51de/015c/4f00/015c/568e/medium_jpg/guca-architekti_matejhakar__L3A7514.jpg?1774342756",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges",
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T10:00:00.000Z",
+    "ingested_at": "2026-03-24T17:05:50.178Z"
   }
 ]
