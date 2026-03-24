@@ -1322,5 +1322,23 @@
     "material": [],
     "published_at": "2026-03-24T10:00:00.000Z",
     "ingested_at": "2026-03-24T17:05:50.178Z"
+  },
+  {
+    "id": "c71a9e7b-8b64-4e9e-973e-23fd2ed8b3d6",
+    "title": "Country House in the Interior of São Paulo",
+    "creator": "DB Arquitetos",
+    "location": "Monte Mor",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039916/country-house-in-the-interior-of-sao-paulo-db-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/69bd/4db9/015c/4f00/015c/549f/medium_jpg/Casa_de_campo_em_Monte_Mor_no_interior_de_Sao_Paulo_projetada_pelo_arquiteto_DAVID_BASTOS__foto_44.jpg?1774014098",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T15:00:00.000Z",
+    "ingested_at": "2026-03-24T20:49:58.802Z"
   }
 ]
