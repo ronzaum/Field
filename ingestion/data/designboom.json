@@ -731,5 +731,23 @@
     "material": [],
     "published_at": "2026-03-24T03:00:17.000Z",
     "ingested_at": "2026-03-24T04:58:49.176Z"
+  },
+  {
+    "id": "4e41e172-e791-482a-8c7d-baf598fc28df",
+    "title": "in new babylon, constant imagines a world built for people who never stop playing",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/new-babylon-constant-nieuwenhuys-world-people-play/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/new-babylon-constant-nieuwenhuys-world-people-play-designboom-700-500x400-22b08q85r443.jpg",
+    "typology": [
+      "architecture",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T06:30:29.000Z",
+    "ingested_at": "2026-03-24T07:57:25.386Z"
   }
 ]
