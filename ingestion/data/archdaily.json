@@ -1175,5 +1175,23 @@
     "material": [],
     "published_at": "2026-03-23T15:00:00.000Z",
     "ingested_at": "2026-03-23T20:42:59.856Z"
+  },
+  {
+    "id": "7110d20f-9b38-4c5a-8fa4-9e426ad83831",
+    "title": "Home Pavilion",
+    "creator": "MRTN Architects",
+    "location": "Northcote",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039882/home-pavilion-mrtn-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c1/3a92/0dd2/df01/865f/4697/medium_jpg/home-pavilion-mrtn-architects_10.jpg?1774271139",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-23T19:00:00.000Z",
+    "ingested_at": "2026-03-24T02:37:21.213Z"
   }
 ]

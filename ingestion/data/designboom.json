@@ -691,5 +691,25 @@
     "material": [],
     "published_at": "2026-03-23T22:00:30.000Z",
     "ingested_at": "2026-03-23T22:38:30.259Z"
+  },
+  {
+    "id": "7b5ba7a2-eb1b-44fe-b4a7-8bcafaa08510",
+    "title": "inside archigram’s radical, sixties-era vision for cities that evolve as fast as we do",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/archigram-radical-sixties-vision-cities-evolve/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/archigram-profile-utopian-optimism-method-designboom-700-500x400-22b08q85r453.jpg",
+    "typology": [
+      "architecture",
+      "Archigram",
+      "fictional architecture",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T00:30:34.000Z",
+    "ingested_at": "2026-03-24T02:37:22.544Z"
   }
 ]
