@@ -711,5 +711,25 @@
     "material": [],
     "published_at": "2026-03-24T00:30:34.000Z",
     "ingested_at": "2026-03-24T02:37:22.544Z"
+  },
+  {
+    "id": "5160c141-cec3-47c3-a968-c7fb807ed74e",
+    "title": "an arched pink bridge of happiness revives public park in shanghai",
+    "creator": "HCCH",
+    "location": "Huashan Greenland",
+    "country": "Shanghai",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/an-arched-pink-bridge-of-happiness-revives-public-park-in-shanghai/",
+    "image_url": "https://www.designboom.com/wp-content/dbsub/444032/2026-03-22/bridge-of-happiness-700-69bfd7cc8927e-500x400-22b08q85r769.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in china",
+      "bridge architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T03:00:17.000Z",
+    "ingested_at": "2026-03-24T04:58:49.176Z"
   }
 ]

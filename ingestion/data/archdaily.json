@@ -1193,5 +1193,23 @@
     "material": [],
     "published_at": "2026-03-23T19:00:00.000Z",
     "ingested_at": "2026-03-24T02:37:21.213Z"
+  },
+  {
+    "id": "4e44dd2c-d0d8-4287-9908-e97e274db9c9",
+    "title": "Block Kindergarten",
+    "creator": "SoBA",
+    "location": "The intersection of Hongqi Road and Zhenchuan West Road",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039864/block-kindergarten-soba",
+    "image_url": "https://images.adsttc.com/media/images/69c0/dc00/015c/4f00/015c/5552/medium_jpg/02_________Wen_Studio.jpg?1774247052",
+    "typology": [
+      "Educational Architecture",
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T00:00:00.000Z",
+    "ingested_at": "2026-03-24T04:58:48.179Z"
   }
 ]
