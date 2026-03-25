@@ -1468,5 +1468,24 @@
     "material": [],
     "published_at": "2026-03-25T10:00:00.000Z",
     "ingested_at": "2026-03-25T15:06:12.781Z"
+  },
+  {
+    "id": "f56ea9ef-b1c0-4080-a04a-60f594f10a8d",
+    "title": "HOOD Café",
+    "creator": "Ponomarenko Volodymyr",
+    "location": "Warszawa",
+    "country": "Poland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039975/hood-ponomarenko-volodymyr",
+    "image_url": "https://images.adsttc.com/media/images/69c3/d9cd/015c/4f00/015c/584e/medium_jpg/hood-interior-warsaw-volodymyr-ponomarenko-17.jpg?1774443018",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T12:00:00.000Z",
+    "ingested_at": "2026-03-25T19:03:20.845Z"
   }
 ]
