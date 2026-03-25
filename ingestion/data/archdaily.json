@@ -1487,5 +1487,23 @@
     "material": [],
     "published_at": "2026-03-25T12:00:00.000Z",
     "ingested_at": "2026-03-25T19:03:20.845Z"
+  },
+  {
+    "id": "6c2b91f5-4555-41e5-9f0f-9f07ac489486",
+    "title": "Twin Houses",
+    "creator": "Meraki Arquitectura + Diseño",
+    "location": "San Bernardino",
+    "country": "Paraguay",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno",
+    "image_url": "https://images.adsttc.com/media/images/69bc/9701/5102/3701/89e7/fd05/medium_jpg/casas-mellizas-meraki-arquitectura-plus-diseno_3.jpg?1773967124",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T15:00:00.000Z",
+    "ingested_at": "2026-03-25T20:47:21.348Z"
   }
 ]
