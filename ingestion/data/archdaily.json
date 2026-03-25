@@ -1340,5 +1340,23 @@
     "material": [],
     "published_at": "2026-03-24T15:00:00.000Z",
     "ingested_at": "2026-03-24T20:49:58.802Z"
+  },
+  {
+    "id": "cd4d2a37-4eef-465d-abb2-3318200eda7a",
+    "title": "Interface House",
+    "creator": "Core Design Workshop",
+    "location": "Shah Alam",
+    "country": "Malaysia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039934/interface-house-core-design-workshop",
+    "image_url": "https://images.adsttc.com/media/images/69c2/a274/015c/4f00/015c/5720/medium_jpg/A02-INTERFACE-house-Bricksbegin.jpg?1774363271",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-24T19:00:00.000Z",
+    "ingested_at": "2026-03-25T02:42:43.834Z"
   }
 ]
