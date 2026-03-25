@@ -1358,5 +1358,23 @@
     "material": [],
     "published_at": "2026-03-24T19:00:00.000Z",
     "ingested_at": "2026-03-25T02:42:43.834Z"
+  },
+  {
+    "id": "f0f73b3c-1523-4e10-81e4-dabf6c43cc25",
+    "title": "Nanshan Junning Resort",
+    "creator": "Atelier LAI",
+    "location": "Lujiang",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039889/nanshan-junning-resort-atelier-lai",
+    "image_url": "https://images.adsttc.com/media/images/69c1/6d3d/0dd2/df01/865f/4904/medium_jpg/nanshan-junning-resort-atelier-lai_9.jpg?1774284140",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T00:00:00.000Z",
+    "ingested_at": "2026-03-25T04:59:05.108Z"
   }
 ]
