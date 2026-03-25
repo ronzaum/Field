@@ -1414,5 +1414,41 @@
     "material": [],
     "published_at": "2026-03-25T02:00:00.000Z",
     "ingested_at": "2026-03-25T07:56:52.790Z"
+  },
+  {
+    "id": "3478a39b-5c42-4744-99d5-bb98748a1136",
+    "title": "Bridge of Happiness",
+    "creator": "HCCH Studio",
+    "location": "Chang Ning Qu",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039899/bridge-of-happiness-hcch-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c1/e2c8/29dd/ce01/88c6/1f8d/medium_jpg/bridge-of-happiness-hcch-studio_1.jpg?1774314202",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T07:00:00.000Z",
+    "ingested_at": "2026-03-25T13:23:55.529Z"
+  },
+  {
+    "id": "05524b4c-57d8-4339-af1d-4c95ad95a975",
+    "title": "Artist Residence and Studio in NY",
+    "creator": "Horizontal Design",
+    "location": "Catskill",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039865/emilys-home-horizontal-design",
+    "image_url": "https://images.adsttc.com/media/images/69c0/f6c4/015c/4f00/015c/557c/medium_jpg/251120_HORIZONTALDESIGN_ARTISTRESIDENCE_0087.jpg?1774253844",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T06:00:00.000Z",
+    "ingested_at": "2026-03-25T13:23:55.531Z"
   }
 ]
