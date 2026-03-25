@@ -1450,5 +1450,23 @@
     "material": [],
     "published_at": "2026-03-25T06:00:00.000Z",
     "ingested_at": "2026-03-25T13:23:55.531Z"
+  },
+  {
+    "id": "7604d79c-ea08-4476-b108-d50bfa9f93d7",
+    "title": "Villa Färingsö - Artist's House",
+    "creator": "Strombro Building Workshop",
+    "location": "Sweden",
+    "country": null,
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039920/villa-faringso-artists-house-strombro-building-workshop",
+    "image_url": "https://images.adsttc.com/media/images/69c2/65ab/015c/4f00/015c/56c7/medium_jpg/AS_Villa_Faringso_015.jpg?1774347765",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T10:00:00.000Z",
+    "ingested_at": "2026-03-25T15:06:12.781Z"
   }
 ]
