@@ -810,5 +810,47 @@
     "material": [],
     "published_at": "2026-03-25T03:00:21.000Z",
     "ingested_at": "2026-03-25T04:59:06.344Z"
+  },
+  {
+    "id": "1bce6627-a481-4871-8574-10efbac67f9e",
+    "title": "this monolithic café in south korea is designed to evoke an ancient fortress",
+    "creator": "SOSOKKI ANAC",
+    "location": "Gangwon-do",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/monolithic-cafe-south-korea-ancient-fortress-monologue-sosokki-anac/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/monologue-cafe-sosokki-anac-korea-designboom-700-500x400-22b08q85r934.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in korea",
+      "brick architecture",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T16:00:35.000Z",
+    "ingested_at": "2026-03-25T17:10:35.246Z"
+  },
+  {
+    "id": "75838970-55fd-4963-8906-f20ad7a6b12a",
+    "title": "handmade miniature model of new york follows the city’s layout from streets to buildings",
+    "creator": "matthew burgos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/handmade-miniature-model-new-york-layout-city-streets-buildings-joe-macken/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/handmade-miniature-model-new-york-streets-buildings-designboom-700-500x400-22b08q85r126.jpg",
+    "typology": [
+      "architecture",
+      "architecture in new york",
+      "exhibition design",
+      "miniatures",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T15:35:52.000Z",
+    "ingested_at": "2026-03-25T17:10:35.252Z"
   }
 ]
