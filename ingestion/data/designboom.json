@@ -852,5 +852,30 @@
     "material": [],
     "published_at": "2026-03-25T15:35:52.000Z",
     "ingested_at": "2026-03-25T17:10:35.252Z"
+  },
+  {
+    "id": "5508c31c-a968-4c2f-aa82-751c3031a349",
+    "title": "proposal for net-zero landmark office in warsaw highlights adaptive use and ecological design",
+    "creator": "MJZ",
+    "location": "Warsaw",
+    "country": "Poland",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/proposal-for-net-zero-landmark-office-in-warsaw-highlights-adaptive-use-and-ecological-design/",
+    "image_url": "https://www.designboom.com/wp-content/dbsub/427641/2026-03-24/revistula-a-net-zero-landmark-office-700-69c26ca975a2e-500x400-22b08q85r056.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "adaptive architecture",
+      "architecture in poland",
+      "climate",
+      "eco",
+      "facades",
+      "urban office architecture",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T10:30:14.000Z",
+    "ingested_at": "2026-03-26T10:58:35.563Z"
   }
 ]

@@ -1579,5 +1579,23 @@
     "material": [],
     "published_at": "2026-03-26T02:00:00.000Z",
     "ingested_at": "2026-03-26T09:04:17.885Z"
+  },
+  {
+    "id": "85cdb478-4d9a-44d1-b672-c5fb21bd4cb9",
+    "title": "Guest Lounge 350.000 Ha",
+    "creator": "Manuel Bouzas + salazarsequeromedina",
+    "location": "Madrid",
+    "country": "España",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039533/guest-lounge-3500-ha-manuel-bouzas-plus-salazarsequeromedina",
+    "image_url": "https://images.adsttc.com/media/images/69af/deea/314f/6601/8902/bfb8/medium_jpg/guest-lounge-3500-ha-manuel-bouzas-plus-salazarsequeromedina_4.jpg?1773133563",
+    "typology": [
+      "Cultural Architecture",
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T06:00:00.000Z",
+    "ingested_at": "2026-03-26T10:58:23.532Z"
   }
 ]

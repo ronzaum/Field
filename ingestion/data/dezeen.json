@@ -133,5 +133,25 @@
     "material": [],
     "published_at": "2026-03-23T11:00:28.000Z",
     "ingested_at": "2026-03-23T11:50:33.047Z"
+  },
+  {
+    "id": "35231a98-3472-434e-a970-c44275eb6432",
+    "title": "Ukrainian monastery in UNESCO-listed site damaged",
+    "creator": "Russian drone strikes",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/26/bernardine-monastery-unesco-lviv-ukraine-russian-strikes/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/bernardine-monastery-unesco-lviv-ukraine-russian-strikes_dezeen_2364_sq_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "UNESCO",
+      "Ukraine war",
+      "Ukraine"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T10:25:48.000Z",
+    "ingested_at": "2026-03-26T10:58:34.655Z"
   }
 ]
