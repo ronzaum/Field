@@ -1523,5 +1523,23 @@
     "material": [],
     "published_at": "2026-03-25T19:00:00.000Z",
     "ingested_at": "2026-03-26T02:49:48.305Z"
+  },
+  {
+    "id": "472ccc9c-26fc-4463-a285-cf9713f79122",
+    "title": "Circle Pit",
+    "creator": "Studio Clash",
+    "location": "Zibo",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039910/circle-pit-studio-clash",
+    "image_url": "https://images.adsttc.com/media/images/69c2/4828/015c/4f00/015c/566b/medium_jpg/01_Studio_Clash.jpg?1774340155",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T00:00:00.000Z",
+    "ingested_at": "2026-03-26T05:11:31.342Z"
   }
 ]
