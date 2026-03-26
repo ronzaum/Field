@@ -1636,5 +1636,24 @@
     "material": [],
     "published_at": "2026-03-26T10:00:00.000Z",
     "ingested_at": "2026-03-26T17:10:06.014Z"
+  },
+  {
+    "id": "062d2ca9-7a07-44d7-9d3c-dbac84f8012e",
+    "title": "Frissón Cultural Space",
+    "creator": "On Form Studio",
+    "location": "Roma",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040028/frisson-cultural-space-on-form-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c5/3f6f/d139/4600/01de/9249/medium_jpg/Orizz1.jpg?1774534529",
+    "typology": [
+      "Cultural Architecture",
+      "Interior Design",
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T12:00:00.000Z",
+    "ingested_at": "2026-03-26T19:16:06.270Z"
   }
 ]
