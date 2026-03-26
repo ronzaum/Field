@@ -1541,5 +1541,43 @@
     "material": [],
     "published_at": "2026-03-26T00:00:00.000Z",
     "ingested_at": "2026-03-26T05:11:31.342Z"
+  },
+  {
+    "id": "c61f7d99-730b-4cfb-a13c-e9bbb3ececb9",
+    "title": "Health Sciences Faculty – University of La Réunion",
+    "creator": "TT Architecture",
+    "location": "Saint-Paul",
+    "country": "Réunion",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039961/health-sciences-faculty-university-of-la-reunion",
+    "image_url": "https://images.adsttc.com/media/images/69c3/c121/015c/4f00/015c/57dd/medium_jpg/25_INT_PATIO_DSC05060_PM_LG.jpg?1774436927",
+    "typology": [
+      "Research center",
+      "Educational Architecture",
+      "Higher Education",
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T03:00:00.000Z",
+    "ingested_at": "2026-03-26T09:04:17.881Z"
+  },
+  {
+    "id": "cabb92a3-8e54-4f17-adf6-29cb7b44661f",
+    "title": "Jali House",
+    "creator": "Studio VDGA",
+    "location": "Pune",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039974/jali-house-studio-vdga",
+    "image_url": "https://images.adsttc.com/media/images/69c3/d322/3dba/9b01/9752/eeb9/medium_jpg/jali-house-studio-vdga_1.jpg?1774441296",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T02:00:00.000Z",
+    "ingested_at": "2026-03-26T09:04:17.885Z"
   }
 ]
