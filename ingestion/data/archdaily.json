@@ -1615,5 +1615,26 @@
     "material": [],
     "published_at": "2026-03-26T07:00:00.000Z",
     "ingested_at": "2026-03-26T13:48:26.914Z"
+  },
+  {
+    "id": "2347b723-f76f-49e0-aba2-d9ce505c5f4a",
+    "title": "El Born Loft",
+    "creator": "Roman Izquierdo Bouldstridge",
+    "location": "Barcelona",
+    "country": "Spain",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039541/el-born-loft-roman-izquierdo-bouldstridge",
+    "image_url": "https://images.adsttc.com/media/images/69b2/8e3d/314f/6601/8902/c957/medium_jpg/el-born-loft-roman-izquierdo-bouldstridge_17.jpg?1773309525",
+    "typology": [
+      "Refurbishment",
+      "Adaptive reuse",
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T10:00:00.000Z",
+    "ingested_at": "2026-03-26T17:10:06.014Z"
   }
 ]

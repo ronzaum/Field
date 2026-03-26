@@ -877,5 +877,29 @@
     "material": [],
     "published_at": "2026-03-26T10:30:14.000Z",
     "ingested_at": "2026-03-26T10:58:35.563Z"
+  },
+  {
+    "id": "c8c31803-efe1-445d-b8c5-35f0453856bb",
+    "title": "VUILD’s ‘prewood’ project tests how modular timber can adapt to tight urban sites in tokyo",
+    "creator": "VUILD",
+    "location": "Nihonbashi-Kayabacho",
+    "country": "Japan",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/vuild-prewood-modular-timber-urban-sites-tokyo-japan/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/prewood-house-vuild-tokyo-japan-designboom-702-500x400-22b08q85r615.jpg",
+    "typology": [
+      "architecture",
+      "architecture in japan",
+      "architecture in tokyo",
+      "facades",
+      "modular design",
+      "restaurant and café design",
+      "VUILD",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T15:30:10.000Z",
+    "ingested_at": "2026-03-26T17:10:06.972Z"
   }
 ]
