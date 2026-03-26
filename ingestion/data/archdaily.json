@@ -1505,5 +1505,23 @@
     "material": [],
     "published_at": "2026-03-25T15:00:00.000Z",
     "ingested_at": "2026-03-25T20:47:21.348Z"
+  },
+  {
+    "id": "363a8595-1414-4b6f-997b-9beee565516d",
+    "title": "Treehouse",
+    "creator": "Das Studio",
+    "location": "North Adelaide",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039965/treehouse-das-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c3/cf2f/0dd2/df01/865f/54ae/medium_jpg/treehouse-das-studio_10.jpg?1774440263",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-25T19:00:00.000Z",
+    "ingested_at": "2026-03-26T02:49:48.305Z"
   }
 ]
