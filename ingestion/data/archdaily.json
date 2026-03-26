@@ -1597,5 +1597,23 @@
     "material": [],
     "published_at": "2026-03-26T06:00:00.000Z",
     "ingested_at": "2026-03-26T10:58:23.532Z"
+  },
+  {
+    "id": "c131c6d2-9cb9-4e27-a528-2cba071ff81a",
+    "title": "LPS Residence",
+    "creator": "Davidov Architects",
+    "location": "Flinders",
+    "country": "Australia",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039888/lps-residence-davidov-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c1/5e11/0dd2/df01/865f/486f/medium_jpg/lps-residence-davidov-architects_6.jpg?1774280250",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T07:00:00.000Z",
+    "ingested_at": "2026-03-26T13:48:26.914Z"
   }
 ]
