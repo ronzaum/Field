@@ -1655,5 +1655,25 @@
     "material": [],
     "published_at": "2026-03-26T12:00:00.000Z",
     "ingested_at": "2026-03-26T19:16:06.270Z"
+  },
+  {
+    "id": "d81e217c-a19d-4623-85f9-303ce764bc37",
+    "title": "Gio Kitchen Atelier",
+    "creator": "NMDM.ARQ - Nádia Manssur",
+    "location": "Pinheiros",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039915/gio-kitchen-studio-nmdrq",
+    "image_url": "https://images.adsttc.com/media/images/69bd/aa37/2adf/9301/8816/137a/medium_jpg/atelie-gio-cozinha-nmdrq_30.jpg?1774037579",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Restaurant",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T15:00:00.000Z",
+    "ingested_at": "2026-03-26T21:36:53.926Z"
   }
 ]
