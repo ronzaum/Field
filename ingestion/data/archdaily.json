@@ -1823,5 +1823,43 @@
     "material": [],
     "published_at": "2026-03-27T12:00:00.000Z",
     "ingested_at": "2026-03-27T19:03:06.520Z"
+  },
+  {
+    "id": "d841df15-6278-4f42-a15b-c28b8d113c70",
+    "title": "Torre Picasso Offices",
+    "creator": "Destudio",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1023558/torre-picasso-offices-destudio",
+    "image_url": "https://images.adsttc.com/media/images/6736/3f8d/abb6/a223/6c8e/1a21/medium_jpg/oficinas-torre-picasso-destudio_17.jpg?1731608480",
+    "typology": [
+      "Offices",
+      "Interior Design",
+      "Offices Interiors",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T17:00:00.000Z",
+    "ingested_at": "2026-03-27T21:41:24.329Z"
+  },
+  {
+    "id": "bc92e408-acda-485e-827d-f32388ea7e16",
+    "title": "La Florida II House",
+    "creator": "Lezaeta Lavanchy",
+    "location": "Trapiche",
+    "country": "Argentina",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039764/la-florida-ii-house-lezaeta-lavanchy",
+    "image_url": "https://images.adsttc.com/media/images/69b9/27f6/314f/664f/06ca/f294/medium_jpg/casa-la-florida-ii-lezaeta-lavanchy_13.jpg?1773742088",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T15:00:00.000Z",
+    "ingested_at": "2026-03-27T21:41:24.332Z"
   }
 ]
