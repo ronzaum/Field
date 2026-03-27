@@ -1785,5 +1785,23 @@
     "material": [],
     "published_at": "2026-03-27T06:00:00.000Z",
     "ingested_at": "2026-03-27T11:45:33.396Z"
+  },
+  {
+    "id": "bf8f1962-1e9a-4d0f-acc3-6df7557fcfff",
+    "title": "Maison de la Pointe",
+    "creator": "YH2 Architecture",
+    "location": "Magog",
+    "country": "Canada",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039758/maison-de-la-pointe-yh2-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69ba/9ef2/6e66/7900/01ef/d9e1/medium_jpg/22-YH2_Magog-938.jpg?1773838128",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T10:00:00.000Z",
+    "ingested_at": "2026-03-27T15:59:10.105Z"
   }
 ]
