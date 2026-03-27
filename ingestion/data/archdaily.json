@@ -1730,5 +1730,24 @@
     "material": [],
     "published_at": "2026-03-27T00:00:00.000Z",
     "ingested_at": "2026-03-27T07:17:04.571Z"
+  },
+  {
+    "id": "37c47c3b-cc00-4de2-8e08-c1e11f915c5c",
+    "title": "Kamioka Office",
+    "creator": "Kraft Architects",
+    "location": "Hida",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040012/kamioka-office-kraft-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c4/ecff/d139/4600/01de/9154/medium_jpg/takuyaseki_KA_kamioka_0860_web_sRGB.jpg?1774513426",
+    "typology": [
+      "Offices",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T03:00:00.000Z",
+    "ingested_at": "2026-03-27T09:00:27.597Z"
   }
 ]
