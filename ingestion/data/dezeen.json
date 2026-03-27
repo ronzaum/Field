@@ -153,5 +153,25 @@
     "material": [],
     "published_at": "2026-03-26T10:25:48.000Z",
     "ingested_at": "2026-03-26T10:58:34.655Z"
+  },
+  {
+    "id": "cc2197d0-b8ec-4e2e-bd30-b69768edad27",
+    "title": "Vancouver's first supertall skyscraper informed",
+    "creator": "\"ancient glass sea sponge reefs\"",
+    "location": "News",
+    "country": "Canada",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/27/henriquez-partners-vancouver-supertall-skyscraper-sea-sponge/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/henriquez-partners-architects-vancouver-supertall-skyscrapers-georgia-abbott_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Skyscrapers",
+      "Vancouver",
+      "Supertall skyscrapers"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T11:00:20.000Z",
+    "ingested_at": "2026-03-27T13:19:21.362Z"
   }
 ]
