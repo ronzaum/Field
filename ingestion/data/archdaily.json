@@ -1803,5 +1803,25 @@
     "material": [],
     "published_at": "2026-03-27T10:00:00.000Z",
     "ingested_at": "2026-03-27T15:59:10.105Z"
+  },
+  {
+    "id": "67fa8989-fcb9-4200-8f19-659121d7afaf",
+    "title": "Cinnamood - Specialty Coffee",
+    "creator": "Kidz Studio",
+    "location": "Barcelona",
+    "country": "Spain",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040033/cinnamood-specialty-coffee-kidz-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c5/44bf/d139/4600/01de/92ac/medium_jpg/DSCF8286.jpg?1774535931",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T12:00:00.000Z",
+    "ingested_at": "2026-03-27T19:03:06.520Z"
   }
 ]
