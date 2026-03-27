@@ -922,5 +922,28 @@
     "material": [],
     "published_at": "2026-03-27T00:30:16.000Z",
     "ingested_at": "2026-03-27T02:51:58.857Z"
+  },
+  {
+    "id": "1505af88-c397-474d-903a-00ab235fc41b",
+    "title": "raúl sánchez inserts stainless steel layer into a 19th century pirate house in spain",
+    "creator": "Raúl Sánchez Architects",
+    "location": "Mataró",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/raul-sanchez-stainless-steel-layer-19th-century-pirate-house-spain/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/raul-sanchez-stainless-steel-layer-19th-century-pirate-house-spain-designboom-700-500x400-22b08q85r634.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in spain",
+      "josé hevia",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "steel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T09:30:51.000Z",
+    "ingested_at": "2026-03-27T10:54:26.644Z"
   }
 ]
