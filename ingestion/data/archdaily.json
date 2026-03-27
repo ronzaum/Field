@@ -1749,5 +1749,41 @@
     "material": [],
     "published_at": "2026-03-27T03:00:00.000Z",
     "ingested_at": "2026-03-27T09:00:27.597Z"
+  },
+  {
+    "id": "eb9df9d2-e01b-416a-8641-cd82ecf7d91c",
+    "title": "The Leaf at Assiniboine Park",
+    "creator": "KPMB Architects + Architecture49",
+    "location": "Winnipeg",
+    "country": "Canada",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039960/the-leaf-at-assiniboine-park-kpmb-architects-plus-architecture49",
+    "image_url": "https://images.adsttc.com/media/images/69c3/b43b/015c/4f00/015c/57b9/medium_jpg/KPMB_TheLeaf_EmaPeter_4.jpg?1774433377",
+    "typology": [
+      "Landscape Architecture",
+      "Cultural Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T07:00:00.000Z",
+    "ingested_at": "2026-03-27T11:45:33.393Z"
+  },
+  {
+    "id": "77e14769-dcda-4280-80e8-092032c5d4f4",
+    "title": "Jevany Villa",
+    "creator": "Architektura",
+    "location": "Jevany",
+    "country": "Czechia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039941/jevany-villa-architektura",
+    "image_url": "https://images.adsttc.com/media/images/69c2/df73/0dd2/df01/865f/5078/medium_jpg/jevany-villa-architektura_2.jpg?1774378898",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T06:00:00.000Z",
+    "ingested_at": "2026-03-27T11:45:33.396Z"
   }
 ]

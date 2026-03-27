@@ -945,5 +945,26 @@
     "material": [],
     "published_at": "2026-03-27T09:30:51.000Z",
     "ingested_at": "2026-03-27T10:54:26.644Z"
+  },
+  {
+    "id": "f8ff3244-2a9c-4b21-a1fc-176a50a5f2f2",
+    "title": "WORKac turns floodplain constraints into model for resilient domestic living in rhode island",
+    "creator": "WORKac",
+    "location": "Hopkinton",
+    "country": "US",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/workac-floodplain-constraints-model-resilient-domestic-living-rhode-island/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/workac-floodplain-constraints-model-resilient-domestic-living-rhode-island-designboom-700-500x400-22b08q85r864.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "passive houses",
+      "wood and timber architecture and design",
+      "WORKac"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T09:30:44.000Z",
+    "ingested_at": "2026-03-27T11:45:34.777Z"
   }
 ]
