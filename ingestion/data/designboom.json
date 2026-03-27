@@ -901,5 +901,26 @@
     "material": [],
     "published_at": "2026-03-26T15:30:10.000Z",
     "ingested_at": "2026-03-26T17:10:06.972Z"
+  },
+  {
+    "id": "9ac36cc7-5dee-4b5b-82b4-8b327b0fd24e",
+    "title": "assemble builds a collective future by working with what already exists",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/assemble-collective-future-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/assemble-collective-future-interview-designboom-700-500x400-22b08q85r116.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture interviews",
+      "assemble",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T00:30:16.000Z",
+    "ingested_at": "2026-03-27T02:51:58.857Z"
   }
 ]

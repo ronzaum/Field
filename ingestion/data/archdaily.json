@@ -1675,5 +1675,23 @@
     "material": [],
     "published_at": "2026-03-26T15:00:00.000Z",
     "ingested_at": "2026-03-26T21:36:53.926Z"
+  },
+  {
+    "id": "0a516dba-f74e-4a32-bcb2-1796d4914549",
+    "title": "Summerhill Village",
+    "creator": "TANDEM design studio",
+    "location": "West Footscray",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040025/summerhill-village-tandem-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c5/373b/f5a5/f101/893f/5085/medium_jpg/summerhill-village-tandem-design-studio_3.jpg?1774532434",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-03-26T19:00:00.000Z",
+    "ingested_at": "2026-03-27T02:51:57.957Z"
   }
 ]
