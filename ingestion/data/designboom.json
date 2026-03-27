@@ -966,5 +966,26 @@
     "material": [],
     "published_at": "2026-03-27T09:30:44.000Z",
     "ingested_at": "2026-03-27T11:45:34.777Z"
+  },
+  {
+    "id": "a335ed7a-1dee-45a9-9044-80a1793c1fe7",
+    "title": "steel pavilion extends historic farmhouse on australia’s monaro plateau",
+    "creator": "Moss &#38; Mulford",
+    "location": "Canberra",
+    "country": "Australia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/steel-pavilion-extends-historic-farmhouse-on-australias-monaro-plateau/",
+    "image_url": "https://www.designboom.com/wp-content/dbsub/465740/2026-03-25/monaro-plateau-homestead-700-69c47420dfa92-500x400-22b08q85r154.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in australia",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T22:00:40.000Z",
+    "ingested_at": "2026-03-27T22:39:19.195Z"
   }
 ]
