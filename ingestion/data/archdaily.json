@@ -1953,5 +1953,22 @@
     "material": [],
     "published_at": "2026-03-28T15:00:00.000Z",
     "ingested_at": "2026-03-28T21:35:28.403Z"
+  },
+  {
+    "id": "e6c7fd3c-1b00-4749-9dd2-c1b451b7587d",
+    "title": "A Community Art Ecosystem in Practice",
+    "creator": "MINOR lab",
+    "location": "Yanjiao",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039744/a-community-art-ecosystem-in-practice-minor-lab",
+    "image_url": "https://images.adsttc.com/media/images/69ba/7b66/6e66/7900/01ef/d850/medium_jpg/2__1_.jpg?1773828987",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-03-28T17:00:00.000Z",
+    "ingested_at": "2026-03-28T22:35:16.715Z"
   }
 ]
