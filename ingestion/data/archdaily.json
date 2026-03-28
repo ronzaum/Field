@@ -1917,5 +1917,23 @@
     "material": [],
     "published_at": "2026-03-28T06:00:00.000Z",
     "ingested_at": "2026-03-28T11:33:25.962Z"
+  },
+  {
+    "id": "56e07736-4597-48b5-860f-3bb4423cb018",
+    "title": "Cabin Above the Valley",
+    "creator": "System Recovery Architects",
+    "location": "Strážné",
+    "country": "Czechia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040071/cabin-above-the-valley-system-recovery-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c6/6b9c/88b5/3c00/0134/1f1a/medium_jpg/cabin_sys_rec_architects-04.jpg?1774611413",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-28T09:00:00.000Z",
+    "ingested_at": "2026-03-28T14:37:27.530Z"
   }
 ]
