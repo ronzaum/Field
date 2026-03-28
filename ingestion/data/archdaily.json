@@ -1861,5 +1861,23 @@
     "material": [],
     "published_at": "2026-03-27T15:00:00.000Z",
     "ingested_at": "2026-03-27T21:41:24.332Z"
+  },
+  {
+    "id": "7a7c3639-b629-42be-bbfa-aa81fb70f81e",
+    "title": "Wings Way House",
+    "creator": "MRTN Architects",
+    "location": "Skenes Creek North",
+    "country": "Australia",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040087/wings-way-house-mrtn-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c6/a8f3/03fa/f13d/7ad7/7b38/medium_jpg/wings-way-house-mrtn-architects_27.jpg?1774627073",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-27T19:00:00.000Z",
+    "ingested_at": "2026-03-28T02:41:38.586Z"
   }
 ]
