@@ -1879,5 +1879,23 @@
     "material": [],
     "published_at": "2026-03-27T19:00:00.000Z",
     "ingested_at": "2026-03-28T02:41:38.586Z"
+  },
+  {
+    "id": "a1a8befd-ccca-40de-9f8e-c06f6fb86bda",
+    "title": "SEOUL FRAME by HE:ARTS",
+    "creator": "RVMN",
+    "location": "Yongsan District",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039982/seoul-frame-by-he-arts-rvmn",
+    "image_url": "https://images.adsttc.com/media/images/69c4/0ef3/015c/4f00/015c/588b/medium_jpg/094A0430.jpg?1774456727",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-28T02:00:00.000Z",
+    "ingested_at": "2026-03-28T07:47:57.905Z"
   }
 ]
