@@ -1935,5 +1935,23 @@
     "material": [],
     "published_at": "2026-03-28T09:00:00.000Z",
     "ingested_at": "2026-03-28T14:37:27.530Z"
+  },
+  {
+    "id": "790d597d-27ae-4b46-a0d4-da7674c0bb34",
+    "title": "Trama House",
+    "creator": "404 Arquitectura",
+    "location": "La Molina",
+    "country": "Peru",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039750/trama-house-404-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69ba/8b5b/6e66/7900/01ef/d8db/medium_jpg/025_AD-F01.jpg?1773833171",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-28T15:00:00.000Z",
+    "ingested_at": "2026-03-28T21:35:28.403Z"
   }
 ]
