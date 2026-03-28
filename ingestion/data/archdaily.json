@@ -1897,5 +1897,25 @@
     "material": [],
     "published_at": "2026-03-28T02:00:00.000Z",
     "ingested_at": "2026-03-28T07:47:57.905Z"
+  },
+  {
+    "id": "6937e15a-a934-4890-b3cd-5ce8c1743389",
+    "title": "Ivory Coast Embassy",
+    "creator": "GLH Architects",
+    "location": "Pretoria",
+    "country": "South Africa",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040013/ivory-coast-embassy-glh-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c6/77e8/03fa/f101/8996/9318/medium_jpg/ivory-coast-embassy-glh-architects_11.jpg?1774614513",
+    "typology": [
+      "Public Architecture",
+      "Government",
+      "Embassy",
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-03-28T06:00:00.000Z",
+    "ingested_at": "2026-03-28T11:33:25.962Z"
   }
 ]
