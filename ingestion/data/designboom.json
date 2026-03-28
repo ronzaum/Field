@@ -987,5 +987,25 @@
     "material": [],
     "published_at": "2026-03-27T22:00:40.000Z",
     "ingested_at": "2026-03-27T22:39:19.195Z"
+  },
+  {
+    "id": "a7645ca9-3e32-4d34-bba2-4916c3959d73",
+    "title": "fran silvestre organizes three-part house around hovering living volume in spain",
+    "creator": "Fran Silvestre Arquitectos",
+    "location": "Alicante",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/fran-silvestre-three-part-house-hovering-living-volume-spain/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/fran-silvestre-three-part-house-hovering-living-volume-spain-designboom-700-500x400-22b08q85r067.jpg",
+    "typology": [
+      "architecture",
+      "architecture in spain",
+      "fran silvestre arquitectos",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-28T06:00:57.000Z",
+    "ingested_at": "2026-03-28T06:04:12.782Z"
   }
 ]
