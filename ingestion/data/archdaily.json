@@ -2046,5 +2046,26 @@
     "material": [],
     "published_at": "2026-03-29T08:55:00.000Z",
     "ingested_at": "2026-03-29T14:38:43.401Z"
+  },
+  {
+    "id": "5743ee16-69c8-468b-a1e3-68670a99aadb",
+    "title": "The Extension Atelier",
+    "creator": "MAVA design",
+    "location": "Kyiv",
+    "country": "Ukraine",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040032/the-extension-atelier-mava-design",
+    "image_url": "https://images.adsttc.com/media/images/69c5/4477/d139/4600/01de/928b/medium_jpg/The_Extension_Atelier_Design_MAVA_design_Photo_Misha_Lukashuk_1_4.jpg?1774535864",
+    "typology": [
+      "Healthcare Architecture",
+      "Wellbeing",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-29T11:00:00.000Z",
+    "ingested_at": "2026-03-29T16:41:45.083Z"
   }
 ]
