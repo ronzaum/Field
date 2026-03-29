@@ -2067,5 +2067,23 @@
     "material": [],
     "published_at": "2026-03-29T11:00:00.000Z",
     "ingested_at": "2026-03-29T16:41:45.083Z"
+  },
+  {
+    "id": "344ec231-3dfe-4559-904f-b17105687bb8",
+    "title": "Paula's House",
+    "creator": "Luciano Kruk",
+    "location": "São Paulo",
+    "country": "Brasil",
+    "year": 2019,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039917/paulas-house-luciano-kruk",
+    "image_url": "https://images.adsttc.com/media/images/69ba/8a7d/6e66/7900/01ef/d8b2/medium_jpg/image__053m.jpg?1773832907",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-29T15:00:00.000Z",
+    "ingested_at": "2026-03-29T20:39:55.841Z"
   }
 ]
