@@ -1007,5 +1007,27 @@
     "material": [],
     "published_at": "2026-03-28T06:00:57.000Z",
     "ingested_at": "2026-03-28T06:04:12.782Z"
+  },
+  {
+    "id": "a73cc51c-b662-43f2-8149-7c338b40f159",
+    "title": "KWK promes encloses interior garden within triangular ‘trim house’ in vilnius",
+    "creator": "KWK Promes",
+    "location": "Vilnius",
+    "country": "Lithuania",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kwk-promes-interior-garden-triangular-trim-house-vilnius-lituania/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/trim-house-KWK-promes-vilnius-lithuania-designboom-700-500x400-22b08q85r150.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in lithuania",
+      "concrete architecture and design",
+      "KWK promes",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-29T08:00:17.000Z",
+    "ingested_at": "2026-03-29T08:52:30.212Z"
   }
 ]

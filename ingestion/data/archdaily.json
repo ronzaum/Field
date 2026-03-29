@@ -1989,5 +1989,23 @@
     "material": [],
     "published_at": "2026-03-28T21:00:00.000Z",
     "ingested_at": "2026-03-29T02:56:25.980Z"
+  },
+  {
+    "id": "2657b6c0-47fd-40b2-89af-4f21d6f6bf91",
+    "title": "BROWNIE/Project",
+    "creator": "Offhand Practice",
+    "location": "Room 105",
+    "country": "China",
+    "year": 2019,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039795/brownie-project-offhand-practice",
+    "image_url": "https://images.adsttc.com/media/images/69bb/9e9a/04e2/2c01/88fd/8dec/medium_jpg/brownie-project-offhand-practice_43.jpg?1773903729",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-29T02:00:00.000Z",
+    "ingested_at": "2026-03-29T08:52:29.354Z"
   }
 ]
