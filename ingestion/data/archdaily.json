@@ -2138,5 +2138,46 @@
     "material": [],
     "published_at": "2026-03-30T00:00:00.000Z",
     "ingested_at": "2026-03-30T06:01:13.068Z"
+  },
+  {
+    "id": "9ec6beb7-ca34-473d-bc69-b9cb9c844791",
+    "title": "Nanterre-Amandiers National Drama Center Renovation and Rehabilitation",
+    "creator": "Snøhetta",
+    "location": "Nanterre",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040035/nanterre-amandiers-national-drama-center-renovation-and-rehabilitation-snohetta",
+    "image_url": "https://images.adsttc.com/media/images/69c5/5deb/16ba/3f01/870d/f061/medium_jpg/nanterre-amandiers-national-drama-center-renovation-and-rehabilitation-snohetta_6.jpg?1774542352",
+    "typology": [
+      "Urbanism",
+      "Urban Design",
+      "Public Space",
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "theater",
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T03:00:00.000Z",
+    "ingested_at": "2026-03-30T08:23:06.404Z"
+  },
+  {
+    "id": "35b6b5a1-7796-4df5-b23d-c2bbb31b0e7a",
+    "title": "Messa House",
+    "creator": "UP2DATE architects",
+    "location": "Almaty",
+    "country": "Kazakhstan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1038740/messa-house-up2date-architects",
+    "image_url": "https://images.adsttc.com/media/images/698d/eac7/a4ec/4d00/01a7/e7da/medium_jpg/messa_up2date_hero01_toplennikova.jpg?1770908407",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T02:00:00.000Z",
+    "ingested_at": "2026-03-30T08:23:06.406Z"
   }
 ]
