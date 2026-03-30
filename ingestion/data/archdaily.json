@@ -2216,5 +2216,40 @@
     "material": [],
     "published_at": "2026-03-30T06:00:00.000Z",
     "ingested_at": "2026-03-30T11:56:28.873Z"
+  },
+  {
+    "id": "828b72ae-e08d-4db7-9b78-de6f18d111b9",
+    "title": "Ložionica Center for Creative Industries and Innovations and the House of e-Government",
+    "creator": "AKVS architecture",
+    "location": "Beograd",
+    "country": "Serbia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040129/lozionica-center-for-creative-industries-and-innovations-and-the-house-of-e-government-akvs-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69ca/47d9/88b5/3c00/0134/2110/medium_jpg/AKVS_Lozionica_photo_Milos_Martinovic_SEL01_13.jpg?1774864398",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T12:00:00.000Z",
+    "ingested_at": "2026-03-30T19:07:53.416Z"
+  },
+  {
+    "id": "a00f0ec4-1fa0-4eed-8632-3fa4455ba5be",
+    "title": "Casa GA",
+    "creator": "Archiplanstudio",
+    "location": "Gazzo",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040031/casa-ga-archiplanstudio",
+    "image_url": "https://images.adsttc.com/media/images/69c5/4425/d139/4600/01de/9285/medium_jpg/SIMONE_BOSSI___2026-111.jpg?1774535766",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T10:00:00.000Z",
+    "ingested_at": "2026-03-30T19:07:53.419Z"
   }
 ]
