@@ -2179,5 +2179,42 @@
     "material": [],
     "published_at": "2026-03-30T02:00:00.000Z",
     "ingested_at": "2026-03-30T08:23:06.406Z"
+  },
+  {
+    "id": "2766ed5c-8ca6-47ca-bdf6-b61de0c2ccc8",
+    "title": "Historical Oberamteistraße Museum",
+    "creator": "wulf architekten",
+    "location": "Reutlingen",
+    "country": "Germany",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039966/historical-oberamteistrasse-museum-wulf-architekten",
+    "image_url": "https://images.adsttc.com/media/images/69c3/cf6f/015c/4f00/015c/5800/medium_jpg/Historical_Oberamstra_e_Museum_251113013__Brigida_Gonz_lez_for_wulf_architekten.jpg?1774440364",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T07:00:00.000Z",
+    "ingested_at": "2026-03-30T11:56:28.870Z"
+  },
+  {
+    "id": "c2149a73-6234-4e32-847a-5b776db9e039",
+    "title": "East River Residence",
+    "creator": "Omar Gandhi Architects",
+    "location": "Nova Scotia",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039998/east-river-residence-omar-gandhi-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c4/3b22/00d4/f860/2aaf/1c46/medium_jpg/east-river-residence-omar-gandhi-architects_2.jpg?1774467921",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T06:00:00.000Z",
+    "ingested_at": "2026-03-30T11:56:28.873Z"
   }
 ]
