@@ -2120,5 +2120,23 @@
     "material": [],
     "published_at": "2026-03-29T17:00:00.000Z",
     "ingested_at": "2026-03-30T03:17:29.907Z"
+  },
+  {
+    "id": "eb258f9e-f0d6-46d9-8daf-f143592905d8",
+    "title": "Red Bridge Cabin",
+    "creator": "Wiki World + Advanced Architecture Lab",
+    "location": "Zhengzhou Airport Economy Zone",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040011/red-bridge-cabin-wiki-world-plus-advanced-architecture-lab",
+    "image_url": "https://images.adsttc.com/media/images/69c4/dfea/d139/4600/01de/9140/medium_jpg/12-_____Arch-Exist-51.jpg?1774510133",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T00:00:00.000Z",
+    "ingested_at": "2026-03-30T06:01:13.068Z"
   }
 ]
