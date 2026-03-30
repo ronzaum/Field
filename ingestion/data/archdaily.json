@@ -2251,5 +2251,22 @@
     "material": [],
     "published_at": "2026-03-30T10:00:00.000Z",
     "ingested_at": "2026-03-30T19:07:53.419Z"
+  },
+  {
+    "id": "5a6774d0-664a-4d55-a4a7-d37e72569b95",
+    "title": "Pamba Bike Shelter",
+    "creator": "URLO Studio",
+    "location": "Ascazubi",
+    "country": "Ecuador",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040099/pamba-bike-shelter-urlo-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c6/f6d2/03fa/f101/8996/977c/medium_jpg/refugio-pamba-bike-urlo-studio_1.jpg?1774647049",
+    "typology": [
+      "Sports Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T15:00:00.000Z",
+    "ingested_at": "2026-03-30T20:53:26.518Z"
   }
 ]
