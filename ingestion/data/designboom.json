@@ -1029,5 +1029,47 @@
     "material": [],
     "published_at": "2026-03-29T08:00:17.000Z",
     "ingested_at": "2026-03-29T08:52:30.212Z"
+  },
+  {
+    "id": "928211d3-d89f-446e-b88d-9797ff73f4b8",
+    "title": "317studio transforms taiwan classroom into forest-like learning space for scouting education",
+    "creator": "317studio",
+    "location": "Xizhi District",
+    "country": "Taiwan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/317studio-taiwan-classroom-forest-learning-space-scouting-education/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/317studio-taiwan-classroom-forest-learning-space-scouting-education-designboom-700-500x400-22b08q85r338.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in taiwan",
+      "children's spaces",
+      "renovation and restoration architecture and design",
+      "school architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T09:30:59.000Z",
+    "ingested_at": "2026-03-30T10:21:56.805Z"
+  },
+  {
+    "id": "6d5cc2ff-62a2-425d-9a4b-9dca1c05d327",
+    "title": "paul rudolph’s historical walker guest house returns in exhibition curated by A$AP rocky",
+    "creator": "Paul Rudolph",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/paul-rudolph-walker-guest-house-exhibition-curated-asap-rocky/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/paul-rudolph-historical-walker-guest-house-exhibition-AAP-rocky-designboom-700-500x400-22b08q85r406.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "exhibition design",
+      "paul rudolph"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T09:10:11.000Z",
+    "ingested_at": "2026-03-30T10:21:56.815Z"
   }
 ]
