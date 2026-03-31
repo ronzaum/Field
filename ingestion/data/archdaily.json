@@ -2359,5 +2359,59 @@
     "material": [],
     "published_at": "2026-03-31T03:00:00.000Z",
     "ingested_at": "2026-03-31T10:59:48.102Z"
+  },
+  {
+    "id": "5ada5691-fc40-4afd-9e9f-f7e6181d625e",
+    "title": "Sport Facilities inside a Squash Court",
+    "creator": "Estudio Úbeda Valero + Roque Carlos Valero",
+    "location": "Alacant",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039807/sport-facilities-inside-a-squash-court-estudio-ubeda-valero-plus-roque-carlos-valero",
+    "image_url": "https://images.adsttc.com/media/images/69bb/f03b/6d20/7e00/0123/6297/medium_jpg/04.jpg?1773925129",
+    "typology": [
+      "Sports Architecture",
+      "Recreation & Training"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T12:00:00.000Z",
+    "ingested_at": "2026-03-31T17:04:45.718Z"
+  },
+  {
+    "id": "ee1556c9-95f1-412e-ac24-d196070f5f2f",
+    "title": "Villa Lyla",
+    "creator": "SAOTA",
+    "location": "Nassau",
+    "country": "Bahamas",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040030/villa-lyla-saota",
+    "image_url": "https://images.adsttc.com/media/images/69c5/43ab/d139/4600/01de/9264/medium_jpg/BS_NAS_VillaLyla2_Ext_001_004_AL_bs_a_LR.jpg?1774535623",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T10:00:00.000Z",
+    "ingested_at": "2026-03-31T17:04:45.720Z"
+  },
+  {
+    "id": "4bfed99f-416f-4d6d-a5ae-fbd59601d0db",
+    "title": "Capuchinas House",
+    "creator": "LABarq",
+    "location": "Santiago de Querétaro",
+    "country": "México",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039990/capuchinas-house-labarq",
+    "image_url": "https://images.adsttc.com/media/images/69c3/afa2/015c/4f00/015c/5791/medium_jpg/04_Casa_Capuchinas_Laboratorio_de_Arquitectura_Foto_Ariadna_Polo.jpg?1774432186",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T07:00:00.000Z",
+    "ingested_at": "2026-03-31T17:04:45.723Z"
   }
 ]

@@ -1092,5 +1092,25 @@
     "material": [],
     "published_at": "2026-03-31T08:30:07.000Z",
     "ingested_at": "2026-03-31T09:08:25.231Z"
+  },
+  {
+    "id": "271b2fd3-c3dc-4db0-aeb4-594399ec8af1",
+    "title": "UNS plans new metro line as ‘urban river’ to flow throughout turin, italy",
+    "creator": "UNS",
+    "location": "Turin",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/uns-metro-line-urban-river-flow-turin-italy-settanta7/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/UNS-turin-metro-station-san-giovanni-bosco-italy-designboom-700-500x400-22b08q85r095.jpg",
+    "typology": [
+      "architecture",
+      "architecture in italy",
+      "public transportation",
+      "UNStudio"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T15:00:35.000Z",
+    "ingested_at": "2026-03-31T17:04:46.618Z"
   }
 ]
