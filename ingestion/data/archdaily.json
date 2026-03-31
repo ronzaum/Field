@@ -2305,5 +2305,23 @@
     "material": [],
     "published_at": "2026-03-31T00:00:00.000Z",
     "ingested_at": "2026-03-31T05:15:15.690Z"
+  },
+  {
+    "id": "89ef2354-58f6-427e-a78f-9af02563e4ba",
+    "title": "V House",
+    "creator": "23o5Studio",
+    "location": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040086/v-house-23o5studio",
+    "image_url": "https://images.adsttc.com/media/images/69c6/960b/88b5/3c00/0134/2019/medium_jpg/0263.jpg?1774622423",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T02:00:00.000Z",
+    "ingested_at": "2026-03-31T07:24:51.294Z"
   }
 ]
