@@ -2268,5 +2268,23 @@
     "material": [],
     "published_at": "2026-03-30T15:00:00.000Z",
     "ingested_at": "2026-03-30T20:53:26.518Z"
+  },
+  {
+    "id": "275cc743-4f52-44f0-8b38-855e593b8700",
+    "title": "Hopetoun  House",
+    "creator": "FGR Architects",
+    "location": "Toorak in Melbourne",
+    "country": "Australia",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040093/hopetoun-house-fgr-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c6/d530/03fa/f16c/bd43/1ea8/medium_jpg/the-hopetoun-house-fgr-architects_36.jpg?1774638410",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-30T19:00:00.000Z",
+    "ingested_at": "2026-03-31T02:51:18.974Z"
   }
 ]
