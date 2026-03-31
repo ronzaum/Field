@@ -2413,5 +2413,23 @@
     "material": [],
     "published_at": "2026-03-31T07:00:00.000Z",
     "ingested_at": "2026-03-31T17:04:45.723Z"
+  },
+  {
+    "id": "8a6e0789-0d4d-40eb-813d-8161bc05b427",
+    "title": "Perobinha House",
+    "creator": "PORO Arquitetura",
+    "location": "Praia de Peroba",
+    "country": "Brazil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69c3/36e6/0dd2/df01/865f/5189/medium_jpg/casa-perobinha-poro-arquitetura_21.jpg?1774401266",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T15:00:00.000Z",
+    "ingested_at": "2026-03-31T20:50:26.865Z"
   }
 ]

@@ -173,5 +173,24 @@
     "material": [],
     "published_at": "2026-03-27T11:00:20.000Z",
     "ingested_at": "2026-03-27T13:19:21.362Z"
+  },
+  {
+    "id": "3126aeb0-151d-4453-9194-46cd22ea6f72",
+    "title": "White House ballroom project temporarily halted",
+    "creator": "judge",
+    "location": "News",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/03/31/white-house-ballroom-project-temporarily-halted-by-judge/",
+    "image_url": "http://static.dezeen.com/uploads/2026/02/east-wing-white-house-commission-of-fine-arts_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Donald Trump",
+      "White House"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T19:55:33.000Z",
+    "ingested_at": "2026-03-31T20:50:27.150Z"
   }
 ]
