@@ -1071,5 +1071,26 @@
     "material": [],
     "published_at": "2026-03-30T09:10:11.000Z",
     "ingested_at": "2026-03-30T10:21:56.815Z"
+  },
+  {
+    "id": "4a2a117e-6069-49ae-92b7-da4deadc8645",
+    "title": "philippe starck plans nhà estate as a coastal village of breezy villas in vietnam",
+    "creator": "Philippe Starck",
+    "location": "Ho Tram",
+    "country": "Vietnam",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/philippe-starck-nha-estate-coastal-village-villas-vietnam-ho-tram/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/03/nha-estate-philippe-starck-vietnam-designboom-700-500x400-22b08q85r517.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in vietnam",
+      "philippe starck",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T08:30:07.000Z",
+    "ingested_at": "2026-03-31T09:08:25.231Z"
   }
 ]
