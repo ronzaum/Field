@@ -2286,5 +2286,24 @@
     "material": [],
     "published_at": "2026-03-30T19:00:00.000Z",
     "ingested_at": "2026-03-31T02:51:18.974Z"
+  },
+  {
+    "id": "dd073a60-f0d3-4d72-85ad-87e57b661893",
+    "title": "Scarlet Pavilion",
+    "creator": "DUHA Architects",
+    "location": "Hue",
+    "country": "Vietnam",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects",
+    "image_url": "https://images.adsttc.com/media/images/69ca/906f/8ecf/0f01/7f99/d560/medium_jpg/scarlet-pavilion-duha-architects_31.jpg?1774882946",
+    "typology": [
+      "Hospitality Architecture",
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T00:00:00.000Z",
+    "ingested_at": "2026-03-31T05:15:15.690Z"
   }
 ]
