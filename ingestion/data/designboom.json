@@ -1198,5 +1198,25 @@
     "material": [],
     "published_at": "2026-04-01T10:50:25.000Z",
     "ingested_at": "2026-04-01T11:03:34.273Z"
+  },
+  {
+    "id": "4618f0d5-554d-4412-a0fd-97aad2b078b3",
+    "title": "only human draws from chinese landscape paintings to design this bangkok home",
+    "creator": "Only Human",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/only-human-draws-from-chinese-landscape-paintings-to-design-this-bangkok-home/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/only-human-h168-house-thailand-designboom-700-500x400-22b08q85r165.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in thailand",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T16:30:40.000Z",
+    "ingested_at": "2026-04-01T17:02:30.569Z"
   }
 ]

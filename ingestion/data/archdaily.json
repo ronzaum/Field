@@ -2543,5 +2543,44 @@
     "material": [],
     "published_at": "2026-04-01T07:00:00.000Z",
     "ingested_at": "2026-04-01T15:11:16.264Z"
+  },
+  {
+    "id": "a8a242ae-e408-4f5e-90ee-2e4ace60a8d0",
+    "title": "New Nursery School in Bergamo",
+    "creator": "Studio Capitanio Architetti",
+    "location": "Romano di Lombardia",
+    "country": "Italy",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040246/new-nursery-school-in-bergamo-studio-capitanio-architetti",
+    "image_url": "https://images.adsttc.com/media/images/69cc/eacd/88b5/3c00/0134/23fc/medium_jpg/18_Asilo_Arcobaleno_ph_ST.jpg?1775037156",
+    "typology": [
+      "Educational Architecture",
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T12:00:00.000Z",
+    "ingested_at": "2026-04-01T17:02:29.194Z"
+  },
+  {
+    "id": "0fb2257d-ad6e-4491-b251-2c6c9abb2680",
+    "title": "Apartment A",
+    "creator": "heros",
+    "location": "Paris",
+    "country": "France",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040127/apartment-a",
+    "image_url": "https://images.adsttc.com/media/images/69ca/4571/88b5/3c00/0134/20d0/medium_jpg/043_COM_PHOTO_014.jpg?1774863780",
+    "typology": [
+      "Residential Architecture",
+      "Refurbishment",
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T10:00:00.000Z",
+    "ingested_at": "2026-04-01T17:02:29.196Z"
   }
 ]
