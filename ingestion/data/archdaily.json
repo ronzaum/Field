@@ -2449,5 +2449,24 @@
     "material": [],
     "published_at": "2026-03-31T19:00:00.000Z",
     "ingested_at": "2026-04-01T03:21:30.195Z"
+  },
+  {
+    "id": "1c897876-8823-41fc-9c33-2f1b87732bed",
+    "title": "Light House",
+    "creator": "Studioninedots",
+    "location": "Centrumeiland",
+    "country": "The Netherlands",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039959/light-house-studioninedots",
+    "image_url": "https://images.adsttc.com/media/images/69c6/62ee/03fa/f101/8996/923b/medium_jpg/light-house-studioninedots_21.jpg?1774609147",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T00:00:00.000Z",
+    "ingested_at": "2026-04-01T05:58:26.070Z"
   }
 ]
