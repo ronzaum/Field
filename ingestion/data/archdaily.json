@@ -2524,5 +2524,24 @@
     "material": [],
     "published_at": "2026-04-01T06:00:00.000Z",
     "ingested_at": "2026-04-01T11:03:33.418Z"
+  },
+  {
+    "id": "1f97cb21-8091-4cb2-9b9b-93a1460efeb1",
+    "title": "Flow Third Place",
+    "creator": "Office Zola architectes",
+    "location": "Vannes",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040092/flow-third-place-office-zola-architectes",
+    "image_url": "https://images.adsttc.com/media/images/69c6/cd6a/bacd/cd01/89fe/b522/medium_jpg/flow-third-place-office-zola-architectes_4.jpg?1774636460",
+    "typology": [
+      "Mixed Use Architecture",
+      "Offices",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T07:00:00.000Z",
+    "ingested_at": "2026-04-01T15:11:16.264Z"
   }
 ]
