@@ -2431,5 +2431,23 @@
     "material": [],
     "published_at": "2026-03-31T15:00:00.000Z",
     "ingested_at": "2026-03-31T20:50:26.865Z"
+  },
+  {
+    "id": "75a1cbb1-5cc9-442d-85ea-fd2054e9afc4",
+    "title": "H168 House",
+    "creator": "Only Human",
+    "location": "Khet Thawi Watthana",
+    "country": "Thailand",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040191/h168-house-only-human",
+    "image_url": "https://images.adsttc.com/media/images/69cb/95cd/88b5/3c00/0134/22b8/medium_jpg/H168-01.jpg?1774949923",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-03-31T19:00:00.000Z",
+    "ingested_at": "2026-04-01T03:21:30.195Z"
   }
 ]
