@@ -2582,5 +2582,23 @@
     "material": [],
     "published_at": "2026-04-01T10:00:00.000Z",
     "ingested_at": "2026-04-01T17:02:29.196Z"
+  },
+  {
+    "id": "e7caf3bc-f688-4c94-920a-52b44e992506",
+    "title": "LUAA House",
+    "creator": "Ana Smud",
+    "location": "Vicente López",
+    "country": "Argentina",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039532/luaa-house-ana-smud",
+    "image_url": "https://images.adsttc.com/media/images/69b1/39ea/314f/6601/8902/c463/medium_jpg/casa-luaa-ana-smud_22.jpg?1773222395",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T15:00:00.000Z",
+    "ingested_at": "2026-04-01T20:52:40.816Z"
   }
 ]
