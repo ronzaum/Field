@@ -2468,5 +2468,43 @@
     "material": [],
     "published_at": "2026-04-01T00:00:00.000Z",
     "ingested_at": "2026-04-01T05:58:26.070Z"
+  },
+  {
+    "id": "1e3a266e-ceae-4dea-84c3-480fd694c232",
+    "title": "House in the City",
+    "creator": "James Allen Architect",
+    "location": "Adelaide",
+    "country": "Australia",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040202/house-in-the-city-james-allen-architect",
+    "image_url": "https://images.adsttc.com/media/images/69cb/f270/8ecf/0f01/7f99/d9a8/medium_jpg/house-in-the-city-james-allen-architect_7.jpg?1774973579",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T03:00:00.000Z",
+    "ingested_at": "2026-04-01T07:47:35.344Z"
+  },
+  {
+    "id": "38ab4de3-553d-4d8c-bbe2-9f123780bc2c",
+    "title": "A Local Renewal of Fushan Coffee",
+    "creator": "MINOR lab",
+    "location": "Haikou",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040177/a-local-renewal-of-fushan-coffee-minor-lab",
+    "image_url": "https://images.adsttc.com/media/images/69cb/5263/88b5/3c00/0134/2253/medium_jpg/003.jpg?1774932601",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-01T02:00:00.000Z",
+    "ingested_at": "2026-04-01T07:47:35.346Z"
   }
 ]
