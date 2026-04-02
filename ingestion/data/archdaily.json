@@ -2729,5 +2729,22 @@
     "material": [],
     "published_at": "2026-04-02T10:00:00.000Z",
     "ingested_at": "2026-04-02T15:02:09.606Z"
+  },
+  {
+    "id": "6d42d5b7-9852-4add-9fa0-299cf998134b",
+    "title": "Wave 4 & 5 - ECR Health Care Complex",
+    "creator": "FAAB",
+    "location": "Sopot",
+    "country": "Poland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040244/wave-4-and-5-ecr-health-care-complex-faab",
+    "image_url": "https://images.adsttc.com/media/images/69cc/e802/88b5/3c00/0134/23b6/medium_jpg/_FAAB-250405_WAVE45_7148-7150-JC.jpg?1775036468",
+    "typology": [
+      "Healthcare Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T12:00:00.000Z",
+    "ingested_at": "2026-04-02T19:04:05.983Z"
   }
 ]
