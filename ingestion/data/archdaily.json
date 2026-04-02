@@ -2654,5 +2654,25 @@
     "material": [],
     "published_at": "2026-04-02T00:00:00.000Z",
     "ingested_at": "2026-04-02T07:21:37.027Z"
+  },
+  {
+    "id": "2eed7303-81d1-45bc-bdf1-28f6ea512547",
+    "title": "Zara Store at Rossio",
+    "creator": "Contacto Atlântico",
+    "location": "Lisboa",
+    "country": "Portugal",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040257/zara-store-at-rossio-contacto-atlantico",
+    "image_url": "https://images.adsttc.com/media/images/69c6/7dbd/88b5/3c00/0134/1fb1/medium_jpg/10.jpg?1774616152",
+    "typology": [
+      "Commercial Architecture",
+      "Retail",
+      "Store",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T03:00:00.000Z",
+    "ingested_at": "2026-04-02T09:05:47.049Z"
   }
 ]
