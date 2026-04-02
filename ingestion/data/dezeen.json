@@ -214,5 +214,29 @@
     "material": [],
     "published_at": "2026-04-01T09:30:56.000Z",
     "ingested_at": "2026-04-01T11:03:33.628Z"
+  },
+  {
+    "id": "4e341ed1-9e1f-4f9e-9a29-3c9e52986651",
+    "title": "Timber bird hides inform Irish cottage extension",
+    "creator": "Architectural Farm",
+    "location": "Cottages",
+    "country": "Ireland",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/04/02/seagull-cottage-architectural-farm/",
+    "image_url": "http://static.dezeen.com/uploads/2026/04/seagull-cottage-wicklowireland-cottage-extension-ireland-architectural-farm-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Wooden architecture",
+      "Architectural Farm",
+      "Extensions",
+      "Houses",
+      "Residential extensions",
+      "Irish houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T10:30:01.000Z",
+    "ingested_at": "2026-04-02T11:52:42.214Z"
   }
 ]
