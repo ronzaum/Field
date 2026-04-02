@@ -1261,5 +1261,26 @@
     "material": [],
     "published_at": "2026-04-02T10:30:14.000Z",
     "ingested_at": "2026-04-02T10:57:26.765Z"
+  },
+  {
+    "id": "46806e59-44d9-47f5-8bb1-6fb7009e367b",
+    "title": "atelier guo inserts cinema into an ancestral hall in china without touching its past",
+    "creator": "Atelier Guo",
+    "location": "Nanping Village",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/atelier-guo-cinema-ancestral-hall-china-past/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/atelier-guo-cinema-ancestral-hall-china-past-designboom-700-500x400-22b08q85r645.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in china",
+      "cinemas",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T14:00:00.000Z",
+    "ingested_at": "2026-04-02T15:02:10.896Z"
   }
 ]

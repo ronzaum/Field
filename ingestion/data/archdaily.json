@@ -2710,5 +2710,24 @@
     "material": [],
     "published_at": "2026-04-02T07:00:00.000Z",
     "ingested_at": "2026-04-02T13:27:09.420Z"
+  },
+  {
+    "id": "939e0625-e044-48f4-b97d-00ed662a276e",
+    "title": "House in Penumbra",
+    "creator": "Teleno Studio",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040022/casa-en-penumbra-teleno-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c5/104c/d139/4600/01de/9225/medium_jpg/01_living_room_main.jpg?1774522471",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T10:00:00.000Z",
+    "ingested_at": "2026-04-02T15:02:09.606Z"
   }
 ]
