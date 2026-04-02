@@ -2674,5 +2674,23 @@
     "material": [],
     "published_at": "2026-04-02T03:00:00.000Z",
     "ingested_at": "2026-04-02T09:05:47.049Z"
+  },
+  {
+    "id": "e1c813f8-c8ba-4b8c-911d-d24fa48165dc",
+    "title": "Toward the Sun Summerhouse",
+    "creator": "Tassos Biris - Sofia Tsiraki & Associate Architects",
+    "location": "Agios Georgios",
+    "country": "Greece",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040245/toward-the-sun-summerhouse-tassos-biris-sofia-tsiraki-and-associate-architects",
+    "image_url": "https://images.adsttc.com/media/images/69cc/e872/88b5/3c00/0134/23c8/medium_jpg/MARIANA_BISTI_DJI_0048.jpg?1775036548",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T06:00:00.000Z",
+    "ingested_at": "2026-04-02T10:57:26.054Z"
   }
 ]

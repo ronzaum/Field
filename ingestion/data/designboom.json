@@ -1242,5 +1242,24 @@
     "material": [],
     "published_at": "2026-04-02T02:00:53.000Z",
     "ingested_at": "2026-04-02T02:47:39.039Z"
+  },
+  {
+    "id": "f66383f6-7968-4006-9ced-84547dd35450",
+    "title": "ensamble studio explores primitive futures through material experimentation",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ensamble-studio-primitive-futures-material-experimentation/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/ensamble-studio-primitive-futures-material-experimentation-designboom-700-500x400-22b08q85r517.jpg",
+    "typology": [
+      "architecture",
+      "ensamble studio",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T10:30:14.000Z",
+    "ingested_at": "2026-04-02T10:57:26.765Z"
   }
 ]
