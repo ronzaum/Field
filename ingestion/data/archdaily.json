@@ -2692,5 +2692,23 @@
     "material": [],
     "published_at": "2026-04-02T06:00:00.000Z",
     "ingested_at": "2026-04-02T10:57:26.054Z"
+  },
+  {
+    "id": "73596c6a-6a2c-4252-abaa-adf527bf8357",
+    "title": "Xuanpu Pavilion",
+    "creator": "UAD",
+    "location": "No. 1 Zheda Road",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040130/xuanpu-pavilion-uad",
+    "image_url": "https://images.adsttc.com/media/images/69ca/4d10/bacd/cd2f/1b78/112c/medium_jpg/xuanpu-pavilion-uad_7.jpg?1774865693",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T07:00:00.000Z",
+    "ingested_at": "2026-04-02T13:27:09.420Z"
   }
 ]
