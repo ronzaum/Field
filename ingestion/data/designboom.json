@@ -1282,5 +1282,26 @@
     "material": [],
     "published_at": "2026-04-02T14:00:00.000Z",
     "ingested_at": "2026-04-02T15:02:10.896Z"
+  },
+  {
+    "id": "b69f8967-b4a2-40fa-acf5-1ed56aa79850",
+    "title": "glass block facade wraps studioninedots’ playfully stacked box residence in amsterdam",
+    "creator": "Studioninedots",
+    "location": "Centrumeiland",
+    "country": "Netherlands",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/glass-block-facade-studioninedots-playfully-stacked-box-residence-amsterdam-light-house/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/glass-block-facade-studioninedots-playfully-stacked-box-residence-amsterdam-light-house-designboom-700-500x400-22b08q85r246.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the netherlands",
+      "residential architecture and interiors",
+      "studioninedots"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T15:30:35.000Z",
+    "ingested_at": "2026-04-02T17:01:42.965Z"
   }
 ]
