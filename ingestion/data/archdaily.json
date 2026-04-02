@@ -2746,5 +2746,24 @@
     "material": [],
     "published_at": "2026-04-02T12:00:00.000Z",
     "ingested_at": "2026-04-02T19:04:05.983Z"
+  },
+  {
+    "id": "eee0180c-7fe0-417c-b379-fa0f5171b2e2",
+    "title": "Renovation of the Ground Floor of the Prudência Building",
+    "creator": "Gui Paoliello Arquiteto",
+    "location": "Consolação",
+    "country": "Brasil",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039762/renovation-of-the-ground-floor-of-the-prudencia-building-gui-paoliello-arquiteto",
+    "image_url": "https://images.adsttc.com/media/images/69b4/caef/1d07/d400/0132/45d1/medium_jpg/09-2.jpg?1773457096",
+    "typology": [
+      "Residential Architecture",
+      "Refurbishment",
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T15:00:00.000Z",
+    "ingested_at": "2026-04-02T21:43:54.382Z"
   }
 ]

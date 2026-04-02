@@ -1303,5 +1303,23 @@
     "material": [],
     "published_at": "2026-04-02T15:30:35.000Z",
     "ingested_at": "2026-04-02T17:01:42.965Z"
+  },
+  {
+    "id": "692580e4-d110-44b1-9a8e-b48206668531",
+    "title": "ten architect-designed birdwatching stations that shape how we observe nature",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ten-architect-design-birdwatching-stations-observe-nature/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/birdwatching-roundup-designboom-700-500x400-22b08q85r607.jpg",
+    "typology": [
+      "architecture",
+      "observatory architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T21:00:13.000Z",
+    "ingested_at": "2026-04-02T21:43:55.225Z"
   }
 ]
