@@ -2928,5 +2928,23 @@
     "material": [],
     "published_at": "2026-04-03T15:00:00.000Z",
     "ingested_at": "2026-04-03T20:42:49.352Z"
+  },
+  {
+    "id": "988d17a9-00d3-40a8-9532-dd5fac3e5f47",
+    "title": "Waiheke House",
+    "creator": "Cheshire Architects",
+    "location": "Waiheke Island",
+    "country": "New Zealand",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040300/waiheke-house-cheshire-architects",
+    "image_url": "https://images.adsttc.com/media/images/69ce/460d/a301/fc11/95c2/cc57/medium_jpg/waiheke-house-cheshire-architects_14.jpg?1775126056",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-03T19:00:00.000Z",
+    "ingested_at": "2026-04-03T23:40:03.440Z"
   }
 ]
