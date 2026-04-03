@@ -2837,5 +2837,42 @@
     "material": [],
     "published_at": "2026-04-03T02:00:00.000Z",
     "ingested_at": "2026-04-03T09:01:43.458Z"
+  },
+  {
+    "id": "91363ae3-585e-4746-b5a3-1b0abe2a5b91",
+    "title": "The Prairie House",
+    "creator": "Hoem + Folstad Arkitekter",
+    "location": "Åkrehamn",
+    "country": "Norway",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040034/the-prairie-house-hoem-plus-folstad-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/69c5/4be5/f5a5/f164/e4d6/4c62/medium_jpg/the-prairie-house-hoem-plus-folstad-arkitekter_25.jpg?1774537719",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-03T07:00:00.000Z",
+    "ingested_at": "2026-04-03T11:41:09.283Z"
+  },
+  {
+    "id": "5b43ffe2-4642-4534-9172-9a9a3f2a14d4",
+    "title": "Kaloki Nyamai Studio",
+    "creator": "Adjaye Associates",
+    "location": "Nairobi",
+    "country": "Kenya",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040273/kaloki-nyamai-studio-adjaye-associates",
+    "image_url": "https://images.adsttc.com/media/images/69cd/b360/a301/fc2f/d46d/1039/medium_jpg/kaloki-nyamai-studio-adjaye-associates_17.jpg?1775088514",
+    "typology": [
+      "Mixed Use Architecture",
+      "Other",
+      "Other Structures"
+    ],
+    "material": [],
+    "published_at": "2026-04-03T06:00:00.000Z",
+    "ingested_at": "2026-04-03T11:41:09.285Z"
   }
 ]
