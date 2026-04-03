@@ -2783,5 +2783,23 @@
     "material": [],
     "published_at": "2026-04-02T19:00:00.000Z",
     "ingested_at": "2026-04-03T02:50:19.186Z"
+  },
+  {
+    "id": "f8ae4bc6-5597-4b9a-abca-253ac63c1717",
+    "title": "Flipmod",
+    "creator": "Ambit Narrative Design (A.N.D)",
+    "location": "Foshan",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040247/flipmod-ambit-narrative-design-and",
+    "image_url": "https://images.adsttc.com/media/images/69cc/ee13/a301/fc01/89d9/e0a7/medium_jpg/flipmod-ambit-narrative-design-and_15.jpg?1775038051",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-03T00:00:00.000Z",
+    "ingested_at": "2026-04-03T05:10:30.562Z"
   }
 ]
