@@ -1321,5 +1321,26 @@
     "material": [],
     "published_at": "2026-04-02T21:00:13.000Z",
     "ingested_at": "2026-04-02T21:43:55.225Z"
+  },
+  {
+    "id": "f0d55375-1c2a-462f-b248-0f1485cd87b3",
+    "title": "‘architecture begins from the memory of a place’: tsuyoshi tane on archaeology of the future",
+    "creator": "ATTA – Atelier Tsuyoshi Tane Architects",
+    "location": "louisiana museum of modern art",
+    "country": "denmark",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/architecture-begins-from-the-memory-of-a-place-tsuyoshi-tane-on-archaeology-of-the-future/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/7-©Camilla-Stephan-Louisiana-Museum-of-Modern-Art-1-1-500x400-22b08q85r818.jpg",
+    "typology": [
+      "architecture",
+      "architecture interviews",
+      "atelier tsuyoshi tane",
+      "interviews",
+      "utopia then and now"
+    ],
+    "material": [],
+    "published_at": "2026-04-03T10:47:11.000Z",
+    "ingested_at": "2026-04-03T10:49:56.827Z"
   }
 ]
