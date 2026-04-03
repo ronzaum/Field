@@ -2765,5 +2765,23 @@
     "material": [],
     "published_at": "2026-04-02T15:00:00.000Z",
     "ingested_at": "2026-04-02T21:43:54.382Z"
+  },
+  {
+    "id": "aa0271e3-3dc7-44db-a675-99d1b363e189",
+    "title": "Dusit Le Palais Tu Hoa Hotel",
+    "creator": "Baumschlager Eberle Architekten",
+    "location": "Au Co Street",
+    "country": "Vietnam",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040228/dusit-le-palais-tu-hoa-hotel-baumschlager-eberle-architekten",
+    "image_url": "https://images.adsttc.com/media/images/69cc/732f/bacd/cd01/89fe/c1df/medium_jpg/dusit-le-palais-tu-hoa-hotel-baumschlager-eberle-architekten_10.jpg?1775006596",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-04-02T19:00:00.000Z",
+    "ingested_at": "2026-04-03T02:50:19.186Z"
   }
 ]
