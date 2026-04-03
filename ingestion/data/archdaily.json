@@ -2801,5 +2801,41 @@
     "material": [],
     "published_at": "2026-04-03T00:00:00.000Z",
     "ingested_at": "2026-04-03T05:10:30.562Z"
+  },
+  {
+    "id": "1e74fa38-18be-43d0-b50c-f37095ccdeae",
+    "title": "Las Vegas Park",
+    "creator": "Gustavo González Galarza",
+    "location": "Portoviejo",
+    "country": "Ecuador",
+    "year": 2018,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039993/las-vegas-park-gustavo-gonzalez-galarza",
+    "image_url": "https://images.adsttc.com/media/images/69a6/b7c9/1d07/d400/0132/38e0/medium_jpg/CAPA-FS-JPEG-MD_Media-parque_las_vegas_portoviejo_ec-21.jpg?1772533724",
+    "typology": [
+      "Landscape Architecture",
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-04-03T03:00:00.000Z",
+    "ingested_at": "2026-04-03T09:01:43.456Z"
+  },
+  {
+    "id": "019d04ce-e014-416f-ba9f-4250b8c670a8",
+    "title": "Henville Street House",
+    "creator": "Philip Stejskal Architecture",
+    "location": "Fremantle",
+    "country": "Australia",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040250/henville-street-house-philip-stejskal-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69cd/0407/a301/fc01/89d9/e0cf/medium_jpg/henville-street-house-philip-stejskal-architecture_2.jpg?1775043629",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-03T02:00:00.000Z",
+    "ingested_at": "2026-04-03T09:01:43.458Z"
   }
 ]
