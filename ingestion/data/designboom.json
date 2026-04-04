@@ -1363,5 +1363,28 @@
     "material": [],
     "published_at": "2026-04-03T13:00:35.000Z",
     "ingested_at": "2026-04-03T13:15:40.227Z"
+  },
+  {
+    "id": "9bf5d29a-c9bd-4e38-8fe3-b90cdbaf2bba",
+    "title": "a cluster of gable-roofed homes clad in larch wood shingles unfolds along volga river",
+    "creator": "Alexander Tischler LLC",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/cluster-gable-roofed-homes-larch-wood-shingles-volga-river-alexander-tischler/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/scaly-house-alexander-tischler-llc-russia-volga-river-gable-roofed-homes-larch-wood-shingles-designboom-700-500x400-22b08q85r358.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in russia",
+      "facades",
+      "residential architecture and interiors",
+      "rooftop architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-04T13:00:09.000Z",
+    "ingested_at": "2026-04-04T13:07:42.816Z"
   }
 ]
