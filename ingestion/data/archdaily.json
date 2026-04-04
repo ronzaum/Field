@@ -2983,5 +2983,24 @@
     "material": [],
     "published_at": "2026-04-04T06:00:00.000Z",
     "ingested_at": "2026-04-04T13:07:42.062Z"
+  },
+  {
+    "id": "ce70f66a-7f90-4d96-bd85-366ea24b5198",
+    "title": "Infante House",
+    "creator": "Blaanc",
+    "location": "Lisboa",
+    "country": "Portugal",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039988/infante-house-blaanc",
+    "image_url": "https://images.adsttc.com/media/images/69b2/21a1/1d07/d400/0132/4390/medium_jpg/INFSANTO_LNG_BLAANC-4_2.jpg?1773281783",
+    "typology": [
+      "Residential Architecture",
+      "Interior Design",
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-04T09:00:00.000Z",
+    "ingested_at": "2026-04-04T14:38:26.161Z"
   }
 ]
