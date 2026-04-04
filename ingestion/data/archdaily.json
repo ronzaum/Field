@@ -2946,5 +2946,23 @@
     "material": [],
     "published_at": "2026-04-03T19:00:00.000Z",
     "ingested_at": "2026-04-03T23:40:03.440Z"
+  },
+  {
+    "id": "0af812f3-e021-4322-8b3d-eefcc5eb606b",
+    "title": "Single Person",
+    "creator": "Offhand Practice",
+    "location": "No. 185 Yongkang Road",
+    "country": "China",
+    "year": 2019,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039794/single-person-offhand-practice",
+    "image_url": "https://images.adsttc.com/media/images/69bb/9437/6d20/7e00/0123/61f4/medium_jpg/__2-centre_gallery.jpg?1773900984",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-04T02:00:00.000Z",
+    "ingested_at": "2026-04-04T07:50:55.205Z"
   }
 ]
