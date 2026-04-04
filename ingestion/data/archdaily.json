@@ -3040,5 +3040,23 @@
     "material": [],
     "published_at": "2026-04-04T15:00:00.000Z",
     "ingested_at": "2026-04-04T20:39:07.900Z"
+  },
+  {
+    "id": "0d6470a4-5d7f-4541-936c-36b5ef742252",
+    "title": "Abbie Abbotsford Terrace",
+    "creator": "Eckersley Architects",
+    "location": "Abbotsford",
+    "country": "Australia",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040161/abbie-abbotsford-terrace-eckersley-architects",
+    "image_url": "https://images.adsttc.com/media/images/69ca/98df/8ecf/0f01/7f99/d58a/medium_jpg/abbie-abbotsford-terrace-eckersley-architects_6.jpg?1774885097",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-04T17:00:00.000Z",
+    "ingested_at": "2026-04-04T23:37:09.801Z"
   }
 ]
