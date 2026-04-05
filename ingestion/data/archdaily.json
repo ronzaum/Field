@@ -3112,5 +3112,23 @@
     "material": [],
     "published_at": "2026-04-05T06:00:00.000Z",
     "ingested_at": "2026-04-05T11:35:29.705Z"
+  },
+  {
+    "id": "a39cfdee-bbe9-4935-b2c4-775680eda8f9",
+    "title": "House in Cervelló",
+    "creator": "arqbag",
+    "location": "Cervelló",
+    "country": "España",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040078/house-in-cervello-arqbag",
+    "image_url": "https://images.adsttc.com/media/images/69c5/0201/f5a5/f101/893f/4f89/medium_jpg/house-in-cervello-arqbag_20.jpg?1774518808",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T09:00:00.000Z",
+    "ingested_at": "2026-04-05T13:09:53.540Z"
   }
 ]
