@@ -3058,5 +3058,23 @@
     "material": [],
     "published_at": "2026-04-04T17:00:00.000Z",
     "ingested_at": "2026-04-04T23:37:09.801Z"
+  },
+  {
+    "id": "e9cf43d7-af63-4bf1-a9e2-5d8ac7e50ff5",
+    "title": "Sunrise Garden Restaurant",
+    "creator": "M9 Design Studio",
+    "location": "Bengaluru",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040320/sunrise-garden-restaurant-m9-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/69ce/6fe4/ae7d/2901/8861/6671/medium_jpg/sunrise-garden-restaurant-m9-design-studio_23.jpg?1775136747",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars"
+    ],
+    "material": [],
+    "published_at": "2026-04-04T21:00:00.000Z",
+    "ingested_at": "2026-04-05T03:16:18.991Z"
   }
 ]
