@@ -3094,5 +3094,23 @@
     "material": [],
     "published_at": "2026-04-05T02:00:00.000Z",
     "ingested_at": "2026-04-05T07:15:17.717Z"
+  },
+  {
+    "id": "dffb446d-298d-46ad-9cfb-4d7956ccf107",
+    "title": "Zdar Wooden Housing",
+    "creator": "Kuba & Pilar architekti",
+    "location": "Žďár nad Sázavou",
+    "country": "Czechia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040230/zdar-wooden-housing-kuba-and-pilar-architekti",
+    "image_url": "https://images.adsttc.com/media/images/69cc/80ba/03fa/f106/6595/0661/medium_jpg/zdar-wooden-housing-kuba-and-pilar-architekti_4.jpg?1775009998",
+    "typology": [
+      "Residential Architecture",
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T06:00:00.000Z",
+    "ingested_at": "2026-04-05T11:35:29.705Z"
   }
 ]
