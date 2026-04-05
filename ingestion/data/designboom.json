@@ -1408,5 +1408,29 @@
     "material": [],
     "published_at": "2026-04-05T14:00:34.000Z",
     "ingested_at": "2026-04-05T14:39:44.965Z"
+  },
+  {
+    "id": "24f1647b-86b0-4414-bef5-5196137b918e",
+    "title": "former sewage tank transforms into minimal geometric apartment in amsterdam",
+    "creator": "PLNLstudio",
+    "location": "Amsterdam",
+    "country": "the Netherlands",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/former-sewage-tank-minimal-geometric-apartment-amsterdam-trommel-no-4-plnlstudio/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/plnlstudio-sewage-tank-trommel-no-4-apartment-amsterdam-designboom-700-500x400-22b08q85r008.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the netherlands",
+      "concrete architecture and design",
+      "interiors",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "steel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T23:30:06.000Z",
+    "ingested_at": "2026-04-05T23:39:57.467Z"
   }
 ]
