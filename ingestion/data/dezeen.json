@@ -238,5 +238,26 @@
     "material": [],
     "published_at": "2026-04-02T10:30:01.000Z",
     "ingested_at": "2026-04-02T11:52:42.214Z"
+  },
+  {
+    "id": "72269289-32a3-43d9-adb7-ad2cc1244387",
+    "title": "Arts and Crafts details enliven London housing",
+    "creator": "Metropolitan Workshop",
+    "location": "Housing",
+    "country": "UK",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/04/05/farmstead-road-metropolitan-workshop/",
+    "image_url": "http://static.dezeen.com/uploads/2026/03/phoenix-community-housing-metropolitan-workshop-architecture-residential-london-uk_dezeen_2364_sq2-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Low-cost housing",
+      "London",
+      "Residential architecture and interiors",
+      "Metropolitan Workshop"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T10:00:11.000Z",
+    "ingested_at": "2026-04-05T10:40:46.106Z"
   }
 ]
