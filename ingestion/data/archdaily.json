@@ -3130,5 +3130,24 @@
     "material": [],
     "published_at": "2026-04-05T09:00:00.000Z",
     "ingested_at": "2026-04-05T13:09:53.540Z"
+  },
+  {
+    "id": "2a36bed1-22a4-43ee-b385-186b5094d1dc",
+    "title": "Kaye Residences",
+    "creator": "Grzywinski+Pons",
+    "location": "Seattle",
+    "country": "United States",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039999/kaye-residences-grzywinski-plus-pons",
+    "image_url": "https://images.adsttc.com/media/images/69cb/291a/8ecf/0f01/7f99/d639/medium_jpg/kaye-residences-grzywinski-plus-pons_31.jpg?1774922030",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T11:00:00.000Z",
+    "ingested_at": "2026-04-05T16:42:23.250Z"
   }
 ]
