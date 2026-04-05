@@ -3167,5 +3167,24 @@
     "material": [],
     "published_at": "2026-04-05T15:00:00.000Z",
     "ingested_at": "2026-04-05T20:40:14.966Z"
+  },
+  {
+    "id": "97f484b1-54e1-4b1d-938a-409eda1f1c33",
+    "title": "Serindang House 2",
+    "creator": "PSA Studio",
+    "location": "Kecamatan Beji",
+    "country": "Indonesia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040321/serindang-house-2-psa-studio",
+    "image_url": "https://images.adsttc.com/media/images/69ce/7728/5a31/3100/01da/e986/medium_jpg/_AP_5200-Edit.jpg?1775138656",
+    "typology": [
+      "Hospitality Architecture",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T17:00:00.000Z",
+    "ingested_at": "2026-04-05T22:37:55.817Z"
   }
 ]
