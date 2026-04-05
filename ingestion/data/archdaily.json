@@ -3149,5 +3149,23 @@
     "material": [],
     "published_at": "2026-04-05T11:00:00.000Z",
     "ingested_at": "2026-04-05T16:42:23.250Z"
+  },
+  {
+    "id": "1845cd3c-7459-4c89-81ff-0a0a60c5ac2b",
+    "title": "JL Residence",
+    "creator": "Kiko Castello Branco Arquitetura + Lucas Cunha",
+    "location": "Quinta da Baronesa",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039989/jl-residence-kiko-castello-branco-arquitetura-plus-lucas-cunha",
+    "image_url": "https://images.adsttc.com/media/images/69b4/3be8/1d07/d400/0132/457b/medium_jpg/33_MG_5548_RJL_CL-01.jpg?1773419613",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T15:00:00.000Z",
+    "ingested_at": "2026-04-05T20:40:14.966Z"
   }
 ]
