@@ -3297,5 +3297,23 @@
     "material": [],
     "published_at": "2026-04-06T06:00:00.000Z",
     "ingested_at": "2026-04-06T11:51:54.089Z"
+  },
+  {
+    "id": "2411728f-421d-4543-940b-7360314e38d4",
+    "title": "Scotch Chalet",
+    "creator": "CARTA. Architecte + Designer",
+    "location": "Grenville-sur-la-Rouge",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040204/scotch-chalet-carta-architecte-plus-designer",
+    "image_url": "https://images.adsttc.com/media/images/69cb/f738/8ecf/0f01/7f99/da00/medium_jpg/scotch-chalet-carta-architecte-plus-designer_22.jpg?1774974887",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-06T10:00:00.000Z",
+    "ingested_at": "2026-04-06T15:54:28.360Z"
   }
 ]
