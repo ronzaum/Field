@@ -3243,5 +3243,24 @@
     "material": [],
     "published_at": "2026-04-06T02:00:00.000Z",
     "ingested_at": "2026-04-06T08:23:59.736Z"
+  },
+  {
+    "id": "6d5b9686-5ff2-42f3-a339-6d9daccda75b",
+    "title": "Popopô Gallery",
+    "creator": "Guá Arquitetura",
+    "location": "Guamá",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040255/popopo-gallery-gua-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69cc/5c8a/88b5/3c00/0134/2312/medium_jpg/_08A4735-Pano_copyright_manuel_sa.jpg?1775000746",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Exhibition center"
+    ],
+    "material": [],
+    "published_at": "2026-04-06T03:00:00.000Z",
+    "ingested_at": "2026-04-06T10:14:07.851Z"
   }
 ]
