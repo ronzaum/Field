@@ -3350,5 +3350,23 @@
     "material": [],
     "published_at": "2026-04-06T15:00:00.000Z",
     "ingested_at": "2026-04-06T20:42:54.180Z"
+  },
+  {
+    "id": "825e6b9c-14b9-4c95-9db7-0d061abce5bd",
+    "title": "YMK House",
+    "creator": "Takeshi Hirobe Architects",
+    "location": "Karuizawa",
+    "country": "Japan",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040304/ymk-house-takeshi-hirobe-architects",
+    "image_url": "https://images.adsttc.com/media/images/69ce/4b53/88b5/3c00/0134/24f2/medium_jpg/YMK_014.jpg?1775127399",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-06T19:00:00.000Z",
+    "ingested_at": "2026-04-06T23:41:44.276Z"
   }
 ]
