@@ -3262,5 +3262,40 @@
     "material": [],
     "published_at": "2026-04-06T03:00:00.000Z",
     "ingested_at": "2026-04-06T10:14:07.851Z"
+  },
+  {
+    "id": "7a177047-5506-4328-95f5-c31dbe4372e2",
+    "title": "Taliru House",
+    "creator": "Wright Inspires",
+    "location": "Bengaluru",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040203/taliru-house-wright-inspires",
+    "image_url": "https://images.adsttc.com/media/images/69cb/f5a7/03fa/f12a/6b10/59f9/medium_jpg/taliru-house-wright-inspires_21.jpg?1774974403",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-06T07:00:00.000Z",
+    "ingested_at": "2026-04-06T11:51:54.087Z"
+  },
+  {
+    "id": "6202479a-28c3-47c5-a2f3-1fa9404e6cf4",
+    "title": "Education Center Kössen",
+    "creator": "Pedevilla Architects",
+    "location": "Kössen",
+    "country": "Austria",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040194/education-center-kossen-pedevilla-architects",
+    "image_url": "https://images.adsttc.com/media/images/69cb/d1e3/88b5/3c00/0134/22d6/medium_jpg/01_Pedevilla_Arch_BZ_Kossen_Gustav_Willeit.jpg?1774965270",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-06T06:00:00.000Z",
+    "ingested_at": "2026-04-06T11:51:54.089Z"
   }
 ]
