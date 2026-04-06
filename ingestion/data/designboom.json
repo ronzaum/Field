@@ -1432,5 +1432,27 @@
     "material": [],
     "published_at": "2026-04-05T23:30:06.000Z",
     "ingested_at": "2026-04-05T23:39:57.467Z"
+  },
+  {
+    "id": "f4385a74-70d8-44a6-9886-0c5a3be99754",
+    "title": "bjarke ingels group completes three rammed earth villas for NOT A HOTEL in japan",
+    "creator": "Bjarke Ingels Group (BIG)",
+    "location": "Sagishima",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bjarke-ingels-group-big-three-rammed-earth-villas-notahotel-japan/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/bjarke-ingels-group-big-three-rammed-earth-villas-notahotel-japan-designboom-700-500x400-22b08q85r360.jpg",
+    "typology": [
+      "architecture",
+      "architecture in japan",
+      "bjarke ingels group / BIG",
+      "designer boutique hotels",
+      "NOT A HOTEL",
+      "rammed earth architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-06T08:00:30.000Z",
+    "ingested_at": "2026-04-06T08:24:00.851Z"
   }
 ]

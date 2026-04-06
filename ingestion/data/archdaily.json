@@ -3224,5 +3224,24 @@
     "material": [],
     "published_at": "2026-04-06T00:00:00.000Z",
     "ingested_at": "2026-04-06T06:01:26.532Z"
+  },
+  {
+    "id": "ae6c50ed-acc4-4c53-bcd8-541889a103f2",
+    "title": "L’appartement Hu",
+    "creator": "OUJ",
+    "location": "Taipei",
+    "country": "Taiwan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040260/lappartement-hu-ouj",
+    "image_url": "https://images.adsttc.com/media/images/69cd/3fbf/a301/fc01/89d9/e3a8/medium_jpg/lappartement-hu-ouj_2.jpg?1775058913",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-04-06T02:00:00.000Z",
+    "ingested_at": "2026-04-06T08:23:59.736Z"
   }
 ]
