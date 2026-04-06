@@ -3186,5 +3186,25 @@
     "material": [],
     "published_at": "2026-04-05T17:00:00.000Z",
     "ingested_at": "2026-04-05T22:37:55.817Z"
+  },
+  {
+    "id": "e45086a2-e2ee-480a-a1d7-61bcbb1462ab",
+    "title": "Old Folk House in Iwakura",
+    "creator": "td-Atelier",
+    "location": "Kyoto",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040323/old-folk-house-in-iwakura-td-atelier",
+    "image_url": "https://images.adsttc.com/media/images/69ce/7d98/5a31/3100/01da/e9b9/medium_jpg/08.jpg?1775140315",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-05T21:00:00.000Z",
+    "ingested_at": "2026-04-06T03:21:32.443Z"
   }
 ]
