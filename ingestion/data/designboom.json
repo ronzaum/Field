@@ -1499,5 +1499,27 @@
     "material": [],
     "published_at": "2026-04-07T08:30:25.000Z",
     "ingested_at": "2026-04-07T09:10:35.074Z"
+  },
+  {
+    "id": "7f213a09-4b88-458c-8e57-3fa3464dd016",
+    "title": "metallic house 144º rises on steel stilts above hillside near barcelona",
+    "creator": "Anton Monedero",
+    "location": "Maresme",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/metallic-house-144o-steel-stilts-hillside-barcelona-pineda-monedero-jaime-prous/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/maresme-barcelona-house-144-pineda-monedero-jaime-prous-designboom-700-500x400-22b08q85r440.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in barcelona",
+      "architecture on stilts",
+      "residential architecture and interiors",
+      "steel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T13:30:45.000Z",
+    "ingested_at": "2026-04-07T15:15:31.447Z"
   }
 ]
