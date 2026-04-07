@@ -3518,5 +3518,23 @@
     "material": [],
     "published_at": "2026-04-07T15:00:00.000Z",
     "ingested_at": "2026-04-07T20:55:01.513Z"
+  },
+  {
+    "id": "f5bd6fa3-197a-4800-9fac-a61b5420c8e6",
+    "title": "Moffat Morphing House",
+    "creator": "Arcke",
+    "location": "Sunshine Coast",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040387/moffat-morphing-house-arcke",
+    "image_url": "https://images.adsttc.com/media/images/69d4/e215/ae7d/2901/8861/6f80/medium_jpg/moffat-morphing-house-arcke_4.jpg?1775559215",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T19:00:00.000Z",
+    "ingested_at": "2026-04-07T23:42:27.419Z"
   }
 ]
