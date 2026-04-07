@@ -3423,5 +3423,44 @@
     "material": [],
     "published_at": "2026-04-07T03:00:00.000Z",
     "ingested_at": "2026-04-07T11:02:59.891Z"
+  },
+  {
+    "id": "7cab30aa-2de2-441b-bec5-59048efa1bfe",
+    "title": "The German Pavilion at the Kerala Literature Festival 2026",
+    "creator": "The Purple Ink Studio",
+    "location": "Bengaluru",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040258/the-german-pavilion-at-the-kerala-literature-festival-2026-the-purple-ink-studio",
+    "image_url": "https://images.adsttc.com/media/images/69cd/2c30/5abc/4f01/8981/3ee2/medium_jpg/the-german-pavilion-at-the-kerala-literature-festival-2026-the-purple-ink-studio_5.jpg?1775053881",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T07:00:00.000Z",
+    "ingested_at": "2026-04-07T13:42:42.585Z"
+  },
+  {
+    "id": "f71a0349-5fa7-4cbd-afb2-06b2639f7022",
+    "title": "81 Housing Units",
+    "creator": "Ramdam Architectes + palast",
+    "location": "12-20 rue Gabrielle le Pan de Ligny",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040267/81-housing-units-ramdam-architectes-plus-palast",
+    "image_url": "https://images.adsttc.com/media/images/69cd/ad75/a301/fc2f/d46d/1018/medium_jpg/81-housing-units-ramdam-architectes-plus-palast_2.jpg?1775086979",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T06:00:00.000Z",
+    "ingested_at": "2026-04-07T13:42:42.589Z"
   }
 ]
