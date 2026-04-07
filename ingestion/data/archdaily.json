@@ -3387,5 +3387,23 @@
     "material": [],
     "published_at": "2026-04-07T00:00:00.000Z",
     "ingested_at": "2026-04-07T05:15:19.822Z"
+  },
+  {
+    "id": "8f53e48b-cddf-4034-a79f-fba6b95cd67f",
+    "title": "The Brick House",
+    "creator": "Studio VDGA",
+    "location": "Pune",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040311/the-brick-house-studio-vdga",
+    "image_url": "https://images.adsttc.com/media/images/69ce/58e9/88b5/3c00/0134/251a/medium_jpg/VDG-BRICK-V2-_Edmund_Sumner-004.jpg?1775130914",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T02:00:00.000Z",
+    "ingested_at": "2026-04-07T07:26:53.784Z"
   }
 ]
