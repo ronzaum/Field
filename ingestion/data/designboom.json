@@ -1478,5 +1478,26 @@
     "material": [],
     "published_at": "2026-04-06T21:00:36.000Z",
     "ingested_at": "2026-04-06T22:42:21.036Z"
+  },
+  {
+    "id": "1a63a02a-9d16-4f18-8ee9-2b3dee171df6",
+    "title": "fala turns leftover metal into color-coded grid that multiplies itself through mirror in porto",
+    "creator": "fala atelier",
+    "location": "Porto",
+    "country": "Portugal",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/falaatelier-leftover-metal-color-coded-grid-mirror-porto/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/falaatelier-leftover-metal-color-coded-grid-mirror-porto-designboom-700-500x400-22b08q85r467.jpg",
+    "typology": [
+      "architecture",
+      "fala atelier",
+      "spaces under 50 sqm",
+      "steel architecture and design",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T08:30:25.000Z",
+    "ingested_at": "2026-04-07T09:10:35.074Z"
   }
 ]
