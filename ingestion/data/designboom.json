@@ -1521,5 +1521,27 @@
     "material": [],
     "published_at": "2026-04-07T13:30:45.000Z",
     "ingested_at": "2026-04-07T15:15:31.447Z"
+  },
+  {
+    "id": "b5a72735-ccb2-4de8-94a5-9e471071494e",
+    "title": "LLDS reworks ‘northcote house’ in melbourne with robotically-milled interiors",
+    "creator": "LLDS",
+    "location": "Melbourne",
+    "country": "Australia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/llds-melbourne-northcote-house-inteiors-robotically-milled-timber-australia/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/llds-northcote-house-melbourne-australia-designboom-700-500x400-22b08q85r618.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in australia",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "staircases"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T15:30:20.000Z",
+    "ingested_at": "2026-04-07T17:07:28.795Z"
   }
 ]

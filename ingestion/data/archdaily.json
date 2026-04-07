@@ -3462,5 +3462,23 @@
     "material": [],
     "published_at": "2026-04-07T06:00:00.000Z",
     "ingested_at": "2026-04-07T13:42:42.589Z"
+  },
+  {
+    "id": "32ecc27c-fd85-4303-91bc-1802c20283fc",
+    "title": "House Meriportti",
+    "creator": "LUO Architects",
+    "location": "Oulu",
+    "country": "Finland",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040128/house-meriportti-luo-architects",
+    "image_url": "https://images.adsttc.com/media/images/69ca/476d/88b5/3c00/0134/20e0/medium_jpg/House_Meriportti_Kalle_Kouhia_01.jpg?1774864258",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-07T10:00:00.000Z",
+    "ingested_at": "2026-04-07T17:07:27.675Z"
   }
 ]
