@@ -3669,5 +3669,23 @@
     "material": [],
     "published_at": "2026-04-08T12:00:00.000Z",
     "ingested_at": "2026-04-08T17:11:28.127Z"
+  },
+  {
+    "id": "28a55962-f80a-4796-97c3-ad4c67bc71f7",
+    "title": "House SI",
+    "creator": "Iragüen Viñuela Arquitectos",
+    "location": "Algarrobo",
+    "country": "Chile",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040307/house-si-iraguen-vinuela-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69cc/e761/a301/fc03/ed13/e809/medium_jpg/casa-si-iraguen-vinuela-arquitectos_15.jpg?1775036274",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-08T15:00:00.000Z",
+    "ingested_at": "2026-04-08T20:52:32.853Z"
   }
 ]
