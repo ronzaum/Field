@@ -3633,5 +3633,22 @@
     "material": [],
     "published_at": "2026-04-08T06:00:00.000Z",
     "ingested_at": "2026-04-08T13:45:22.716Z"
+  },
+  {
+    "id": "3a0f01d5-96da-4920-9b96-af8e20574cf1",
+    "title": "Veil",
+    "creator": "Arid",
+    "location": "Athina",
+    "country": "Greece",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040159/veil-arid",
+    "image_url": "https://images.adsttc.com/media/images/69ca/9007/88b5/3c00/0134/21d2/medium_jpg/Veil_Giorgos_Sfakianakis_06.jpg?1774882851",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-08T10:00:00.000Z",
+    "ingested_at": "2026-04-08T15:16:39.489Z"
   }
 ]
