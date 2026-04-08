@@ -1566,5 +1566,25 @@
     "material": [],
     "published_at": "2026-04-07T23:30:24.000Z",
     "ingested_at": "2026-04-08T05:17:58.217Z"
+  },
+  {
+    "id": "b9a8989c-db0b-4c5b-9795-7869e9d0798d",
+    "title": "kengo kuma wins competition to expand london’s national gallery with new wing",
+    "creator": "Kengo Kuma & Associates",
+    "location": "London",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kengo-kuma-kkaa-competition-london-national-gallery-new-project-domani-wing-bdp-mica/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/kengo-kuma-kkaa-competition-national-gallery-new-wing-london-project-domani-bdp-mica-designboom-700-500x400-22b08q85r692.jpg",
+    "typology": [
+      "architecture",
+      "architecture in london",
+      "kengo kuma",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-04-08T07:37:07.000Z",
+    "ingested_at": "2026-04-08T07:43:41.629Z"
   }
 ]
