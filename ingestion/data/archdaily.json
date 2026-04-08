@@ -3596,5 +3596,42 @@
     "material": [],
     "published_at": "2026-04-08T00:00:00.000Z",
     "ingested_at": "2026-04-08T07:43:40.633Z"
+  },
+  {
+    "id": "6e3a68d7-333d-472e-8f14-00b91e9fd2eb",
+    "title": "Le Grand Bercail House",
+    "creator": "L. McComber",
+    "location": "Cap-à-l'Aigle",
+    "country": "Canada",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040256/le-grand-bercail-l-mccomber",
+    "image_url": "https://images.adsttc.com/media/images/69cd/1fe0/88b5/3c00/0134/2427/medium_jpg/Grand-Bercail_LMcComber__UlysseLemerise-_OSAimages__2_.jpg?1775050739",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-08T07:00:00.000Z",
+    "ingested_at": "2026-04-08T13:45:22.714Z"
+  },
+  {
+    "id": "7eb366d7-af32-4ea2-9e37-5c14b87b2e35",
+    "title": "Not a Hotel Setouchi Resort",
+    "creator": "BIG",
+    "location": "Sagishima",
+    "country": "Japan",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040404/not-a-hotel-setouchi-resort-big",
+    "image_url": "https://images.adsttc.com/media/images/69d5/3f13/ae7d/2901/8861/7128/medium_jpg/not-a-hotel-setouchi-resort-big_24.jpg?1775583015",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-04-08T06:00:00.000Z",
+    "ingested_at": "2026-04-08T13:45:22.716Z"
   }
 ]
