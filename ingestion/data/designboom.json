@@ -1586,5 +1586,25 @@
     "material": [],
     "published_at": "2026-04-08T07:37:07.000Z",
     "ingested_at": "2026-04-08T07:43:41.629Z"
+  },
+  {
+    "id": "956f97fa-1b3a-4787-8166-d1cfc4f04825",
+    "title": "H&P architects forms arching, bamboo-like pavilion of glazed ceramic tiles in hanoi",
+    "creator": "H&P Architects",
+    "location": "Hanoi",
+    "country": "Vietnam",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/hp-architects-arching-bamboo-pavilion-glazed-ceramic-tiles-hanoi-vietnam-ashui/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/HP-architects-source-ashui-pavilion-hanoi-vietnam-designboom-700-500x400-22b08q85r842.jpg",
+    "typology": [
+      "architecture",
+      "architecture in vietnam",
+      "H&P architects",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-04-08T23:30:08.000Z",
+    "ingested_at": "2026-04-08T23:43:38.456Z"
   }
 ]
