@@ -3760,5 +3760,44 @@
     "material": [],
     "published_at": "2026-04-09T03:00:00.000Z",
     "ingested_at": "2026-04-09T09:16:02.227Z"
+  },
+  {
+    "id": "a75f87e3-10a4-4506-8b2e-30c5083b42ac",
+    "title": "Qing Shui Meditation Retreat Center",
+    "creator": "RESP Studio",
+    "location": "Quanzhou",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040166/qing-shui-meditation-retreat-center-resp-studio",
+    "image_url": "https://images.adsttc.com/media/images/69cc/6e59/bacd/cd01/89fe/c1c0/medium_jpg/qing-shui-meditation-retreat-center-pan-china-star-resp-studio_4.jpg?1775005301",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T07:00:00.000Z",
+    "ingested_at": "2026-04-09T13:55:56.606Z"
+  },
+  {
+    "id": "9d07c090-c713-43b7-a377-90001252768b",
+    "title": "Villa EF",
+    "creator": "depaolidefranceschibaldan architetti",
+    "location": "Bardolino",
+    "country": "Italy",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040395/villa-ef-depaolidefranceschibaldan-architetti",
+    "image_url": "https://images.adsttc.com/media/images/69d4/f813/5a31/3100/01da/ebdd/medium_jpg/DDBA_VILLA_EF_02.jpg?1775564837",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T06:00:00.000Z",
+    "ingested_at": "2026-04-09T13:55:56.609Z"
   }
 ]
