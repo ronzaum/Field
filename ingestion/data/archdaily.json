@@ -3799,5 +3799,24 @@
     "material": [],
     "published_at": "2026-04-09T06:00:00.000Z",
     "ingested_at": "2026-04-09T13:55:56.609Z"
+  },
+  {
+    "id": "7b0a1a31-cc6c-458b-85ff-95127ae72315",
+    "title": "Villa in Recco",
+    "creator": "Gosplan + Giordano Hadamik Architects + caarpa + studio.skey",
+    "location": "Recco",
+    "country": "Italy",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040411/villa-in-recco-gosplan-plus-giordano-hadamik-architects-plus-caarpa-plus-studikey",
+    "image_url": "https://images.adsttc.com/media/images/69d5/c843/ae7d/294a/a25c/d000/medium_jpg/villa-in-recco-gosplan-plus-giordano-hadamik-architects-plus-caarpa-plus-studikey_12.jpg?1775618133",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T10:00:00.000Z",
+    "ingested_at": "2026-04-09T17:13:48.171Z"
   }
 ]
