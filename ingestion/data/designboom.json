@@ -1606,5 +1606,48 @@
     "material": [],
     "published_at": "2026-04-08T23:30:08.000Z",
     "ingested_at": "2026-04-08T23:43:38.456Z"
+  },
+  {
+    "id": "1c3f2f6f-da53-432d-a932-216c5448198b",
+    "title": "wiki world’s red floating timber cabin bridges land and water in chinese park",
+    "creator": "Wiki World",
+    "location": "Zhengzhou",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/wiki-world-red-floating-timber-cabin-bridge-land-water-chinese-park/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/red-bridge-cabin-wiki-world-timber-zhengzhou-china-designboom-700-500x400-22b08q85r756.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in china",
+      "bridge architecture and design",
+      "cabin architecture and design",
+      "wiki world",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T06:30:31.000Z",
+    "ingested_at": "2026-04-09T07:46:07.242Z"
+  },
+  {
+    "id": "00f5a063-6ad8-4173-ba28-a73918ab0219",
+    "title": "a collection of impossible dreamscapes imagines utopia beyond reality’s limits",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/collection-impossible-dreamscapes-imagines-utopia-beyond-limits-reality-artificial/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/dreamscapes-artificial-architecture-book-designboom-700-500x400-22b08q85r712.jpg",
+    "typology": [
+      "architecture",
+      "designboom book reports",
+      "DREAMS IN MOTION",
+      "fictional architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T02:00:43.000Z",
+    "ingested_at": "2026-04-09T07:46:07.255Z"
   }
 ]
