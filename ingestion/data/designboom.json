@@ -1673,5 +1673,27 @@
     "material": [],
     "published_at": "2026-04-09T13:00:10.000Z",
     "ingested_at": "2026-04-09T13:55:57.486Z"
+  },
+  {
+    "id": "b0f30d2e-b5f2-406a-b9c4-455fdfa6b62f",
+    "title": "lush facade of potted plants screens this vietnamese residence by H&P architects",
+    "creator": "H&P Architects",
+    "location": "Phu Xuan commune",
+    "country": "Vietnam",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lush-facade-potted-plants-screens-vietnamese-residence-hp-architects-flying-vegetation/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/hp-architects-flying-vegetation-house-vietnam-designboom-700-500x400-22b08q85r513.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in vietnam",
+      "facades",
+      "H&P architects",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T15:30:54.000Z",
+    "ingested_at": "2026-04-09T15:43:05.068Z"
   }
 ]
