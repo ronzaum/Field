@@ -3687,5 +3687,23 @@
     "material": [],
     "published_at": "2026-04-08T15:00:00.000Z",
     "ingested_at": "2026-04-08T20:52:32.853Z"
+  },
+  {
+    "id": "d4b2e6b8-4a3d-40c4-8e7a-4e9a4d7914dc",
+    "title": "Two Gabled Volumes, One Landscape",
+    "creator": "BRBB Architects",
+    "location": "Hoengseong-gun",
+    "country": "South Korea",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040427/two-gabled-volumes-one-landscape-brbb-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d6/32d8/5a31/3100/01da/ec54/medium_jpg/2880_DSF1362.jpg?1775645451",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-08T19:00:00.000Z",
+    "ingested_at": "2026-04-09T02:48:33.295Z"
   }
 ]
