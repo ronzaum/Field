@@ -3818,5 +3818,24 @@
     "material": [],
     "published_at": "2026-04-09T10:00:00.000Z",
     "ingested_at": "2026-04-09T17:13:48.171Z"
+  },
+  {
+    "id": "10c32bfa-2f2c-45be-b746-3e0b315df014",
+    "title": "Granja Assembly",
+    "creator": "Lousinha Arquitectos",
+    "location": "São Félix da Marinha",
+    "country": "Portugal",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69c5/e4b9/bacd/cd75/f26d/4a41/medium_jpg/assembleia-da-granja-lousinha-arquitectos_21.jpg?1774576860",
+    "typology": [
+      "Residential Architecture",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T12:00:00.000Z",
+    "ingested_at": "2026-04-09T19:16:19.566Z"
   }
 ]
