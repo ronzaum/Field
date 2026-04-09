@@ -3742,5 +3742,23 @@
     "material": [],
     "published_at": "2026-04-09T00:00:00.000Z",
     "ingested_at": "2026-04-09T07:45:57.303Z"
+  },
+  {
+    "id": "136f94a1-41bf-45b1-af94-1ef0fef79679",
+    "title": "Carrickalinga Shed",
+    "creator": "Architects Ink",
+    "location": "Carrickalinga",
+    "country": "Australia",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040326/carrickalinga-shed-architects-ink",
+    "image_url": "https://images.adsttc.com/media/images/69ce/9542/7950/3001/88e7/fc52/medium_jpg/carrickalinga-shed-architects-ink_20.jpg?1775146338",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T03:00:00.000Z",
+    "ingested_at": "2026-04-09T09:16:02.227Z"
   }
 ]
