@@ -4000,5 +4000,23 @@
     "material": [],
     "published_at": "2026-04-10T12:00:00.000Z",
     "ingested_at": "2026-04-10T19:02:12.354Z"
+  },
+  {
+    "id": "98fae099-e7a7-4c52-8119-44e66f6e2732",
+    "title": "Santa María del Oro House",
+    "creator": "Mauricio Ceballos X Architects",
+    "location": "Santa María del Oro",
+    "country": "México",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040305/santa-maria-del-oro-house-mauricio-ceballos-x-architects",
+    "image_url": "https://images.adsttc.com/media/images/69cb/b068/bacd/cd01/89fe/be28/medium_jpg/casa-santa-maria-del-oro-mauricio-ceballos-x-architects_16.jpg?1774956680",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T15:00:00.000Z",
+    "ingested_at": "2026-04-10T20:46:15.027Z"
   }
 ]
