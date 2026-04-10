@@ -3930,5 +3930,40 @@
     "material": [],
     "published_at": "2026-04-10T03:00:00.000Z",
     "ingested_at": "2026-04-10T10:11:39.170Z"
+  },
+  {
+    "id": "7eaebea2-ed75-43b3-83e6-8b5fb9af741c",
+    "title": "Josephine Baker Dance Hall",
+    "creator": "Onze04 Architecture",
+    "location": "La Bouëxière",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040056/josephine-baker-dance-hall-onze04-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69c5/f2d7/bacd/cd01/89fe/af33/medium_jpg/josephine-baker-dance-hall-onze04-architecture_1.jpg?1774580481",
+    "typology": [
+      "Sports Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T07:00:00.000Z",
+    "ingested_at": "2026-04-10T11:52:44.255Z"
+  },
+  {
+    "id": "c68ec79a-4fe7-46df-9f87-3e156242a81b",
+    "title": "Stenkløvervej Vacation House",
+    "creator": "Filip Karl Edward Arkitektur",
+    "location": "Sjællands Odde",
+    "country": "Denmark",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040437/stenklovervej-vacation-house-filip-karl-edward-arkitektur",
+    "image_url": "https://images.adsttc.com/media/images/69d6/5630/5a31/3100/01da/ecc2/medium_jpg/000011870009_1_1.jpg?1775654570",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T06:00:00.000Z",
+    "ingested_at": "2026-04-10T11:52:44.258Z"
   }
 ]
