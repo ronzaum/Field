@@ -3983,5 +3983,22 @@
     "material": [],
     "published_at": "2026-04-10T10:00:00.000Z",
     "ingested_at": "2026-04-10T14:53:59.803Z"
+  },
+  {
+    "id": "d792d47a-5481-4b76-8cee-d9929d0a37a6",
+    "title": "Hennebont National Stud Farm",
+    "creator": "K architectures",
+    "location": "Saint-Martin-de-Mailloc",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040198/hennebont-national-stud-farm-k-architectures",
+    "image_url": "https://images.adsttc.com/media/images/69cb/de90/03fa/f101/8996/a096/medium_jpg/hennebont-national-stud-farm-k-architectures_11.jpg?1774968552",
+    "typology": [
+      "Sports Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T12:00:00.000Z",
+    "ingested_at": "2026-04-10T19:02:12.354Z"
   }
 ]
