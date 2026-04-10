@@ -4018,5 +4018,25 @@
     "material": [],
     "published_at": "2026-04-10T15:00:00.000Z",
     "ingested_at": "2026-04-10T20:46:15.027Z"
+  },
+  {
+    "id": "98e72a40-460b-4e33-906a-4c4681997814",
+    "title": "A House, Resident and Milk Delivery Service",
+    "creator": "Meguro Architecture Laboratory",
+    "location": "Sumida City",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040435/a-house-resident-and-milk-delivery-service-meguro-architecture-laboratory",
+    "image_url": "https://images.adsttc.com/media/images/69d6/492f/5a31/3100/01da/ec94/medium_jpg/001.jpg?1775651136",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T19:00:00.000Z",
+    "ingested_at": "2026-04-10T23:41:33.191Z"
   }
 ]
