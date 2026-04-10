@@ -3910,5 +3910,25 @@
     "material": [],
     "published_at": "2026-04-10T02:00:00.000Z",
     "ingested_at": "2026-04-10T08:23:04.198Z"
+  },
+  {
+    "id": "243e03cb-4f5b-4b26-b352-803a2264055e",
+    "title": "Bellevue Villa",
+    "creator": "G8A Architecture & Urban Planning",
+    "location": "Geneva",
+    "country": "Switzerland",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040499/bellevue-villa-g8a-architecture-and-urban-planning",
+    "image_url": "https://images.adsttc.com/media/images/69d7/b589/5a31/3100/01da/ee99/medium_jpg/bellevue-thomascausin-7-ad.jpg?1775744449",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T03:00:00.000Z",
+    "ingested_at": "2026-04-10T10:11:39.170Z"
   }
 ]
