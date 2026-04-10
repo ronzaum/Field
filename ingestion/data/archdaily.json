@@ -3892,5 +3892,23 @@
     "material": [],
     "published_at": "2026-04-10T00:00:00.000Z",
     "ingested_at": "2026-04-10T06:01:13.715Z"
+  },
+  {
+    "id": "d9948cfd-1560-46cd-b8f2-7cf0e142acee",
+    "title": "BAN MAA",
+    "creator": "Geemo Design",
+    "location": "Aranya Guangzhou",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040378/ban-maa-geemo-design",
+    "image_url": "https://images.adsttc.com/media/images/69d4/bd86/5a31/3100/01da/eae3/medium_jpg/_Geemo_Design___Pianfang_17.jpg?1775549958",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T02:00:00.000Z",
+    "ingested_at": "2026-04-10T08:23:04.198Z"
   }
 ]

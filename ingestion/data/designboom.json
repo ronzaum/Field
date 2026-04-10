@@ -1695,5 +1695,25 @@
     "material": [],
     "published_at": "2026-04-09T15:30:54.000Z",
     "ingested_at": "2026-04-09T15:43:05.068Z"
+  },
+  {
+    "id": "8ef42d7b-1494-4aee-8a5d-8a19e9a52c54",
+    "title": "light and sound transform tubular office into an immersive interior relax room",
+    "creator": "Ramos Alderete Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/light-sound-tubular-office-immersive-interior-relax-room-ramos-alderete/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/relax-room-ramos-alderete-rest-contemplation-interior-office-designboom-700-500x400-22b08q85r102.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "interiors",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T06:30:43.000Z",
+    "ingested_at": "2026-04-10T08:23:06.742Z"
   }
 ]
