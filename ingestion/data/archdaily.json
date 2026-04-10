@@ -3874,5 +3874,23 @@
     "material": [],
     "published_at": "2026-04-09T15:00:00.000Z",
     "ingested_at": "2026-04-10T03:20:06.626Z"
+  },
+  {
+    "id": "b84681e1-f340-4f78-a606-bc24db594d75",
+    "title": "Tull Weekend Home",
+    "creator": "Rei Mitsui Architects",
+    "location": "Karuizawa",
+    "country": "Japan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040426/tull-weekend-home",
+    "image_url": "https://images.adsttc.com/media/images/69d6/2d53/5a31/3100/01da/ec2d/medium_jpg/2_YO_B0003899_trim_.jpg?1775644018",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T00:00:00.000Z",
+    "ingested_at": "2026-04-10T06:01:13.715Z"
   }
 ]
