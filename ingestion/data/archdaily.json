@@ -3965,5 +3965,23 @@
     "material": [],
     "published_at": "2026-04-10T06:00:00.000Z",
     "ingested_at": "2026-04-10T11:52:44.258Z"
+  },
+  {
+    "id": "a8fe6710-b751-4b4f-9190-86d37272eb3b",
+    "title": "24 Affordable Housing Units in Igualada",
+    "creator": "4RQ arquitectura + MBM Arquitectes",
+    "location": "Igualada",
+    "country": "España",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039992/24-affordable-housing-units-in-igualada-4rq-arquitectura-plus-mbm-arquitectes",
+    "image_url": "https://images.adsttc.com/media/images/69ae/9168/1d07/d400/0132/4017/medium_jpg/AG1.jpg?1773048381",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-04-10T10:00:00.000Z",
+    "ingested_at": "2026-04-10T14:53:59.803Z"
   }
 ]
