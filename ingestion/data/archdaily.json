@@ -3837,5 +3837,42 @@
     "material": [],
     "published_at": "2026-04-09T12:00:00.000Z",
     "ingested_at": "2026-04-09T19:16:19.566Z"
+  },
+  {
+    "id": "d1f10dc6-cf7c-42c7-9b23-56447a8fb243",
+    "title": "Sailom House",
+    "creator": "Anonym",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040428/sailom-house-anonym",
+    "image_url": "https://images.adsttc.com/media/images/69d6/36e0/5a31/3100/01da/ec6d/medium_jpg/3W2A3580-Pano_crop_low_res.jpg?1775646457",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T19:00:00.000Z",
+    "ingested_at": "2026-04-10T03:20:06.624Z"
+  },
+  {
+    "id": "52bb7779-d903-4d0d-8008-23d43029aaeb",
+    "title": "CB's Apartment",
+    "creator": "Julia Peres.Co Arquitetura",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040077/cbs-apartment-julia-pereo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69c6/7a67/88b5/3c00/0134/1f95/medium_jpg/_MAD1839_01.jpg?1774615856",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-09T15:00:00.000Z",
+    "ingested_at": "2026-04-10T03:20:06.626Z"
   }
 ]
