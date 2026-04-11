@@ -4129,5 +4129,23 @@
     "material": [],
     "published_at": "2026-04-11T15:00:00.000Z",
     "ingested_at": "2026-04-11T20:40:48.747Z"
+  },
+  {
+    "id": "e142e57f-6fd6-4699-b9dd-ff066b848a81",
+    "title": "Gosford Regional Library",
+    "creator": "Lahznimmo Architects",
+    "location": "Gosford",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040548/gosford-regional-library-lahznimmo-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d9/1200/87e3/da00/01ef/b5a7/medium_jpg/LahzNimmoArchitects_GosfordLibraryOpeningDay_000468.jpg?1775833635",
+    "typology": [
+      "Cultural Architecture",
+      "Library"
+    ],
+    "material": [],
+    "published_at": "2026-04-11T17:00:00.000Z",
+    "ingested_at": "2026-04-11T21:39:02.567Z"
   }
 ]
