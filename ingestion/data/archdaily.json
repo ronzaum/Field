@@ -4111,5 +4111,23 @@
     "material": [],
     "published_at": "2026-04-11T11:00:00.000Z",
     "ingested_at": "2026-04-11T18:54:24.387Z"
+  },
+  {
+    "id": "8f79b9b6-486f-41f3-9610-c1a3990e841a",
+    "title": "PUKKUN Residence",
+    "creator": "REIMS 502",
+    "location": "Cancún",
+    "country": "México",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039309/pukkun-residence-reims-502",
+    "image_url": "https://images.adsttc.com/media/images/69a5/68a8/314f/6676/d4bf/a712/medium_jpg/residencia-pukkun-reims-502_2.jpg?1772447932",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-11T15:00:00.000Z",
+    "ingested_at": "2026-04-11T20:40:48.747Z"
   }
 ]
