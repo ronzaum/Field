@@ -4056,5 +4056,24 @@
     "material": [],
     "published_at": "2026-04-11T02:00:00.000Z",
     "ingested_at": "2026-04-11T08:52:46.355Z"
+  },
+  {
+    "id": "1f43cae7-39ba-4aba-bc65-a2b81ade7d3e",
+    "title": "Theatr Clwyd",
+    "creator": "Haworth Tompkins",
+    "location": "United Kingdom",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040450/theatr-clwyd-haworth-tompkins",
+    "image_url": "https://images.adsttc.com/media/images/69d6/7206/7950/303e/c139/319e/medium_jpg/theatr-clwyd-haworth-tompkins_6.jpg?1775661612",
+    "typology": [
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "theater"
+    ],
+    "material": [],
+    "published_at": "2026-04-11T06:00:00.000Z",
+    "ingested_at": "2026-04-11T11:35:59.641Z"
   }
 ]
