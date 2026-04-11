@@ -1735,5 +1735,25 @@
     "material": [],
     "published_at": "2026-04-10T13:00:01.000Z",
     "ingested_at": "2026-04-10T13:23:12.407Z"
+  },
+  {
+    "id": "784a3cc0-a3e8-45cb-9ac7-05f90ee1c65e",
+    "title": "this home in korea is shaped by twin timber gables atop a concrete base",
+    "creator": "BRBB Architects",
+    "location": "Hoengseong",
+    "country": "South Korea",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/home-korea-twin-timber-gables-concrete-base-brbb-architects-shin-dae-ri/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/two-gabled-volumes-one-landscape-brbb-architects-korea-designboom-700-500x400-22b08q85r061.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in korea",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-11T13:00:16.000Z",
+    "ingested_at": "2026-04-11T13:10:50.987Z"
   }
 ]

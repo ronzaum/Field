@@ -4075,5 +4075,23 @@
     "material": [],
     "published_at": "2026-04-11T06:00:00.000Z",
     "ingested_at": "2026-04-11T11:35:59.641Z"
+  },
+  {
+    "id": "67cab7d4-8712-476b-b37e-06d7534b64ad",
+    "title": "TerraSense Mountain Charm Retreat",
+    "creator": "Atelier DRK",
+    "location": "Videmonte",
+    "country": "Portugal",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1038632/terrasense-mountain-charm-retreat-atelier-drk",
+    "image_url": "https://images.adsttc.com/media/images/698a/4466/dddf/b675/9bc6/84ae/medium_jpg/terrasense-mountain-charm-retreat-atelier-drk_3.jpg?1770669232",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging"
+    ],
+    "material": [],
+    "published_at": "2026-04-11T09:00:00.000Z",
+    "ingested_at": "2026-04-11T13:10:50.236Z"
   }
 ]
