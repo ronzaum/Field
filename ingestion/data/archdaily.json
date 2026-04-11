@@ -4093,5 +4093,23 @@
     "material": [],
     "published_at": "2026-04-11T09:00:00.000Z",
     "ingested_at": "2026-04-11T13:10:50.236Z"
+  },
+  {
+    "id": "cb9ae588-4e31-4993-9157-5fea52f14964",
+    "title": "Princess Farm",
+    "creator": "António Costa Lima Arquitectos",
+    "location": "Sintra",
+    "country": "Portugal",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040546/princess-farm-antonio-costa-lima-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6996/1945/fdc1/1500/0126/a0e3/medium_jpg/ACLQuintaPrincesa_3.jpg?1771444578",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-11T11:00:00.000Z",
+    "ingested_at": "2026-04-11T18:54:24.387Z"
   }
 ]
