@@ -4218,5 +4218,24 @@
     "material": [],
     "published_at": "2026-04-12T09:00:00.000Z",
     "ingested_at": "2026-04-12T14:45:30.057Z"
+  },
+  {
+    "id": "146bd664-180c-4a7f-aa11-a70efe2e131e",
+    "title": "University of Limerick Student Center",
+    "creator": "Carr Cotter & Naessens",
+    "location": "Ireland",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040298/university-of-limerick-student-center-carr-cotter-and-naessens",
+    "image_url": "https://images.adsttc.com/media/images/69ce/3c6e/88b5/3c00/0134/24d0/medium_jpg/1_PhotoBySteMurray.jpg?1775124876",
+    "typology": [
+      "Educational Architecture",
+      "Higher Education",
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-04-12T11:00:00.000Z",
+    "ingested_at": "2026-04-12T15:40:43.267Z"
   }
 ]
