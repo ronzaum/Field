@@ -4200,5 +4200,23 @@
     "material": [],
     "published_at": "2026-04-12T06:00:00.000Z",
     "ingested_at": "2026-04-12T10:45:14.365Z"
+  },
+  {
+    "id": "7fd31927-bdd6-41a8-a0f4-dee5546dc4b2",
+    "title": "HarPie",
+    "creator": "Nathalie Thibodeau Architecte",
+    "location": "Wentworth",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040174/harpie-nathalie-thibodeau-architecte",
+    "image_url": "https://images.adsttc.com/media/images/69cb/24a4/88b5/3c00/0134/2243/medium_jpg/ntarchitecte_HarPie_MaximeBrouillet_101.jpg?1774920933",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-12T09:00:00.000Z",
+    "ingested_at": "2026-04-12T14:45:30.057Z"
   }
 ]
