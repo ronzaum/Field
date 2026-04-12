@@ -4256,5 +4256,24 @@
     "material": [],
     "published_at": "2026-04-12T15:00:00.000Z",
     "ingested_at": "2026-04-12T20:42:55.325Z"
+  },
+  {
+    "id": "9325c541-8314-4086-965a-8d5294c4d413",
+    "title": "Edenland Pedestrian Bridge in Luxelakes",
+    "creator": "unarchitecte",
+    "location": "Chengdu",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1020539/edenland-pedestrian-bridge-in-luxelakes-unarchitecte",
+    "image_url": "https://images.adsttc.com/media/images/66cd/044e/f999/c65e/9b2d/617a/medium_jpg/edenland-pedestrian-bridge-in-luxelakes-unarchitecte_5.jpg?1724712024",
+    "typology": [
+      "Infrastructure",
+      "Bridges",
+      "Pedestrian bridge"
+    ],
+    "material": [],
+    "published_at": "2026-04-12T17:00:00.000Z",
+    "ingested_at": "2026-04-12T23:41:19.877Z"
   }
 ]
