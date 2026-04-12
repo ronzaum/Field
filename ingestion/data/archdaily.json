@@ -4182,5 +4182,23 @@
     "material": [],
     "published_at": "2026-04-12T02:00:00.000Z",
     "ingested_at": "2026-04-12T07:37:53.371Z"
+  },
+  {
+    "id": "d16e1aa0-35c9-4d81-98ea-b2272ef116f7",
+    "title": "The Babel Community - Coliving Residence",
+    "creator": "D'HOUNDT+BAJART Architectes&associés",
+    "location": "Villeneuve-d'Ascq",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040261/the-babel-community-coliving-residence-dhoundt-plus-bajart-architectes-and-associes",
+    "image_url": "https://images.adsttc.com/media/images/69d6/336b/ae7d/2910/32ef/1281/medium_jpg/the-babel-community-coliving-residence-dhoundt-plus-bajart-architectes-and-associes_38.jpg?1775645561",
+    "typology": [
+      "Hospitality Architecture",
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-12T06:00:00.000Z",
+    "ingested_at": "2026-04-12T10:45:14.365Z"
   }
 ]
