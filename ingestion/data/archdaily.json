@@ -4237,5 +4237,24 @@
     "material": [],
     "published_at": "2026-04-12T11:00:00.000Z",
     "ingested_at": "2026-04-12T15:40:43.267Z"
+  },
+  {
+    "id": "cb87009f-b1f0-414d-9015-e743878ff399",
+    "title": "Pascoal Vita Building",
+    "creator": "Bernardes Arquitetura",
+    "location": "São Paulo",
+    "country": "Brasil",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039985/pascoal-vita-building-bernardes-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69c1/2e98/015c/4f00/015c/562e/medium_jpg/01.jpg?1774268081",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-04-12T15:00:00.000Z",
+    "ingested_at": "2026-04-12T20:42:55.325Z"
   }
 ]
