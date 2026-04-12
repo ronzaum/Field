@@ -4147,5 +4147,22 @@
     "material": [],
     "published_at": "2026-04-11T17:00:00.000Z",
     "ingested_at": "2026-04-11T21:39:02.567Z"
+  },
+  {
+    "id": "725f63e6-55a6-4a03-9b21-24fe1f8676ef",
+    "title": "Nonhyun 169",
+    "creator": "See Architects",
+    "location": "Gangnam District",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040549/nonhyun-169-see-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d9/1425/87e3/da00/01ef/b5ca/medium_jpg/GFXS0742-Pano-2-2.jpg?1775834209",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-11T21:00:00.000Z",
+    "ingested_at": "2026-04-12T03:23:17.424Z"
   }
 ]
