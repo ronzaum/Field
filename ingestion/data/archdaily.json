@@ -4426,5 +4426,23 @@
     "material": [],
     "published_at": "2026-04-13T12:00:00.000Z",
     "ingested_at": "2026-04-13T19:21:11.550Z"
+  },
+  {
+    "id": "d1edd065-b7a4-496c-b408-04aa026e7293",
+    "title": "Renovation of the Mountain House  AC.",
+    "creator": "DARP - De Arquitectura y Paisaje",
+    "location": "Retiro",
+    "country": "Colombia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040488/renovation-of-the-mountain-house-ac-darp-de-arquitectura-y-paisaje",
+    "image_url": "https://images.adsttc.com/media/images/69d7/7951/5a31/3100/01da/edef/medium_jpg/IMG_0151.jpg?1775729034",
+    "typology": [
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-13T15:00:00.000Z",
+    "ingested_at": "2026-04-13T22:51:12.028Z"
   }
 ]
