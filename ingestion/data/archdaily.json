@@ -4275,5 +4275,24 @@
     "material": [],
     "published_at": "2026-04-12T17:00:00.000Z",
     "ingested_at": "2026-04-12T23:41:19.877Z"
+  },
+  {
+    "id": "a60818b6-d3d4-4e81-a003-18545b6045cd",
+    "title": "Obstetrics in Nanakuma",
+    "creator": "Yoshitaka Suzuki and Associates",
+    "location": "Fukuoka",
+    "country": "Japan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040564/obstetrics-in-nanakuma-yoshitaka-suzuki-and-associates",
+    "image_url": "https://images.adsttc.com/media/images/69d9/5c2c/92c0/7a59/b636/4de7/medium_jpg/obstetrics-in-nanakuma-yoshitaka-suzuki-and-associates_8.jpg?1775852607",
+    "typology": [
+      "Healthcare Architecture",
+      "Healthcare",
+      "hospital"
+    ],
+    "material": [],
+    "published_at": "2026-04-12T21:00:00.000Z",
+    "ingested_at": "2026-04-13T03:30:21.712Z"
   }
 ]
