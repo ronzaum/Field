@@ -4407,5 +4407,24 @@
     "material": [],
     "published_at": "2026-04-13T10:00:00.000Z",
     "ingested_at": "2026-04-13T15:20:01.038Z"
+  },
+  {
+    "id": "2140ac9f-9fb9-4aa9-a422-6ec7f0c65ca3",
+    "title": "Polène Flagship Store",
+    "creator": "NORM Architects",
+    "location": "Milan",
+    "country": "Italy",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040506/polene-flagship-store-norm-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d7/e49b/d510/7401/89af/d3e7/medium_jpg/polene-flagship-store-norm-architects_10.jpg?1775756479",
+    "typology": [
+      "Commercial Architecture",
+      "Retail",
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-04-13T12:00:00.000Z",
+    "ingested_at": "2026-04-13T19:21:11.550Z"
   }
 ]
