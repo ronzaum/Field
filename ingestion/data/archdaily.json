@@ -4349,5 +4349,25 @@
     "material": [],
     "published_at": "2026-04-13T02:00:00.000Z",
     "ingested_at": "2026-04-13T09:03:58.334Z"
+  },
+  {
+    "id": "c9783d7f-97f7-4558-b34a-eee4cebc8e7f",
+    "title": "Writing Cabin",
+    "creator": "Olin Petzold",
+    "location": "Onsernone",
+    "country": "Switzerland",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040393/writing-cabin-olin-petzold",
+    "image_url": "https://images.adsttc.com/media/images/69d4/f14e/5a31/3100/01da/ebbd/medium_jpg/06.jpg?1775563114",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges",
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-13T06:00:00.000Z",
+    "ingested_at": "2026-04-13T11:20:53.571Z"
   }
 ]
