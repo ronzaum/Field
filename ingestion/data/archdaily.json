@@ -4389,5 +4389,23 @@
     "material": [],
     "published_at": "2026-04-13T07:00:00.000Z",
     "ingested_at": "2026-04-13T13:52:32.742Z"
+  },
+  {
+    "id": "e7ce0a74-42c6-4ebc-849a-aa113379076c",
+    "title": "Ten Social Housing Units in Santa Margalida, Mallorca",
+    "creator": "Javier Gavín + Siddartha Rodrigo + Juan Moreno + DATAAE",
+    "location": "Santa Margalida",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040314/ten-social-housing-units-in-santa-margalida-mallorca-javier-gavin-plus-siddartha-rodrigo-plus-juan-moreno-plus-dataae",
+    "image_url": "https://images.adsttc.com/media/images/69ce/602a/88b5/3c00/0134/2545/medium_jpg/02__6_DJI_20251115085651_0089_6_D_LE.jpg?1775132817",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-04-13T10:00:00.000Z",
+    "ingested_at": "2026-04-13T15:20:01.038Z"
   }
 ]
