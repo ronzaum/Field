@@ -4483,5 +4483,41 @@
     "material": [],
     "published_at": "2026-04-14T00:00:00.000Z",
     "ingested_at": "2026-04-14T06:03:31.222Z"
+  },
+  {
+    "id": "d74696c9-4e52-4c13-912c-90a6aa0f62d6",
+    "title": "Cunha House",
+    "creator": "Roberto Brotero Arquitetura",
+    "location": "Cunha",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040529/cunha-house-roberto-brotero-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69b1/995e/1d07/d400/0132/4324/medium_jpg/CA_Roberto_Cunha1_WEB-5.jpg?1773246842",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T03:00:00.000Z",
+    "ingested_at": "2026-04-14T08:45:53.513Z"
+  },
+  {
+    "id": "c628d1f2-bf94-4073-a672-39055522b1fd",
+    "title": "Lee House",
+    "creator": "Candalepas Associates",
+    "location": "Watsons Bay NSW 2030",
+    "country": "Australia",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039932/embargo-lee-house-candalepas-associates",
+    "image_url": "https://images.adsttc.com/media/images/69c2/9d9d/0dd2/df14/fcf6/c1cc/medium_jpg/lee-house-candalepas-associates_1.jpg?1774362084",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T02:00:00.000Z",
+    "ingested_at": "2026-04-14T08:45:53.515Z"
   }
 ]
