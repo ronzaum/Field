@@ -4444,5 +4444,23 @@
     "material": [],
     "published_at": "2026-04-13T15:00:00.000Z",
     "ingested_at": "2026-04-13T22:51:12.028Z"
+  },
+  {
+    "id": "5f9d3f94-710a-432f-9d67-4fdb0fe7561f",
+    "title": "Elmali House",
+    "creator": "PIN Architects",
+    "location": "Elmalı",
+    "country": "Türkiye",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040478/elmali-house-pin-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d7/7565/5a31/3100/01da/ed97/medium_jpg/ELMALI_03_IBRAHIMOZBUNAR.jpg?1775728048",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-13T19:00:00.000Z",
+    "ingested_at": "2026-04-14T03:20:09.938Z"
   }
 ]
