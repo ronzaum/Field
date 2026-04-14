@@ -4577,5 +4577,25 @@
     "material": [],
     "published_at": "2026-04-14T10:00:00.000Z",
     "ingested_at": "2026-04-14T16:12:57.285Z"
+  },
+  {
+    "id": "868e1d95-80c1-4b85-8394-ef3d57eed527",
+    "title": "Collège des Parcs School Extension and two Sport Halls",
+    "creator": "Stoa architectes",
+    "location": "Neuchâtel",
+    "country": "Switzerland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040439/college-des-parcs-school-extension-and-two-sport-halls",
+    "image_url": "https://images.adsttc.com/media/images/69d6/5867/5a31/3100/01da/ecec/medium_jpg/_paolacorsini_STOA_PARCS_ECOLE_01.jpg?1775655035",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T12:00:00.000Z",
+    "ingested_at": "2026-04-14T18:08:51.876Z"
   }
 ]
