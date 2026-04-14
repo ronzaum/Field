@@ -4597,5 +4597,23 @@
     "material": [],
     "published_at": "2026-04-14T12:00:00.000Z",
     "ingested_at": "2026-04-14T18:08:51.876Z"
+  },
+  {
+    "id": "844540f1-aca7-4c55-9955-3c772c580b6f",
+    "title": "Itaipava Farm",
+    "creator": "Lucas Jimeno Dualde",
+    "location": "Itaipava",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040399/itaipava-farm-lucas-jimeno-dualde",
+    "image_url": "https://images.adsttc.com/media/images/69d4/6ea8/5a31/3100/01da/ea9e/medium_jpg/_T225930.jpg?1775529854",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T15:00:00.000Z",
+    "ingested_at": "2026-04-14T20:08:21.138Z"
   }
 ]
