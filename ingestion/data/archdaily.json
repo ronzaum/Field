@@ -4519,5 +4519,24 @@
     "material": [],
     "published_at": "2026-04-14T02:00:00.000Z",
     "ingested_at": "2026-04-14T08:45:53.515Z"
+  },
+  {
+    "id": "a1e91b7a-5ab1-45e8-a8a5-092b58cc973d",
+    "title": "Sayuwon Park Visiting Center Gate",
+    "creator": "liveraniandrea",
+    "location": "Daegu",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040394/sayuwon-park-visiting-center-gate-liveraniandrea",
+    "image_url": "https://images.adsttc.com/media/images/69d6/40a5/7950/303e/c139/2ee3/medium_jpg/sayuwon-park-visiting-center-gate-liveraniandrea_12.jpg?1775648962",
+    "typology": [
+      "visitor center",
+      "Cultural Architecture",
+      "Learning"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T06:00:00.000Z",
+    "ingested_at": "2026-04-14T12:00:34.390Z"
   }
 ]
