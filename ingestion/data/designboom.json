@@ -1843,5 +1843,27 @@
     "material": [],
     "published_at": "2026-04-14T09:00:43.000Z",
     "ingested_at": "2026-04-14T10:19:33.513Z"
+  },
+  {
+    "id": "3bc7159b-d902-401b-90f7-e1a31244f6e0",
+    "title": "V&A east museum by o’donnell + tuomey opens in london as a folded concrete landmark",
+    "creator": "O’Donnell + Tuomey",
+    "location": "Stratford",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/vam-victoria-albert-east-museum-odonnell-tuomey-london-folded-concrete-landmark/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/vam-victoria-albert-east-museum-odonnell-tuomey-london-folded-concrete-landmark-designboom-700-500x400-22b08q85r365.jpg",
+    "typology": [
+      "architecture",
+      "architecture in london",
+      "architecture in the UK",
+      "museums and galleries",
+      "o'donnell + tuomey",
+      "V&A"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T23:01:01.000Z",
+    "ingested_at": "2026-04-14T23:49:47.201Z"
   }
 ]
