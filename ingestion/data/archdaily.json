@@ -4538,5 +4538,24 @@
     "material": [],
     "published_at": "2026-04-14T06:00:00.000Z",
     "ingested_at": "2026-04-14T12:00:34.390Z"
+  },
+  {
+    "id": "92af9de7-d00f-4325-a697-2764b12bfb3a",
+    "title": "House in a Garden",
+    "creator": "Edition Office",
+    "location": "Melbourne",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040401/house-in-a-garden-edition-office",
+    "image_url": "https://images.adsttc.com/media/images/69d5/30f7/7950/3026/6139/542c/medium_jpg/house-in-a-garden-edition-office_2.jpg?1775579405",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T07:00:00.000Z",
+    "ingested_at": "2026-04-14T14:52:27.114Z"
   }
 ]
