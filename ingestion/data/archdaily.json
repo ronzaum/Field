@@ -4462,5 +4462,26 @@
     "material": [],
     "published_at": "2026-04-13T19:00:00.000Z",
     "ingested_at": "2026-04-14T03:20:09.938Z"
+  },
+  {
+    "id": "ab5dc89e-740a-4f70-a079-940e7f8a00f6",
+    "title": "Hongling Middle School Shixia Campus",
+    "creator": "Tumushi Architects",
+    "location": "Shenzhen",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039942/hongling-middle-school-shixia-campus-tumushi-architects",
+    "image_url": "https://images.adsttc.com/media/images/69c3/057f/0dd2/df01/865f/50dd/medium_jpg/hongling-middle-school-shixia-campus-tumushi-architects_4.jpg?1774388642",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "Elementary & Middle school",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T00:00:00.000Z",
+    "ingested_at": "2026-04-14T06:03:31.222Z"
   }
 ]
