@@ -1931,5 +1931,27 @@
     "material": [],
     "published_at": "2026-04-15T09:30:06.000Z",
     "ingested_at": "2026-04-15T10:20:10.003Z"
+  },
+  {
+    "id": "aaf3043b-64f5-4806-9ba1-86bf15d49147",
+    "title": "TOTO GALLERY·MA highlights work of japanese architect suzuko yamada",
+    "creator": "Suzuko Yamada Architects",
+    "location": "Tokyo",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/toto-gallery%c2%b7ma-japanese-architect-suzuko-yamada-exhibition-parallel-tunes/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/suzuko-yamada-parallel-tunes-TOTO-gallery-MA-tokyo-japan-designboom-700-500x400-22b08q85r061.jpg",
+    "typology": [
+      "architecture",
+      "architecture in japan",
+      "architecture in tokyo",
+      "exhibitions",
+      "suzuko yamada architects",
+      "TOTO GALLERY MA"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T16:07:33.000Z",
+    "ingested_at": "2026-04-15T17:12:19.336Z"
   }
 ]
