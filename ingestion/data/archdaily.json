@@ -4730,5 +4730,23 @@
     "material": [],
     "published_at": "2026-04-15T07:00:00.000Z",
     "ingested_at": "2026-04-15T13:59:07.248Z"
+  },
+  {
+    "id": "281f2ee2-58da-44e0-8c17-19b6bd612044",
+    "title": "Gort Uí Ghaoithín",
+    "creator": "Fuinneamh Workshop Architects",
+    "location": "Co. Clare",
+    "country": "Ireland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040447/gort-ui-ghaoithin-fuinneamh-workshop-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d7/5d8b/ae7d/2910/32ef/1a43/medium_jpg/gort-ui-ghaoithin-fuinneamh-workshop-architects_22.jpg?1775721885",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T10:00:00.000Z",
+    "ingested_at": "2026-04-15T15:16:09.202Z"
   }
 ]
