@@ -4633,5 +4633,62 @@
     "material": [],
     "published_at": "2026-04-14T19:00:00.000Z",
     "ingested_at": "2026-04-15T03:18:07.317Z"
+  },
+  {
+    "id": "6dcd8f09-0f4f-46ea-a58c-6ba11f8b3ba0",
+    "title": "Dexamenes Seaside Hotel Extension",
+    "creator": "K-Studio",
+    "location": "Kourouta",
+    "country": "Greece",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040638/dexamenes-seaside-hotel-extension-k-studio",
+    "image_url": "https://images.adsttc.com/media/images/69de/0b10/63f5/ef01/884f/cd87/medium_jpg/dexamenes-seaside-hotel-extension-k-studio_24.jpg?1776159516",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T03:00:00.000Z",
+    "ingested_at": "2026-04-15T08:47:35.331Z"
+  },
+  {
+    "id": "e6a709ba-f7d6-46c4-ae1f-404c413776cf",
+    "title": "Nojoor",
+    "creator": "Hive Architecture",
+    "location": "Mudjimba",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040636/nojoor-hive-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69de/0073/8471/2000/01f8/e7c5/medium_jpg/Hive_Architecture_Nojoor_04_Brock_Beazley.jpg?1776156805",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T02:00:00.000Z",
+    "ingested_at": "2026-04-15T08:47:35.332Z"
+  },
+  {
+    "id": "99a28c8d-4094-4430-ad66-6d9bc8693df6",
+    "title": "Shanghai Jiao Tong University Student Service Center",
+    "creator": "TJAD/Zeng Qun Architecture Design Studio",
+    "location": "Shanghai",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040510/shanghai-jiao-tong-university-student-service-center-tjad-zeng-qun-architecture-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/69d8/491f/d510/747b/27bf/764f/medium_jpg/shanghai-jiao-tong-university-student-service-center-tjad-zeng-qun-architecture-design-studio_9.jpg?1775782185",
+    "typology": [
+      "Educational Architecture",
+      "Higher Education",
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T00:00:00.000Z",
+    "ingested_at": "2026-04-15T08:47:35.335Z"
   }
 ]
