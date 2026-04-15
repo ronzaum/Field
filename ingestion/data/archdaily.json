@@ -4748,5 +4748,23 @@
     "material": [],
     "published_at": "2026-04-15T10:00:00.000Z",
     "ingested_at": "2026-04-15T15:16:09.202Z"
+  },
+  {
+    "id": "1aa8c39b-109f-4f22-bd36-534470dc4085",
+    "title": "Stand for Circo de Ideias",
+    "creator": "fala",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040408/stand-for-circo-de-ideias-fala",
+    "image_url": "https://images.adsttc.com/media/images/69d5/8986/5f40/ed01/7e6a/1c1e/medium_jpg/stand-for-circo-de-ideias-fala_14.jpg?1775602069",
+    "typology": [
+      "Other",
+      "Other Structures"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T12:00:00.000Z",
+    "ingested_at": "2026-04-15T19:26:26.591Z"
   }
 ]
