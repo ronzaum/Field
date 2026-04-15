@@ -4690,5 +4690,25 @@
     "material": [],
     "published_at": "2026-04-15T00:00:00.000Z",
     "ingested_at": "2026-04-15T08:47:35.335Z"
+  },
+  {
+    "id": "3717ceab-3c37-43cc-bc75-aac419fcd67a",
+    "title": "Paramedical Training Institute and Parking Structure",
+    "creator": "VIB Architecture",
+    "location": "Former Saint-Louis Hospital",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040504/paramedical-training-institute-and-parking-structure-vib-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69d7/dce4/92c0/7a16/38c8/9b53/medium_jpg/paramedical-training-institute-and-parking-structure-vib-architecture_13.jpg?1775754485",
+    "typology": [
+      "Healthcare Architecture",
+      "Educational Architecture",
+      "Other facilities",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T06:00:00.000Z",
+    "ingested_at": "2026-04-15T11:58:27.498Z"
   }
 ]

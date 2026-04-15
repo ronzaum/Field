@@ -259,5 +259,27 @@
     "material": [],
     "published_at": "2026-04-05T10:00:11.000Z",
     "ingested_at": "2026-04-05T10:40:46.106Z"
+  },
+  {
+    "id": "aea31fa4-3da0-49fb-b4a3-0a0982e21a5c",
+    "title": "V&A East Museum",
+    "creator": "O'Donnell + Tuomey unveiled in London",
+    "location": "London",
+    "country": "England",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/04/15/va-east-museum-odonnell-tuomey-ja-projects-studio-mutt-london-uk/",
+    "image_url": "http://static.dezeen.com/uploads/2026/04/va-east-museum-odonnell-tuomey-ja-projects-studio-mutt-london-uk_dezeen_2364_sq5_12-scaled-1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Cultural buildings",
+      "Museums",
+      "Queen Elizabeth Olympic Park",
+      "Studio Mutt",
+      "V&A"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T10:00:10.000Z",
+    "ingested_at": "2026-04-15T11:58:27.640Z"
   }
 ]
