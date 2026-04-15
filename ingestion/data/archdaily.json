@@ -4615,5 +4615,23 @@
     "material": [],
     "published_at": "2026-04-14T15:00:00.000Z",
     "ingested_at": "2026-04-14T20:08:21.138Z"
+  },
+  {
+    "id": "a4b170eb-6808-49b8-b6c9-6edf5e4e57ca",
+    "title": "Vesp House",
+    "creator": "Story Architecture",
+    "location": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040614/vesp-house-story-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69dd/0433/adbb/f701/8b64/54c1/medium_jpg/vesp-house-story-architecture_3.jpg?1776092231",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-14T19:00:00.000Z",
+    "ingested_at": "2026-04-15T03:18:07.317Z"
   }
 ]

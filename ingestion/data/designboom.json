@@ -1865,5 +1865,24 @@
     "material": [],
     "published_at": "2026-04-14T23:01:01.000Z",
     "ingested_at": "2026-04-14T23:49:47.201Z"
+  },
+  {
+    "id": "f89583c4-1fd9-4acf-a9cd-5e9aac4bccdd",
+    "title": "how wutopia lab’s ‘magical realism’ turns everyday spaces into ethereal interior atmospheres",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/wutopia-lab-magical-realism-everyday-spaces-ethereal-interior-atmospheres-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/wutopia-lab-room-for-dreams-designboom-700-500x400-22b08q85r050.jpg",
+    "typology": [
+      "architecture",
+      "DREAMS IN MOTION",
+      "wutopia lab"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T02:00:51.000Z",
+    "ingested_at": "2026-04-15T03:18:10.384Z"
   }
 ]
