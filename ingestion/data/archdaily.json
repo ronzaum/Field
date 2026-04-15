@@ -4710,5 +4710,25 @@
     "material": [],
     "published_at": "2026-04-15T06:00:00.000Z",
     "ingested_at": "2026-04-15T11:58:27.498Z"
+  },
+  {
+    "id": "b44fdf87-ed83-4a9e-a05f-f594cfb5088d",
+    "title": "Prostir Business Hub",
+    "creator": "Aranchii Architects",
+    "location": "Zymna Voda",
+    "country": "Ukraine",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040641/prostir-business-hub-aranchii-architects",
+    "image_url": "https://images.adsttc.com/media/images/69de/1012/1afd/7001/8891/3061/medium_jpg/prostir-business-hub-aranchii-architects_1.jpg?1776160801",
+    "typology": [
+      "Industrial Architecture",
+      "Warehouse",
+      "Offices",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T07:00:00.000Z",
+    "ingested_at": "2026-04-15T13:59:07.248Z"
   }
 ]
