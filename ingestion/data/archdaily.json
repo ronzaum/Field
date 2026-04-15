@@ -4766,5 +4766,23 @@
     "material": [],
     "published_at": "2026-04-15T12:00:00.000Z",
     "ingested_at": "2026-04-15T19:26:26.591Z"
+  },
+  {
+    "id": "3fc9068f-413b-4134-bf1b-7a5818b001f9",
+    "title": "Eucalyptus House",
+    "creator": "Julia Yako + Laura Marino",
+    "location": "Martínez",
+    "country": "Argentina",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040398/eucalyptus-house-julia-yako-plus-laura-marino",
+    "image_url": "https://images.adsttc.com/media/images/69b5/33b4/1d07/d400/0132/462d/medium_jpg/javier_agustin_rojas_los_eucaliptus_DSF2307-06_low.jpg?1773482961",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T15:00:00.000Z",
+    "ingested_at": "2026-04-15T20:57:57.863Z"
   }
 ]
