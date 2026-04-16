@@ -1976,5 +1976,53 @@
     "material": [],
     "published_at": "2026-04-16T06:30:58.000Z",
     "ingested_at": "2026-04-16T08:47:50.046Z"
+  },
+  {
+    "id": "123a5bbd-0838-4f1d-b54b-234554f4912d",
+    "title": "raw concrete meets marshmallow-inspired palette within drinkit flagship café in russia",
+    "creator": "Drinkit Design Department",
+    "location": "Yekaterinburg",
+    "country": "Russia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/raw-concrete-marshmallow-inspired-palette-drinkit-flagship-cafe-russia/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/drinkit-flagship-cafe-yekaterinburg-russia-concrete-marshmallow-interiors-designboom-700-500x400-22b08q85r046.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in russia",
+      "bar architecture and design",
+      "concrete architecture and design",
+      "glass art and design",
+      "interiors",
+      "pink",
+      "recycled plastic architecture",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T09:30:05.000Z",
+    "ingested_at": "2026-04-16T10:19:35.594Z"
+  },
+  {
+    "id": "61feeb5f-6b9d-4629-ba7a-dbedc1655931",
+    "title": "peter zumthor’s david geffen galleries open at LACMA as a sweeping glass-and-concrete arc",
+    "creator": "Peter Zumthor",
+    "location": "Los Angeles",
+    "country": "US",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/peter-zumthor-david-geffen-galleries-lacma-sweeping-glass-concrete-arc-los-angeles/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/peter-zumthor-david-geffen-galleries-lacma-sweeping-arc-los-angeles-designboom-700-500x400-22b08q85r961.jpg",
+    "typology": [
+      "architecture",
+      "architecture in los angeles",
+      "concrete architecture and design",
+      "LACMA",
+      "museums and galleries",
+      "peter zumthor"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T08:56:17.000Z",
+    "ingested_at": "2026-04-16T10:19:35.607Z"
   }
 ]
