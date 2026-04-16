@@ -2043,5 +2043,27 @@
     "material": [],
     "published_at": "2026-04-16T10:50:44.000Z",
     "ingested_at": "2026-04-16T12:01:14.362Z"
+  },
+  {
+    "id": "87b3a142-0e6d-40bc-ac8a-3478d3e7f0c8",
+    "title": "grizzo studio’s ‘casa lomadas’ is shaped by folded concrete volumes in argentina",
+    "creator": "Grizzo Studio",
+    "location": "Buenos Aires",
+    "country": "Argentina",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/grizzo-studio-casa-lomadas-folded-concrete-argentina/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/grizzo-studio-casa-lomadas-buenos-aires-argentina-designboom-700-500x400-22b08q85r605.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in argentina",
+      "concrete architecture and design",
+      "grizzo studio",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T15:30:29.000Z",
+    "ingested_at": "2026-04-16T16:45:42.188Z"
   }
 ]

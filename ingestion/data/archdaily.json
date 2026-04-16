@@ -4893,5 +4893,23 @@
     "material": [],
     "published_at": "2026-04-16T06:00:00.000Z",
     "ingested_at": "2026-04-16T12:01:05.355Z"
+  },
+  {
+    "id": "117e2b30-ed23-4c06-a5c9-4169feb9c28c",
+    "title": "PCG House",
+    "creator": "Visioarq Arquitectos",
+    "location": "Loulé",
+    "country": "Portugal",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040227/pcg-house-visioarq-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69cc/6b82/88b5/3c00/0134/2371/medium_jpg/_MLVISIOARQLL_006_Editada.jpg?1775004635",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T10:00:00.000Z",
+    "ingested_at": "2026-04-16T16:45:41.160Z"
   }
 ]
