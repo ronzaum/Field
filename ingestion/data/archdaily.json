@@ -4784,5 +4784,23 @@
     "material": [],
     "published_at": "2026-04-15T15:00:00.000Z",
     "ingested_at": "2026-04-15T20:57:57.863Z"
+  },
+  {
+    "id": "0c137440-d452-414e-bd5f-8cb61804e13e",
+    "title": "FN House",
+    "creator": "Anonym",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040692/fn-house-anonym",
+    "image_url": "https://images.adsttc.com/media/images/69df/7630/8471/2000/01f8/e8b9/medium_jpg/BAFN_EDIT_HIRES_004.jpg?1776252497",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-15T19:00:00.000Z",
+    "ingested_at": "2026-04-16T03:26:27.370Z"
   }
 ]
