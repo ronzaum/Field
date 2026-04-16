@@ -4911,5 +4911,24 @@
     "material": [],
     "published_at": "2026-04-16T10:00:00.000Z",
     "ingested_at": "2026-04-16T16:45:41.160Z"
+  },
+  {
+    "id": "8ac96156-6473-4489-9d12-31fce6083f3c",
+    "title": "Stjärnorp Castle Ruin",
+    "creator": "Tengbom",
+    "location": "Linköping",
+    "country": "Sweden",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040156/stjarnorp-castle-ruin-tengbom",
+    "image_url": "https://images.adsttc.com/media/images/69ca/77e9/88b5/3c00/0134/218f/medium_jpg/Stj_rnorps_slottsruin_-_original__1402026__Photograph_Felix_Gerlach____L.jpg?1774876856",
+    "typology": [
+      "Cultural Architecture",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T12:00:00.000Z",
+    "ingested_at": "2026-04-16T18:11:00.614Z"
   }
 ]
