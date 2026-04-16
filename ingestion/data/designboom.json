@@ -2065,5 +2065,50 @@
     "material": [],
     "published_at": "2026-04-16T15:30:29.000Z",
     "ingested_at": "2026-04-16T16:45:42.188Z"
+  },
+  {
+    "id": "1462dcd3-ddf6-4841-86bf-5777e183f0c1",
+    "title": "prefabricated timber micro-cabin extends living into the hungarian landscape",
+    "creator": "Peter Kotek",
+    "location": "2654 Romhány",
+    "country": "Hungary",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/prefabricated-timber-micro-cabin-living-hungarian-landscape-nestoff/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/nestoff-prefabricated-micro-retreat-hungary-designboom-700-500x400-22b08q85r468.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in hungary",
+      "cabin architecture and design",
+      "prefabricated homes and buildings",
+      "spaces under 50 sqm",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T20:00:21.000Z",
+    "ingested_at": "2026-04-16T20:02:40.038Z"
+  },
+  {
+    "id": "6ce186ef-f5a1-4505-a509-dfcb60a39434",
+    "title": "bjarke ingels unveils tennessee performing arts center with billowing aluminum facade",
+    "creator": "Bjarke Ingels Group (BIG)",
+    "location": "Nashville",
+    "country": "Tennessee",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bjarke-ingels-tennessee-performing-arts-center-billowing-aluminum-facade-nashville/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/bjarke-ingels-group-big-tennessee-performing-arts-center-east-bank-designboom-700-500x400-22b08q85r979.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in the US",
+      "bjarke ingels group / BIG",
+      "facades",
+      "theaters"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T18:45:10.000Z",
+    "ingested_at": "2026-04-16T20:02:40.051Z"
   }
 ]

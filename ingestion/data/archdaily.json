@@ -4930,5 +4930,23 @@
     "material": [],
     "published_at": "2026-04-16T12:00:00.000Z",
     "ingested_at": "2026-04-16T18:11:00.614Z"
+  },
+  {
+    "id": "3dce0218-53f0-46d3-9129-184c85351793",
+    "title": "House on the Cautín River",
+    "creator": "Iragüen Viñuela Arquitectos",
+    "location": "Malalcahuello",
+    "country": "Chile",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69ce/528a/a301/fc7d/04b5/d33e/medium_jpg/casa-en-el-rio-fuy-iraguen-vinuela-arquitectos_4.jpg?1775129247",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T15:00:00.000Z",
+    "ingested_at": "2026-04-16T20:02:38.986Z"
   }
 ]
