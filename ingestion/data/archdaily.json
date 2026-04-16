@@ -4802,5 +4802,23 @@
     "material": [],
     "published_at": "2026-04-15T19:00:00.000Z",
     "ingested_at": "2026-04-16T03:26:27.370Z"
+  },
+  {
+    "id": "50252667-789c-4f15-a724-690ab681b519",
+    "title": "Smurf Village School",
+    "creator": "Hyunjoon Yoo + Partners",
+    "location": "Sagang-ri",
+    "country": "South Korea",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1004539/smurf-village-school-hyunjoon-yoo-architects",
+    "image_url": "https://images.adsttc.com/media/images/64c0/2ae0/4b88/3f46/64fe/dcbb/medium_jpg/smurf-village-school-hyunjoon-yoo-architects_1.jpg?1690315518",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T00:00:00.000Z",
+    "ingested_at": "2026-04-16T06:05:53.710Z"
   }
 ]
