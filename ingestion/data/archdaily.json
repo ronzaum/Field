@@ -5094,5 +5094,23 @@
     "material": [],
     "published_at": "2026-04-17T12:00:00.000Z",
     "ingested_at": "2026-04-17T17:56:51.973Z"
+  },
+  {
+    "id": "626ab0b8-a7a4-4e56-9e50-f46141a48e5e",
+    "title": "GLG Residence",
+    "creator": "Ximenes Leite Arquitetura",
+    "location": "Itupeva",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69d4/ef9a/5a31/3100/01da/eb94/medium_jpg/FE_CASTELLARI_FAIBANKS_PILNIK_GRAMA_EXTERNAS_2024-1.jpg?1775562726",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-17T15:00:00.000Z",
+    "ingested_at": "2026-04-17T20:53:43.640Z"
   }
 ]
