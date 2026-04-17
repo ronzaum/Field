@@ -5021,5 +5021,42 @@
     "material": [],
     "published_at": "2026-04-17T02:00:00.000Z",
     "ingested_at": "2026-04-17T08:47:01.406Z"
+  },
+  {
+    "id": "b4d56f11-f3eb-4257-8680-3386d8706bd1",
+    "title": "The House of the Green Pond",
+    "creator": "aceboXalonso studio",
+    "location": "Madrid",
+    "country": "España",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040472/the-house-of-the-green-pond-aceboxalonso-studio",
+    "image_url": "https://images.adsttc.com/media/images/69d6/7687/ae7d/2910/32ef/1621/medium_jpg/la-casa-de-la-charca-verde-aceboxalonso-studio_8.jpg?1775662765",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-17T07:00:00.000Z",
+    "ingested_at": "2026-04-17T11:55:27.265Z"
+  },
+  {
+    "id": "03762367-821e-4817-bdd2-99bdd4c07ae6",
+    "title": "Pom - Two Residential Buildings Block III",
+    "creator": "zanderroth",
+    "location": "Potsdam",
+    "country": "Germany",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040554/pom-two-residential-buildings-block-iii-zanderroth",
+    "image_url": "https://images.adsttc.com/media/images/69d9/3f97/87e3/da00/01ef/b638/medium_jpg/zr_pom_SimonMenges_NinoTugushi_36_web.jpg?1775845313",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-17T06:00:00.000Z",
+    "ingested_at": "2026-04-17T11:55:27.268Z"
   }
 ]
