@@ -5058,5 +5058,23 @@
     "material": [],
     "published_at": "2026-04-17T06:00:00.000Z",
     "ingested_at": "2026-04-17T11:55:27.268Z"
+  },
+  {
+    "id": "1eb88dd4-9113-446b-8828-688550ae8f71",
+    "title": "Holiday Homes in Moldovenești",
+    "creator": "MVAA",
+    "location": "Moldovenești",
+    "country": "Romania",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040160/holiday-homes-in-moldovenesti-mvaa",
+    "image_url": "https://images.adsttc.com/media/images/69ca/9388/88b5/3c00/0134/21ee/medium_jpg/__viewcatchers_8.jpg?1774883745",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-17T10:00:00.000Z",
+    "ingested_at": "2026-04-17T16:58:37.768Z"
   }
 ]
