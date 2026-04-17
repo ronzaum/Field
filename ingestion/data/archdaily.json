@@ -4948,5 +4948,23 @@
     "material": [],
     "published_at": "2026-04-16T15:00:00.000Z",
     "ingested_at": "2026-04-16T20:02:38.986Z"
+  },
+  {
+    "id": "699996f7-1275-42d3-a7a6-ef11dbbf2110",
+    "title": "CS Residence",
+    "creator": "Fpoles Arquitetos",
+    "location": "São Paulo",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040731/cs-residence-fpoles-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/69dd/3d5d/87e3/da00/01ef/b783/medium_jpg/2026-1.jpg?1776106877",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-16T19:00:00.000Z",
+    "ingested_at": "2026-04-17T03:20:56.948Z"
   }
 ]
