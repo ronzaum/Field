@@ -5112,5 +5112,23 @@
     "material": [],
     "published_at": "2026-04-17T15:00:00.000Z",
     "ingested_at": "2026-04-17T20:53:43.640Z"
+  },
+  {
+    "id": "12fb4322-af1a-4774-8595-0878cda312b6",
+    "title": "House in Kirigamine",
+    "creator": "imajo design",
+    "location": "Kirigamine",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040732/house-in-kirigamine-imajo-design",
+    "image_url": "https://images.adsttc.com/media/images/69e0/de55/b909/731f/81d0/5141/medium_jpg/house-in-kirigamine-imajo-design_1.jpg?1776344716",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-17T02:00:00.000Z",
+    "ingested_at": "2026-04-17T22:49:11.740Z"
   }
 ]
