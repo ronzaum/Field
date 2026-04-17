@@ -2110,5 +2110,26 @@
     "material": [],
     "published_at": "2026-04-16T18:45:10.000Z",
     "ingested_at": "2026-04-16T20:02:40.051Z"
+  },
+  {
+    "id": "24af02a7-4687-4a39-91c8-f40508384482",
+    "title": "david altrath documents the jungle suspended inside london’s barbican conservatory",
+    "creator": "thomai tsimpou",
+    "location": "London",
+    "country": "Great Britain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/david-altrath-jungle-london-barbican-conservatory/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/david-altrath-jungle-london-barbican-conservatory-designboom-700-500x400-22b08q85r053.jpg",
+    "typology": [
+      "architecture",
+      "architectural photography",
+      "brutalist architecture",
+      "david altrath",
+      "greenhouses in architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-17T08:30:00.000Z",
+    "ingested_at": "2026-04-17T08:47:02.721Z"
   }
 ]
