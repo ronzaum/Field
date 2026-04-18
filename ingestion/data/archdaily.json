@@ -5221,5 +5221,24 @@
     "material": [],
     "published_at": "2026-04-18T11:00:00.000Z",
     "ingested_at": "2026-04-18T16:50:08.742Z"
+  },
+  {
+    "id": "2463eebc-745e-409c-8b0a-0bb8cd097ed2",
+    "title": "Mocolí Sports Complex",
+    "creator": "URLO Studio",
+    "location": "Samborondón",
+    "country": "Ecuador",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040097/mocoli-sports-complex-urlo-studio",
+    "image_url": "https://images.adsttc.com/media/images/69c6/f52c/bacd/cd01/89fe/b600/medium_jpg/complejo-deportivo-mocoli-urlo-studio_7.jpg?1774646592",
+    "typology": [
+      "Sports Architecture",
+      "Recreation & Training",
+      "sports field"
+    ],
+    "material": [],
+    "published_at": "2026-04-18T15:00:00.000Z",
+    "ingested_at": "2026-04-18T19:48:07.177Z"
   }
 ]
