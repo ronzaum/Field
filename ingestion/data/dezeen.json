@@ -281,5 +281,25 @@
     "material": [],
     "published_at": "2026-04-15T10:00:10.000Z",
     "ingested_at": "2026-04-15T11:58:27.640Z"
+  },
+  {
+    "id": "bfacdd73-e0ae-495c-82f3-4a7b814f0077",
+    "title": "Mud-coated shipping containers form Petti restaurant in India",
+    "creator": "Wallmakers",
+    "location": "Tamil Nadu",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/04/18/petti-restaurant-wallmakers/",
+    "image_url": "http://static.dezeen.com/uploads/2026/04/petti-restaurant-wallmakers-india-shipping-containers_dezeen_2364_sq.jpg",
+    "typology": [
+      "Architecture",
+      "Restaurants",
+      "Shipping containers",
+      "Wallmakers"
+    ],
+    "material": [],
+    "published_at": "2026-04-18T10:00:57.000Z",
+    "ingested_at": "2026-04-18T15:42:03.300Z"
   }
 ]
