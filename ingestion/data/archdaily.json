@@ -5130,5 +5130,23 @@
     "material": [],
     "published_at": "2026-04-17T02:00:00.000Z",
     "ingested_at": "2026-04-17T22:49:11.740Z"
+  },
+  {
+    "id": "07f21dbf-7bcb-4872-9ef2-22e89f67a1a8",
+    "title": "The Blooming Haus",
+    "creator": "Studio WhiteScape",
+    "location": "Bengaluru",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
+    "image_url": "https://images.adsttc.com/media/images/69e2/5d49/63f5/ef01/884f/def0/medium_jpg/the-blooming-haus-studio-whitescape_2.jpg?1776442725",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-17T19:00:00.000Z",
+    "ingested_at": "2026-04-18T02:52:57.516Z"
   }
 ]
