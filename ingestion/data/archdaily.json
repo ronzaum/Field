@@ -5203,5 +5203,23 @@
     "material": [],
     "published_at": "2026-04-18T09:00:00.000Z",
     "ingested_at": "2026-04-18T14:46:29.285Z"
+  },
+  {
+    "id": "273b77ec-8ab1-45f4-9f77-52b5f59c32af",
+    "title": "Islington House",
+    "creator": "Architecture for London + Hamish Vincent Design",
+    "location": "Islington",
+    "country": "United Kingdom",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040466/islington-house-architecture-for-london-plus-hamish-vincent-design",
+    "image_url": "https://images.adsttc.com/media/images/69d7/09e2/ae7d/2910/dd30/a01e/medium_jpg/islington-house-architecture-for-london-plus-hamish-vincent-design_10.jpg?1775700469",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-18T11:00:00.000Z",
+    "ingested_at": "2026-04-18T16:50:08.742Z"
   }
 ]
