@@ -5167,5 +5167,23 @@
     "material": [],
     "published_at": "2026-04-18T02:00:00.000Z",
     "ingested_at": "2026-04-18T07:16:55.657Z"
+  },
+  {
+    "id": "6ef3390b-dca3-458b-8a03-ca5036155715",
+    "title": "Exhibit Columbus 2023: Designed by the Public",
+    "creator": "Tatiana Bilbao ESTUDIO",
+    "location": "Columbus",
+    "country": "United States",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039605/exhibit-columbus-2023-designed-by-the-public-tatiana-bilbao-estudio",
+    "image_url": "https://images.adsttc.com/media/images/69b3/ea9f/1d07/d400/0132/44a6/medium_jpg/Exhibition_Columbus_TBE_Photo_Hadley_Fruits_for_Exhibit_Columbus__01.jpg?1773398713",
+    "typology": [
+      "Public Architecture",
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-04-18T06:00:00.000Z",
+    "ingested_at": "2026-04-18T13:13:39.973Z"
   }
 ]
