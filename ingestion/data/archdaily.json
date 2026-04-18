@@ -5240,5 +5240,25 @@
     "material": [],
     "published_at": "2026-04-18T15:00:00.000Z",
     "ingested_at": "2026-04-18T19:48:07.177Z"
+  },
+  {
+    "id": "02607f65-0bee-483a-92f3-1406793decd4",
+    "title": "Minamicho House",
+    "creator": "ROOVICE",
+    "location": "Itabashi City",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040762/minamicho-house-roovice",
+    "image_url": "https://images.adsttc.com/media/images/69e2/40e0/8471/2000/01f8/eaea/medium_jpg/DSCF7837.jpg?1776435445",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-18T17:00:00.000Z",
+    "ingested_at": "2026-04-18T22:41:20.230Z"
   }
 ]
