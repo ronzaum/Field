@@ -5185,5 +5185,23 @@
     "material": [],
     "published_at": "2026-04-18T06:00:00.000Z",
     "ingested_at": "2026-04-18T13:13:39.973Z"
+  },
+  {
+    "id": "1592c4af-84d5-4276-9cfd-41b95258e3ca",
+    "title": "Hermi House",
+    "creator": "Superestudio",
+    "location": "Sagunt",
+    "country": "España",
+    "year": 2019,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039401/hermi-house-superestudio",
+    "image_url": "https://images.adsttc.com/media/images/697e/29bb/9790/2201/8a58/b683/medium_jpg/casa-hermi-superestudio_20.jpg?1769875983",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-18T09:00:00.000Z",
+    "ingested_at": "2026-04-18T14:46:29.285Z"
   }
 ]
