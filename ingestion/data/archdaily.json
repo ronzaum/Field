@@ -5371,5 +5371,24 @@
     "material": [],
     "published_at": "2026-04-19T15:00:00.000Z",
     "ingested_at": "2026-04-19T20:45:03.982Z"
+  },
+  {
+    "id": "cbd4ff8f-f76d-42e5-870a-3c967743b504",
+    "title": "Six-Grid House in Osaka",
+    "creator": "Atelier 405",
+    "location": "Osaka",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040695/six-grid-house-in-osaka-atelier-405",
+    "image_url": "https://images.adsttc.com/media/images/69df/db16/63f5/ef59/ff1a/62b7/medium_jpg/six-grid-house-in-osaka-atelier-405_1.jpg?1776278320",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-04-19T17:00:00.000Z",
+    "ingested_at": "2026-04-19T22:41:32.597Z"
   }
 ]
