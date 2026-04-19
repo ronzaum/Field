@@ -5260,5 +5260,23 @@
     "material": [],
     "published_at": "2026-04-18T17:00:00.000Z",
     "ingested_at": "2026-04-18T22:41:20.230Z"
+  },
+  {
+    "id": "9f113c82-10cd-4ec9-a484-65069ad801c6",
+    "title": "Saweol Space",
+    "creator": "Atelier Siyu",
+    "location": "Jing’an District",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039870/saweol-space-atelier-siyu",
+    "image_url": "https://images.adsttc.com/media/images/69c1/0737/015c/4f00/015c/558b/medium_jpg/02_Entrance__siyu.jpg?1774257998",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-18T21:00:00.000Z",
+    "ingested_at": "2026-04-19T03:28:14.184Z"
   }
 ]
