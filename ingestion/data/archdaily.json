@@ -5296,5 +5296,25 @@
     "material": [],
     "published_at": "2026-04-19T02:00:00.000Z",
     "ingested_at": "2026-04-19T08:08:25.087Z"
+  },
+  {
+    "id": "305cbaf0-a835-4817-983d-311bfc3b02e8",
+    "title": "La Vuelta Al Monte Installation",
+    "creator": "Rare Studio Experimental",
+    "location": "Cosquín",
+    "country": "Argentina",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040135/la-vuelta-al-monte-installation-rare-studio-experimental",
+    "image_url": "https://images.adsttc.com/media/images/69c1/16ac/015c/4f00/015c/55c8/medium_jpg/Victoria_Echegaray__1_.jpg?1774261948",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture",
+      "Industrial Architecture",
+      "Greenhouse"
+    ],
+    "material": [],
+    "published_at": "2026-04-19T06:00:00.000Z",
+    "ingested_at": "2026-04-19T11:39:46.012Z"
   }
 ]
