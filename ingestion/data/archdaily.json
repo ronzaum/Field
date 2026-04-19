@@ -5316,5 +5316,23 @@
     "material": [],
     "published_at": "2026-04-19T06:00:00.000Z",
     "ingested_at": "2026-04-19T11:39:46.012Z"
+  },
+  {
+    "id": "b6c62837-ed92-49af-8e27-48400db73820",
+    "title": "Na Kukačkách Mountain Chalet",
+    "creator": "Edit! architects",
+    "location": "Strážné",
+    "country": "Czechia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040211/na-kukackach-mountain-chalet-edit-architects",
+    "image_url": "https://images.adsttc.com/media/images/69cc/41c6/03fa/f12a/6b10/5af7/medium_jpg/na-kukackach-mountain-chalet-edit-architects_9.jpg?1774993882",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-19T09:00:00.000Z",
+    "ingested_at": "2026-04-19T14:47:30.919Z"
   }
 ]
