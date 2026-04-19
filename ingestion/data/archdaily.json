@@ -5353,5 +5353,23 @@
     "material": [],
     "published_at": "2026-04-19T11:00:00.000Z",
     "ingested_at": "2026-04-19T17:39:58.193Z"
+  },
+  {
+    "id": "0451ca01-75b4-4bb2-9014-4947f6c196a4",
+    "title": "TT Houses",
+    "creator": "PJV Arquitetura",
+    "location": "Rua 4150 - Ayrton Senna",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040148/tt-houses-pjv-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/698d/f529/0da2/ee01/8a08/d049/medium_jpg/casas-tt-pjv-arquitetura_2.jpg?1770911032",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-19T15:00:00.000Z",
+    "ingested_at": "2026-04-19T20:45:03.982Z"
   }
 ]
