@@ -5481,5 +5481,25 @@
     "material": [],
     "published_at": "2026-04-20T06:00:00.000Z",
     "ingested_at": "2026-04-20T11:22:22.327Z"
+  },
+  {
+    "id": "3c6d1bfc-6d5c-48ba-99d9-6bb1e0a1f176",
+    "title": "House of Light Oaxaca",
+    "creator": "T804 Arquitectura e Interiorismo Estratégico",
+    "location": "San Agustín Yatareni",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040543/house-of-light-oaxaca-t804-arquitectura-e-interiorismo-estrategico",
+    "image_url": "https://images.adsttc.com/media/images/69d8/b958/87e3/da00/01ef/b522/medium_jpg/Yataneri_T804_AmyBello_2026-5.jpg?1775810923",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-04-20T07:00:00.000Z",
+    "ingested_at": "2026-04-20T13:55:17.899Z"
   }
 ]
