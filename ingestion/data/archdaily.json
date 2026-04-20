@@ -5537,5 +5537,24 @@
     "material": [],
     "published_at": "2026-04-20T12:00:00.000Z",
     "ingested_at": "2026-04-20T19:15:13.195Z"
+  },
+  {
+    "id": "7d08a4c7-6a6c-4756-ad08-f4a01072e0f8",
+    "title": "Tietê178",
+    "creator": "Gabriel Kogan",
+    "location": "Jardins",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040390/tiete178-office-gabriel-kogan",
+    "image_url": "https://images.adsttc.com/media/images/69d3/ca51/5a31/3100/01da/ea7f/medium_jpg/01--0414.GabrielKogan.EspacoSemNome-PKOK0514.jpg?1775487605",
+    "typology": [
+      "Mixed Use Architecture",
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-04-20T15:00:00.000Z",
+    "ingested_at": "2026-04-20T21:53:27.965Z"
   }
 ]
