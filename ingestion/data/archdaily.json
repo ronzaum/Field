@@ -5408,5 +5408,24 @@
     "material": [],
     "published_at": "2026-04-19T21:00:00.000Z",
     "ingested_at": "2026-04-20T03:30:36.170Z"
+  },
+  {
+    "id": "b3733e15-e9cc-4737-8858-ee59fe5113c5",
+    "title": "Playtime Cabin",
+    "creator": "Wiki World + Advanced Architecture Lab",
+    "location": "Wuhan",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040752/playtime-cabin-wiki-world-plus-advanced-architecture-lab",
+    "image_url": "https://images.adsttc.com/media/images/69e1/c71f/8471/2000/01f8/ea71/medium_jpg/27.jpg?1776404354",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-04-20T00:00:00.000Z",
+    "ingested_at": "2026-04-20T06:20:49.065Z"
   }
 ]
