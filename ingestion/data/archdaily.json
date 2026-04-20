@@ -5501,5 +5501,23 @@
     "material": [],
     "published_at": "2026-04-20T07:00:00.000Z",
     "ingested_at": "2026-04-20T13:55:17.899Z"
+  },
+  {
+    "id": "46596fde-f3da-40ca-915c-5197174bfbf0",
+    "title": "Trim House",
+    "creator": "Robert Konieczny + KWK Promes",
+    "location": "Vilnius",
+    "country": "Lithuania",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040560/trim-house-robert-konieczny-plus-kwk-promes",
+    "image_url": "https://images.adsttc.com/media/images/69d9/55d5/92c0/7a59/b636/4d91/medium_jpg/trim-house-robert-konieczny-plus-kwk-promes_2.jpg?1775851068",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-20T10:00:00.000Z",
+    "ingested_at": "2026-04-20T15:20:54.619Z"
   }
 ]
