@@ -5390,5 +5390,23 @@
     "material": [],
     "published_at": "2026-04-19T17:00:00.000Z",
     "ingested_at": "2026-04-19T22:41:32.597Z"
+  },
+  {
+    "id": "3d74ccab-cf83-4d8a-943c-61978d9c4556",
+    "title": "House 30",
+    "creator": "Massive Order",
+    "location": "Al Khiran",
+    "country": "Kuwait",
+    "year": 2015,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040777/house-30-massive-order",
+    "image_url": "https://images.adsttc.com/media/images/69e2/9c48/8471/2000/01f8/eb34/medium_jpg/MASSIVE_ORDER_HOUSE_30.jpg?1776458907",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-19T21:00:00.000Z",
+    "ingested_at": "2026-04-20T03:30:36.170Z"
   }
 ]
