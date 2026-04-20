@@ -5519,5 +5519,23 @@
     "material": [],
     "published_at": "2026-04-20T10:00:00.000Z",
     "ingested_at": "2026-04-20T15:20:54.619Z"
+  },
+  {
+    "id": "5805204b-3951-4220-a725-4660796fa717",
+    "title": "Limberlost Place",
+    "creator": "Moriyama & Teshima Architects",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040708/limberlost-place-moriyama-and-teshima-architects",
+    "image_url": "https://images.adsttc.com/media/images/69e0/45fb/8471/2000/01f8/e910/medium_jpg/MTA_LimberlostPlace_Image1_Credit_doublespace_photography.jpg?1776305679",
+    "typology": [
+      "Educational Architecture",
+      "Higher Education"
+    ],
+    "material": [],
+    "published_at": "2026-04-20T12:00:00.000Z",
+    "ingested_at": "2026-04-20T19:15:13.195Z"
   }
 ]
