@@ -5556,5 +5556,23 @@
     "material": [],
     "published_at": "2026-04-20T15:00:00.000Z",
     "ingested_at": "2026-04-20T21:53:27.965Z"
+  },
+  {
+    "id": "a4591da0-6d2e-499e-894b-ce36e0e29d57",
+    "title": "House & Office SH",
+    "creator": "1-1 Architects",
+    "location": "Nagoya",
+    "country": "Japan",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040761/house-and-office-sh-1-1-architects",
+    "image_url": "https://images.adsttc.com/media/images/69e2/3955/8471/2000/01f8/ead4/medium_jpg/L012_250430.jpg?1776433629",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-20T19:00:00.000Z",
+    "ingested_at": "2026-04-20T23:50:48.948Z"
   }
 ]
