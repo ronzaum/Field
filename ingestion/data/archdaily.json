@@ -5631,5 +5631,42 @@
     "material": [],
     "published_at": "2026-04-21T02:00:00.000Z",
     "ingested_at": "2026-04-21T08:54:43.700Z"
+  },
+  {
+    "id": "3f1129c0-cd45-4932-a28b-b301d8278484",
+    "title": "El Grove Family Home",
+    "creator": "Olson Kundig",
+    "location": "Guadalupe",
+    "country": "Mexico",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040492/el-grove-family-home-olson-kundig",
+    "image_url": "https://images.adsttc.com/media/images/69d7/a2f0/5a31/3100/01da/ee33/medium_jpg/18011_00_N129_high300.jpg?1775739655",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-21T07:00:00.000Z",
+    "ingested_at": "2026-04-21T12:01:54.240Z"
+  },
+  {
+    "id": "eb240b69-38e2-4cd2-a445-28e87405648b",
+    "title": "Artistic Office of a Notary",
+    "creator": "Dolgopiatova Interior Design",
+    "location": "Kyiv",
+    "country": "Ukraine",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040440/artistic-office-of-a-notary-dolgopiatova-interior-design",
+    "image_url": "https://images.adsttc.com/media/images/69d6/5c26/5a31/3100/01da/ed11/medium_jpg/14Notary_office_by_Oksana_Dolgopiatova_phBezuglov__21_.jpg?1775655995",
+    "typology": [
+      "Offices",
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-21T06:00:00.000Z",
+    "ingested_at": "2026-04-21T12:01:54.242Z"
   }
 ]
