@@ -5723,5 +5723,23 @@
     "material": [],
     "published_at": "2026-04-21T15:00:00.000Z",
     "ingested_at": "2026-04-21T20:06:27.806Z"
+  },
+  {
+    "id": "3c04d08c-7aec-4726-841e-723394603aa2",
+    "title": "Loli House",
+    "creator": "t + m design office",
+    "location": "Hanoi",
+    "country": "Vietnam",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040800/loli-house-t-plus-m-design-office",
+    "image_url": "https://images.adsttc.com/media/images/69e6/61e1/1afd/7001/8891/44b9/medium_jpg/loli-house-t-plus-m-design-office_22.jpg?1776706054",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-21T19:00:00.000Z",
+    "ingested_at": "2026-04-21T23:39:59.804Z"
   }
 ]
