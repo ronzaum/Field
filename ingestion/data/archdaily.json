@@ -5686,5 +5686,24 @@
     "material": [],
     "published_at": "2026-04-21T10:00:00.000Z",
     "ingested_at": "2026-04-21T16:13:45.485Z"
+  },
+  {
+    "id": "4b4f3729-d509-4043-a56a-bace1925c25f",
+    "title": "Newhouse Building Replacement",
+    "creator": "Miller Hull Partnership",
+    "location": "Olympia",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040816/newhouse-building-replacement-miller-hull-partnership",
+    "image_url": "https://images.adsttc.com/media/images/69e6/9467/8471/2000/01f8/ec5c/medium_jpg/Miller-Hull_Newhouse_01.jpg?1776719018",
+    "typology": [
+      "Public Architecture",
+      "Government",
+      "Other Public Administration buildings"
+    ],
+    "material": [],
+    "published_at": "2026-04-21T12:00:00.000Z",
+    "ingested_at": "2026-04-21T18:02:13.171Z"
   }
 ]
