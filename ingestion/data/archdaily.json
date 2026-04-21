@@ -5705,5 +5705,23 @@
     "material": [],
     "published_at": "2026-04-21T12:00:00.000Z",
     "ingested_at": "2026-04-21T18:02:13.171Z"
+  },
+  {
+    "id": "16c3613a-9325-4559-8318-85ab3f7a085c",
+    "title": "GS House",
+    "creator": "Studio FP02",
+    "location": "Goiânia",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040443/gs-house-studio-fp02",
+    "image_url": "https://images.adsttc.com/media/images/69bc/2b58/6d20/7e00/0123/62fc/medium_jpg/0Z7A9560-1.jpg?1773939618",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-21T15:00:00.000Z",
+    "ingested_at": "2026-04-21T20:06:27.806Z"
   }
 ]
