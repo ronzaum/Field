@@ -2238,5 +2238,25 @@
     "material": [],
     "published_at": "2026-04-21T09:30:45.000Z",
     "ingested_at": "2026-04-21T10:21:36.853Z"
+  },
+  {
+    "id": "ca7631c5-0334-41f5-b8da-85be758f9d75",
+    "title": "safdie architects plans cherokee heritage center as a cluster of rammed earth blocks",
+    "creator": "Safdie Architects",
+    "location": "Tahlequah",
+    "country": "USA",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/safdie-architects-cherokee-heritage-center-clustered-blocks-rammed-earth-oklahoma/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/safdie-architects-cherokee-heritage-center-designboom-700-500x400-22b08q85r855.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "moshe safdie",
+      "rammed earth architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-21T14:50:05.000Z",
+    "ingested_at": "2026-04-21T16:13:46.912Z"
   }
 ]

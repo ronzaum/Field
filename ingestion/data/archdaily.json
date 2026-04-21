@@ -5668,5 +5668,23 @@
     "material": [],
     "published_at": "2026-04-21T06:00:00.000Z",
     "ingested_at": "2026-04-21T12:01:54.242Z"
+  },
+  {
+    "id": "ef6aa768-50b8-4a3c-8daa-2124bba75f65",
+    "title": "Casa Lèvanzo",
+    "creator": "Margine",
+    "location": "Caprarica di Lecce",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040565/casa-levanzo-margine",
+    "image_url": "https://images.adsttc.com/media/images/69d9/60e0/92c0/7a59/b636/4e57/medium_jpg/casa-levanzo-margine_2.jpg?1775853879",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-21T10:00:00.000Z",
+    "ingested_at": "2026-04-21T16:13:45.485Z"
   }
 ]
