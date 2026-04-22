@@ -5741,5 +5741,23 @@
     "material": [],
     "published_at": "2026-04-21T19:00:00.000Z",
     "ingested_at": "2026-04-21T23:39:59.804Z"
+  },
+  {
+    "id": "2bf206b1-c642-4394-8719-e6436b11cf38",
+    "title": "Mine Resort · Hill",
+    "creator": "siarchitecture",
+    "location": "Wuxi Village",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040819/mine-resort-star-hill-siarchitecture",
+    "image_url": "https://images.adsttc.com/media/images/69e6/c038/8910/1e01/8027/2ba7/medium_jpg/mine-resort-star-hill-siarchitecture_3.jpg?1776730209",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-04-22T00:00:00.000Z",
+    "ingested_at": "2026-04-22T06:03:29.826Z"
   }
 ]
