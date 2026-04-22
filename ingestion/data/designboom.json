@@ -2258,5 +2258,24 @@
     "material": [],
     "published_at": "2026-04-21T14:50:05.000Z",
     "ingested_at": "2026-04-21T16:13:46.912Z"
+  },
+  {
+    "id": "51db9ab2-160a-42fd-9700-9b789aeb9d64",
+    "title": "a raised walkway weaves tallinn’s museum quarter into the urban fabric",
+    "creator": "Georges Batzios Architects",
+    "location": "Tallinn",
+    "country": "Estonia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/raised-walkway-tallinn-museum-quarter-urban-fabric-georges-batzios-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/georges-batzios-architects-tallinn-city-museum-estonia-raised-walkway-designboom-700-500x400-22b08q85r746.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video"
+    ],
+    "material": [],
+    "published_at": "2026-04-22T16:00:51.000Z",
+    "ingested_at": "2026-04-22T16:12:08.620Z"
   }
 ]

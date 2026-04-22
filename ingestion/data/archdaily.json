@@ -5835,5 +5835,24 @@
     "material": [],
     "published_at": "2026-04-22T06:00:00.000Z",
     "ingested_at": "2026-04-22T12:01:49.706Z"
+  },
+  {
+    "id": "51dccfab-ffc2-4cba-9921-e63a808c8ddd",
+    "title": "MMMM Apartment",
+    "creator": "depaolidefranceschibaldan architetti",
+    "location": "Milan",
+    "country": "Italy",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040469/mmmm-apartment-depaolidefranceschibaldan-architetti",
+    "image_url": "https://images.adsttc.com/media/images/69d7/0fa2/7950/301b/43c2/d122/medium_jpg/mmmm-apartment-depaolidefranceschibaldan-architetti_2.jpg?1775701937",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-04-22T10:00:00.000Z",
+    "ingested_at": "2026-04-22T16:12:07.645Z"
   }
 ]
