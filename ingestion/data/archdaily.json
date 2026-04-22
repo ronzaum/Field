@@ -5854,5 +5854,23 @@
     "material": [],
     "published_at": "2026-04-22T10:00:00.000Z",
     "ingested_at": "2026-04-22T16:12:07.645Z"
+  },
+  {
+    "id": "0c948b0c-9bab-408d-88bb-5aadf056dabf",
+    "title": "Renovation of the Jesuit School",
+    "creator": "DUNAR arquitectos + TRAX",
+    "location": "Fregenal de la Sierra",
+    "country": "España",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040545/renovation-of-the-jesuit-school-dunar-arquitectos-plus-trax",
+    "image_url": "https://images.adsttc.com/media/images/69a5/8364/470e/9900/01cd/b3dd/medium_jpg/EXT_009.jpg?1772454823",
+    "typology": [
+      "Cultural Architecture",
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-04-22T12:00:00.000Z",
+    "ingested_at": "2026-04-22T18:03:31.091Z"
   }
 ]
