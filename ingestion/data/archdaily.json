@@ -6027,5 +6027,25 @@
     "material": [],
     "published_at": "2026-04-23T06:00:00.000Z",
     "ingested_at": "2026-04-23T15:16:46.216Z"
+  },
+  {
+    "id": "58e33b34-5386-4133-9696-d0e323263472",
+    "title": "Montpellier Metropolitan Cemetery",
+    "creator": "Agence Traverses - Paysage, Urbanisme, Architecture",
+    "location": "Montpellier",
+    "country": "France",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/989310/montpellier-metropolitan-cemetery-agence-traverses-paysage-urbanisme-architecture",
+    "image_url": "https://images.adsttc.com/media/images/632a/61fa/8753/7b01/6e6b/b219/medium_jpg/montpellier-metropolitan-cemetery-agence-traverses-paysage-urbanisme-architecture_2.jpg?1663722005",
+    "typology": [
+      "Landscape Architecture",
+      "Religious Architecture",
+      "Burial",
+      "cemetery"
+    ],
+    "material": [],
+    "published_at": "2026-04-23T12:00:00.000Z",
+    "ingested_at": "2026-04-23T17:25:10.768Z"
   }
 ]
