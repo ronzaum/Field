@@ -6047,5 +6047,23 @@
     "material": [],
     "published_at": "2026-04-23T12:00:00.000Z",
     "ingested_at": "2026-04-23T17:25:10.768Z"
+  },
+  {
+    "id": "5725cd15-f4c0-4f31-900e-743a33e9c2fc",
+    "title": "Vihara House",
+    "creator": "Di Frenna Arquitectos",
+    "location": "Tankah Pueblo",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040306/vihara-house-di-frenna-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69ca/3f02/88b5/3c00/0134/20a4/medium_jpg/10._Vihara.jpg?1774862233",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-23T15:00:00.000Z",
+    "ingested_at": "2026-04-23T20:58:02.582Z"
   }
 ]
