@@ -5890,5 +5890,23 @@
     "material": [],
     "published_at": "2026-04-22T15:00:00.000Z",
     "ingested_at": "2026-04-22T21:54:28.470Z"
+  },
+  {
+    "id": "0670c043-6adb-4a48-8ded-f9efe5c81c12",
+    "title": "Louvered House",
+    "creator": "i2a Architects Studio",
+    "location": "Thrissur",
+    "country": "India",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040849/louvered-house-i2a-architects-studio",
+    "image_url": "https://images.adsttc.com/media/images/69e7/c17a/63f5/ef0f/fb0f/2351/medium_jpg/louvered-house-i2a-architects-studio_18.jpg?1776796057",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-22T19:00:00.000Z",
+    "ingested_at": "2026-04-23T03:24:04.929Z"
   }
 ]
