@@ -5908,5 +5908,26 @@
     "material": [],
     "published_at": "2026-04-22T19:00:00.000Z",
     "ingested_at": "2026-04-23T03:24:04.929Z"
+  },
+  {
+    "id": "de0630ad-7feb-4223-acd1-85f0f5700727",
+    "title": "Shell Book Pavilion",
+    "creator": "LUO studio",
+    "location": "Beijing",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040851/shell-book-pavilion-luo-studio",
+    "image_url": "https://images.adsttc.com/media/images/69e8/3dec/63f5/ef01/884f/e6c3/medium_jpg/shell-book-pavilion-luo-studio_5.jpg?1776827911",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion",
+      "Commercial Architecture",
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-04-23T00:00:00.000Z",
+    "ingested_at": "2026-04-23T06:09:35.874Z"
   }
 ]
