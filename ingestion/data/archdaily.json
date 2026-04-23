@@ -6065,5 +6065,24 @@
     "material": [],
     "published_at": "2026-04-23T15:00:00.000Z",
     "ingested_at": "2026-04-23T20:58:02.582Z"
+  },
+  {
+    "id": "c755efb8-1364-41e9-9f9b-f71f0e4458ec",
+    "title": "The Third Place Mt.Fuji",
+    "creator": "Kubo Tsushima Architects",
+    "location": "Fujikawaguchiko",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040908/the-third-place-muji-kubo-tsushima-architects",
+    "image_url": "https://images.adsttc.com/media/images/69ea/2b6f/ab8e/1901/89cf/6a8c/medium_jpg/the-third-place-muji-kubo-tsushima-architects_20.jpg?1776954327",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-04-23T19:00:00.000Z",
+    "ingested_at": "2026-04-23T23:53:06.332Z"
   }
 ]
