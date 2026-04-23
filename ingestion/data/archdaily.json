@@ -5966,5 +5966,66 @@
     "material": [],
     "published_at": "2026-04-23T02:00:00.000Z",
     "ingested_at": "2026-04-23T08:55:50.442Z"
+  },
+  {
+    "id": "738ad6e9-04c0-42b9-9617-a6d89d57ca4e",
+    "title": "Kiellandsstien Residence",
+    "creator": "Hoem + Folstad Arkitekter",
+    "location": "Hafrsfjord",
+    "country": "Norway",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040029/kiellandsstien-residence-hoem-plus-folstad-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/69c5/4760/f5a5/f15f/80cd/db90/medium_jpg/kiellandsstien-residence-hoem-plus-folstad-arkitekter_10.jpg?1774536567",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-04-23T10:00:00.000Z",
+    "ingested_at": "2026-04-23T15:16:46.212Z"
+  },
+  {
+    "id": "cb24e905-4b4d-47c6-b956-3f1f63db23ae",
+    "title": "Accra Studio",
+    "creator": "Adjaye Associates",
+    "location": "Shippon",
+    "country": "Ghana",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040821/accra-studio-adjaye-associates",
+    "image_url": "https://images.adsttc.com/media/images/69e6/c848/1afd/7001/8891/4631/medium_jpg/accra-studio-adjaye-associates_1.jpg?1776732358",
+    "typology": [
+      "Offices",
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-23T07:00:00.000Z",
+    "ingested_at": "2026-04-23T15:16:46.214Z"
+  },
+  {
+    "id": "d8ba0057-43f4-4745-8d99-2b8976781c01",
+    "title": "Temple Complex",
+    "creator": "James Gorst Architects",
+    "location": "Rake",
+    "country": "United Kingdom",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1002263/temple-complex-james-gorst-architects",
+    "image_url": "https://images.adsttc.com/media/images/6483/8b34/7870/7215/2fd6/d784/medium_jpg/temple-complex-james-gorst-architects_1.jpg?1686342475",
+    "typology": [
+      "Religious Architecture",
+      "Worship",
+      "Temple",
+      "Public Architecture",
+      "Community",
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-04-23T06:00:00.000Z",
+    "ingested_at": "2026-04-23T15:16:46.216Z"
   }
 ]
