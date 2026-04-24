@@ -6139,5 +6139,24 @@
     "material": [],
     "published_at": "2026-04-24T02:00:00.000Z",
     "ingested_at": "2026-04-24T09:03:23.044Z"
+  },
+  {
+    "id": "fff88b65-b981-4343-9542-885adb856560",
+    "title": "Creston House",
+    "creator": "Mork-Ulnes Architects",
+    "location": "Berkeley Hills",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040464/creston-house-mork-ulnes-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d6/af39/7950/303e/c139/3301/medium_jpg/creston-house-mork-ulnes-architects_9.jpg?1775677261",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T06:00:00.000Z",
+    "ingested_at": "2026-04-24T11:11:05.318Z"
   }
 ]
