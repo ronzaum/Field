@@ -6084,5 +6084,23 @@
     "material": [],
     "published_at": "2026-04-23T19:00:00.000Z",
     "ingested_at": "2026-04-23T23:53:06.332Z"
+  },
+  {
+    "id": "fb510dd8-2e4f-473c-9d10-3b28a28374ec",
+    "title": "Woowa Brothers Office",
+    "creator": "unseenbird",
+    "location": "Seongnam-si",
+    "country": "South Korea",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040897/woowa-brothers-office-unseenbird",
+    "image_url": "https://images.adsttc.com/media/images/69e9/ee94/8471/2000/01f8/ee3f/medium_jpg/WooWa-brothers_13f_95.jpg?1776938765",
+    "typology": [
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T00:00:00.000Z",
+    "ingested_at": "2026-04-24T06:12:00.230Z"
   }
 ]
