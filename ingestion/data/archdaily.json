@@ -6177,5 +6177,23 @@
     "material": [],
     "published_at": "2026-04-24T07:00:00.000Z",
     "ingested_at": "2026-04-24T13:49:41.058Z"
+  },
+  {
+    "id": "f4c981ed-36b7-4f7e-8077-1758d13e5e3d",
+    "title": "House in the Meadow",
+    "creator": "Team Tonbo",
+    "location": "Laren",
+    "country": "The Netherlands",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040449/house-in-the-meadow-team-tonbo",
+    "image_url": "https://images.adsttc.com/media/images/69d6/6963/5a31/3100/01da/ed42/medium_jpg/photo_17_kopie.jpg?1775659444",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T10:00:00.000Z",
+    "ingested_at": "2026-04-24T15:13:02.801Z"
   }
 ]
