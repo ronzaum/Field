@@ -6102,5 +6102,42 @@
     "material": [],
     "published_at": "2026-04-24T00:00:00.000Z",
     "ingested_at": "2026-04-24T06:12:00.230Z"
+  },
+  {
+    "id": "2495fcd3-df27-485c-b39b-00387c6a75e3",
+    "title": "JCD Residence",
+    "creator": "Ximenes Leite Arquitetura",
+    "location": "Morumbi",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040562/jcd-residence-ximenes-leite-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69d9/2d9a/87e3/da00/01ef/b5f8/medium_jpg/ximenes_leite-14.jpg?1775840777",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T03:00:00.000Z",
+    "ingested_at": "2026-04-24T09:03:23.042Z"
+  },
+  {
+    "id": "3731a1b1-5803-40c5-bc67-3d256d6a536c",
+    "title": "AFER Hangang",
+    "creator": "Hyunjoon Yoo + Partners",
+    "location": "Seobinggo-dong",
+    "country": "South Korea",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040863/afer-hangang-hyunjoon-yoo-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/69e8/b131/63f5/ef69/9852/84f0/medium_jpg/afer-hangang-hyunjoon-yoo-plus-partners_1.jpg?1776857434",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T02:00:00.000Z",
+    "ingested_at": "2026-04-24T09:03:23.044Z"
   }
 ]

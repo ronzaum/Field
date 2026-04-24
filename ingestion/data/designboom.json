@@ -2347,5 +2347,28 @@
     "material": [],
     "published_at": "2026-04-23T17:30:45.000Z",
     "ingested_at": "2026-04-23T19:20:00.721Z"
+  },
+  {
+    "id": "a6f49886-ea54-4cf8-ad5f-466b381309e5",
+    "title": "thin concrete walls frame tiny chapel by S-AR, built from its own remains",
+    "creator": "S-AR",
+    "location": "Santiago",
+    "country": "México",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/thin-concrete-walls-tiny-oratory-chapel-s-ar/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/oratory-chapel-s-ar-santiago-nuevo-leon-mexico-designboom-700-500x400-22b08q85r127.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in mexico",
+      "church architecture and design",
+      "concrete architecture and design",
+      "recycling",
+      "S-AR stacion-ARquitectura"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T08:30:55.000Z",
+    "ingested_at": "2026-04-24T09:03:24.358Z"
   }
 ]
