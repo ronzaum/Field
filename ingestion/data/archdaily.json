@@ -6195,5 +6195,22 @@
     "material": [],
     "published_at": "2026-04-24T10:00:00.000Z",
     "ingested_at": "2026-04-24T15:13:02.801Z"
+  },
+  {
+    "id": "30d3dc1d-a644-42ab-909e-df4a3a476288",
+    "title": "Juan Francisco Casas Studio",
+    "creator": "Positive Livings",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039396/juan-francisco-casas-studio-positive-livings",
+    "image_url": "https://images.adsttc.com/media/images/69aa/c92d/1d07/d400/0132/3e3c/medium_jpg/250917_Positive_Livings_Estudio_Juan_Fran_Casas_024.jpg?1772800321",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T12:00:00.000Z",
+    "ingested_at": "2026-04-24T19:01:24.746Z"
   }
 ]
