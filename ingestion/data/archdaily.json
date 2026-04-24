@@ -6158,5 +6158,24 @@
     "material": [],
     "published_at": "2026-04-24T06:00:00.000Z",
     "ingested_at": "2026-04-24T11:11:05.318Z"
+  },
+  {
+    "id": "378c14d8-0e4c-46f3-a88c-107509376dc4",
+    "title": "Moksha House",
+    "creator": "SAW // Spiegel Aihara Workshop",
+    "location": "Portola Valley",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040500/moksha-house-saw-spiegel-aihara-workshop",
+    "image_url": "https://images.adsttc.com/media/images/69d7/bff8/ae7d/2910/32ef/1c9b/medium_jpg/moksha-house-saw-spiegel-aihara-workshop_1.jpg?1775747083",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T07:00:00.000Z",
+    "ingested_at": "2026-04-24T13:49:41.058Z"
   }
 ]
