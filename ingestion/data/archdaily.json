@@ -6212,5 +6212,23 @@
     "material": [],
     "published_at": "2026-04-24T12:00:00.000Z",
     "ingested_at": "2026-04-24T19:01:24.746Z"
+  },
+  {
+    "id": "023e3d6e-5aba-46c8-bdb9-d8850bf603b9",
+    "title": "MP House",
+    "creator": "73.Onze Arquitetura",
+    "location": "Trancoso",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040424/mp-house-7nze-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6826/93b1/5ae7/be01/8667/404e/medium_jpg/casa-mp-7nze-arquitetura_41.jpg?1747358653",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T15:00:00.000Z",
+    "ingested_at": "2026-04-24T21:53:48.891Z"
   }
 ]
