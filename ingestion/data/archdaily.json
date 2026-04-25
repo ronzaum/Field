@@ -6319,5 +6319,23 @@
     "material": [],
     "published_at": "2026-04-25T11:00:00.000Z",
     "ingested_at": "2026-04-25T15:45:51.078Z"
+  },
+  {
+    "id": "502c50e3-b9cc-40e9-a42e-384c0a264b76",
+    "title": "VLP House",
+    "creator": "Pascali Semerdjian Arquitetos",
+    "location": "Monte Mor",
+    "country": "Brasil",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040149/vlp-house-pascali-semerdjian-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6965/43c8/60cb/5200/01b9/0230/medium_jpg/011.jpg?1768244311",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T15:00:00.000Z",
+    "ingested_at": "2026-04-25T20:46:47.241Z"
   }
 ]
