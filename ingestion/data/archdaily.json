@@ -6266,5 +6266,23 @@
     "material": [],
     "published_at": "2026-04-25T02:00:00.000Z",
     "ingested_at": "2026-04-25T09:00:22.433Z"
+  },
+  {
+    "id": "4b1f5741-93d9-4683-a9a7-406df4bb68bc",
+    "title": "Jonslunds Skola",
+    "creator": "D Office arkitekter",
+    "location": "Sweden",
+    "country": null,
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040555/jonslunds-skola-d-office-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/69d9/3fbb/87e3/da00/01ef/b654/medium_jpg/DSFF48_1.jpg?1775845361",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T06:00:00.000Z",
+    "ingested_at": "2026-04-25T11:41:46.318Z"
   }
 ]
