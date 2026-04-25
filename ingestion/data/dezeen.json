@@ -301,5 +301,29 @@
     "material": [],
     "published_at": "2026-04-18T10:00:57.000Z",
     "ingested_at": "2026-04-18T15:42:03.300Z"
+  },
+  {
+    "id": "3089d8ce-dff7-4348-83db-331eb9070b88",
+    "title": "Reds shingles create \"sense of personality and wonder\" at Cucu cabin",
+    "creator": "Studio Bucky",
+    "location": "Shingles",
+    "country": "Ireland",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/04/25/cucu-cabin-studio-bucky/",
+    "image_url": "http://static.dezeen.com/uploads/2026/04/cucu-cabin-studio-bucky-ireland_dezeen_2364_sq_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Red buildings",
+      "Cabins",
+      "Off-grid architecture",
+      "Red",
+      "Studio Bucky",
+      "Residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T10:00:24.000Z",
+    "ingested_at": "2026-04-25T10:49:58.050Z"
   }
 ]
