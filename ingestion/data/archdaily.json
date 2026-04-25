@@ -6337,5 +6337,22 @@
     "material": [],
     "published_at": "2026-04-25T15:00:00.000Z",
     "ingested_at": "2026-04-25T20:46:47.241Z"
+  },
+  {
+    "id": "a75e1011-c1c8-49ec-8e82-84f46f3b4a66",
+    "title": "Joren-ji Ossuary",
+    "creator": "OOOarchitecture",
+    "location": "Nogata",
+    "country": "Japan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040550/joren-ji-ossuary-oooarchitecture",
+    "image_url": "https://images.adsttc.com/media/images/69e6/07f6/1afd/7001/8891/43c9/medium_jpg/joren-ji-ossuary-oooarchitecture_23.jpg?1776683043",
+    "typology": [
+      "Religious Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T17:00:00.000Z",
+    "ingested_at": "2026-04-25T22:43:16.554Z"
   }
 ]
