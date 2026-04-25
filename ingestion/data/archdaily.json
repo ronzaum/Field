@@ -6230,5 +6230,23 @@
     "material": [],
     "published_at": "2026-04-24T15:00:00.000Z",
     "ingested_at": "2026-04-24T21:53:48.891Z"
+  },
+  {
+    "id": "69a8b0ba-5f16-400e-be59-0c95b5fd1eb3",
+    "title": "O16 House",
+    "creator": "studiokian",
+    "location": "Kecamatan Serpong Utara",
+    "country": "Indonesia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040896/o16-house",
+    "image_url": "https://images.adsttc.com/media/images/69e9/ec1d/8471/2000/01f8/ee29/medium_jpg/02.jpg?1776938107",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-24T19:00:00.000Z",
+    "ingested_at": "2026-04-25T02:54:31.802Z"
   }
 ]
