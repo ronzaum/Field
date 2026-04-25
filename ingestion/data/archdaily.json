@@ -6302,5 +6302,22 @@
     "material": [],
     "published_at": "2026-04-25T09:00:00.000Z",
     "ingested_at": "2026-04-25T14:50:07.717Z"
+  },
+  {
+    "id": "b7e07225-0d20-49b9-8b48-e88fb0203a64",
+    "title": "Ecosystème D",
+    "creator": "Snøhetta + Santer Vanhoof",
+    "location": "Dunkerque",
+    "country": "France",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040586/ecosysteme-d-snohetta-plus-santer-vanhoof",
+    "image_url": "https://images.adsttc.com/media/images/69dc/5525/adbb/f701/8b64/5198/medium_jpg/ecosysteme-d-snohetta-plus-santer-vanhoof_6.jpg?1776047413",
+    "typology": [
+      "Infrastructure"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T11:00:00.000Z",
+    "ingested_at": "2026-04-25T15:45:51.078Z"
   }
 ]
