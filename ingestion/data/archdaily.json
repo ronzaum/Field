@@ -6284,5 +6284,23 @@
     "material": [],
     "published_at": "2026-04-25T06:00:00.000Z",
     "ingested_at": "2026-04-25T11:41:46.318Z"
+  },
+  {
+    "id": "6b4c27d7-95da-420a-84a3-329bd6a1532f",
+    "title": "Casa L5",
+    "creator": "Pasqual Giner Arquitectura",
+    "location": "Spain",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040384/casa-l5-pasqual-giner-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69d4/c7b0/5a31/3100/01da/eb80/medium_jpg/CasaL5-PasqualGiner-Aun_onCabrera-SoniaSabnani-39.jpg?1775552584",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T09:00:00.000Z",
+    "ingested_at": "2026-04-25T14:50:07.717Z"
   }
 ]

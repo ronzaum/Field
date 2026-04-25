@@ -2370,5 +2370,27 @@
     "material": [],
     "published_at": "2026-04-24T08:30:55.000Z",
     "ingested_at": "2026-04-24T09:03:24.358Z"
+  },
+  {
+    "id": "22da627a-7eeb-43fa-9c71-1c3674c49fae",
+    "title": "this tiny community library in beijing can open and shut like a clamshell",
+    "creator": "LUO Studio",
+    "location": "Beijing",
+    "country": "China",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/tiny-library-beijing-clam-shell-book-pavilion-luo-studio/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/shell-book-pavilion-luo-studio-designboom-700-1-500x400-22b08q85r540.jpg",
+    "typology": [
+      "architecture",
+      "architecture in beijing",
+      "architecture in china",
+      "library architecture and design",
+      "LUO studio",
+      "spaces under 50 sqm"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T14:30:18.000Z",
+    "ingested_at": "2026-04-25T14:50:08.638Z"
   }
 ]
