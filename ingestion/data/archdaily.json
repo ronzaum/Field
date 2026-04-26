@@ -6354,5 +6354,23 @@
     "material": [],
     "published_at": "2026-04-25T17:00:00.000Z",
     "ingested_at": "2026-04-25T22:43:16.554Z"
+  },
+  {
+    "id": "f14999c4-d077-4f0d-80ad-58828344915b",
+    "title": "Around the Bend",
+    "creator": "Nigel Grigg Architects",
+    "location": "Melbourne",
+    "country": "Australia",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040952/around-the-bend-nigel-grigg-architects",
+    "image_url": "https://images.adsttc.com/media/images/69eb/8dfa/2f06/ec00/01cd/065c/medium_jpg/Around_the_Bend_01_-_ITN_Architects_-_Nigel_Grigg.jpg?1777045083",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-25T21:00:00.000Z",
+    "ingested_at": "2026-04-26T03:33:16.205Z"
   }
 ]
