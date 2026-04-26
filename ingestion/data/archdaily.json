@@ -6392,5 +6392,24 @@
     "material": [],
     "published_at": "2026-04-26T02:00:00.000Z",
     "ingested_at": "2026-04-26T08:18:04.531Z"
+  },
+  {
+    "id": "434abc2d-e0b4-4119-b5ab-e5871525c1bd",
+    "title": "Partizani High School",
+    "creator": "Loft Architects",
+    "location": "Tiranë",
+    "country": "Albania",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040436/partizani-high-school-loft-architects",
+    "image_url": "https://images.adsttc.com/media/images/69d6/562e/5a31/3100/01da/ecae/medium_jpg/loftarchitects-shkollapartizani-9.jpg?1775654549",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "High School"
+    ],
+    "material": [],
+    "published_at": "2026-04-26T06:00:00.000Z",
+    "ingested_at": "2026-04-26T10:55:47.999Z"
   }
 ]
