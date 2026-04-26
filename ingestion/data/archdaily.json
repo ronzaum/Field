@@ -6447,5 +6447,27 @@
     "material": [],
     "published_at": "2026-04-26T15:00:00.000Z",
     "ingested_at": "2026-04-26T20:47:23.360Z"
+  },
+  {
+    "id": "ace7566a-f178-4125-a7d2-3dc383e202a7",
+    "title": "Suupaa Restaurant and Convenience Store",
+    "creator": "IF Architecture",
+    "location": "Cremorne",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040875/suupaa-restaurant-and-convenience-store-if-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69e9/3b92/7887/fb01/8052/732e/medium_jpg/suupaa-if-architecture_14.jpg?1776892829",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Restaurant",
+      "Commercial Architecture",
+      "Retail",
+      "Grocery Store"
+    ],
+    "material": [],
+    "published_at": "2026-04-26T17:00:00.000Z",
+    "ingested_at": "2026-04-26T22:46:33.508Z"
   }
 ]
