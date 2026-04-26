@@ -2392,5 +2392,28 @@
     "material": [],
     "published_at": "2026-04-25T14:30:18.000Z",
     "ingested_at": "2026-04-25T14:50:08.638Z"
+  },
+  {
+    "id": "135cc6dc-5dd5-4eaf-aa2b-3bd6e7506c10",
+    "title": "curved shell-like facades enfold montpellier residential units by vincent callebaut",
+    "creator": "Vincent Callebaut Architectures",
+    "location": "Cité Créative",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/curved-shell-like-facades-montpellier-residential-units-vincent-callebaut-jardins-secrets/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/montpellier-cite-creative-jardins-secrets-vincent-callebaut-designboom-700-500x400-22b08q85r960.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in france",
+      "facades",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "vincent callebaut architectures"
+    ],
+    "material": [],
+    "published_at": "2026-04-26T08:00:01.000Z",
+    "ingested_at": "2026-04-26T08:18:05.573Z"
   }
 ]
