@@ -6429,5 +6429,23 @@
     "material": [],
     "published_at": "2026-04-26T11:00:00.000Z",
     "ingested_at": "2026-04-26T15:49:09.099Z"
+  },
+  {
+    "id": "01217f82-9443-42ce-a6cf-1f09772302ec",
+    "title": "El Camino: Housing Complex for Older Adults and Formerly Unhoused People",
+    "creator": "FP Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039957/el-camino-housing-complex-for-older-adults-and-formerly-unhoused-people-fp-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69aa/b481/3c49/4901/7d2a/e9f3/medium_jpg/el-camino-unidad-habitacional-para-personas-mayores-y-exhabitantes-de-calle-fp-arquitectura_2.jpg?1772795028",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-04-26T15:00:00.000Z",
+    "ingested_at": "2026-04-26T20:47:23.360Z"
   }
 ]
