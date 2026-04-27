@@ -6613,5 +6613,23 @@
     "material": [],
     "published_at": "2026-04-27T12:00:00.000Z",
     "ingested_at": "2026-04-27T16:45:30.932Z"
+  },
+  {
+    "id": "df1160e8-01c1-4280-871c-ee7184e6cb68",
+    "title": "Refugio House",
+    "creator": "DB Estudio de Arquitectura",
+    "location": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040540/refugio-house-db-estudio-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69d8/e600/92c0/7a05/e039/a920/medium_jpg/casa-refugio-db-estudio-de-arquitectura_5.jpg?1775822353",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T15:00:00.000Z",
+    "ingested_at": "2026-04-27T21:57:58.364Z"
   }
 ]
