@@ -6595,5 +6595,23 @@
     "material": [],
     "published_at": "2026-04-27T07:00:00.000Z",
     "ingested_at": "2026-04-27T14:08:10.693Z"
+  },
+  {
+    "id": "ec649d28-abd5-4cdc-b564-d2fa372e2fd6",
+    "title": "Gardiner Museum",
+    "creator": "Montgomery Sisam Architects + Andrew Jones Design",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040023/gardiner-museum-montgomery-sisam-architects-plus-andrew-jones-design",
+    "image_url": "https://images.adsttc.com/media/images/69cb/bde2/bacd/cd01/89fe/be69/medium_jpg/gardiner-museum-montgomery-sisam-architects-plus-andrew-jones-design_3.jpg?1774960116",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T12:00:00.000Z",
+    "ingested_at": "2026-04-27T16:45:30.932Z"
   }
 ]
