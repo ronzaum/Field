@@ -6540,5 +6540,24 @@
     "material": [],
     "published_at": "2026-04-27T02:00:00.000Z",
     "ingested_at": "2026-04-27T09:23:36.247Z"
+  },
+  {
+    "id": "0561430a-232b-4ebc-b866-67cf81f273f7",
+    "title": "The Root Cabin",
+    "creator": "Kasawoo",
+    "location": "Zakynthos",
+    "country": "Greece",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040585/the-root-cabin-kasawoo",
+    "image_url": "https://images.adsttc.com/media/images/69db/b14a/d510/744a/41a9/2863/medium_jpg/the-root-cabin-kasawoo_6.jpg?1776005469",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T06:00:00.000Z",
+    "ingested_at": "2026-04-27T11:48:40.216Z"
   }
 ]
