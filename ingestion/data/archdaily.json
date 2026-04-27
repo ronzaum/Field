@@ -6504,5 +6504,41 @@
     "material": [],
     "published_at": "2026-04-27T00:00:00.000Z",
     "ingested_at": "2026-04-27T06:32:33.001Z"
+  },
+  {
+    "id": "70784ca5-e87f-4cd7-a420-4b2a344d9799",
+    "title": "Pomona House",
+    "creator": "Hive Architecture",
+    "location": "Pomona",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040866/pomona-house-hive-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69e8/c6eb/1afd/706e/415e/44a9/medium_jpg/pomona-house-hive-architecture_1.jpg?1776862975",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T03:00:00.000Z",
+    "ingested_at": "2026-04-27T09:23:36.243Z"
+  },
+  {
+    "id": "eb78f6be-820e-494a-8f08-7aa839fe87a1",
+    "title": "Tropical Flow",
+    "creator": "H&P Architects",
+    "location": "Vinh Ngoc commune",
+    "country": "Vietnam",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040879/tropical-flow-h-and-p-architects",
+    "image_url": "https://images.adsttc.com/media/images/69e9/4051/63f5/ef6d/7501/bc5d/medium_jpg/tropical-flow-h-and-p-architects_42.jpg?1776894059",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T02:00:00.000Z",
+    "ingested_at": "2026-04-27T09:23:36.247Z"
   }
 ]
