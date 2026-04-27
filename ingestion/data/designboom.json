@@ -2457,5 +2457,27 @@
     "material": [],
     "published_at": "2026-04-27T08:30:13.000Z",
     "ingested_at": "2026-04-27T09:23:40.482Z"
+  },
+  {
+    "id": "5933c148-d4eb-4da8-961d-e86df9a0eb90",
+    "title": "hundreds of suspended mirrors turn iranian pavilion into a shifting light machine",
+    "creator": "Ehsani Sharafeh Associates",
+    "location": "Mashhad",
+    "country": "Iran",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/hundreds-suspended-mirrors-iranian-pavilion-shifting-light-machine-ehsani-sharafeh-associates/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/mirror-pavilion-ehsani-sharafeh-associates-traditional-iranian-architecture-contemporary-computational-design-designboom-700-500x400-22b08q85r190.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in iran",
+      "mirrors",
+      "parametric architecture",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T13:30:38.000Z",
+    "ingested_at": "2026-04-27T14:08:11.838Z"
   }
 ]

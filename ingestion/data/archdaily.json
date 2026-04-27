@@ -6559,5 +6559,41 @@
     "material": [],
     "published_at": "2026-04-27T06:00:00.000Z",
     "ingested_at": "2026-04-27T11:48:40.216Z"
+  },
+  {
+    "id": "def420f9-a541-4e61-9e03-b142128a0151",
+    "title": "Passive House Forest Retreat",
+    "creator": "Stark",
+    "location": "Pemberton",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040705/passive-house-forest-retreat-stark",
+    "image_url": "https://images.adsttc.com/media/images/69e1/28f9/63f5/ef01/884f/db1c/medium_jpg/passive-house-forest-retreat-stark_9.jpg?1776363802",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T10:00:00.000Z",
+    "ingested_at": "2026-04-27T14:08:10.690Z"
+  },
+  {
+    "id": "727f52c2-19b7-4e81-9782-af88c4c09910",
+    "title": "Belgaon Dhaga School",
+    "creator": "pk_iNCEPTiON",
+    "location": "Belgaon Dhaga",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040837/belgaon-dhaga-school-pk-inception",
+    "image_url": "https://images.adsttc.com/media/images/69e7/5aa3/1afd/7031/2c5c/13d6/medium_jpg/belgaon-dhaga-school-pk-inception_2.jpg?1776769744",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T07:00:00.000Z",
+    "ingested_at": "2026-04-27T14:08:10.693Z"
   }
 ]
