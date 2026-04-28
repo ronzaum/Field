@@ -6704,5 +6704,28 @@
     "material": [],
     "published_at": "2026-04-28T02:00:00.000Z",
     "ingested_at": "2026-04-28T09:27:06.629Z"
+  },
+  {
+    "id": "4a9c8ee7-9415-4404-8f79-f1848cd699c0",
+    "title": "Sheep Field Barn",
+    "creator": "DSDHA",
+    "location": null,
+    "country": null,
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040572/sheep-field-barn-dsdha",
+    "image_url": "https://images.adsttc.com/media/images/69d9/6fa1/92c0/7a59/b636/4ef4/medium_jpg/sheep-field-barn-dsdha_8.jpg?1775857581",
+    "typology": [
+      "Industrial Architecture",
+      "Barn",
+      "Refurbishment",
+      "Adaptive reuse",
+      "Interior Design",
+      "Offices Interiors",
+      "Cowork Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T06:00:00.000Z",
+    "ingested_at": "2026-04-28T11:49:41.664Z"
   }
 ]
