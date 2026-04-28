@@ -6631,5 +6631,23 @@
     "material": [],
     "published_at": "2026-04-27T15:00:00.000Z",
     "ingested_at": "2026-04-27T21:57:58.364Z"
+  },
+  {
+    "id": "f3c3c674-33c4-412b-ae6c-c3a42b896c7a",
+    "title": "TN House",
+    "creator": "IDIN Architects",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040950/tn-house-idin-architects",
+    "image_url": "https://images.adsttc.com/media/images/69eb/898c/2f06/ec00/01cd/0626/medium_jpg/TM_T-House_001.jpg?1777043894",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-27T19:00:00.000Z",
+    "ingested_at": "2026-04-28T03:41:50.963Z"
   }
 ]
