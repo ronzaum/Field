@@ -2620,5 +2620,25 @@
     "material": [],
     "published_at": "2026-04-28T13:30:38.000Z",
     "ingested_at": "2026-04-28T14:27:41.771Z"
+  },
+  {
+    "id": "529ad7c6-2f8d-442d-a420-4c159e6915e4",
+    "title": "folding PTFE facade to wrap OPEN’s ‘cube of change’ arts center in china",
+    "creator": "OPEN Architecture",
+    "location": "Xiamen",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/open-cube-of-change-meitu-visual-arts-center-xiamen-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/OPEN-architecture-cube-of-change-designboom-700-500x400-22b08q85r129.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "facades",
+      "OPEN architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T15:30:18.000Z",
+    "ingested_at": "2026-04-28T16:56:58.204Z"
   }
 ]

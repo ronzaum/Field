@@ -6745,5 +6745,23 @@
     "material": [],
     "published_at": "2026-04-28T07:00:00.000Z",
     "ingested_at": "2026-04-28T14:27:40.944Z"
+  },
+  {
+    "id": "c5011abf-a6a0-48bb-92e5-0960bbb196bc",
+    "title": "West London House",
+    "creator": "Goldstein Heather",
+    "location": "Chiswick",
+    "country": "United Kingdom",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040575/west-london-house-goldstein-heather",
+    "image_url": "https://images.adsttc.com/media/images/69da/526a/92c0/7a59/b636/4fab/medium_jpg/west-london-house-goldstein-heather_21.jpg?1775915655",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T10:00:00.000Z",
+    "ingested_at": "2026-04-28T16:56:57.308Z"
   }
 ]
