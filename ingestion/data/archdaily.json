@@ -6763,5 +6763,22 @@
     "material": [],
     "published_at": "2026-04-28T10:00:00.000Z",
     "ingested_at": "2026-04-28T16:56:57.308Z"
+  },
+  {
+    "id": "bb113695-6eff-483e-ac4a-d42c622f2fe1",
+    "title": "West Canal Yards",
+    "creator": "Graham Baba Architects",
+    "location": "Seattle",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040953/west-canal-yards-graham-baba-architects",
+    "image_url": "https://images.adsttc.com/media/images/69eb/a676/2f06/ec00/01cd/0686/medium_jpg/WestCanal-018.jpg?1777051310",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T12:00:00.000Z",
+    "ingested_at": "2026-04-28T18:23:26.503Z"
   }
 ]
