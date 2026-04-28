@@ -2600,5 +2600,25 @@
     "material": [],
     "published_at": "2026-04-28T10:30:02.000Z",
     "ingested_at": "2026-04-28T11:49:42.687Z"
+  },
+  {
+    "id": "a377f9aa-2e88-4d29-9876-9138ebe31e00",
+    "title": "floating ring installation by broissin architects releases a continuous cascade of water",
+    "creator": "Broissin Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/floating-ring-installation-broissin-architects-continuous-cascade-water/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/broissin-architects-between-sky-water-interior-installation-suspended-ring-continuous-waterfall-designboom-700-500x400-22b08q85r984.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "gerardo broissin",
+      "interactive installation"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T13:30:38.000Z",
+    "ingested_at": "2026-04-28T14:27:41.771Z"
   }
 ]

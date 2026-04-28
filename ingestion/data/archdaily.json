@@ -6727,5 +6727,23 @@
     "material": [],
     "published_at": "2026-04-28T06:00:00.000Z",
     "ingested_at": "2026-04-28T11:49:41.664Z"
+  },
+  {
+    "id": "11e86509-54e4-47d5-a6d2-c30584ff38a3",
+    "title": "A Place in the Country",
+    "creator": "Studio Ben Allen",
+    "location": "Kent",
+    "country": "United Kingdom",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040974/a-place-in-the-country-studio-ben-allen",
+    "image_url": "https://images.adsttc.com/media/images/69ee/cea1/6001/4201/883a/ea29/medium_jpg/a-place-in-the-country-studio-ben-allen_39.jpg?1777258259",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T07:00:00.000Z",
+    "ingested_at": "2026-04-28T14:27:40.944Z"
   }
 ]
