@@ -6668,5 +6668,41 @@
     "material": [],
     "published_at": "2026-04-28T00:00:00.000Z",
     "ingested_at": "2026-04-28T06:33:43.590Z"
+  },
+  {
+    "id": "e2e4d5b9-c5a4-4472-b58f-a8db989515f2",
+    "title": "House TN",
+    "creator": "1-1 Architects",
+    "location": "Anjo",
+    "country": "Japan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040948/house-tn-1-1-architects",
+    "image_url": "https://images.adsttc.com/media/images/69eb/80b3/2f06/ec00/01cd/0603/medium_jpg/L028_House_TN_adj.jpg?1777042084",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T03:00:00.000Z",
+    "ingested_at": "2026-04-28T09:27:06.627Z"
+  },
+  {
+    "id": "9a217854-d784-4b87-867a-4b3840187419",
+    "title": "Neem Tree House",
+    "creator": "DADA Partners",
+    "location": "New Delhi",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040904/neem-tree-house-dada-partners",
+    "image_url": "https://images.adsttc.com/media/images/69ea/2370/65bf/e100/014c/1068/medium_jpg/3.jpg?1776952245",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T02:00:00.000Z",
+    "ingested_at": "2026-04-28T09:27:06.629Z"
   }
 ]
