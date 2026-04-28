@@ -6780,5 +6780,23 @@
     "material": [],
     "published_at": "2026-04-28T12:00:00.000Z",
     "ingested_at": "2026-04-28T18:23:26.503Z"
+  },
+  {
+    "id": "d2abe068-a00d-4912-9f8c-47a7cf4cdfea",
+    "title": "Ameba Branch",
+    "creator": "BAUEN",
+    "location": "Asunción",
+    "country": "Paraguay",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040446/ameba-branch-bauen",
+    "image_url": "https://images.adsttc.com/media/images/69c1/1fb2/015c/4f00/015c/560e/medium_jpg/02__Ameba_EEUU___Renato_Duria.jpg?1774264309",
+    "typology": [
+      "Commercial Architecture",
+      "Services"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T15:00:00.000Z",
+    "ingested_at": "2026-04-28T20:21:07.797Z"
   }
 ]
