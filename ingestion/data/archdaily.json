@@ -6928,5 +6928,26 @@
     "material": [],
     "published_at": "2026-04-29T10:00:00.000Z",
     "ingested_at": "2026-04-29T16:45:41.850Z"
+  },
+  {
+    "id": "2bfd9920-859e-45fe-bdff-e8418361a226",
+    "title": "Open Chapel",
+    "creator": "Christoph Hesse Architects",
+    "location": "Hillershausen",
+    "country": "Germany",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1024807/open-chapel-christoph-hesse-architects",
+    "image_url": "https://images.adsttc.com/media/images/6760/cfa7/b868/2e01/7f6b/5009/medium_jpg/open-chapel-christoph-hesse-architects_3.jpg?1734397895",
+    "typology": [
+      "Religious Architecture",
+      "Worship",
+      "Chapel",
+      "Public Architecture",
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T12:00:00.000Z",
+    "ingested_at": "2026-04-29T18:15:29.820Z"
   }
 ]

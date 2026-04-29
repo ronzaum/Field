@@ -2697,5 +2697,26 @@
     "material": [],
     "published_at": "2026-04-29T13:37:16.000Z",
     "ingested_at": "2026-04-29T14:12:02.679Z"
+  },
+  {
+    "id": "511a6f46-651a-4e77-9100-a2222c32b552",
+    "title": "kengo kuma frames medieval church facade in angers, france with ribbed portico",
+    "creator": "Vincent Brunelle, Martin Brunelle",
+    "location": "Angers",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kengo-kuma-medieval-church-facade-angers-france-ribbed-portico-saint-maurice-cathedral/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/kengo-kuma-cathedral-angers-france-portico-addition-designboom-700-500x400-22b08q85r093.jpg",
+    "typology": [
+      "architecture",
+      "architecture in france",
+      "church architecture and design",
+      "kengo kuma",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T17:00:30.000Z",
+    "ingested_at": "2026-04-29T18:15:31.197Z"
   }
 ]
