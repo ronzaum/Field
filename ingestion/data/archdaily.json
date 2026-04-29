@@ -6910,5 +6910,23 @@
     "material": [],
     "published_at": "2026-04-29T06:00:00.000Z",
     "ingested_at": "2026-04-29T14:12:01.706Z"
+  },
+  {
+    "id": "9220a71a-d0d8-49b7-9f7d-093c750b8315",
+    "title": "A House in a Mountain Meadow",
+    "creator": "Atelier SAD",
+    "location": "Malá Úpa",
+    "country": "Czechia",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040493/a-house-in-a-mountain-meadow-atelier-sad",
+    "image_url": "https://images.adsttc.com/media/images/69d7/a382/5a31/3100/01da/ee45/medium_jpg/Dolni__Mala__U_pa-202510.jpg?1775739873",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T10:00:00.000Z",
+    "ingested_at": "2026-04-29T16:45:41.850Z"
   }
 ]
