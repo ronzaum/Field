@@ -6949,5 +6949,23 @@
     "material": [],
     "published_at": "2026-04-29T12:00:00.000Z",
     "ingested_at": "2026-04-29T18:15:29.820Z"
+  },
+  {
+    "id": "5caac571-31f5-4e94-8078-e6114e51d6a8",
+    "title": "House 17-JB",
+    "creator": "Luiz Volpato Arquitetura",
+    "location": "Curitiba",
+    "country": "Brasil",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040396/house-17-jb-luiz-volpato-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69d2/e58a/5a31/3100/01da/ea3f/medium_jpg/LVA_29_FOTO_MACARIOS.jpg?1775429018",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T15:00:00.000Z",
+    "ingested_at": "2026-04-29T20:13:42.582Z"
   }
 ]
