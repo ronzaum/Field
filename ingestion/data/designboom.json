@@ -2660,5 +2660,23 @@
     "material": [],
     "published_at": "2026-04-29T08:30:01.000Z",
     "ingested_at": "2026-04-29T09:13:10.248Z"
+  },
+  {
+    "id": "ab184cfe-3c55-4ae8-abc0-51e046481b2e",
+    "title": "the city as a controlled hallucination: from amusement parks to urban space",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/city-controlled-hallucination-amusement-parks-urban-space/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/city-controlled-hallucination-amusement-parks-urban-space-designboom-700-500x400-22b08q85r751.jpg",
+    "typology": [
+      "architecture",
+      "DREAMS IN MOTION"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T09:30:33.000Z",
+    "ingested_at": "2026-04-29T11:42:20.165Z"
   }
 ]
