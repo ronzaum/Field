@@ -6872,5 +6872,43 @@
     "material": [],
     "published_at": "2026-04-29T02:00:00.000Z",
     "ingested_at": "2026-04-29T09:13:09.580Z"
+  },
+  {
+    "id": "5200e339-08c4-4e19-9bb6-ed9498e78f8f",
+    "title": "Serenity",
+    "creator": "ma+rs",
+    "location": "Pollachi",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040878/serenity-ma-plus-rs",
+    "image_url": "https://images.adsttc.com/media/images/69e9/3a57/63f5/ef6d/7501/bc25/medium_jpg/serenity-ma-plus-rs_18.jpg?1776892549",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T07:00:00.000Z",
+    "ingested_at": "2026-04-29T14:12:01.704Z"
+  },
+  {
+    "id": "e35a121f-a862-44fc-991a-0fa8f5e261b5",
+    "title": "Cemetery Ankaran",
+    "creator": "void arhitektura",
+    "location": "Ankaran",
+    "country": "Slovenia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040901/cemetery-ankaran",
+    "image_url": "https://images.adsttc.com/media/images/69ea/0632/8471/2000/01f8/ee9f/medium_jpg/void_cemetery-Ankaran_photo-Miran-Kambic_18.jpg?1776944931",
+    "typology": [
+      "Religious Architecture",
+      "Burial",
+      "cemetery",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T06:00:00.000Z",
+    "ingested_at": "2026-04-29T14:12:01.706Z"
   }
 ]

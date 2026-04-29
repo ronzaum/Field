@@ -2678,5 +2678,24 @@
     "material": [],
     "published_at": "2026-04-29T09:30:33.000Z",
     "ingested_at": "2026-04-29T11:42:20.165Z"
+  },
+  {
+    "id": "b465fcd1-c1fc-4191-b845-59b9f99b37e5",
+    "title": "how DLR Group advances integrated design to elevate human experience",
+    "creator": "tim spears",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/dlr-group-integrated-design-human-experience-peter-rutti/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/dlr-group-integrated-design-architecture-interview-peter-rutti-designboom700-v2-500x400-22b08q85r560.jpg",
+    "typology": [
+      "architecture",
+      "architecture interviews",
+      "DLR Group"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T13:37:16.000Z",
+    "ingested_at": "2026-04-29T14:12:02.679Z"
   }
 ]
