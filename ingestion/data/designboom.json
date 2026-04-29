@@ -2640,5 +2640,25 @@
     "material": [],
     "published_at": "2026-04-28T15:30:18.000Z",
     "ingested_at": "2026-04-28T16:56:58.204Z"
+  },
+  {
+    "id": "13670092-1468-4eec-884e-e77b8f963a70",
+    "title": "A&M architects designs for connection between people and place",
+    "creator": "lisa kostyra",
+    "location": "Athens",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/am-architects-connection-people-place-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/a-m-architects-designboom-700-1-500x400-22b08q85r411.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in greece",
+      "architecture interviews"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T08:30:01.000Z",
+    "ingested_at": "2026-04-29T09:13:10.248Z"
   }
 ]
