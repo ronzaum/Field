@@ -6798,5 +6798,23 @@
     "material": [],
     "published_at": "2026-04-28T15:00:00.000Z",
     "ingested_at": "2026-04-28T20:21:07.797Z"
+  },
+  {
+    "id": "6f6beffa-c08e-45fd-81b1-3e8d6c39c2bc",
+    "title": "Ramsden House",
+    "creator": "James Harbard Architects",
+    "location": "Clifton Hill",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040935/ramsden-house-james-harbard-architects",
+    "image_url": "https://images.adsttc.com/media/images/69eb/52f9/511e/9009/1f3a/dcdf/medium_jpg/ramsden-james-harbard-architects_1.jpg?1777029912",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-28T19:00:00.000Z",
+    "ingested_at": "2026-04-29T03:56:08.766Z"
   }
 ]
