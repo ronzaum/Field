@@ -7134,5 +7134,24 @@
     "material": [],
     "published_at": "2026-04-30T15:00:00.000Z",
     "ingested_at": "2026-04-30T20:12:05.439Z"
+  },
+  {
+    "id": "87cba1f2-6449-4359-9693-831cefedef4b",
+    "title": "Shared Space",
+    "creator": "4site architects",
+    "location": "Belagavi",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041062/shared-space-4site-architects",
+    "image_url": "https://images.adsttc.com/media/images/69f1/1208/e0a7/c22b/0081/b72b/medium_jpg/shared-space-4site-architects_5.jpg?1777406543",
+    "typology": [
+      "Hospitality Architecture",
+      "Public Architecture",
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T19:00:00.000Z",
+    "ingested_at": "2026-04-30T23:55:59.001Z"
   }
 ]
