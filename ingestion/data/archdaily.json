@@ -7003,5 +7003,41 @@
     "material": [],
     "published_at": "2026-04-30T00:00:00.000Z",
     "ingested_at": "2026-04-30T06:35:58.724Z"
+  },
+  {
+    "id": "7096eaaf-363b-4de3-903b-cf1b20498e9f",
+    "title": "The Terrace House",
+    "creator": "S.O.S Architects",
+    "location": "Chiang Mai",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040900/the-terrace-house-sos-architects",
+    "image_url": "https://images.adsttc.com/media/images/69e9/f2a4/8471/2000/01f8/ee75/medium_jpg/COVER_DJI_2025112.jpg?1776939812",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T03:00:00.000Z",
+    "ingested_at": "2026-04-30T09:19:32.974Z"
+  },
+  {
+    "id": "f4e6516b-7cb1-4e47-b7eb-41ed4ea0f8c1",
+    "title": "House in Karuizawa",
+    "creator": "nao architects office + Studio Hashimura",
+    "location": "Karuizawa",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040970/house-in-karuizawa-nao-architects-office-plus-studio-hashimura",
+    "image_url": "https://images.adsttc.com/media/images/69ee/cb81/e2d9/9109/703c/eddc/medium_jpg/house-in-karuizawa-nao-architects-office-plus-studio-hashimura_1.jpg?1777257373",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T02:00:00.000Z",
+    "ingested_at": "2026-04-30T09:19:32.975Z"
   }
 ]

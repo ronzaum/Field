@@ -2718,5 +2718,28 @@
     "material": [],
     "published_at": "2026-04-29T17:00:30.000Z",
     "ingested_at": "2026-04-29T18:15:31.197Z"
+  },
+  {
+    "id": "b821445c-701d-4154-a3f8-0874466994c9",
+    "title": "three-toned marble facades clad floating kiosk in beijing’s urban fabric",
+    "creator": "Bufen Atelier",
+    "location": "Beijing",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/three-toned-marble-facades-floating-kiosk-beijing-urban-fabric-bufen-atelier/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/floating-kiosk-bufen-atelier-beijing-designboom-700-500x400-22b08q85r994.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in beijing",
+      "copper architecture",
+      "facades",
+      "marble and stone design",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T09:00:59.000Z",
+    "ingested_at": "2026-04-30T09:19:34.321Z"
   }
 ]
