@@ -7097,5 +7097,24 @@
     "material": [],
     "published_at": "2026-04-30T10:00:00.000Z",
     "ingested_at": "2026-04-30T16:24:15.511Z"
+  },
+  {
+    "id": "cad13706-2a43-49dd-95f6-a19145236eb2",
+    "title": "Our Lady of Victoria Monastery",
+    "creator": "Localworks",
+    "location": "Kijonjo",
+    "country": "Uganda",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/975033/our-lady-of-victoria-monastery-localworks",
+    "image_url": "https://images.adsttc.com/media/images/61de/e768/3ab1/3201/652c/51e3/medium_jpg/olvm-21.jpg?1641998272",
+    "typology": [
+      "Religious Architecture",
+      "Worship",
+      "Monastery"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T12:00:00.000Z",
+    "ingested_at": "2026-04-30T18:14:03.911Z"
   }
 ]
