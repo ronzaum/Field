@@ -7078,5 +7078,24 @@
     "material": [],
     "published_at": "2026-04-30T06:00:00.000Z",
     "ingested_at": "2026-04-30T11:42:10.190Z"
+  },
+  {
+    "id": "196b22bf-3f9f-4787-abfd-d8ab804f978e",
+    "title": "Trommel Apartment",
+    "creator": "PLNLstudio",
+    "location": "Amsterdam",
+    "country": "The Netherlands",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039531/trommel-apartment-plnlstudio",
+    "image_url": "https://images.adsttc.com/media/images/69cb/dfcf/bacd/cd01/89fe/bf37/medium_jpg/trommel-apartment-plnlstudio_16.jpg?1774968841",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T10:00:00.000Z",
+    "ingested_at": "2026-04-30T16:24:15.511Z"
   }
 ]
