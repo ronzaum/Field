@@ -6967,5 +6967,24 @@
     "material": [],
     "published_at": "2026-04-29T15:00:00.000Z",
     "ingested_at": "2026-04-29T20:13:42.582Z"
+  },
+  {
+    "id": "1ddc11b2-a81e-46dc-b506-f84fb7b3ca23",
+    "title": "Kripanilay Farmhouse",
+    "creator": "HabitArt Architecture Studio",
+    "location": "Shoolagiri",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041033/kripanilay-farmhouse-habitart-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/69f0/9648/e0a7/c201/892c/a5c9/medium_jpg/kripanilay-farmhouse-habitart-architecture-studio_13.jpg?1777374819",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-04-29T19:00:00.000Z",
+    "ingested_at": "2026-04-30T03:57:46.500Z"
   }
 ]
