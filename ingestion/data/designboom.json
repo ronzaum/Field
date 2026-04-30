@@ -2741,5 +2741,25 @@
     "material": [],
     "published_at": "2026-04-30T09:00:59.000Z",
     "ingested_at": "2026-04-30T09:19:34.321Z"
+  },
+  {
+    "id": "73c7b3be-b11c-4b79-868d-0e5b3193ab42",
+    "title": "zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza",
+    "creator": "zU-studio",
+    "location": "San Sebastian",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/zu-studio-sunflower-sculptural-bench-san-sebastian-urban-plaza-la-bretxa/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/la-bretxa-public-space-zu-studio-san-sebastian-spain-designboom-700-500x400-22b08q85r347.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "zU-studio"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T13:30:37.000Z",
+    "ingested_at": "2026-04-30T14:10:12.801Z"
   }
 ]
