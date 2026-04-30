@@ -7116,5 +7116,23 @@
     "material": [],
     "published_at": "2026-04-30T12:00:00.000Z",
     "ingested_at": "2026-04-30T18:14:03.911Z"
+  },
+  {
+    "id": "c01c9f58-89e4-4373-8bc2-b8ab623ed2dd",
+    "title": "Bersatu House",
+    "creator": "Estudio D3B",
+    "location": "Santa Teresa",
+    "country": "Costa Rica",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040445/bersatu-house-estudio-d3b",
+    "image_url": "https://images.adsttc.com/media/images/69d4/c5f4/5a31/3100/01da/eb5f/medium_jpg/BERSATU-D3B-33.jpg?1775552095",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-04-30T15:00:00.000Z",
+    "ingested_at": "2026-04-30T20:12:05.439Z"
   }
 ]
