@@ -7281,5 +7281,23 @@
     "material": [],
     "published_at": "2026-05-01T12:00:00.000Z",
     "ingested_at": "2026-05-01T19:18:58.322Z"
+  },
+  {
+    "id": "741c302b-af8e-4703-9936-ed71671f0fa4",
+    "title": "Neighborhood School - Pavilion 02",
+    "creator": "Ateliê GR",
+    "location": "Vila Mariana",
+    "country": "Brasil",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040444/neighborhood-school-pavilion-02-atelie-gr",
+    "image_url": "https://images.adsttc.com/media/images/69a5/aca0/470e/9900/01cd/b621/medium_jpg/_I3A0032.jpg?1772465357",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T15:00:00.000Z",
+    "ingested_at": "2026-05-01T20:58:45.398Z"
   }
 ]

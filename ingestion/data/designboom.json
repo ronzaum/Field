@@ -2824,5 +2824,27 @@
     "material": [],
     "published_at": "2026-05-01T15:30:38.000Z",
     "ingested_at": "2026-05-01T17:02:15.508Z"
+  },
+  {
+    "id": "ed6df7e8-6b76-4062-bb54-d534711bc253",
+    "title": "a compact timber tower house rises from a triangular site in switzerland",
+    "creator": "kit architects",
+    "location": "Rhine Valley",
+    "country": "Switzerland",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/compact-timber-tower-house-triangular-site-switzerland-kit-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/switzerland-tower-house-kit-architects-vertical-living-prefabricated-timber-designboom-700-500x400-22b08q85r644.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in switzerland",
+      "prefabricated homes and buildings",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T20:00:13.000Z",
+    "ingested_at": "2026-05-01T20:58:46.237Z"
   }
 ]
