@@ -2803,5 +2803,26 @@
     "material": [],
     "published_at": "2026-05-01T08:00:06.000Z",
     "ingested_at": "2026-05-01T09:50:47.156Z"
+  },
+  {
+    "id": "1ccea618-fef1-4274-aace-3f5f0c480a05",
+    "title": "with its intricate exoskeleton, powerhouse parramatta takes shape in sydney",
+    "creator": "Moreau Kusunoki Genton",
+    "location": "Sydney",
+    "country": "Australia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/intricate-exoskeleton-powerhouse-parramatta-sydney-australia-moreau-kusunoki-genton/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/powerhouse-parramatta-moreau-kusunoki-genton-sydney-australia-designboom-700-500x400-22b08q85r087.jpg",
+    "typology": [
+      "architecture",
+      "architecture in australia",
+      "facades",
+      "moreau kusunoki",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T15:30:38.000Z",
+    "ingested_at": "2026-05-01T17:02:15.508Z"
   }
 ]
