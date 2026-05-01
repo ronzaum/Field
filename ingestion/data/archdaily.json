@@ -7243,5 +7243,23 @@
     "material": [],
     "published_at": "2026-05-01T06:00:00.000Z",
     "ingested_at": "2026-05-01T13:39:31.080Z"
+  },
+  {
+    "id": "9a0b45a3-5b2d-4aa8-aa8b-77b6fafc73df",
+    "title": "House Among The Trees",
+    "creator": "Wrzeszcz Architekci + mode:lina",
+    "location": "Poznań",
+    "country": "Poland",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040519/house-among-the-trees-wrzeszcz-architekci-plus-mode-lina",
+    "image_url": "https://images.adsttc.com/media/images/69d8/6dad/92c0/7a01/883e/7dc1/medium_jpg/house-among-the-trees-wrzeszcz-architekci-plus-mode-lina_1.jpg?1775791550",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T10:00:00.000Z",
+    "ingested_at": "2026-05-01T15:01:12.505Z"
   }
 ]
