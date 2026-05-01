@@ -7208,5 +7208,40 @@
     "material": [],
     "published_at": "2026-05-01T00:00:00.000Z",
     "ingested_at": "2026-05-01T07:27:31.190Z"
+  },
+  {
+    "id": "f82734ab-f844-42f7-8d70-f68d019320b4",
+    "title": "Flying Vegetation",
+    "creator": "H&P Architects",
+    "location": "Hue",
+    "country": "Vietnam",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040874/flying-vegetation-h-and-p-architects",
+    "image_url": "https://images.adsttc.com/media/images/69e9/252d/63f5/ef6d/7501/bbc8/medium_jpg/flying-vegetation-h-and-p-architects_6.jpg?1776887111",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T07:00:00.000Z",
+    "ingested_at": "2026-05-01T13:39:31.079Z"
+  },
+  {
+    "id": "743610bc-6a49-4e6c-b9b0-2718b0c02a85",
+    "title": "Radio & Television Building (RTS)",
+    "creator": "OFFICE Kersten Geers David Van Severen",
+    "location": "Lausanne",
+    "country": "Switzerland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040991/radio-and-television-building-rts-office-kersten-geers-david-van-severen",
+    "image_url": "https://images.adsttc.com/media/images/69ef/3bf6/2f06/ec00/01cd/0728/medium_jpg/OFFICE176_RTS-photo-archdaily-.jpg?1777286161",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T06:00:00.000Z",
+    "ingested_at": "2026-05-01T13:39:31.080Z"
   }
 ]
