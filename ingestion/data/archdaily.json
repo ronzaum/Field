@@ -7261,5 +7261,25 @@
     "material": [],
     "published_at": "2026-05-01T10:00:00.000Z",
     "ingested_at": "2026-05-01T15:01:12.505Z"
+  },
+  {
+    "id": "038bd1ea-2a97-4362-8cc4-32a270d8a434",
+    "title": "Public Swimming Pool Großfeldsiedlung",
+    "creator": "Illiz Architektur",
+    "location": "Wien",
+    "country": "Austria",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040491/public-swimming-pool-grossfeldsiedlung-illiz-architektur",
+    "image_url": "https://images.adsttc.com/media/images/69d7/98e0/5a31/3100/01da/ee1c/medium_jpg/illiz_trainingsschwimmhalle-grossfeldsiedlung-a15_hehu.jpg?1775737084",
+    "typology": [
+      "Sports Architecture",
+      "Recreation & Training",
+      "swimming pool",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T12:00:00.000Z",
+    "ingested_at": "2026-05-01T19:18:58.322Z"
   }
 ]
