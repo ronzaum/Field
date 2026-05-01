@@ -2761,5 +2761,27 @@
     "material": [],
     "published_at": "2026-04-30T13:30:37.000Z",
     "ingested_at": "2026-04-30T14:10:12.801Z"
+  },
+  {
+    "id": "f1b244e8-d9dd-452e-b352-dd3b6cf4782b",
+    "title": "mirrored arches and velvet textures take over el departamento’s flagship store in madrid",
+    "creator": "El Departamento",
+    "location": "Calle Lagasca",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mirrored-arches-velvet-textures-el-departamento-flagship-store-madrid-lady-pipa/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/el-departamento-lady-pipa-flagship-store-madrid-designboom-700-500x400-22b08q85r398.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "el departamento",
+      "interiors",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T06:30:13.000Z",
+    "ingested_at": "2026-05-01T07:27:32.281Z"
   }
 ]
