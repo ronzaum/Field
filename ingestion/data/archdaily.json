@@ -7354,5 +7354,24 @@
     "material": [],
     "published_at": "2026-05-02T06:00:00.000Z",
     "ingested_at": "2026-05-02T11:50:42.438Z"
+  },
+  {
+    "id": "5bb32a8b-3f3a-421c-9036-b4425ab7e6c4",
+    "title": "Cabin Devín",
+    "creator": "Ark-Shelter + ARCHEKTA",
+    "location": "Devín",
+    "country": "Slovakia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040588/cabin-devin-ark-shelter-plus-archekta",
+    "image_url": "https://images.adsttc.com/media/images/69dc/59a9/4e08/8001/8a86/2c86/medium_jpg/cabin-devin-ark-shelter-plus-archekta_17.jpg?1776048574",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-05-02T09:00:00.000Z",
+    "ingested_at": "2026-05-02T13:23:44.777Z"
   }
 ]
