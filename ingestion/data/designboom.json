@@ -2846,5 +2846,27 @@
     "material": [],
     "published_at": "2026-05-01T20:00:13.000Z",
     "ingested_at": "2026-05-01T20:58:46.237Z"
+  },
+  {
+    "id": "dea75501-13a2-403a-8957-57afefab70b9",
+    "title": "1-1 architects reworks surplus timber into a layered house and office in japan",
+    "creator": "1-1 Architects",
+    "location": "Nagoya",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/11-architects-surplus-timber-layered-house-office-sh-nagoya-japan/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/04/1-1-architects-house-office-japan-designboom-700-500x400-22b08q85r518.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in japan",
+      "residential architecture and interiors",
+      "where people work",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-02T15:00:24.000Z",
+    "ingested_at": "2026-05-02T15:53:04.737Z"
   }
 ]
