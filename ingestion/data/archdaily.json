@@ -7335,5 +7335,24 @@
     "material": [],
     "published_at": "2026-05-02T02:00:00.000Z",
     "ingested_at": "2026-05-02T08:23:18.123Z"
+  },
+  {
+    "id": "003e8244-d0f8-4cb0-819a-e98125b5eac2",
+    "title": "Plaza Mahou",
+    "creator": "External Reference Architects",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039315/plaza-mahou-external-reference-architects",
+    "image_url": "https://images.adsttc.com/media/images/69a8/10f5/1d07/d400/0132/3cbc/medium_jpg/10Plaza_Mahou_by_External_Reference_Photo_by_German_Saiz_.jpg?1772622088",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Bar"
+    ],
+    "material": [],
+    "published_at": "2026-05-02T06:00:00.000Z",
+    "ingested_at": "2026-05-02T11:50:42.438Z"
   }
 ]
