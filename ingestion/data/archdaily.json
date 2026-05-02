@@ -7299,5 +7299,24 @@
     "material": [],
     "published_at": "2026-05-01T15:00:00.000Z",
     "ingested_at": "2026-05-01T20:58:45.398Z"
+  },
+  {
+    "id": "fac84703-b504-46ce-9b43-3b2fa3db3a02",
+    "title": "Playfair House",
+    "creator": "43 North Architecture",
+    "location": "Curl Curl",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041095/playfair-house-43-north-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69f2/6f19/c748/9401/89fb/954c/medium_jpg/playfair-house-43-north-architecture_7.jpg?1777495916",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-05-01T19:00:00.000Z",
+    "ingested_at": "2026-05-02T03:27:17.296Z"
   }
 ]
