@@ -7318,5 +7318,22 @@
     "material": [],
     "published_at": "2026-05-01T19:00:00.000Z",
     "ingested_at": "2026-05-02T03:27:17.296Z"
+  },
+  {
+    "id": "8021a297-7c0e-4d16-9ae1-d7bedf0034de",
+    "title": "Project Ulsoor Office",
+    "creator": "The Purple Ink Studio",
+    "location": "Bengaluru",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041119/project-ulsoor-office-the-purple-ink-studio",
+    "image_url": "https://images.adsttc.com/media/images/69f3/659e/e0a7/c201/892c/b1e5/medium_jpg/project-ulsoor-office-the-purple-ink-studio_8.jpg?1777558951",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-02T02:00:00.000Z",
+    "ingested_at": "2026-05-02T08:23:18.123Z"
   }
 ]
