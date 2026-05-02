@@ -7392,5 +7392,24 @@
     "material": [],
     "published_at": "2026-05-02T11:00:00.000Z",
     "ingested_at": "2026-05-02T19:09:00.188Z"
+  },
+  {
+    "id": "af1c6d7b-4251-4946-9309-c70cf4d9f34f",
+    "title": "Student Studies 46B",
+    "creator": "Carmelina & Aurelio Taller de Arquitectura",
+    "location": "Ocozocoautla de Espinosa",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039995/student-studies-46b-carmelina-and-aurelio-taller-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/699c/44d3/93aa/2d00/01f3/40f1/medium_jpg/13.jpg?1771848983",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-05-02T15:00:00.000Z",
+    "ingested_at": "2026-05-02T20:50:33.630Z"
   }
 ]
