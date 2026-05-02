@@ -7373,5 +7373,24 @@
     "material": [],
     "published_at": "2026-05-02T09:00:00.000Z",
     "ingested_at": "2026-05-02T13:23:44.777Z"
+  },
+  {
+    "id": "2b651e17-d9be-4a74-b001-16475c1e4712",
+    "title": "Dental Seny",
+    "creator": "David Hernandez Arquitectura",
+    "location": "Dénia",
+    "country": "España",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040573/dental-seny-david-hernandez-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6992/e472/a4ec/4d00/01a7/ea61/medium_jpg/05_Sala_Espera_David_Hernandez_Sergio_Murillo.jpg?1771234536",
+    "typology": [
+      "Healthcare Architecture",
+      "Healthcare",
+      "dental clinic"
+    ],
+    "material": [],
+    "published_at": "2026-05-02T11:00:00.000Z",
+    "ingested_at": "2026-05-02T19:09:00.188Z"
   }
 ]
