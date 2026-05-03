@@ -7527,5 +7527,23 @@
     "material": [],
     "published_at": "2026-05-03T11:00:00.000Z",
     "ingested_at": "2026-05-03T16:57:37.014Z"
+  },
+  {
+    "id": "e191e121-f180-4dfd-83c9-d00bc44de8a0",
+    "title": "Cosmos House",
+    "creator": "Cristian Nanzer",
+    "location": "Argentina",
+    "country": null,
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039991/cosmos-house-cristian-nanzer",
+    "image_url": "https://images.adsttc.com/media/images/69ba/abfb/1d53/c701/893e/de59/medium_jpg/casa-cosmos-cristian-nanzer_34.jpg?1773841431",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-03T15:00:00.000Z",
+    "ingested_at": "2026-05-03T20:52:35.950Z"
   }
 ]
