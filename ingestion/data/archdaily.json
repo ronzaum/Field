@@ -7545,5 +7545,26 @@
     "material": [],
     "published_at": "2026-05-03T15:00:00.000Z",
     "ingested_at": "2026-05-03T20:52:35.950Z"
+  },
+  {
+    "id": "bb951cf6-8386-473b-b2be-bce1f8d75073",
+    "title": "Origin Cafe and Roasters Jax",
+    "creator": "S.DA",
+    "location": "Diriyah",
+    "country": "Saudi Arabia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041071/origin-cafe-and-roasters-jax",
+    "image_url": "https://images.adsttc.com/media/images/69f1/d6da/20d6/d800/0166/3ee0/medium_jpg/S.DA_-_Origin_Coffee_Roasters-19.jpg?1777458173",
+    "typology": [
+      "Refurbishment",
+      "Adaptive reuse",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-03T17:00:00.000Z",
+    "ingested_at": "2026-05-03T21:51:14.108Z"
   }
 ]
