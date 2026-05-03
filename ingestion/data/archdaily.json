@@ -7432,5 +7432,24 @@
     "material": [],
     "published_at": "2026-05-02T17:00:00.000Z",
     "ingested_at": "2026-05-02T22:51:02.756Z"
+  },
+  {
+    "id": "ddb5956f-5edb-4f81-89b8-4104ce0dbdee",
+    "title": "SSOC Dining",
+    "creator": "DESIGN2TONE",
+    "location": "Seongdong-gu",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041121/ssoc-dining-design2tone",
+    "image_url": "https://images.adsttc.com/media/images/69f3/6bab/20d6/d800/0166/3fc7/medium_jpg/batch_0Q8A9960.jpg?1777560864",
+    "typology": [
+      "Interior Design",
+      "Hospitality Interiors",
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-02T21:00:00.000Z",
+    "ingested_at": "2026-05-03T03:47:09.138Z"
   }
 ]
