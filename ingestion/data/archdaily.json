@@ -7491,5 +7491,23 @@
     "material": [],
     "published_at": "2026-05-03T06:00:00.000Z",
     "ingested_at": "2026-05-03T11:49:32.080Z"
+  },
+  {
+    "id": "eba3cc00-4590-4557-b780-9ead13985d5b",
+    "title": "Kownatki Lake House",
+    "creator": "Archmondo",
+    "location": "Polish Masuria",
+    "country": "Poland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040415/kownatki-lake-house-archmondo",
+    "image_url": "https://images.adsttc.com/media/images/69d6/5f63/ae7d/2963/249d/749d/medium_jpg/kownatki-lake-house-archmondo_4.jpg?1775656815",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-03T09:00:00.000Z",
+    "ingested_at": "2026-05-03T14:53:28.808Z"
   }
 ]
