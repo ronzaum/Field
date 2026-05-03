@@ -7509,5 +7509,23 @@
     "material": [],
     "published_at": "2026-05-03T09:00:00.000Z",
     "ingested_at": "2026-05-03T14:53:28.808Z"
+  },
+  {
+    "id": "55648792-75a4-4157-b7dc-332a13f18641",
+    "title": "Camarate Elementary School No. 5",
+    "creator": "UMA Collective",
+    "location": "Camarate",
+    "country": "Portugal",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040571/camarate-elementary-school-no-5-uma-collective",
+    "image_url": "https://images.adsttc.com/media/images/698b/ac0f/7104/8200/0106/f950/medium_jpg/Escola_Ba_sica_5_de_Camarate_01__Foto_Destaque_.jpg?1770761335",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-05-03T11:00:00.000Z",
+    "ingested_at": "2026-05-03T16:57:37.014Z"
   }
 ]
