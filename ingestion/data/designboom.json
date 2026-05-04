@@ -2868,5 +2868,29 @@
     "material": [],
     "published_at": "2026-05-02T15:00:24.000Z",
     "ingested_at": "2026-05-02T15:53:04.737Z"
+  },
+  {
+    "id": "257abdaa-3344-4d14-b675-4bb368354f37",
+    "title": "red brick and zinc reshape a 1970s house in seoul into a hybrid studio-home",
+    "creator": "sukchulmok",
+    "location": "Myeongnyun-Dong",
+    "country": "Republic of Korea",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/red-brick-zinc-1970s-house-hybrid-studio-home-sukchulmok-brbb/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/sukchulmok-brbb-renovation-1974-red-brick-house-seoul-designboom-700-500x400-22b08q85r620.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in korea",
+      "brick architecture",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "steel architecture and design",
+      "sukchulmok studio"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T09:00:29.000Z",
+    "ingested_at": "2026-05-04T09:26:01.005Z"
   }
 ]

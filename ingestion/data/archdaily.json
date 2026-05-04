@@ -7620,5 +7620,23 @@
     "material": [],
     "published_at": "2026-05-04T00:00:00.000Z",
     "ingested_at": "2026-05-04T06:44:19.521Z"
+  },
+  {
+    "id": "d3aecb74-45f5-44d4-84ea-9b88f0274ca8",
+    "title": "Macmasters",
+    "creator": "Jorge Hrdina Architects",
+    "location": "MacMasters Beach",
+    "country": "Australia",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040951/macmasters-jorge-hrdina-architects",
+    "image_url": "https://images.adsttc.com/media/images/69eb/8c6e/2f06/ec00/01cd/064e/medium_jpg/Jorge_Hrdina_MacMasters_Beach_290823_306184.jpg?1777044614",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T03:00:00.000Z",
+    "ingested_at": "2026-05-04T09:26:00.014Z"
   }
 ]
