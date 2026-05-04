@@ -7655,5 +7655,41 @@
     "material": [],
     "published_at": "2026-05-04T06:00:00.000Z",
     "ingested_at": "2026-05-04T11:54:26.952Z"
+  },
+  {
+    "id": "ccfc7864-f512-45fe-b549-22bf48f4246a",
+    "title": "Casa Luce",
+    "creator": "HK Associates Inc",
+    "location": "Tucson",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041061/casa-luce-hk-associates-inc",
+    "image_url": "https://images.adsttc.com/media/images/69f0/fb15/20d6/d800/0166/3e9e/medium_jpg/004_HK_Luce.jpg?1777400629",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T10:00:00.000Z",
+    "ingested_at": "2026-05-04T16:51:26.753Z"
+  },
+  {
+    "id": "28d936d3-e824-4ec1-8460-3ad6a85b6658",
+    "title": "Buzzy Sunny · Feixue Pavilion",
+    "creator": "Archermit",
+    "location": "Luzhou",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040968/buzzy-sunny-star-feixue-pavilion-archermit",
+    "image_url": "https://images.adsttc.com/media/images/69ee/c7ed/e2d9/9109/703c/ed8e/medium_jpg/buzzy-sunny-star-feixue-pavilion-archermit_13.jpg?1777256511",
+    "typology": [
+      "Hospitality Architecture",
+      "Tourism"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T07:00:00.000Z",
+    "ingested_at": "2026-05-04T16:51:26.756Z"
   }
 ]
