@@ -7710,5 +7710,23 @@
     "material": [],
     "published_at": "2026-05-04T12:00:00.000Z",
     "ingested_at": "2026-05-04T18:19:06.857Z"
+  },
+  {
+    "id": "2ade0828-fea7-42d1-8a4f-0c8b695aa574",
+    "title": "Dam House",
+    "creator": "Bernardes Arquitetura",
+    "location": "Itaúna",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040527/dam-house-bernardes-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69bd/2766/015c/4f00/015c/542d/medium_jpg/12.jpg?1774004094",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T15:00:00.000Z",
+    "ingested_at": "2026-05-04T20:20:33.179Z"
   }
 ]
