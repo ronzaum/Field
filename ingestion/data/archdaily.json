@@ -7566,5 +7566,23 @@
     "material": [],
     "published_at": "2026-05-03T17:00:00.000Z",
     "ingested_at": "2026-05-03T21:51:14.108Z"
+  },
+  {
+    "id": "e19fc0ac-879a-4d84-a432-a8f6eca45c1b",
+    "title": "Little Aesthetic Hub",
+    "creator": "YARCH + ATELIERII",
+    "location": "Fanghe Village",
+    "country": "Taiwan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041110/little-aesthetic-hub-yarch-plus-atelierii",
+    "image_url": "https://images.adsttc.com/media/images/69f3/4e48/20d6/d800/0166/3f88/medium_jpg/14_collective-use-01_photo-yuchen-chao.jpg?1777553051",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-05-03T21:00:00.000Z",
+    "ingested_at": "2026-05-04T03:43:54.690Z"
   }
 ]
