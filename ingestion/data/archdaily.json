@@ -7691,5 +7691,24 @@
     "material": [],
     "published_at": "2026-05-04T07:00:00.000Z",
     "ingested_at": "2026-05-04T16:51:26.756Z"
+  },
+  {
+    "id": "1f2c8126-64cc-4555-88d1-3b865f594668",
+    "title": "Northview Point Apartments",
+    "creator": "Brooks Scarpa Huber",
+    "location": "Sacramento",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040707/northview-point-apartments-brooks-scarpa-huber",
+    "image_url": "https://images.adsttc.com/media/images/69e0/43fa/8471/2000/01f8/e8ff/medium_jpg/Northview_001_Scarpa.jpg?1776305162",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T12:00:00.000Z",
+    "ingested_at": "2026-05-04T18:19:06.857Z"
   }
 ]
