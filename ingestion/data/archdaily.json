@@ -7638,5 +7638,22 @@
     "material": [],
     "published_at": "2026-05-04T03:00:00.000Z",
     "ingested_at": "2026-05-04T09:26:00.014Z"
+  },
+  {
+    "id": "45ba0979-9bfb-48c3-8206-feefd662ef56",
+    "title": "25 Columns",
+    "creator": "OFFICE Kersten Geers David Van Severen",
+    "location": "Plintsberg",
+    "country": "Sweden",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040990/25-columns",
+    "image_url": "https://images.adsttc.com/media/images/69ef/3bc8/2f06/ec00/01cd/0719/medium_jpg/316-archdaily-3.jpg?1777286163",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T06:00:00.000Z",
+    "ingested_at": "2026-05-04T11:54:26.952Z"
   }
 ]
