@@ -7841,5 +7841,41 @@
     "material": [],
     "published_at": "2026-05-05T06:00:00.000Z",
     "ingested_at": "2026-05-05T11:19:05.156Z"
+  },
+  {
+    "id": "1b55f123-c0f2-4104-b62e-261e617a4b30",
+    "title": "Tolka Estuary Greenway",
+    "creator": "TTT + Darmody Architecture",
+    "location": "Dublin",
+    "country": "Ireland",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041186/tolka-estuary-greenway-ttt-plus-darmody-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69f9/dc10/20d6/d800/0166/4204/medium_jpg/Image_4_SR247.jpg?1777983328",
+    "typology": [
+      "Landscape Architecture",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T12:00:00.000Z",
+    "ingested_at": "2026-05-05T18:14:26.362Z"
+  },
+  {
+    "id": "1d08c4ea-25ab-4f33-b9ab-512568c6e32a",
+    "title": "Farmhouse in a Meadow",
+    "creator": "ElliottArchitects",
+    "location": "Wellesley",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041060/farmhouse-in-a-meadow-elliottarchitects",
+    "image_url": "https://images.adsttc.com/media/images/69f0/f3e7/c748/9401/89fb/8fb1/medium_jpg/farmhouse-in-a-meadow-elliottarchitects_22.jpg?1777398780",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T10:00:00.000Z",
+    "ingested_at": "2026-05-05T18:14:26.364Z"
   }
 ]
