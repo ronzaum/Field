@@ -7783,5 +7783,24 @@
     "material": [],
     "published_at": "2026-05-05T00:00:00.000Z",
     "ingested_at": "2026-05-05T06:22:08.153Z"
+  },
+  {
+    "id": "1d643ce6-80a3-4cec-b115-e0f5a0529897",
+    "title": "Renovation and Extension of the Sipeki Balás Villa",
+    "creator": "Atelier dmb",
+    "location": "Budapest",
+    "country": "Hungary",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040993/renovation-and-extension-of-the-sipeki-balas-villa-atelier-dmb",
+    "image_url": "https://images.adsttc.com/media/images/69ef/40de/2f06/ec00/01cd/0754/medium_jpg/001_14_-_Ba_nhegyesy_Antal.jpg?1777287468",
+    "typology": [
+      "Healthcare Architecture",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T03:00:00.000Z",
+    "ingested_at": "2026-05-05T09:10:32.109Z"
   }
 ]
