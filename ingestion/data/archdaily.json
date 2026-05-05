@@ -7895,5 +7895,28 @@
     "material": [],
     "published_at": "2026-05-05T15:00:00.000Z",
     "ingested_at": "2026-05-05T22:04:23.275Z"
+  },
+  {
+    "id": "83a81698-9c09-4e14-84b2-4ea94ade6bfc",
+    "title": "old residence in kitayama",
+    "creator": "td-Atelier + ENDO SHOJIRO DESIGN",
+    "location": "Shimogamo-Inokoda-cho",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041135/old-residence-in-kitayama-td-atelier-plus-endo-shojiro-design",
+    "image_url": "https://images.adsttc.com/media/images/69f6/31f4/20d6/d800/0166/405b/medium_jpg/07___1F_DSC4042.jpg?1777742376",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation",
+      "Interior Design",
+      "Residential Interiors",
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T19:00:00.000Z",
+    "ingested_at": "2026-05-05T23:54:08.902Z"
   }
 ]
