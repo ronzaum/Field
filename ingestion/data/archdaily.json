@@ -7802,5 +7802,44 @@
     "material": [],
     "published_at": "2026-05-05T03:00:00.000Z",
     "ingested_at": "2026-05-05T09:10:32.109Z"
+  },
+  {
+    "id": "88af3689-af99-41c8-84d3-01e5d09db984",
+    "title": "Unfinished House",
+    "creator": "David Brodsky + Alexander Brodsky",
+    "location": "Solomon Zaldastanishvili 9",
+    "country": "Georgia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040997/unfinished-house-david-brodsky-plus-alexander-brodsky",
+    "image_url": "https://images.adsttc.com/media/images/69ef/59af/6001/4245/759e/6cea/medium_jpg/unfinished-house-david-brodsky-plus-alexander-brodsky_3.jpg?1777293775",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T07:00:00.000Z",
+    "ingested_at": "2026-05-05T11:19:05.152Z"
+  },
+  {
+    "id": "7d4b24fc-b147-4f3f-9e6f-47e13f51d85d",
+    "title": "Reinterpreting a 50-Year-Old Building in Myeongnyun-dong",
+    "creator": "sukchulmok + BRBB Architects",
+    "location": "Myeongnyun-Dong",
+    "country": "South Korea",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041142/reinterpreting-a-50-year-old-building-in-myeongnyun-dong-sukchulmok-plus-brbb-architects",
+    "image_url": "https://images.adsttc.com/media/images/69f8/5c4d/20d6/d800/0166/40a8/medium_jpg/3000_DSF0235.jpg?1777884279",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T06:00:00.000Z",
+    "ingested_at": "2026-05-05T11:19:05.156Z"
   }
 ]
