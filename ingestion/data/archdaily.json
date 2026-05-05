@@ -7877,5 +7877,23 @@
     "material": [],
     "published_at": "2026-05-05T10:00:00.000Z",
     "ingested_at": "2026-05-05T18:14:26.364Z"
+  },
+  {
+    "id": "6363e7fd-b6eb-4a19-8ec7-7363c1877c57",
+    "title": "Trama House",
+    "creator": "Beatriz Henriques Arquitetura",
+    "location": "Condomínio Altos de Trancoso",
+    "country": "Brasil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040489/trama-house-beatriz-henriques-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69d7/055d/5a31/3100/01da/ed7d/medium_jpg/16022025-16022025-DSCF9976.jpg?1775699634",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T15:00:00.000Z",
+    "ingested_at": "2026-05-05T22:04:23.275Z"
   }
 ]
