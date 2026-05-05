@@ -7728,5 +7728,23 @@
     "material": [],
     "published_at": "2026-05-04T15:00:00.000Z",
     "ingested_at": "2026-05-04T20:20:33.179Z"
+  },
+  {
+    "id": "3150268f-d16c-4384-bcca-ed77c5bbe771",
+    "title": "Villa 68",
+    "creator": "MAS Architecture Workshop",
+    "location": "02 Vu Phuong De",
+    "country": "Vietnam",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041138/villa-68-mas-architecture-workshop",
+    "image_url": "https://images.adsttc.com/media/images/69f7/a371/20d6/d800/0166/4070/medium_jpg/THE_VILLA_68_-_MAS_-_Wuyhoang_Studio_-_3.jpg?1777836946",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-04T19:00:00.000Z",
+    "ingested_at": "2026-05-05T03:42:32.003Z"
   }
 ]
