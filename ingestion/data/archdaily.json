@@ -7746,5 +7746,42 @@
     "material": [],
     "published_at": "2026-05-04T19:00:00.000Z",
     "ingested_at": "2026-05-05T03:42:32.003Z"
+  },
+  {
+    "id": "797be94a-5f98-47b4-b155-22ed9d088a36",
+    "title": "Rockpool House",
+    "creator": "Architecture Saville Isaacs",
+    "location": "Avoca Beach",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041073/rockpool-architecture-saville-isaacs",
+    "image_url": "https://images.adsttc.com/media/images/69f1/f4aa/c748/9401/89fb/92a7/medium_jpg/rockpool-architecture-saville-isaacs_12.jpg?1777464512",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T02:00:00.000Z",
+    "ingested_at": "2026-05-05T06:22:08.150Z"
+  },
+  {
+    "id": "ecef2783-405c-4214-91cd-883e0668cfc3",
+    "title": "Xutian Village Community Center",
+    "creator": "line+ studio",
+    "location": "Xutian Village",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040981/xutian-village-community-center-line-plus-studio",
+    "image_url": "https://images.adsttc.com/media/images/69ee/f84c/2f06/ec00/01cd/06a6/medium_jpg/46-_line_.jpg?1777268864",
+    "typology": [
+      "Public Architecture",
+      "Community",
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-05-05T00:00:00.000Z",
+    "ingested_at": "2026-05-05T06:22:08.153Z"
   }
 ]
