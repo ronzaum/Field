@@ -8008,5 +8008,43 @@
     "material": [],
     "published_at": "2026-05-06T06:00:00.000Z",
     "ingested_at": "2026-05-06T11:52:35.521Z"
+  },
+  {
+    "id": "92fc6851-f198-4a7f-9ca9-e1162a9bc9ed",
+    "title": "Luther George Park Performance Pavilion",
+    "creator": "Trahan Architects",
+    "location": "Springdale",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041227/luther-george-park-performance-pavilion-trahan-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fa/a796/a59b/8300/01a7/edc7/medium_jpg/LGP_PP_Trahan_Architects_c_Tim_Hursley__1_.jpg?1778034613",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-05-06T12:00:00.000Z",
+    "ingested_at": "2026-05-06T16:46:26.920Z"
+  },
+  {
+    "id": "a4da730f-f834-4c9f-a7ca-db339120b223",
+    "title": "No-Wall Apartment",
+    "creator": "RDTH architekti",
+    "location": "Prague",
+    "country": "Czechia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041217/no-wall-apartment-rdth-architekti",
+    "image_url": "https://images.adsttc.com/media/images/69fa/995e/ad4f/9c01/898d/31dd/medium_jpg/no-wall-apartment-rdth-architekti_2.jpg?1778030962",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-06T10:00:00.000Z",
+    "ingested_at": "2026-05-06T16:46:26.922Z"
   }
 ]
