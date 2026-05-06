@@ -7936,5 +7936,40 @@
     "material": [],
     "published_at": "2026-05-06T00:00:00.000Z",
     "ingested_at": "2026-05-06T06:34:16.783Z"
+  },
+  {
+    "id": "924ff049-4970-41c3-82e3-ed7232dc01bc",
+    "title": "KinderKunstLabor for Contemporary Art",
+    "creator": "Schenker Salvi Weber Architekten",
+    "location": "Saint Pölten",
+    "country": "Austria",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041189/kinderkunstlabor-for-contemporary-art-schenker-salvi-weber-architekten",
+    "image_url": "https://images.adsttc.com/media/images/69fa/05cd/20d6/d800/0166/4241/medium_jpg/SSW_KKL_Patrick_Johannsen_Fotografie_5.jpg?1777993248",
+    "typology": [
+      "Cultural Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-06T03:00:00.000Z",
+    "ingested_at": "2026-05-06T09:28:35.787Z"
+  },
+  {
+    "id": "bdcf77a3-fc0a-46e2-be08-a8d330499a82",
+    "title": "Bhoon+ House",
+    "creator": "Anonym",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040934/bhoon-plus-house-anonym",
+    "image_url": "https://images.adsttc.com/media/images/69eb/361e/345f/bc00/0189/c52b/medium_jpg/BHON_EDIT_RESIZE-007.jpg?1777022506",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-06T02:00:00.000Z",
+    "ingested_at": "2026-05-06T09:28:35.789Z"
   }
 ]
