@@ -8191,5 +8191,44 @@
     "material": [],
     "published_at": "2026-05-07T06:00:00.000Z",
     "ingested_at": "2026-05-07T14:28:16.240Z"
+  },
+  {
+    "id": "33207907-5933-4d33-a1a7-81a2d4e02932",
+    "title": "The Albanian Kaleidoscope - Reconstruction and Musealization of the National Historical Museum",
+    "creator": "Casanova + Hernandez Architects",
+    "location": "Tiranë",
+    "country": "Albania",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041226/the-albanian-kaleidoscope-reconstruction-and-musealization-of-the-national-historical-museum-of-albania-casanova-plus-hernandez-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fa/a872/754a/ba4c/b0ba/c725/medium_jpg/the-albanian-kaleidoscope-reconstruction-and-musealization-of-the-national-historical-museum-of-albania-casanova-plus-hernandez-architects_1.jpg?1778034820",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Museum",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T12:00:00.000Z",
+    "ingested_at": "2026-05-07T16:56:08.959Z"
+  },
+  {
+    "id": "1ebff279-a702-4ec9-8b64-e7d8afc5278b",
+    "title": "House at Town's Edge",
+    "creator": "ElliottArchitects",
+    "location": "Blue Hill",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041059/house-at-towns-edge-elliottarchitects",
+    "image_url": "https://images.adsttc.com/media/images/69f0/f232/20d6/d800/0166/3e77/medium_jpg/16_Jeff_Roberts_-_House_at_Town_s_Edge.jpg?1777398412",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T10:00:00.000Z",
+    "ingested_at": "2026-05-07T16:56:08.962Z"
   }
 ]
