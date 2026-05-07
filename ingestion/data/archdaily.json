@@ -8141,5 +8141,55 @@
     "material": [],
     "published_at": "2026-05-07T02:00:00.000Z",
     "ingested_at": "2026-05-07T09:38:22.927Z"
+  },
+  {
+    "id": "b95d369f-64c8-445a-b74a-5aff3d1037fd",
+    "title": "Main Pavilion of the  International Horticultural Exhibition 2024 Chengdu",
+    "creator": "CSWADI",
+    "location": "Chengdu",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040982/main-pavilion-of-the-international-horticultural-exhibition-2024-chengdu-cswadi",
+    "image_url": "https://images.adsttc.com/media/images/69ee/f857/2f06/ec00/01cd/06ba/medium_jpg/_____Aerial_view_from_the_southeast__404NF_STUDIO.jpg?1777268849",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T07:00:00.000Z",
+    "ingested_at": "2026-05-07T14:28:16.235Z"
+  },
+  {
+    "id": "69991a05-d753-480d-bbeb-d3816834074f",
+    "title": "OMA",
+    "creator": "Shohei Shigematsu Completes First Public Project in Japan at Newly Renovated Edo-Tokyo Museum",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041285/oma-shohei-shigematsu-completes-first-public-project-in-japan-at-newly-renovated-edo-tokyo-museum",
+    "image_url": "https://images.adsttc.com/media/images/69fc/6103/754a/ba01/8bca/8b97/medium_jpg/oma-shohei-shigematsu-complete-first-public-project-in-japan-at-newly-renovated-edo-tokyo-museum_1.jpg?1778147686",
+    "typology": [],
+    "material": [],
+    "published_at": "2026-05-07T06:30:00.000Z",
+    "ingested_at": "2026-05-07T14:28:16.238Z"
+  },
+  {
+    "id": "b8ba4867-9cde-4dc7-95f5-0b24ee939a84",
+    "title": "Casa Continua",
+    "creator": "STUDIOTAMAT",
+    "location": "Roma",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041225/casa-continua-studiotamat",
+    "image_url": "https://images.adsttc.com/media/images/69fa/a69b/ad4f/9c01/898d/3229/medium_jpg/casa-continua-studiotamat_6.jpg?1778034342",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T06:00:00.000Z",
+    "ingested_at": "2026-05-07T14:28:16.240Z"
   }
 ]

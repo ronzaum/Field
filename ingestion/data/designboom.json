@@ -2982,5 +2982,27 @@
     "material": [],
     "published_at": "2026-05-07T10:00:14.000Z",
     "ingested_at": "2026-05-07T11:52:29.654Z"
+  },
+  {
+    "id": "9914343d-2ab1-4c37-85ae-d7b2b0e06543",
+    "title": "art deco interiors by mikoü restore yves saint laurent and pierre bergé’s former paris atelier",
+    "creator": "Mikoü Architecture",
+    "location": "Rue Campagne Première",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/art-deco-interiors-mikou-architecture-yves-saint-laurent-pierre-berge-former-paris-atelier/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/mikou-architecture-yves-saint-laurent-pierre-berge-paris-atelier-designboom-700-1-500x400-22b08q85r837.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in paris",
+      "renovation and restoration architecture and design",
+      "saint laurent",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T14:00:11.000Z",
+    "ingested_at": "2026-05-07T14:28:17.369Z"
   }
 ]
