@@ -2961,5 +2961,26 @@
     "material": [],
     "published_at": "2026-05-06T15:30:10.000Z",
     "ingested_at": "2026-05-06T16:46:28.020Z"
+  },
+  {
+    "id": "c0fee211-093e-42bc-8b6a-f9c9b14e9cd7",
+    "title": "bamboo, rattan, and seagrass solutions by caneplexus for climate-responsive architecture",
+    "creator": "mariana rodrigues",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bamboo-rattan-seagrass-caneplexus-climate-responsive-architecture/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/caneplexus_designboom_700-500x400-22b08q85r203.jpg",
+    "typology": [
+      "architecture",
+      "bamboo architecture and design",
+      "hospitality",
+      "materials",
+      "residential"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T10:00:14.000Z",
+    "ingested_at": "2026-05-07T11:52:29.654Z"
   }
 ]
