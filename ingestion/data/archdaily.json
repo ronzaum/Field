@@ -8101,5 +8101,45 @@
     "material": [],
     "published_at": "2026-05-07T00:00:00.000Z",
     "ingested_at": "2026-05-07T06:42:09.854Z"
+  },
+  {
+    "id": "97b382ef-85d2-4a14-9d82-fcec1c420e2c",
+    "title": "Kerr Apartment",
+    "creator": "SSdH",
+    "location": "Melbourne",
+    "country": "Australia",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041193/kerr-ssdh",
+    "image_url": "https://images.adsttc.com/media/images/69fa/30ba/c748/943e/0771/a9a1/medium_jpg/kerr-ssdh_7.jpg?1778004280",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments",
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T03:00:00.000Z",
+    "ingested_at": "2026-05-07T09:38:22.924Z"
+  },
+  {
+    "id": "5f6b4014-236a-4271-b63c-96bd7be08ace",
+    "title": "Harudot Khaoyai Cafe",
+    "creator": "IDIN Architects",
+    "location": "Nai Mueang",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041180/harudot-khaoyai-idin-architects",
+    "image_url": "https://images.adsttc.com/media/images/69f9/b6e3/20d6/d800/0166/41a7/medium_jpg/22_HRD_KY_DRONE_RESIZE-016.jpg?1777973036",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T02:00:00.000Z",
+    "ingested_at": "2026-05-07T09:38:22.927Z"
   }
 ]
