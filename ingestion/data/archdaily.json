@@ -8230,5 +8230,23 @@
     "material": [],
     "published_at": "2026-05-07T10:00:00.000Z",
     "ingested_at": "2026-05-07T16:56:08.962Z"
+  },
+  {
+    "id": "9c14d035-cb4e-419f-a225-0e04ffad66fd",
+    "title": "Detached House in the La Reserva Neighborhood Bahía Blanca",
+    "creator": "Vagón Arquitectura",
+    "location": "Bahia Blanca",
+    "country": "Argentina",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040544/detached-house-in-the-la-reserva-neighborhood-bahia-blanca-vagon-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69d8/dadf/92c0/7a01/883e/7f67/medium_jpg/vivienda-aislada-en-el-barrio-la-reserva-bahia-blanca-vagon-arquitectura_12.jpg?1775819504",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T15:00:00.000Z",
+    "ingested_at": "2026-05-07T22:05:28.392Z"
   }
 ]
