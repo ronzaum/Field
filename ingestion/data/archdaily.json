@@ -8082,5 +8082,24 @@
     "material": [],
     "published_at": "2026-05-06T19:00:00.000Z",
     "ingested_at": "2026-05-07T03:40:09.365Z"
+  },
+  {
+    "id": "53bda0f1-7053-4174-888e-f16ec3d0388d",
+    "title": "Qingdao Science Technology Museum",
+    "creator": "von GerKan, Marg and Partners Architects",
+    "location": "Qingdao",
+    "country": "China",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041224/qingdao-science-technology-museum-von-gerkan-marg-and-partners-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fa/9d24/ad4f/9c01/898d/31f7/medium_jpg/qingdao-science-technology-museum-von-gerkan-marg-and-partners-architects_7.jpg?1778031926",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T00:00:00.000Z",
+    "ingested_at": "2026-05-07T06:42:09.854Z"
   }
 ]
