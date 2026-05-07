@@ -8064,5 +8064,23 @@
     "material": [],
     "published_at": "2026-05-06T15:00:00.000Z",
     "ingested_at": "2026-05-06T20:27:20.925Z"
+  },
+  {
+    "id": "b1fdc561-fdb8-41f4-ac1b-a9b792c2c92f",
+    "title": "Srila House",
+    "creator": "Wright Inspires",
+    "location": "TC Palya",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041156/srila-house-wright-inspires",
+    "image_url": "https://images.adsttc.com/media/images/69f8/cafb/e0a7/c211/0586/a4d2/medium_jpg/srila-house-wright-inspires_1.jpg?1777912615",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-06T19:00:00.000Z",
+    "ingested_at": "2026-05-07T03:40:09.365Z"
   }
 ]
