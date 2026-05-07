@@ -3024,5 +3024,26 @@
     "material": [],
     "published_at": "2026-05-07T15:30:56.000Z",
     "ingested_at": "2026-05-07T16:56:10.099Z"
+  },
+  {
+    "id": "fcdfe306-e438-4946-85d6-ea14cd9e2b42",
+    "title": "olson kundig’s ‘daisy ranch’ is a modern log cabin with panoramic glazing in british columbia",
+    "creator": "Olson Kundig",
+    "location": "Salt Spring Island",
+    "country": "Canada",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/olson-kundig-daisy-ranch-modern-log-cabin-british-columbia-canada/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/daisy-ranch-olson-kundig-designboom-700-500x400-22b08q85r635.jpg",
+    "typology": [
+      "architecture",
+      "architecture in canada",
+      "olson kundig architects",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T20:00:18.000Z",
+    "ingested_at": "2026-05-07T20:18:25.511Z"
   }
 ]
