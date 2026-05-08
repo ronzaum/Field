@@ -8358,5 +8358,23 @@
     "material": [],
     "published_at": "2026-05-08T06:00:00.000Z",
     "ingested_at": "2026-05-08T12:11:48.847Z"
+  },
+  {
+    "id": "71290c14-0355-466d-9ec3-0dad62e6c7de",
+    "title": "Contemporary Farmhouse",
+    "creator": "Ashworth Parkes Architects",
+    "location": "United Kingdom",
+    "country": null,
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041350/contemporary-farmhouse-ashworth-parkes-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fd/b170/a59b/8300/01a7/f423/medium_jpg/MSAP_APA_ModernFarmhouse_Exterior_12.jpg?1778234552",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-08T10:00:00.000Z",
+    "ingested_at": "2026-05-08T14:55:14.385Z"
   }
 ]

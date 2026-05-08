@@ -3045,5 +3045,27 @@
     "material": [],
     "published_at": "2026-05-07T20:00:18.000Z",
     "ingested_at": "2026-05-07T20:18:25.511Z"
+  },
+  {
+    "id": "2499e86b-e74d-40db-919f-97f001ced5cb",
+    "title": "vertical layering reorganizes 1891s berlin house into a modern family home",
+    "creator": "Club Marginal Architekten",
+    "location": "Berlin",
+    "country": "Germany",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/vertical-layering-1891s-berlin-house-modern-family-home-friedi-hagen-club-marginal-architekten/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/berlin-friedi-hagen-club-marginal-architekten-renovation-1891-house-designboom-700-500x400-22b08q85r472.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in berlin",
+      "interiors",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-08T13:00:00.000Z",
+    "ingested_at": "2026-05-08T14:55:15.295Z"
   }
 ]
