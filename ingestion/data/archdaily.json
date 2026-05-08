@@ -8376,5 +8376,25 @@
     "material": [],
     "published_at": "2026-05-08T10:00:00.000Z",
     "ingested_at": "2026-05-08T14:55:14.385Z"
+  },
+  {
+    "id": "2fe39583-ef27-4b99-9456-8e342d57f9ba",
+    "title": "Purple Brand Operations Studio",
+    "creator": "Scott & Scott Architects",
+    "location": "Vancouver",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041330/purple-brand-operations-studio-scott-and-scott-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fd/37dc/a59b/8300/01a7/f3b6/medium_jpg/29_Scott_and_Scott-_Purple_Brand_Operations_Studio__Andrew_Latreille-_Photo_.jpg?1778202613",
+    "typology": [
+      "Commercial Architecture",
+      "Retail",
+      "Store",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-05-08T12:00:00.000Z",
+    "ingested_at": "2026-05-08T18:13:17.614Z"
   }
 ]
