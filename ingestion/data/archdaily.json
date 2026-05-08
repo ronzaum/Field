@@ -8248,5 +8248,23 @@
     "material": [],
     "published_at": "2026-05-07T15:00:00.000Z",
     "ingested_at": "2026-05-07T22:05:28.392Z"
+  },
+  {
+    "id": "33faf934-a562-4012-adff-550d145f59e8",
+    "title": "Casa Themis",
+    "creator": "Sergio Sampaio Archi + Tectônica",
+    "location": "Brasil",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041277/casa-themis-sergio-sampaio-archi-plus-tectonica",
+    "image_url": "https://images.adsttc.com/media/images/69ef/de87/20d6/d800/0166/3d93/medium_jpg/_08A7708_copyright_manuel_sa.jpg?1777328652",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-07T19:00:00.000Z",
+    "ingested_at": "2026-05-08T03:47:10.762Z"
   }
 ]
