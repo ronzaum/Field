@@ -8396,5 +8396,23 @@
     "material": [],
     "published_at": "2026-05-08T12:00:00.000Z",
     "ingested_at": "2026-05-08T18:13:17.614Z"
+  },
+  {
+    "id": "e1e30636-7b82-419b-a33f-5cba96cc38b9",
+    "title": "Monet's Cottage",
+    "creator": "LEIVA arquitetura",
+    "location": "Bom Jesus dos Perdões",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040528/monets-cottage-leiva-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69ba/9adb/2d9f/860a/6a54/7417/medium_jpg/cabana-monet-leiva-arquitetura_11.jpg?1773837035",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-08T15:00:00.000Z",
+    "ingested_at": "2026-05-08T22:01:52.811Z"
   }
 ]
