@@ -8414,5 +8414,24 @@
     "material": [],
     "published_at": "2026-05-08T15:00:00.000Z",
     "ingested_at": "2026-05-08T22:01:52.811Z"
+  },
+  {
+    "id": "95abe1cb-1e6d-412d-82ea-c33c6c98390f",
+    "title": "Studley Grounds",
+    "creator": "SSdH",
+    "location": "Melbourne",
+    "country": "Australia",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041194/studley-grounds-ssdh",
+    "image_url": "https://images.adsttc.com/media/images/69fa/33fa/c748/943e/0771/a9b6/medium_jpg/studley-ssdh_7.jpg?1778005050",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-05-08T19:00:00.000Z",
+    "ingested_at": "2026-05-08T23:59:41.633Z"
   }
 ]
