@@ -8451,5 +8451,23 @@
     "material": [],
     "published_at": "2026-05-09T02:00:00.000Z",
     "ingested_at": "2026-05-09T08:44:32.070Z"
+  },
+  {
+    "id": "a6b12bab-5a58-4391-a070-368c4b69b38e",
+    "title": "Publicis Groupe Shanghai Headquarters",
+    "creator": "Ippolito Fleitz Group + Identity Architects",
+    "location": "Shanghai",
+    "country": "China",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041321/publicis-groupe-shanghai-headquarters-ippolito-fleitz-group-plus-identity-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fd/213e/fda2/da01/89bd/c140/medium_jpg/publicis-groupe-shanghai-headquarters-ippolito-fleitz-group-plus-identity-architects_1.jpg?1778196892",
+    "typology": [
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-05-09T06:00:00.000Z",
+    "ingested_at": "2026-05-09T11:54:25.941Z"
   }
 ]
