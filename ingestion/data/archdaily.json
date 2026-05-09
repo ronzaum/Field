@@ -8487,5 +8487,23 @@
     "material": [],
     "published_at": "2026-05-09T09:00:00.000Z",
     "ingested_at": "2026-05-09T14:57:11.071Z"
+  },
+  {
+    "id": "4b150631-f2bd-4861-a08b-7d40d8163e79",
+    "title": "Pension de famille des Apennins",
+    "creator": "CQFD Architecture",
+    "location": "Paris",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041324/pension-de-famille-des-apennins-cqfd-architecture",
+    "image_url": "https://images.adsttc.com/media/images/69fd/2aa3/3410/c601/7f86/e742/medium_jpg/pension-de-famille-des-apennins-cqfd-architecture_8.jpg?1778199236",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-05-09T11:00:00.000Z",
+    "ingested_at": "2026-05-09T17:06:33.070Z"
   }
 ]
