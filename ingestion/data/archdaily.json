@@ -8505,5 +8505,23 @@
     "material": [],
     "published_at": "2026-05-09T11:00:00.000Z",
     "ingested_at": "2026-05-09T17:06:33.070Z"
+  },
+  {
+    "id": "86c4e5be-4322-433c-8a7c-164470fdbe84",
+    "title": "Residence in Sumaré",
+    "creator": "Trema Arquitetura + Gabriel Sepe",
+    "location": "Sumaré",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040442/residence-in-sumare-trema-arquitetura-plus-gabriel-sepe",
+    "image_url": "https://images.adsttc.com/media/images/69c6/777f/88b5/3c00/0134/1f40/medium_jpg/_08A4642-Pano-Edit_copyright_manuel_sa.jpg?1774614427",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-09T15:00:00.000Z",
+    "ingested_at": "2026-05-09T20:52:08.455Z"
   }
 ]
