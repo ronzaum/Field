@@ -8433,5 +8433,23 @@
     "material": [],
     "published_at": "2026-05-08T19:00:00.000Z",
     "ingested_at": "2026-05-08T23:59:41.633Z"
+  },
+  {
+    "id": "21fa1d17-89b8-41c4-b0da-e6a38a77b63b",
+    "title": "A Discovery Pavilion in the Longyou Wetlands",
+    "creator": "Studio 10",
+    "location": "Quzhou",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041190/a-discovery-pavilion-in-the-longyou-wetlands-studio-10",
+    "image_url": "https://images.adsttc.com/media/images/69fa/1b72/e0a7/c27f/2c3d/6ff6/medium_jpg/a-discovery-pavilion-in-the-longyou-wetlands-studio-10_15.jpg?1777998720",
+    "typology": [
+      "Hospitality Architecture",
+      "Tourism"
+    ],
+    "material": [],
+    "published_at": "2026-05-09T02:00:00.000Z",
+    "ingested_at": "2026-05-09T08:44:32.070Z"
   }
 ]
