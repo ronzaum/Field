@@ -8469,5 +8469,23 @@
     "material": [],
     "published_at": "2026-05-09T06:00:00.000Z",
     "ingested_at": "2026-05-09T11:54:25.941Z"
+  },
+  {
+    "id": "8e9f00d5-6cee-4ea7-b5c0-68b90472402d",
+    "title": "House in La Cañada",
+    "creator": "Ramón Esteve Estudio",
+    "location": "València",
+    "country": "Spain",
+    "year": 2016,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039804/house-in-la-canada-ramon-esteve-estudio",
+    "image_url": "https://images.adsttc.com/media/images/69bb/bcb8/6d20/7e00/0123/6266/medium_jpg/La-Ca_ada-15.jpg?1773911295",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-09T09:00:00.000Z",
+    "ingested_at": "2026-05-09T14:57:11.071Z"
   }
 ]
