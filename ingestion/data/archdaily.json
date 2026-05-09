@@ -8523,5 +8523,24 @@
     "material": [],
     "published_at": "2026-05-09T15:00:00.000Z",
     "ingested_at": "2026-05-09T20:52:08.455Z"
+  },
+  {
+    "id": "f2ac249d-217c-4ea8-9cef-928c152d3de7",
+    "title": "SONO Salon",
+    "creator": "Inrestudio",
+    "location": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041130/sono-salon-inrestudio",
+    "image_url": "https://images.adsttc.com/media/images/69f4/df99/20d6/d800/0166/403b/medium_jpg/Ph09_2F__Hiroyuki_Oki.jpg?1777655784",
+    "typology": [
+      "Interior Design",
+      "Hospitality Interiors",
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-09T17:00:00.000Z",
+    "ingested_at": "2026-05-09T22:53:02.632Z"
   }
 ]
