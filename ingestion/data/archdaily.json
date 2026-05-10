@@ -8615,5 +8615,23 @@
     "material": [],
     "published_at": "2026-05-10T09:00:00.000Z",
     "ingested_at": "2026-05-10T14:58:06.437Z"
+  },
+  {
+    "id": "f207d8d8-2e98-4be3-bd49-214c82a12022",
+    "title": "MOM Apartment",
+    "creator": "J.MAYER H.",
+    "location": "Berlin",
+    "country": "Germany",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041322/mom-apartment-jmayer-h",
+    "image_url": "https://images.adsttc.com/media/images/69fd/22c3/bbf1/cd01/885b/aef4/medium_jpg/mom-apartment-jmayer-h_12.jpg?1778197201",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-10T11:00:00.000Z",
+    "ingested_at": "2026-05-10T17:55:18.671Z"
   }
 ]

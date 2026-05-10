@@ -3067,5 +3067,25 @@
     "material": [],
     "published_at": "2026-05-08T13:00:00.000Z",
     "ingested_at": "2026-05-08T14:55:15.295Z"
+  },
+  {
+    "id": "43bc4110-cb23-4ee6-af69-1c5213e8a7aa",
+    "title": "seamless architecture book explores continuous surfaces through bio-inspired design research",
+    "creator": "Ryumei Fujiki",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/seamless-architecture-book-continuous-surfaces-bio-inspired-design-research-fujiki-studio-fads/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/seamless-architecture-book-continuous-surfaces-bio-inspired-design-research-fujiki-studio-fads-designboom-700-500x400-22b08q85r169.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "books",
+      "designboom book reports"
+    ],
+    "material": [],
+    "published_at": "2026-05-10T14:30:49.000Z",
+    "ingested_at": "2026-05-10T17:55:19.628Z"
   }
 ]
