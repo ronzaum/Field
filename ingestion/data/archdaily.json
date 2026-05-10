@@ -8597,5 +8597,23 @@
     "material": [],
     "published_at": "2026-05-10T06:00:00.000Z",
     "ingested_at": "2026-05-10T11:56:27.748Z"
+  },
+  {
+    "id": "2bf8008e-751a-4eaf-949e-e1d39fe9d974",
+    "title": "Bearing House",
+    "creator": "Dub Studios",
+    "location": "Santa Monica",
+    "country": "United States",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036376/bearing-house",
+    "image_url": "https://images.adsttc.com/media/images/6925/a738/bacd/cd00/0116/0fe2/medium_jpg/Image_1.jpg?1764075347",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-10T09:00:00.000Z",
+    "ingested_at": "2026-05-10T14:58:06.437Z"
   }
 ]
