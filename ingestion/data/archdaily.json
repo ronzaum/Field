@@ -8578,5 +8578,24 @@
     "material": [],
     "published_at": "2026-05-10T02:00:00.000Z",
     "ingested_at": "2026-05-10T08:57:59.718Z"
+  },
+  {
+    "id": "e494ceba-df19-42ee-93a1-ec5cd2d79fc6",
+    "title": "Jardins Secrets Bioclimatic Shells",
+    "creator": "Vincent Callebaut Architectures",
+    "location": "Montpellier",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041323/jardins-secrets-vincent-callebaut-architectures",
+    "image_url": "https://images.adsttc.com/media/images/69fd/25b3/3410/c601/7f86/e717/medium_jpg/jardins-secrets-vincent-callebaut-architectures_9.jpg?1778198020",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-05-10T06:00:00.000Z",
+    "ingested_at": "2026-05-10T11:56:27.748Z"
   }
 ]
