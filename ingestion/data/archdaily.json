@@ -8633,5 +8633,23 @@
     "material": [],
     "published_at": "2026-05-10T11:00:00.000Z",
     "ingested_at": "2026-05-10T17:55:18.671Z"
+  },
+  {
+    "id": "24231cf3-9a2d-465d-a0b3-fa07402676ea",
+    "title": "Vallarta Forest House",
+    "creator": "Díaz Webster Arquitectura",
+    "location": "Zapopan",
+    "country": "México",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040448/vallarta-forest-house-diaz-webster-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/699e/e205/451b/b400/0162/5b96/medium_jpg/Casa_Bosques_Diaz_Webster_006.jpg?1772020287",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-10T15:00:00.000Z",
+    "ingested_at": "2026-05-10T20:55:01.017Z"
   }
 ]
