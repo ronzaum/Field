@@ -8542,5 +8542,23 @@
     "material": [],
     "published_at": "2026-05-09T17:00:00.000Z",
     "ingested_at": "2026-05-09T22:53:02.632Z"
+  },
+  {
+    "id": "7ca855fb-6f38-4592-9be9-57085aa7065f",
+    "title": "The Spatial Continuum",
+    "creator": "Abin Design Studio",
+    "location": "Kolkata",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041159/the-spatial-continuum-abin-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/69f8/d486/e0a7/c211/0586/a511/medium_jpg/the-spatial-continuum-abin-design-studio_9.jpg?1777915058",
+    "typology": [
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-09T21:00:00.000Z",
+    "ingested_at": "2026-05-10T03:50:18.202Z"
   }
 ]
