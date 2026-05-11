@@ -8741,5 +8741,63 @@
     "material": [],
     "published_at": "2026-05-11T00:00:00.000Z",
     "ingested_at": "2026-05-11T08:27:02.363Z"
+  },
+  {
+    "id": "8384a3d7-5809-405b-aacb-e005ac879e63",
+    "title": "L33 Narrow House",
+    "creator": "BAST",
+    "location": "Toulouse",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041327/l33-narrow-house-bast",
+    "image_url": "https://images.adsttc.com/media/images/69fd/305d/fda2/da01/89bd/c1e6/medium_jpg/l33-narrow-house-bast_2.jpg?1778200701",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T10:00:00.000Z",
+    "ingested_at": "2026-05-11T16:04:44.195Z"
+  },
+  {
+    "id": "85ed00ce-89e6-412d-a59b-22eb58ad7fbc",
+    "title": "C1 Workplace",
+    "creator": "Bruzkus Greenberg",
+    "location": "Mollstrasse",
+    "country": "Germany",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041337/c1-workplace-bruzkus-greenberg",
+    "image_url": "https://images.adsttc.com/media/images/69fd/5af3/bbf1/cd5a/4ce3/43b9/medium_jpg/c1-workplace-bruzkus-greenberg_1.jpg?1778211594",
+    "typology": [
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T07:00:00.000Z",
+    "ingested_at": "2026-05-11T16:04:44.196Z"
+  },
+  {
+    "id": "cf7fa459-d4c5-4401-aa1f-ba94249f4087",
+    "title": "Warsaw Uprising Mound",
+    "creator": "Archigrest + topoScape",
+    "location": "Warsaw",
+    "country": "Poland",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041329/warsaw-uprising-mound-archigrest-plus-toposcape",
+    "image_url": "https://images.adsttc.com/media/images/69fd/3778/3410/c601/7f86/e7ae/medium_jpg/warsaw-uprising-mound-archigrest-plus-toposcape_14.jpg?1778202556",
+    "typology": [
+      "Urbanism",
+      "Urban Design",
+      "Public Space",
+      "Landscape Architecture",
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T06:00:00.000Z",
+    "ingested_at": "2026-05-11T16:04:44.198Z"
   }
 ]
