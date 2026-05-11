@@ -8651,5 +8651,23 @@
     "material": [],
     "published_at": "2026-05-10T15:00:00.000Z",
     "ingested_at": "2026-05-10T20:55:01.017Z"
+  },
+  {
+    "id": "c451fd2b-4620-4964-bbfa-cb0131661843",
+    "title": "The Southern Lookout",
+    "creator": "AJC Architects",
+    "location": "Hornsby",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041345/the-southern-lookout-ajc-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fd/962c/a59b/8300/01a7/f400/medium_jpg/HornsbyQuarryLookout-9503-2.jpg?1778226837",
+    "typology": [
+      "Infrastructure",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-10T17:00:00.000Z",
+    "ingested_at": "2026-05-10T23:57:28.637Z"
   }
 ]
