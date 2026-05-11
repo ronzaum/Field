@@ -3087,5 +3087,47 @@
     "material": [],
     "published_at": "2026-05-10T14:30:49.000Z",
     "ingested_at": "2026-05-10T17:55:19.628Z"
+  },
+  {
+    "id": "6622c8af-9b38-4a6c-b895-0ecc575592b3",
+    "title": "vernacular stone cabin in northern spain gains a renewed layered inner envelope",
+    "creator": "Estudio Mínima",
+    "location": "Cantabria",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/vernacular-stone-cabin-northern-spain-renewed-layered-inner-envelope-pasiego-cantabria-estudio-minima/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/casa-minima-rehabilitation-vernacular-stone-cabin-pasiego-cantabria-estudio-minima-designboom-700-500x400-22b08q85r092.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "marble and stone design",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T09:00:11.000Z",
+    "ingested_at": "2026-05-11T12:15:50.375Z"
+  },
+  {
+    "id": "701630af-b2e1-4d7a-a6cf-411fa2580b4d",
+    "title": "archermit tops ‘feixue pavilion’ with rooftop pools shaped like overlapping pear petals",
+    "creator": "Archermit",
+    "location": "Luzhou",
+    "country": "China",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/archermit-feixue-pavilion-rooftop-pools-pear-petals-luzhou/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/buzzy-sunny-star-feixue-pavilion-archermit-china-designboom-700-500x400-22b08q85r397.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in china",
+      "rooftop architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T08:30:02.000Z",
+    "ingested_at": "2026-05-11T12:15:50.381Z"
   }
 ]

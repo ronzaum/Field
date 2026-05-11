@@ -348,5 +348,25 @@
     "material": [],
     "published_at": "2026-05-02T10:00:53.000Z",
     "ingested_at": "2026-05-02T11:50:42.709Z"
+  },
+  {
+    "id": "699d9cfc-8248-4fc4-8e96-7e55cd4810a3",
+    "title": "Tour Triangle skyscraper",
+    "creator": "Herzog & de Meuron tops out in Paris",
+    "location": "News",
+    "country": "France",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/05/11/tour-triangle-skyscraper-herzog-de-meuron-tops-out-paris/",
+    "image_url": "http://static.dezeen.com/uploads/2026/05/tour-triangle-tower-herzog-and-de-meuron-paris_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Herzog & de Meuron",
+      "Paris",
+      "Skyscrapers"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T09:00:48.000Z",
+    "ingested_at": "2026-05-11T12:15:48.065Z"
   }
 ]
