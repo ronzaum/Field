@@ -8799,5 +8799,26 @@
     "material": [],
     "published_at": "2026-05-11T06:00:00.000Z",
     "ingested_at": "2026-05-11T16:04:44.198Z"
+  },
+  {
+    "id": "58422611-020a-4484-86b5-5fe0aa5625a0",
+    "title": "Neighborhood Cinema ‘Le Rio’",
+    "creator": "FAB Architects + Unes Architectes",
+    "location": "Clermont-Ferrand",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041328/neighborhood-cinema-le-rio-fab-architects-plus-unes-architectes",
+    "image_url": "https://images.adsttc.com/media/images/69fd/3438/fda2/da36/a30f/4f8f/medium_jpg/neighborhood-cinema-le-rio-fab-architects-plus-unes-architectes_2.jpg?1778201726",
+    "typology": [
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "cinema",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T12:00:00.000Z",
+    "ingested_at": "2026-05-11T19:00:08.115Z"
   }
 ]
