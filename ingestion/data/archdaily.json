@@ -8820,5 +8820,23 @@
     "material": [],
     "published_at": "2026-05-11T12:00:00.000Z",
     "ingested_at": "2026-05-11T19:00:08.115Z"
+  },
+  {
+    "id": "718036f3-782f-46ca-950e-96fb2003d37e",
+    "title": "Iporanga House",
+    "creator": "Nati Minas & Studio",
+    "location": "Brasil",
+    "country": null,
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041368/iporanga-house-nati-minas-and-studio",
+    "image_url": "https://images.adsttc.com/media/images/69f9/6a1a/20d6/d800/0166/4149/medium_jpg/25-NatiMinas-ResIporanga-MitiSameshima-37.jpg?1777953365",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T15:00:00.000Z",
+    "ingested_at": "2026-05-11T20:50:55.268Z"
   }
 ]
