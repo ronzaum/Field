@@ -8669,5 +8669,23 @@
     "material": [],
     "published_at": "2026-05-10T17:00:00.000Z",
     "ingested_at": "2026-05-10T23:57:28.637Z"
+  },
+  {
+    "id": "c9939a40-6314-45dd-96fe-ad622ada1bd4",
+    "title": "The Tiny House",
+    "creator": "7th Hue Architecture Collective",
+    "location": "Thrissur",
+    "country": "India",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041344/the-tiny-house-7th-hue-architecture-collective",
+    "image_url": "https://images.adsttc.com/media/images/69fd/8eb1/a59b/8300/01a7/f3df/medium_jpg/MAR08948-Edit.jpg?1778224881",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-10T21:00:00.000Z",
+    "ingested_at": "2026-05-11T04:16:29.368Z"
   }
 ]
