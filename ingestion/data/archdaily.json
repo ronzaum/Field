@@ -8927,5 +8927,24 @@
     "material": [],
     "published_at": "2026-05-12T03:00:00.000Z",
     "ingested_at": "2026-05-12T10:36:58.118Z"
+  },
+  {
+    "id": "de038179-e27a-4688-ae82-afeb085cbddf",
+    "title": "Vis-à-Vis Venitian Villa",
+    "creator": "RigonSimonetti",
+    "location": "Costabissara",
+    "country": "Italy",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041382/vis-a-vis-venitian-villa-rigonsimonetti",
+    "image_url": "https://images.adsttc.com/media/images/69fe/54d9/bbf1/cd01/885b/b6cb/medium_jpg/vis-a-vis-venitian-villa-rigonsimonetti_10.jpg?1778275588",
+    "typology": [
+      "Offices",
+      "Refurbishment",
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T07:00:00.000Z",
+    "ingested_at": "2026-05-12T13:07:48.919Z"
   }
 ]
