@@ -8983,5 +8983,23 @@
     "material": [],
     "published_at": "2026-05-12T10:00:00.000Z",
     "ingested_at": "2026-05-12T16:24:31.131Z"
+  },
+  {
+    "id": "e4db6781-dbf8-47e2-be76-4ffcfc1230e6",
+    "title": "Atelier Cambre",
+    "creator": "Esteras Perrote",
+    "location": "Córdoba",
+    "country": "Argentina",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041168/atelier-cambre-esteras-perrote",
+    "image_url": "https://images.adsttc.com/media/images/69f9/24ca/e0a7/c211/0586/a63b/medium_jpg/atelier-cambre-esteras-perrote_20.jpg?1777935596",
+    "typology": [
+      "Industrial Architecture",
+      "Workshop"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T15:00:00.000Z",
+    "ingested_at": "2026-05-12T21:22:58.311Z"
   }
 ]
