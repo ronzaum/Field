@@ -8855,5 +8855,41 @@
     "material": [],
     "published_at": "2026-05-11T19:00:00.000Z",
     "ingested_at": "2026-05-12T00:03:01.174Z"
+  },
+  {
+    "id": "d999fcfd-67d4-4918-ba27-af5491320787",
+    "title": "Studio ALT",
+    "creator": "Rushnaiwala Architects",
+    "location": "Kathwada",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041426/studio-alt-rushnaiwala-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a01/daf1/a59b/8300/01a7/f554/medium_jpg/TOTC_003.jpg?1778506581",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T02:00:00.000Z",
+    "ingested_at": "2026-05-12T07:46:26.599Z"
+  },
+  {
+    "id": "383b21ca-69f9-4594-b34a-8ba7601fe0b3",
+    "title": "Shenzhen Hongling Education Group Huafu Experimental School",
+    "creator": "UASZ",
+    "location": "No. 2011",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041361/shenzhen-hongling-education-group-huafu-experimental-school-uasz",
+    "image_url": "https://images.adsttc.com/media/images/69fd/d1df/a85b/a801/87e4/c9c1/medium_jpg/shenzhen-hongling-education-group-huafu-experimental-school-uasz_1.jpg?1778242029",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T00:00:00.000Z",
+    "ingested_at": "2026-05-12T07:46:26.601Z"
   }
 ]
