@@ -8838,5 +8838,22 @@
     "material": [],
     "published_at": "2026-05-11T15:00:00.000Z",
     "ingested_at": "2026-05-11T20:50:55.268Z"
+  },
+  {
+    "id": "c8434789-d03d-4f34-b8cd-513ef046b483",
+    "title": "15 Khartoum Road MPark",
+    "creator": "Choi Studio",
+    "location": "Macquarie Park",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041421/15-khartoum-road-mpark-choi-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a01/9c2a/fda2/da01/89bd/ccb3/medium_jpg/15-khartoum-road-mpark-choi-studio_1.jpg?1778490464",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-11T19:00:00.000Z",
+    "ingested_at": "2026-05-12T00:03:01.174Z"
   }
 ]
