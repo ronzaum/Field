@@ -8946,5 +8946,42 @@
     "material": [],
     "published_at": "2026-05-12T07:00:00.000Z",
     "ingested_at": "2026-05-12T13:07:48.919Z"
+  },
+  {
+    "id": "015dc340-93b2-4c80-ba1b-48d6e763dc18",
+    "title": "Saint-George-Haute-Ville Town Center",
+    "creator": "Link architectes + FAB Architects",
+    "location": "Saint-Georges-Haute-Ville",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041364/saint-george-haute-ville-town-centre-link-architectes-plus-fab-architects",
+    "image_url": "https://images.adsttc.com/media/images/69fe/076e/5cbf/9701/7f12/37ab/medium_jpg/saint-george-haute-ville-town-centre-link-architectes-plus-fab-architects_4.jpg?1778255736",
+    "typology": [
+      "Cultural Architecture",
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T12:00:00.000Z",
+    "ingested_at": "2026-05-12T16:24:31.129Z"
+  },
+  {
+    "id": "65449047-50f6-4e98-af2e-57aeae76a5ac",
+    "title": "Masurian House",
+    "creator": "Archigrest",
+    "location": "Grom",
+    "country": "Poland",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041333/masurian-house-archigrest",
+    "image_url": "https://images.adsttc.com/media/images/69fd/502f/fda2/da01/89bd/c27a/medium_jpg/masurian-house-archigrest_1.jpg?1778208853",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T10:00:00.000Z",
+    "ingested_at": "2026-05-12T16:24:31.131Z"
   }
 ]
