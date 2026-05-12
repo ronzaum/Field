@@ -8891,5 +8891,41 @@
     "material": [],
     "published_at": "2026-05-12T00:00:00.000Z",
     "ingested_at": "2026-05-12T07:46:26.601Z"
+  },
+  {
+    "id": "0860e1e1-df9b-4700-b0e7-d8922288dafb",
+    "title": "Casa Sota la Mola",
+    "creator": "TwoBo arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041248/casa-sota-la-mola-twobo-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69fb/2508/754a/ba01/8bca/86bc/medium_jpg/casa-sota-la-mola-twobo-arquitectura_24.jpg?1778066718",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T06:00:00.000Z",
+    "ingested_at": "2026-05-12T10:36:58.115Z"
+  },
+  {
+    "id": "7e949c01-404b-45bf-a169-2e8d0a8e6be5",
+    "title": "Renaissance of the Real Multisensory Installation - Milan Design Week 2026",
+    "creator": "Snøhetta + USM Modular Furniture",
+    "location": "Milano",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041331/renaissance-of-the-real-multisensory-installation-milan-design-week-2026-snohetta-plus-usm-modular-furniture",
+    "image_url": "https://images.adsttc.com/media/images/69fe/017f/fda2/da01/89bd/c788/medium_jpg/renaissance-of-the-real-snohetta-plus-usm-modular-furniture_12.jpg?1778254219",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T03:00:00.000Z",
+    "ingested_at": "2026-05-12T10:36:58.118Z"
   }
 ]

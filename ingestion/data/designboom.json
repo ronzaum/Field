@@ -3129,5 +3129,27 @@
     "material": [],
     "published_at": "2026-05-11T08:30:02.000Z",
     "ingested_at": "2026-05-11T12:15:50.381Z"
+  },
+  {
+    "id": "a1109fe3-fb30-4675-8421-f6287add818c",
+    "title": "a pair of banyan trees anchors anonym studio’s open-air family house in thailand",
+    "creator": "anonym studio",
+    "location": "Samut Prakarn",
+    "country": "Thailand",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/banyan-trees-anonym-studio-open-air-family-house-saikhoo-thailand/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/saikhoo-house-anonym-studio-samut-prakarn-thailand-banyan-trees-designboom-700-500x400-22b08q85r021.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "anonym studio",
+      "architecture in thailand",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T10:30:53.000Z",
+    "ingested_at": "2026-05-12T10:37:00.109Z"
   }
 ]
