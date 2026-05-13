@@ -9019,5 +9019,44 @@
     "material": [],
     "published_at": "2026-05-12T19:00:00.000Z",
     "ingested_at": "2026-05-13T03:53:29.015Z"
+  },
+  {
+    "id": "bb582e43-2ebf-4a73-8bd6-36d5a72af1ea",
+    "title": "City Cottage",
+    "creator": "Sans-Arc Studio",
+    "location": "Adelaide",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041474/city-cottage-sans-arc-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a03/1461/bbf1/cd01/885b/c0d2/medium_jpg/city-cottage-sans-arc-studio_9.jpg?1778586778",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T02:00:00.000Z",
+    "ingested_at": "2026-05-13T06:51:25.860Z"
+  },
+  {
+    "id": "d33a0e62-6f2a-4de3-b9ad-29547a84a3b2",
+    "title": "Ancient Banyan Plaza Renovation",
+    "creator": "Atelier XÜK",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041370/ancient-banyan-plaza-renovation-atelier-xuk",
+    "image_url": "https://images.adsttc.com/media/images/69fe/afd8/bbf1/cd01/885b/b747/medium_jpg/ancient-banyan-plaza-renovation-atelier-xuk_33.jpg?1778298860",
+    "typology": [
+      "Public Architecture",
+      "Community",
+      "Community center",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T00:00:00.000Z",
+    "ingested_at": "2026-05-13T06:51:25.861Z"
   }
 ]
