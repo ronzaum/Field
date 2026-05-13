@@ -3173,5 +3173,25 @@
     "material": [],
     "published_at": "2026-05-13T06:30:23.000Z",
     "ingested_at": "2026-05-13T06:51:27.426Z"
+  },
+  {
+    "id": "a9e05e20-4c12-49d3-8b8e-cd3415b8d017",
+    "title": "stefano boeri reimagines the monastery as a space for faith and science in milan",
+    "creator": "Stefano Boeri Architetti",
+    "location": "MIND Milano Innovation District",
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/stefanoboeriarchitetti-monastery-space-faith-science-milan/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/stefanoboeriarchitetti-contemporary-monastery-dialogue-faith-science-milan-designboom-700-500x400-22b08q85r597.jpg",
+    "typology": [
+      "architecture",
+      "architecture in italy",
+      "church architecture and design",
+      "stefano boeri"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T09:00:43.000Z",
+    "ingested_at": "2026-05-13T09:47:52.476Z"
   }
 ]
