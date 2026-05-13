@@ -9151,5 +9151,23 @@
     "material": [],
     "published_at": "2026-05-13T12:00:00.000Z",
     "ingested_at": "2026-05-13T18:05:07.476Z"
+  },
+  {
+    "id": "f8c3855f-3278-4478-aaff-3d277b7ab736",
+    "title": "Casa Dahora",
+    "creator": "Sergio Sampaio Archi + Tectônica",
+    "location": "Itu/SP",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041465/casa-dahora-sergio-sampaio-archi-plus-tectonica",
+    "image_url": "https://images.adsttc.com/media/images/69f3/b13a/20d6/d800/0166/401e/medium_jpg/_08A7960_copyright_manuel_sa.jpg?1777578323",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T15:00:00.000Z",
+    "ingested_at": "2026-05-13T20:47:03.529Z"
   }
 ]
