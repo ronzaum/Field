@@ -9095,5 +9095,44 @@
     "material": [],
     "published_at": "2026-05-13T06:00:00.000Z",
     "ingested_at": "2026-05-13T12:07:52.932Z"
+  },
+  {
+    "id": "c52079d0-0694-41b9-a066-836ed6ff4d9c",
+    "title": "P81 House",
+    "creator": "wiercinski-studio",
+    "location": "Poznań",
+    "country": "Poland",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041517/p81-house-wiercinski-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a04/3d6f/a59b/8300/01a7/f69b/medium_jpg/P81_House_-_wiercinski-studio_1.jpg?1778662787",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T10:00:00.000Z",
+    "ingested_at": "2026-05-13T15:45:21.983Z"
+  },
+  {
+    "id": "19f38ad7-9f0a-4dfb-88b5-521dcce4a5fe",
+    "title": "Tree Tavern & Cave Teahouse",
+    "creator": "ARC Z Architects + Practice on Earth",
+    "location": "Huizhou",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041383/tree-tavern-and-cave-teahouse-arc-z-architects-plus-practice-on-earth",
+    "image_url": "https://images.adsttc.com/media/images/69fe/502c/fda2/da01/89bd/c8c3/medium_jpg/tree-tavern-and-cave-teahouse-arc-z-architects-plus-practice-on-earth_6.jpg?1778274413",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T07:00:00.000Z",
+    "ingested_at": "2026-05-13T15:45:21.985Z"
   }
 ]
