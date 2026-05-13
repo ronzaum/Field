@@ -9001,5 +9001,23 @@
     "material": [],
     "published_at": "2026-05-12T15:00:00.000Z",
     "ingested_at": "2026-05-12T21:22:58.311Z"
+  },
+  {
+    "id": "f4793f39-432a-4152-98a4-e70bf0ea3d6c",
+    "title": "Tales of Saru",
+    "creator": "Studio for Architecture and Regional Urbanism",
+    "location": "Mettupalayam",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041440/tales-of-saru-studio-for-architecture-and-regional-urbanism",
+    "image_url": "https://images.adsttc.com/media/images/6a02/4d43/a59b/8300/01a7/f5d5/medium_jpg/30-SKP_5563.jpg?1778535944",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-12T19:00:00.000Z",
+    "ingested_at": "2026-05-13T03:53:29.015Z"
   }
 ]
