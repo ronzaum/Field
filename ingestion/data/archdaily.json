@@ -9134,5 +9134,22 @@
     "material": [],
     "published_at": "2026-05-13T07:00:00.000Z",
     "ingested_at": "2026-05-13T15:45:21.985Z"
+  },
+  {
+    "id": "361d44d4-c1df-49da-8b0e-5ffdc3f00c12",
+    "title": "Land Of Wells",
+    "creator": "Le laboratoire d'architecture + A4 Architecture + Bled El Abar Collective",
+    "location": "Nefzawa Kébili Governorate",
+    "country": "Tunisia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041437/land-of-wells-le-laboratoire-darchitecture-plus-a4-architecture-plus-bled-el-abar-collective",
+    "image_url": "https://images.adsttc.com/media/images/6a02/3c2d/bbf1/cd01/885b/bd2c/medium_jpg/land-of-wells-le-laboratoire-darchitecture-plus-a4-architecture-plus-bled-el-abar-collective_7.jpg?1778531428",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T12:00:00.000Z",
+    "ingested_at": "2026-05-13T18:05:07.476Z"
   }
 ]
