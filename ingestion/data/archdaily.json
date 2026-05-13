@@ -9077,5 +9077,23 @@
     "material": [],
     "published_at": "2026-05-13T03:00:00.000Z",
     "ingested_at": "2026-05-13T09:47:51.134Z"
+  },
+  {
+    "id": "ecb53b81-8990-4fab-8bf5-776956fb35b0",
+    "title": "Villa Nouvelle Vague",
+    "creator": "Magalie Munters™ Architecture",
+    "location": "Koksijde",
+    "country": "Belgium",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041495/villa-nouvelle-vague-magalie-munters-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a03/3b32/a59b/8300/01a7/f660/medium_jpg/Nouvelle_Vague_24.jpg?1778596679",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T06:00:00.000Z",
+    "ingested_at": "2026-05-13T12:07:52.932Z"
   }
 ]
