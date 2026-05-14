@@ -9227,5 +9227,23 @@
     "material": [],
     "published_at": "2026-05-14T00:00:00.000Z",
     "ingested_at": "2026-05-14T07:46:10.789Z"
+  },
+  {
+    "id": "bba2456e-7eb7-488c-81ae-bee4612c813b",
+    "title": "Flexible Dormitory",
+    "creator": "Atelier Kaiser Shen",
+    "location": "Schönaich",
+    "country": "Germany",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041521/flexible-dormitory-atelier-kaiser-shen",
+    "image_url": "https://images.adsttc.com/media/images/6a04/4f1a/a59b/8300/01a7/f6e9/medium_jpg/AtelierKaiserShen_Fluechtlingsheim_Schoenaich_023_pic.jpg?1778667354",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T03:00:00.000Z",
+    "ingested_at": "2026-05-14T10:24:28.712Z"
   }
 ]
