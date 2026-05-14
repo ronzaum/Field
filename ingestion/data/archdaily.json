@@ -9187,5 +9187,45 @@
     "material": [],
     "published_at": "2026-05-13T19:00:00.000Z",
     "ingested_at": "2026-05-14T00:06:30.977Z"
+  },
+  {
+    "id": "4779e6da-01ea-4560-9c99-0e0c9cb1efd0",
+    "title": "SOHO - Work + Living",
+    "creator": "SOHO Architects",
+    "location": "Kozhikode",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041546/soho-work-plus-living-soho-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a04/f31d/5df8/6001/7fe3/acd9/medium_jpg/soho-work-plus-living-soho-architects_1.jpg?1778709332",
+    "typology": [
+      "Residential Architecture",
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T02:00:00.000Z",
+    "ingested_at": "2026-05-14T07:46:10.787Z"
+  },
+  {
+    "id": "e2bffc9f-35da-49ec-9a0e-a9391486db50",
+    "title": "SAANCI Coffee (Aranya North Bay Store)",
+    "creator": "NUC Studio",
+    "location": "Aranya North Bank (Phase 9)",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041199/saanci-coffee-aranya-north-bay-store-nuc-studio",
+    "image_url": "https://images.adsttc.com/media/images/69fa/6ef1/754a/ba01/8bca/81aa/medium_jpg/saanci-coffee-aranya-north-bay-store-nuc-studio_19.jpg?1778020145",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T00:00:00.000Z",
+    "ingested_at": "2026-05-14T07:46:10.789Z"
   }
 ]

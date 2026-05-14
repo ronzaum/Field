@@ -3258,5 +3258,45 @@
     "material": [],
     "published_at": "2026-05-13T16:56:04.000Z",
     "ingested_at": "2026-05-13T18:05:49.540Z"
+  },
+  {
+    "id": "888f5bf3-53a3-47d7-af01-7d773fa0e608",
+    "title": "arcop associates builds max smart hospital as a light filled sanctuary for healing",
+    "creator": "Sanjay Singh",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/arcop-associates-max-smart-hospital-healthcare/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/arcop-associates-hospital-designboom-700-500x400-22b08q85r924.jpg",
+    "typology": [
+      "architecture",
+      "healthcare facilities"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T07:37:33.000Z",
+    "ingested_at": "2026-05-14T07:46:13.143Z"
+  },
+  {
+    "id": "e20d2936-3bd2-4c1d-8cab-848414bbff76",
+    "title": "casa violetas balances enclosure and openness through courtyard living in madrid",
+    "creator": "Werk Estudio",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/casa-violetas-enclosure-openness-courtyard-living-madrid-werk-estudio/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/casa-violetas-werk-estudio-madrid-semi-enclosed-courtyard-designboom-700-500x400-22b08q85r122.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in spain",
+      "private courtyards",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T06:30:25.000Z",
+    "ingested_at": "2026-05-14T07:46:13.153Z"
   }
 ]
