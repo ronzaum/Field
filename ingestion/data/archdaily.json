@@ -9245,5 +9245,41 @@
     "material": [],
     "published_at": "2026-05-14T03:00:00.000Z",
     "ingested_at": "2026-05-14T10:24:28.712Z"
+  },
+  {
+    "id": "7b421e52-a1e3-4256-b3f9-280e3b168072",
+    "title": "Laiva Plaza Hotel",
+    "creator": "RA!",
+    "location": "San José del Cabo",
+    "country": "Mexico",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040729/laiva-plaza-hotel-ra",
+    "image_url": "https://images.adsttc.com/media/images/69e0/bf21/8471/2000/01f8/e9e1/medium_jpg/LP_07_BY_OSCAR_HERN_NDEZ.jpg?1776336725",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T07:00:00.000Z",
+    "ingested_at": "2026-05-14T12:55:32.277Z"
+  },
+  {
+    "id": "0ddcabe7-86e7-40f0-9b27-b94adbaf25ca",
+    "title": "Euthea Residence",
+    "creator": "Ateno Architecture Studio",
+    "location": "Lefkada",
+    "country": "Greece",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041526/euthea-residence-ateno-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a04/73f6/bbf1/cd01/885b/c6d7/medium_jpg/euthea-residence-ateno-architecture-studio_20.jpg?1778676744",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T06:00:00.000Z",
+    "ingested_at": "2026-05-14T12:55:32.280Z"
   }
 ]
