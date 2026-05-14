@@ -9320,5 +9320,25 @@
     "material": [],
     "published_at": "2026-05-14T10:00:00.000Z",
     "ingested_at": "2026-05-14T15:23:33.193Z"
+  },
+  {
+    "id": "98a9cd18-1853-4ecf-9944-cdf012ccd273",
+    "title": "Spore Initiative",
+    "creator": "AFF architekten",
+    "location": "Hermannstraße 86",
+    "country": "Germany",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041436/spore-initiative-aff-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a02/3677/fda2/da01/89bd/cfc8/medium_jpg/spore-initiative-aff-architekten_1.jpg?1778529942",
+    "typology": [
+      "Cultural Architecture",
+      "Public Architecture",
+      "Community",
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T12:00:00.000Z",
+    "ingested_at": "2026-05-14T17:57:20.910Z"
   }
 ]
