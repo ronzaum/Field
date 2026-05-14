@@ -9169,5 +9169,23 @@
     "material": [],
     "published_at": "2026-05-13T15:00:00.000Z",
     "ingested_at": "2026-05-13T20:47:03.529Z"
+  },
+  {
+    "id": "0c3113b6-0c55-4e9b-a6be-c1050d347e5c",
+    "title": "Veiled Void",
+    "creator": "ROOMOOR",
+    "location": "Surat",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041505/veiled-void-roomoor",
+    "image_url": "https://images.adsttc.com/media/images/6a03/a0cb/bbf1/cd01/885b/c3bc/medium_jpg/veiled-void-roomoor_1.jpg?1778622704",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-13T19:00:00.000Z",
+    "ingested_at": "2026-05-14T00:06:30.977Z"
   }
 ]
