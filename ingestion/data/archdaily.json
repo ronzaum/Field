@@ -9281,5 +9281,44 @@
     "material": [],
     "published_at": "2026-05-14T06:00:00.000Z",
     "ingested_at": "2026-05-14T12:55:32.280Z"
+  },
+  {
+    "id": "1af4c65a-a252-4b3e-a6fa-5c70fa4a0c0f",
+    "title": "Pyramid House",
+    "creator": "Khan Bonshek",
+    "location": "Milton Keynes",
+    "country": "United Kingdom",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041439/pyramid-house-khan-bonshek",
+    "image_url": "https://images.adsttc.com/media/images/6a02/465d/fda2/da01/89bd/d047/medium_jpg/pyramid-house-khan-bonshek_22.jpg?1778534095",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T10:00:00.000Z",
+    "ingested_at": "2026-05-14T15:23:33.190Z"
+  },
+  {
+    "id": "1c8ff3a7-c7ff-4ecb-9630-5d12b9427644",
+    "title": "Belfountain House",
+    "creator": "UUfie",
+    "location": "Belfountain",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041553/belfountain-house-uufie",
+    "image_url": "https://images.adsttc.com/media/images/6a05/4874/a59b/8300/01a7/f7bd/medium_jpg/UUfie-BelfountainHouse-EmaPeter-35.jpg?1778731152",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T10:00:00.000Z",
+    "ingested_at": "2026-05-14T15:23:33.193Z"
   }
 ]
