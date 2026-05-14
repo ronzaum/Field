@@ -9340,5 +9340,23 @@
     "material": [],
     "published_at": "2026-05-14T12:00:00.000Z",
     "ingested_at": "2026-05-14T17:57:20.910Z"
+  },
+  {
+    "id": "970bc57c-6c94-43e5-a0b1-f1a5442c53cb",
+    "title": "Grandparents' House",
+    "creator": "Stanaćev Granados",
+    "location": "Matanzas",
+    "country": "Chile",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040681/casa-abuelos-stanacev-granados",
+    "image_url": "https://images.adsttc.com/media/images/69df/45c9/8471/2000/01f8/e82b/medium_jpg/Casa_Abuelos_Stanacev_Granados_Matanzas_Casa_de_madera__2_.jpg?1776240262",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T15:00:00.000Z",
+    "ingested_at": "2026-05-14T21:17:08.597Z"
   }
 ]
