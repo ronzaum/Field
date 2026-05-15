@@ -3341,5 +3341,26 @@
     "material": [],
     "published_at": "2026-05-15T08:45:18.000Z",
     "ingested_at": "2026-05-15T10:30:46.145Z"
+  },
+  {
+    "id": "00d745a9-e4cb-431f-ac8d-4bc23be0f8a5",
+    "title": "roberto conte photographs frank lloyd wright’s geometric motifs in ‘child of the sun’ florida campus",
+    "creator": "Frank Lloyd Wright",
+    "location": "Lakeland",
+    "country": "US",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/roberto-conte-frank-lloyd-wright-geometric-motifs-child-of-the-sun-florida-campus/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/roberto-conte-photographs-frank-lloyd-wright-florida-campus-designboom-700-500x400-22b08q85r856.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the US",
+      "frank lloyd wright",
+      "roberto conte"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T14:30:45.000Z",
+    "ingested_at": "2026-05-15T15:23:09.576Z"
   }
 ]
