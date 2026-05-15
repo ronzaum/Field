@@ -9434,5 +9434,42 @@
     "material": [],
     "published_at": "2026-05-15T00:00:00.000Z",
     "ingested_at": "2026-05-15T07:29:53.759Z"
+  },
+  {
+    "id": "68e89d3f-a020-431d-af04-6043eefe5923",
+    "title": "Villa Polo",
+    "creator": "Driss Kettani",
+    "location": "Casablanca",
+    "country": "Morocco",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041384/villa-polo-driss-kettani",
+    "image_url": "https://images.adsttc.com/media/images/69fe/5299/fda2/da01/89bd/c8da/medium_jpg/villa-polo-driss-kettani_2.jpg?1778274980",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T07:00:00.000Z",
+    "ingested_at": "2026-05-15T12:57:40.526Z"
+  },
+  {
+    "id": "4b0fc595-54c7-4c5a-96b2-4b48c6c6d994",
+    "title": "Theater in the Santa Clotilde Gardens",
+    "creator": "SCOB",
+    "location": "Lloret de Mar",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040597/theatre-in-the-santa-clotilde-gardens-scob",
+    "image_url": "https://images.adsttc.com/media/images/69dc/ba5d/87e3/da00/01ef/b715/medium_jpg/115-scob-arquitectura-paisaje-JARDINS_DE_SANTA_CLOTILDE-_JUDITH_CASAS-01LOW.jpg?1776073421",
+    "typology": [
+      "Landscape Architecture",
+      "Cultural Architecture",
+      "Theaters & Performance"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T06:00:00.000Z",
+    "ingested_at": "2026-05-15T12:57:40.529Z"
   }
 ]
