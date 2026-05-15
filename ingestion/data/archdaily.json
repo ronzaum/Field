@@ -9358,5 +9358,24 @@
     "material": [],
     "published_at": "2026-05-14T15:00:00.000Z",
     "ingested_at": "2026-05-14T21:17:08.597Z"
+  },
+  {
+    "id": "e5bb29ec-2a62-4e91-b4e9-47df0a4cc5b0",
+    "title": "9 Wilson Ave Apartment",
+    "creator": "MA+Co  + Neometro",
+    "location": "Brunswick",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041560/9-wilson-ave-apartment-ma-plus-co-plus-neometro",
+    "image_url": "https://images.adsttc.com/media/images/6a05/ac9d/bbf1/cd01/885b/ca0a/medium_jpg/9-wilson-ave-apartment-ma-plus-co-plus-neometro_5.jpg?1778756787",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-05-14T19:00:00.000Z",
+    "ingested_at": "2026-05-15T03:56:43.955Z"
   }
 ]
