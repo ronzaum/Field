@@ -3362,5 +3362,28 @@
     "material": [],
     "published_at": "2026-05-15T14:30:45.000Z",
     "ingested_at": "2026-05-15T15:23:09.576Z"
+  },
+  {
+    "id": "d1323605-b3fe-4fa7-8407-287d1d79d8ce",
+    "title": "KWK promes’ yaw house follows the contours of poland’s mountain terrain",
+    "creator": "Robert Konieczny KWK Promes",
+    "location": "Beskid Mountains",
+    "country": "Poland",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kwk-promes-yaw-house-contours-poland-mountain-terrain/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/yaw-house-kwk-promes-poland-designboom-700-500x400-22b08q85r121.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in poland",
+      "KWK promes",
+      "residential architecture and interiors",
+      "rooftop architecture and design",
+      "underground architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T20:00:21.000Z",
+    "ingested_at": "2026-05-15T21:10:29.010Z"
   }
 ]

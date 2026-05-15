@@ -9508,5 +9508,23 @@
     "material": [],
     "published_at": "2026-05-15T10:00:00.000Z",
     "ingested_at": "2026-05-15T17:45:24.345Z"
+  },
+  {
+    "id": "ea6d90a1-f056-4b8a-a74a-956506eabb30",
+    "title": "Piná House",
+    "creator": "Nommo Arquitetos",
+    "location": "Florianópolis",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041366/pina-house-nommo-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/69fb/faab/a59b/8300/01a7/f268/medium_jpg/JVS_20260319_CASA_PIN__35.jpg?1778121518",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T15:00:00.000Z",
+    "ingested_at": "2026-05-15T21:10:27.936Z"
   }
 ]
