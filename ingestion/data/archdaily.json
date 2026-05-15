@@ -9377,5 +9377,62 @@
     "material": [],
     "published_at": "2026-05-14T19:00:00.000Z",
     "ingested_at": "2026-05-15T03:56:43.955Z"
+  },
+  {
+    "id": "39bb1dde-4b13-44cd-95ec-6d923e9aab54",
+    "title": "Maison de l'Innovation Office",
+    "creator": "Baumschlager Eberle Architekten",
+    "location": "Nantes",
+    "country": "France",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041524/maison-de-linnovation-office-baumschlager-eberle-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a04/6bef/a59b/8300/01a7/f740/medium_jpg/1._Focus_point_in_the_street_axis.jpg?1778674734",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T03:00:00.000Z",
+    "ingested_at": "2026-05-15T07:29:53.755Z"
+  },
+  {
+    "id": "1b18cad2-13b0-4eec-a3e1-f5420039a4b5",
+    "title": "Beijing National Day School Student Creative Activity Center",
+    "creator": "Origin Architect",
+    "location": "Hai Dian Qu",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041547/beijing-national-day-school-student-creative-activity-center-origin-architect",
+    "image_url": "https://images.adsttc.com/media/images/6a04/fb12/bbf1/cd01/885b/c8aa/medium_jpg/beijing-national-day-school-student-creative-activity-center-origin-architect_12.jpg?1778711330",
+    "typology": [
+      "Educational Architecture",
+      "Other facilities",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T02:00:00.000Z",
+    "ingested_at": "2026-05-15T07:29:53.757Z"
+  },
+  {
+    "id": "e592df9a-4359-421a-a93e-45abc947fa32",
+    "title": "Old Study in Solitude",
+    "creator": "Atelier Wen'Arch",
+    "location": "Huizhou",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041500/old-study-in-solitude-atelier-wenarch",
+    "image_url": "https://images.adsttc.com/media/images/6a03/78bf/0ce3/de01/7e6d/efc1/medium_jpg/old-study-in-solitude-atelier-wenarch_2.jpg?1778612432",
+    "typology": [
+      "Healthcare Architecture",
+      "Wellbeing",
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T00:00:00.000Z",
+    "ingested_at": "2026-05-15T07:29:53.759Z"
   }
 ]
