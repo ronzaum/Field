@@ -9471,5 +9471,42 @@
     "material": [],
     "published_at": "2026-05-15T06:00:00.000Z",
     "ingested_at": "2026-05-15T12:57:40.529Z"
+  },
+  {
+    "id": "acdb123b-7c87-462f-bd62-107d766b4f96",
+    "title": "Loyola University Chapel",
+    "creator": "Trahan Architects",
+    "location": "Loyola University",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041496/loyola-university-chapel-trahan-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a03/6829/bbf1/cd01/885b/c2db/medium_jpg/loyola-university-chapel-trahan-architects_32.jpg?1778608226",
+    "typology": [
+      "Religious Architecture",
+      "Worship",
+      "Chapel"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T12:00:00.000Z",
+    "ingested_at": "2026-05-15T17:45:24.343Z"
+  },
+  {
+    "id": "f3fa833c-6e99-487a-9a4d-ddcb9f0a001d",
+    "title": "Villa in Rind Village",
+    "creator": "ARCHcoop Architectural Studio",
+    "location": "Rind",
+    "country": "Armenia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041445/villa-in-rind-village-archcoop-architectural-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a02/8336/ae3a/0b01/7ddb/be8a/medium_jpg/villa-in-rind-village-archcoop-architectural-studio_12.jpg?1778549622",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T10:00:00.000Z",
+    "ingested_at": "2026-05-15T17:45:24.345Z"
   }
 ]
