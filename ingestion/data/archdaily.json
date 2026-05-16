@@ -9581,5 +9581,23 @@
     "material": [],
     "published_at": "2026-05-16T06:00:00.000Z",
     "ingested_at": "2026-05-16T13:43:28.663Z"
+  },
+  {
+    "id": "2a70d0f5-3404-4baa-9f12-0ee0ab784139",
+    "title": "Cork House",
+    "creator": "studio bauform",
+    "location": "Homburg",
+    "country": "Germany",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041447/cork-house-studio-bauform",
+    "image_url": "https://images.adsttc.com/media/images/6a02/870e/bbf1/cd01/885b/be19/medium_jpg/cork-house-studio-bauform_1.jpg?1778550630",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-16T09:00:00.000Z",
+    "ingested_at": "2026-05-16T15:01:35.949Z"
   }
 ]
