@@ -9616,5 +9616,23 @@
     "material": [],
     "published_at": "2026-05-16T11:00:00.000Z",
     "ingested_at": "2026-05-16T19:12:48.237Z"
+  },
+  {
+    "id": "ae37f8a0-a364-473e-9f9c-b1d5234e9810",
+    "title": "Boa Vista House",
+    "creator": "facury + guaja.cc + Thiago Bandeira",
+    "location": "Palhano",
+    "country": "Brasil",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040563/boa-vista-house-facury-plus-guajc-plus-thiago-bandeira",
+    "image_url": "https://images.adsttc.com/media/images/69d9/4839/87e3/da00/01ef/b68b/medium_jpg/JHP_FCN_BOAVISTA-2_R01.jpg?1775847592",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-16T15:00:00.000Z",
+    "ingested_at": "2026-05-16T20:56:09.669Z"
   }
 ]
