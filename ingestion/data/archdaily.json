@@ -9526,5 +9526,23 @@
     "material": [],
     "published_at": "2026-05-15T15:00:00.000Z",
     "ingested_at": "2026-05-15T21:10:27.936Z"
+  },
+  {
+    "id": "af020e9d-2e32-4eba-9a94-1c9b98327ecb",
+    "title": "Casa TG",
+    "creator": "Obra Arquitetos",
+    "location": "Jundiaí",
+    "country": "Brasil",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041585/casa-tg-obra-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/69ea/c321/345f/bc00/0189/c4c7/medium_jpg/01K_4852_57.jpg?1776993093",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-15T19:00:00.000Z",
+    "ingested_at": "2026-05-16T04:31:24.535Z"
   }
 ]
