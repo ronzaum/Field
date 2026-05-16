@@ -9599,5 +9599,22 @@
     "material": [],
     "published_at": "2026-05-16T09:00:00.000Z",
     "ingested_at": "2026-05-16T15:01:35.949Z"
+  },
+  {
+    "id": "7fa39db7-a682-4a81-91e4-4e3eec798676",
+    "title": "Youth Club NW80",
+    "creator": "AFF architekten",
+    "location": "Berlin",
+    "country": "Germany",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041507/youth-club-nw80-aff-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a03/a81a/2112/1f01/8002/9d48/medium_jpg/youth-club-nw80-aff-architekten_2.jpg?1778624563",
+    "typology": [
+      "Cultural Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-16T11:00:00.000Z",
+    "ingested_at": "2026-05-16T19:12:48.237Z"
   }
 ]
