@@ -391,5 +391,29 @@
     "material": [],
     "published_at": "2026-05-11T19:42:05.000Z",
     "ingested_at": "2026-05-11T20:50:55.522Z"
+  },
+  {
+    "id": "965b991a-3496-4098-85b2-17c0d2b6129a",
+    "title": "Floating community space in Copenhagen",
+    "creator": "Arcgency and MAST \"makes water an active part of everyday life\"",
+    "location": "Copenhagen",
+    "country": "Denmark",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/05/16/bedding-1-floating-community-space-arcgency-mast-copenhagen/",
+    "image_url": "http://static.dezeen.com/uploads/2026/05/bedding-floating-community-space-arcgency-mast-copenhagen-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Public and leisure",
+      "Floating architecture",
+      "Guesthouses",
+      "Public space",
+      "Arcgency",
+      "MAST"
+    ],
+    "material": [],
+    "published_at": "2026-05-16T10:00:57.000Z",
+    "ingested_at": "2026-05-16T13:43:28.901Z"
   }
 ]

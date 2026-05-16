@@ -9562,5 +9562,24 @@
     "material": [],
     "published_at": "2026-05-16T02:00:00.000Z",
     "ingested_at": "2026-05-16T07:19:26.626Z"
+  },
+  {
+    "id": "484faf30-c06d-4169-93be-750c52ee1db9",
+    "title": "Forestry Station",
+    "creator": "Roland Baldi Architects",
+    "location": "Nova Ponente",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041535/forestry-station-roland-baldi-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a04/92ca/a59b/8300/01a7/f783/medium_jpg/_DR67296B.jpg?1778684636",
+    "typology": [
+      "Public Architecture",
+      "Government",
+      "Other Public Administration buildings"
+    ],
+    "material": [],
+    "published_at": "2026-05-16T06:00:00.000Z",
+    "ingested_at": "2026-05-16T13:43:28.663Z"
   }
 ]

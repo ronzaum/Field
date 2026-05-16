@@ -3385,5 +3385,26 @@
     "material": [],
     "published_at": "2026-05-15T20:00:21.000Z",
     "ingested_at": "2026-05-15T21:10:29.010Z"
+  },
+  {
+    "id": "b373ca89-9759-43bb-b9ab-408acfcff904",
+    "title": "salte library in seoul combines fragrance, literature, and spatial storytelling",
+    "creator": "Niiiz Design Lab",
+    "location": "Bukchon",
+    "country": "South Korea",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/salte-library-seoul-fragrance-literature-spatial-storytelling-niiiz-design-lab/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/salte-library-bukchon-fragrance-literature-spatial-storytelling-niiiz-design-lab-designboom-700-500x400-22b08q85r827.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in korea",
+      "interiors",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-16T03:30:23.000Z",
+    "ingested_at": "2026-05-16T13:43:29.742Z"
   }
 ]
