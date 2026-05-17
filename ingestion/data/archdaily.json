@@ -9688,5 +9688,22 @@
     "material": [],
     "published_at": "2026-05-17T02:00:00.000Z",
     "ingested_at": "2026-05-17T09:51:38.169Z"
+  },
+  {
+    "id": "5eeae7f4-01e3-4d9b-808d-006e7d1d1665",
+    "title": "Presqu‘île - Spring Office",
+    "creator": "Baumschlager Eberle Architekten",
+    "location": "Grenoble",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041523/presquile-spring-office-baumschlager-eberle-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a04/6a99/a59b/8300/01a7/f739/medium_jpg/20251015_2019_BUR_PAR_190601_Presqu__le_-_Spring_Grenoble_699_CW_autorisiert.jpg?1778674364",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-17T06:00:00.000Z",
+    "ingested_at": "2026-05-17T13:42:33.595Z"
   }
 ]
