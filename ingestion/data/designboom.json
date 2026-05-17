@@ -3406,5 +3406,25 @@
     "material": [],
     "published_at": "2026-05-16T03:30:23.000Z",
     "ingested_at": "2026-05-16T13:43:29.742Z"
+  },
+  {
+    "id": "4a37e758-1f85-4a97-833f-637fa4e8b310",
+    "title": "red steel sawtooth roofs emerge through spruce forest in czech republic",
+    "creator": "Architektura",
+    "location": "Jevany",
+    "country": "Czech Republic",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/red-steel-sawtooth-roofs-spruce-forest-czech-republic-jevany-villa-architektura/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/jevany-villa-architektura-forest-czech-village-jevany-designboom-700-500x400-22b08q85r119.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the czech republic",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-17T04:30:18.000Z",
+    "ingested_at": "2026-05-17T07:35:20.910Z"
   }
 ]
