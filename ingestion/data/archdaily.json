@@ -9670,5 +9670,23 @@
     "material": [],
     "published_at": "2026-05-16T21:00:00.000Z",
     "ingested_at": "2026-05-17T04:15:20.179Z"
+  },
+  {
+    "id": "9130118f-1910-4add-a36f-0a7e646fdba2",
+    "title": "Xintiandi Dongtaili Mall",
+    "creator": "Kokaistudios",
+    "location": "Shanghai",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041122/xintiandi-dongtaili-mall-kokaistudios",
+    "image_url": "https://images.adsttc.com/media/images/69f3/78bf/e0a7/c201/892c/b273/medium_jpg/xintiandi-dongtaili-kokaistudios_16.jpg?1777563900",
+    "typology": [
+      "Commercial Architecture",
+      "Shopping centers"
+    ],
+    "material": [],
+    "published_at": "2026-05-17T02:00:00.000Z",
+    "ingested_at": "2026-05-17T09:51:38.169Z"
   }
 ]

@@ -3426,5 +3426,27 @@
     "material": [],
     "published_at": "2026-05-17T04:30:18.000Z",
     "ingested_at": "2026-05-17T07:35:20.910Z"
+  },
+  {
+    "id": "d285092e-c0ef-4010-b114-e86742105902",
+    "title": "UUfie’s angular belfountain house traces a steep slope through the canadian forest",
+    "creator": "UUfie",
+    "location": "Ontario",
+    "country": "Canada",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/uufie-angular-belfountain-house-slope-canadia-forest-ontario/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/UUfie-belfountain-house-ontario-canada-designboom-700-500x400-22b08q85r894.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in canada",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "uufie"
+    ],
+    "material": [],
+    "published_at": "2026-05-17T09:45:10.000Z",
+    "ingested_at": "2026-05-17T09:51:39.011Z"
   }
 ]
