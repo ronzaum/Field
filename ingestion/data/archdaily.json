@@ -9705,5 +9705,42 @@
     "material": [],
     "published_at": "2026-05-17T06:00:00.000Z",
     "ingested_at": "2026-05-17T13:42:33.595Z"
+  },
+  {
+    "id": "084b237a-f961-4950-a95d-7729a56e5c19",
+    "title": "Altza Municipal Sports Center",
+    "creator": "Tabuenca & Leache + Chocarro & Herranz",
+    "location": "Donostia / San Sebastián",
+    "country": "España",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041485/altza-municipal-sports-center-tabuenca-and-leache-plus-chocarro-and-herranz",
+    "image_url": "https://images.adsttc.com/media/images/69dd/1033/adbb/f701/8b64/551e/medium_jpg/polideportivo-municipal-de-altza-tabuenca-and-leache-plus-chocarro-and-herranz_21.jpg?1776095302",
+    "typology": [
+      "Sports Architecture",
+      "Recreation & Training",
+      "sports field"
+    ],
+    "material": [],
+    "published_at": "2026-05-17T11:00:00.000Z",
+    "ingested_at": "2026-05-17T17:02:58.197Z"
+  },
+  {
+    "id": "6f5d19cc-28d8-4af3-a7e3-24c3c81573e4",
+    "title": "Falkensee II Single-Family House",
+    "creator": "ANNABAU",
+    "location": "Falkensee",
+    "country": "Germany",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041446/falkensee-ii-annabau",
+    "image_url": "https://images.adsttc.com/media/images/6a02/8508/ae3a/0b01/7ddb/be9d/medium_jpg/falkensee-ii-annabau_3.jpg?1778550035",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-17T09:00:00.000Z",
+    "ingested_at": "2026-05-17T17:02:58.200Z"
   }
 ]
