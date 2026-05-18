@@ -9852,5 +9852,61 @@
     "material": [],
     "published_at": "2026-05-18T00:00:00.000Z",
     "ingested_at": "2026-05-18T10:15:11.617Z"
+  },
+  {
+    "id": "90e6151d-e53f-42ee-aa7a-e8241b95b3c9",
+    "title": "Between the Rock and the River",
+    "creator": "Mimosa architects",
+    "location": "Krhanice",
+    "country": "Czechia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041499/between-the-rock-and-the-river-mimosa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a03/7489/bbf1/cd01/885b/c322/medium_jpg/between-the-rock-and-the-river-mimosa-architects_2.jpg?1778611357",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-18T10:00:00.000Z",
+    "ingested_at": "2026-05-18T14:33:16.089Z"
+  },
+  {
+    "id": "56779cab-6fee-4d33-bbb2-2fcbecd55179",
+    "title": "Yaw House",
+    "creator": "Robert Konieczny + KWK Promes",
+    "location": "Beskid Mountains",
+    "country": "Poland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041503/yaw-house-robert-konieczny-plus-kwk-promes",
+    "image_url": "https://images.adsttc.com/media/images/6a0a/ff59/fd52/9201/89f2/086b/medium_jpg/yaw-house-robert-konieczny-plus-kwk-promes_16.jpg?1779105638",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-18T07:00:00.000Z",
+    "ingested_at": "2026-05-18T14:33:16.092Z"
+  },
+  {
+    "id": "a7892637-e6c3-49bd-adfa-fd5fb79ef452",
+    "title": "Wood-Stack Sauna Zaježová",
+    "creator": "Guča arch.",
+    "location": "Pliešovce",
+    "country": "Slovakia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041520/wood-stack-sauna-zajezova-guca-arch",
+    "image_url": "https://images.adsttc.com/media/images/6a04/4067/a59b/8300/01a7/f6c8/medium_jpg/guca-architekti_matejhakar__L3A6571.jpg?1778663553",
+    "typology": [
+      "Healthcare Architecture",
+      "Wellbeing",
+      "Sauna",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-18T06:00:00.000Z",
+    "ingested_at": "2026-05-18T14:33:16.094Z"
   }
 ]
