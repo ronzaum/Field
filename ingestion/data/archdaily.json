@@ -9908,5 +9908,23 @@
     "material": [],
     "published_at": "2026-05-18T06:00:00.000Z",
     "ingested_at": "2026-05-18T14:33:16.094Z"
+  },
+  {
+    "id": "6c1c11c1-87fd-49d6-90f3-4ecca2e2d959",
+    "title": "Modular Pavilion",
+    "creator": "Dietsch Vilaça + Lukas Beer",
+    "location": "Cologne",
+    "country": "Germany",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041498/modular-pavilion-dietsch-vilaca-plus-lukas-beer",
+    "image_url": "https://images.adsttc.com/media/images/6a03/7179/0ce3/de01/7e6d/ef9e/medium_jpg/modular-pavilion-dietsch-vilaca-plus-lukas-beer_10.jpg?1778610648",
+    "typology": [
+      "Industrial Architecture",
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-18T12:00:00.000Z",
+    "ingested_at": "2026-05-18T19:50:44.491Z"
   }
 ]
