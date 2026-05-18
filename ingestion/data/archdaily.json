@@ -9778,5 +9778,23 @@
     "material": [],
     "published_at": "2026-05-16T21:00:00.000Z",
     "ingested_at": "2026-05-18T00:01:10.575Z"
+  },
+  {
+    "id": "ce8a9557-be15-4b0d-a1af-26c8bfcb0338",
+    "title": "Gelato Messina Glenelg",
+    "creator": "Sans-Arc Studio",
+    "location": "Glenelg",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041597/gelato-messina-glenelg-sans-arc-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a0a/3c7d/093e/9201/8986/436a/medium_jpg/gelato-messina-glenelg-sans-arc-studio_2.jpg?1779055854",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-17T21:00:00.000Z",
+    "ingested_at": "2026-05-18T05:09:14.130Z"
   }
 ]
