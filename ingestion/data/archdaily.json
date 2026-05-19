@@ -10091,5 +10091,22 @@
     "material": [],
     "published_at": "2026-05-19T12:00:00.000Z",
     "ingested_at": "2026-05-19T19:04:55.055Z"
+  },
+  {
+    "id": "6a6bfd74-ef37-43d7-9048-185a01c3f57f",
+    "title": "Sofia Pavilion",
+    "creator": "Estúdio Leonardo Zanatta",
+    "location": "Parque Colonial",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041367/sofia-pavilion-estudio-leonardo-zanatta",
+    "image_url": "https://images.adsttc.com/media/images/69fa/ae5f/a59b/8300/01a7/ee05/medium_jpg/IG_LZA_PS-17.jpg?1778036346",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-19T15:00:00.000Z",
+    "ingested_at": "2026-05-19T21:24:23.693Z"
   }
 ]
