@@ -9943,5 +9943,23 @@
     "material": [],
     "published_at": "2026-05-18T15:00:00.000Z",
     "ingested_at": "2026-05-18T21:16:46.244Z"
+  },
+  {
+    "id": "449bb1ab-f6d9-4c6f-b595-6762e6589198",
+    "title": "Svatman Farmhouse",
+    "creator": "HabitArt Architecture Studio",
+    "location": "Shoolagiri",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041628/svatman-farmhouse-habitart-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a0b/206a/35eb/2400/01f0/3d29/medium_jpg/SWATMAN_-_10.jpg?1779114128",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-18T19:00:00.000Z",
+    "ingested_at": "2026-05-19T04:03:33.166Z"
   }
 ]
