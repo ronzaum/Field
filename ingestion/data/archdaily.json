@@ -10073,5 +10073,23 @@
     "material": [],
     "published_at": "2026-05-19T07:00:00.000Z",
     "ingested_at": "2026-05-19T16:25:36.569Z"
+  },
+  {
+    "id": "7867e46f-3a06-4478-9346-f3fe9f8c5b8e",
+    "title": "In Limine Gatehouse",
+    "creator": "Caret Studio",
+    "location": "Lucca",
+    "country": "Italy",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041543/in-limine-gatehouse-caret-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a04/e9e3/bbf1/cd27/2695/901b/medium_jpg/in-limine-gatehouse-caret-studio_4.jpg?1778706932",
+    "typology": [
+      "Industrial Architecture",
+      "Other"
+    ],
+    "material": [],
+    "published_at": "2026-05-19T12:00:00.000Z",
+    "ingested_at": "2026-05-19T19:04:55.055Z"
   }
 ]
