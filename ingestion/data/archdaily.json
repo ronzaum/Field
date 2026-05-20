@@ -10242,5 +10242,24 @@
     "material": [],
     "published_at": "2026-05-20T03:00:00.000Z",
     "ingested_at": "2026-05-20T15:35:36.622Z"
+  },
+  {
+    "id": "3ec7261c-c532-4b5a-8dcd-5e1e10d7b516",
+    "title": "Vila do Bispo Museum",
+    "creator": "spaceworkers",
+    "location": "Vila do Bispo",
+    "country": "Portugal",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041363/vila-do-bispo-museum-spaceworkers",
+    "image_url": "https://images.adsttc.com/media/images/69fd/e6f3/a59b/8300/01a7/f493/medium_jpg/0192.jpg?1778247436",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-05-20T12:00:00.000Z",
+    "ingested_at": "2026-05-20T18:22:33.661Z"
   }
 ]

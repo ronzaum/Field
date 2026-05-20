@@ -3670,5 +3670,29 @@
     "material": [],
     "published_at": "2026-05-20T09:00:44.000Z",
     "ingested_at": "2026-05-20T15:35:37.890Z"
+  },
+  {
+    "id": "f96bdad2-5957-440f-85f5-8b269b852108",
+    "title": "building with air: soft architectures and atmospheric worlds from warhol to A.A. murakami",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/air-soft-architectures-atmospheric-worlds-warhol-aa-murakami/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/air-warhol-inflatables-aa-murakamis-bubble-dress-designboom-700-1-500x400-22b08q85r234.jpg",
+    "typology": [
+      "architecture",
+      "andy warhol",
+      "christo and jeanne-claude",
+      "diller scofidio and renfro",
+      "gagosian",
+      "inflatable structures",
+      "iris van herpen",
+      "RADICAL SOFTNESS"
+    ],
+    "material": [],
+    "published_at": "2026-05-20T10:50:04.000Z",
+    "ingested_at": "2026-05-20T18:22:37.327Z"
   }
 ]
