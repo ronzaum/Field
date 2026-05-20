@@ -10261,5 +10261,24 @@
     "material": [],
     "published_at": "2026-05-20T12:00:00.000Z",
     "ingested_at": "2026-05-20T18:22:33.661Z"
+  },
+  {
+    "id": "c5239184-e38c-401e-bb21-3d2344e678fb",
+    "title": "SCV Complex Cabins",
+    "creator": "ONA - Oficina Nómada de Arquitectura",
+    "location": "Las Compuertas",
+    "country": "Argentina",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040655/scv-complex-cabins-ona-oficina-nomada-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69de/ba6a/63f5/ef01/884f/d05f/medium_jpg/scv-complex-ona-oficina-nomada-de-arquitectura_2.jpg?1776204427",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-05-20T15:00:00.000Z",
+    "ingested_at": "2026-05-20T21:00:53.948Z"
   }
 ]
