@@ -3715,5 +3715,49 @@
     "material": [],
     "published_at": "2026-05-21T02:00:28.000Z",
     "ingested_at": "2026-05-21T04:13:37.378Z"
+  },
+  {
+    "id": "96d2ddbd-23f2-48b5-bb72-a5b8fc7ff2c3",
+    "title": "TAKK fills MAXXI in rome with gardens, rest spaces, and rituals of living together",
+    "creator": "Lorenza Baroncelli",
+    "location": "MAXXI National Museum",
+    "country": "Italy | @museomaxxi",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/takk-maxxi-rome-gardens-rest-spaces-rituals-living-together/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/takk-maxxi-rome-gardens-rest-spaces-rituals-living-together-designboom-700-500x400-22b08q85r497.jpg",
+    "typology": [
+      "architecture",
+      "interactive installation",
+      "josé hevia",
+      "MAXXI",
+      "RADICAL SOFTNESS",
+      "TAKK"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T10:50:47.000Z",
+    "ingested_at": "2026-05-21T12:19:44.894Z"
+  },
+  {
+    "id": "765068cc-8de0-4313-984d-f82ae9ae7a37",
+    "title": "mirrored ceilings and textured glass shape club amis’ layered interiors in beirut",
+    "creator": "Rabih Geha Architects",
+    "location": "Beirut",
+    "country": "Lebanon",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mirrored-ceilings-textured-glass-club-amis-layered-interiors-beirut-rabih-geha-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/club-amis-rabih-geha-architects-beirut-designboom-700-500x400-22b08q85r662.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in lebanon",
+      "bar architecture and design",
+      "interiors",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T09:30:45.000Z",
+    "ingested_at": "2026-05-21T12:19:44.900Z"
   }
 ]
