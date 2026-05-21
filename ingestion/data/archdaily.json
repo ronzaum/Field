@@ -10353,5 +10353,61 @@
     "material": [],
     "published_at": "2026-05-21T00:00:00.000Z",
     "ingested_at": "2026-05-21T08:36:39.459Z"
+  },
+  {
+    "id": "0a6e70fb-7954-40cc-8d01-88e5943ea39c",
+    "title": "Workers' House Renovation",
+    "creator": "Cecile Elicagaray Architecte",
+    "location": "Anglet",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041658/workers-house-renovation-cecile-elicagaray-architecte",
+    "image_url": "https://images.adsttc.com/media/images/6a0c/68d4/35eb/2400/01f0/3db6/medium_jpg/_MG_0462-WEB-emmymartens.jpg?1779198375",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T10:00:00.000Z",
+    "ingested_at": "2026-05-21T16:18:25.407Z"
+  },
+  {
+    "id": "6bc184e9-bd7c-4091-8c74-7c06053444f5",
+    "title": "Cheshm Cheran Bazi Playground",
+    "creator": "ZAV Architects",
+    "location": "Minudasht",
+    "country": "Iran",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041632/cheshm-cheran-bazi-playground-zav-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a0b/7ea4/35eb/2400/01f0/3d45/medium_jpg/DJI_20250828111446_0222_D-Edited-R.jpg?1779138400",
+    "typology": [
+      "Landscape Architecture",
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T07:00:00.000Z",
+    "ingested_at": "2026-05-21T16:18:25.410Z"
+  },
+  {
+    "id": "bf28fa49-1e07-4f2e-afeb-d2ab33f2780b",
+    "title": "House by the Sea",
+    "creator": "Jorgelina Tortorici & Asociados",
+    "location": "Pinamar",
+    "country": "Argentina",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041482/house-by-the-sea-jorgelina-tortorici-and-asociados",
+    "image_url": "https://images.adsttc.com/media/images/69ea/2eb2/65bf/e100/014c/10a2/medium_jpg/imperialfotografia-157.jpg?1776955212",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T06:00:00.000Z",
+    "ingested_at": "2026-05-21T16:18:25.413Z"
   }
 ]
