@@ -10280,5 +10280,23 @@
     "material": [],
     "published_at": "2026-05-20T15:00:00.000Z",
     "ingested_at": "2026-05-20T21:00:53.948Z"
+  },
+  {
+    "id": "818f87be-52f5-44da-960e-7484cd2361bb",
+    "title": "Casa Chamego",
+    "creator": "Pablo Patriota Arquitetos Associados",
+    "location": "Caruaru",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041685/casa-chamego-pablo-patriota-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/69ef/d440/20d6/d800/0166/3d5c/medium_jpg/_WALTER_DIAS_2025.10.18_PABLO_PATRIOTA_CASA_ALTA_24.jpg?1777325217",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-20T19:00:00.000Z",
+    "ingested_at": "2026-05-21T04:13:36.037Z"
   }
 ]
