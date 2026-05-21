@@ -10298,5 +10298,60 @@
     "material": [],
     "published_at": "2026-05-20T19:00:00.000Z",
     "ingested_at": "2026-05-21T04:13:36.037Z"
+  },
+  {
+    "id": "c158ee0b-ec04-4dcd-85ad-c71d97174896",
+    "title": "Jia Art Gallery",
+    "creator": "Foster + Partners",
+    "location": "Putuo",
+    "country": "China",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041714/jia-art-gallery-foster-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/6a0e/3903/fd52/9201/89f2/1604/medium_jpg/jia-art-gallery-foster-plus-partners_1.jpg?1779317044",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Gallery"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T03:00:00.000Z",
+    "ingested_at": "2026-05-21T08:36:39.452Z"
+  },
+  {
+    "id": "c70d0d5b-361e-4768-b72e-8b886df2da35",
+    "title": "Bondi Beach Villa",
+    "creator": "Common Office",
+    "location": "Bondi Beach",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041692/bondi-beach-villa-common-office",
+    "image_url": "https://images.adsttc.com/media/images/6a0d/8b6c/fd52/9201/89f2/12f3/medium_jpg/bondi-beach-villa-common-office_2.jpg?1779272577",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T02:00:00.000Z",
+    "ingested_at": "2026-05-21T08:36:39.455Z"
+  },
+  {
+    "id": "a3d977ea-0a0f-4a6e-a8d8-472bb9024cea",
+    "title": "KAAP - Residential District and Circular Pavilion",
+    "creator": "Powerhouse Company + Orange Architects + NEXT architects",
+    "location": "Amsterdam",
+    "country": "The Netherlands",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041661/kaap-powerhouse-company-plus-orange-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a0c/6dd9/fd52/9201/89f2/0eba/medium_jpg/kaap-powerhouse-company-plus-orange-architects-plus-next-architects_5.jpg?1779199467",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T00:00:00.000Z",
+    "ingested_at": "2026-05-21T08:36:39.459Z"
   }
 ]
