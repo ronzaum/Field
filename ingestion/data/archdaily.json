@@ -10428,5 +10428,26 @@
     "material": [],
     "published_at": "2026-05-21T12:00:00.000Z",
     "ingested_at": "2026-05-21T19:00:47.553Z"
+  },
+  {
+    "id": "33f24e8b-9402-4c57-86c1-e1d93e06e7ef",
+    "title": "Copan D Apartment",
+    "creator": "Sabiá Arquitetos + Trema Arquitetura",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041381/copan-d-apartment-sabia-arquitetos-plus-trema-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69fe/3f68/bbf1/cd3e/f999/b5fa/medium_jpg/apartamento-copan-d-sabia-arquitetos-plus-trema-arquitetura_47.jpg?1778270109",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T15:00:00.000Z",
+    "ingested_at": "2026-05-21T21:40:15.090Z"
   }
 ]

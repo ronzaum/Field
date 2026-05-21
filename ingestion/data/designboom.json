@@ -3781,5 +3781,27 @@
     "material": [],
     "published_at": "2026-05-21T14:30:10.000Z",
     "ingested_at": "2026-05-21T16:18:26.449Z"
+  },
+  {
+    "id": "ce87a7d1-197f-40e4-b0b2-e71b7e0c259f",
+    "title": "pop colors animate geometric interiors within renovated 1960s apartment in italy",
+    "creator": "Pier Currà Architettura",
+    "location": "Forlì",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/pop-colors-geometric-interiors-renovated-1960s-apartment-italy-pier-curra-architettura/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/forli-italy-60s-style-house-renovation-pier-curra-architettura-designboom-700-500x400-22b08q85r437.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in italy",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T21:00:47.000Z",
+    "ingested_at": "2026-05-21T21:40:16.560Z"
   }
 ]
