@@ -10449,5 +10449,26 @@
     "material": [],
     "published_at": "2026-05-21T15:00:00.000Z",
     "ingested_at": "2026-05-21T21:40:15.090Z"
+  },
+  {
+    "id": "31c50c18-5cfd-493e-87c3-03aef4f4c42a",
+    "title": "Mensa Kitchen",
+    "creator": "Sans-Arc Studio",
+    "location": "Kent Town",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041593/mensa-kitchen-sans-arc-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/1448/093e/9201/8986/56a8/medium_jpg/mensa-kitchen-sans-arc-studio_8.jpg?1779373215",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-21T19:00:00.000Z",
+    "ingested_at": "2026-05-22T04:08:27.680Z"
   }
 ]
