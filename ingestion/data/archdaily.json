@@ -10606,5 +10606,24 @@
     "material": [],
     "published_at": "2026-05-22T10:00:00.000Z",
     "ingested_at": "2026-05-22T17:11:20.576Z"
+  },
+  {
+    "id": "80a857d3-4c24-42ef-b5ee-eaa6920f8112",
+    "title": "Juriquilla House",
+    "creator": "Estudio Mero",
+    "location": "Querétaro",
+    "country": "Mexico",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040649/juriquilla-house-estudio-mero",
+    "image_url": "https://images.adsttc.com/media/images/69de/5539/1afd/7070/57d9/4ce4/medium_jpg/casa-juriquilla-estudio-mero_15.jpg?1776178544",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T15:00:00.000Z",
+    "ingested_at": "2026-05-22T21:16:23.570Z"
   }
 ]
