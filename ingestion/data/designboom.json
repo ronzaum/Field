@@ -3803,5 +3803,55 @@
     "material": [],
     "published_at": "2026-05-21T21:00:47.000Z",
     "ingested_at": "2026-05-21T21:40:16.560Z"
+  },
+  {
+    "id": "e1575054-35c9-47c4-a5ad-488ba5b14bfa",
+    "title": "‘the present as it ought to be’: ma yansong, carlo ratti, and stefano boeri on designing the future",
+    "creator": "claire brodka",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ma-yansong-carlo-ratti-stefano-boeri-designing-the-future-room-for-dreams-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/ma-yansong-carlo-ratti-stefano-boeri-designing-the-future-room-for-dreams-interview700-500x400-22b08q85r571.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "video",
+      "architecture interviews",
+      "carlo ratti",
+      "MAD architects",
+      "Milan Design Week 2026",
+      "MIT news",
+      "Room for Dreams",
+      "stefano boeri"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T10:00:43.000Z",
+    "ingested_at": "2026-05-22T11:48:20.426Z"
+  },
+  {
+    "id": "dfe6eded-5a9e-4c95-8726-fa7677bb5165",
+    "title": "pink columns, blue tiles, and art deco motifs reshape london underground public toilets",
+    "creator": "Hugh Broughton Architects",
+    "location": "London",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/pink-columns-blue-tiles-art-deco-motifs-london-underground-public-toilets-hugh-broughton-architects-james-lambert-piccadilly-circus-green-park/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/hugh-broughton-architects-james-lambert-public-toilets-piccadilly-circus-green-park-underground-stations-london-designboom-700-500x400-22b08q85r470.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in london",
+      "architecture in the UK",
+      "public toilets",
+      "public transportation",
+      "renovation and restoration architecture and design",
+      "underground architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T09:30:39.000Z",
+    "ingested_at": "2026-05-22T11:48:20.436Z"
   }
 ]

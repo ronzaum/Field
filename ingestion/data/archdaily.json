@@ -10529,5 +10529,23 @@
     "material": [],
     "published_at": "2026-05-22T00:00:00.000Z",
     "ingested_at": "2026-05-22T08:24:34.944Z"
+  },
+  {
+    "id": "1b2f71b6-b46e-4299-8a2c-9adb9bd25f09",
+    "title": "Charleroi Palais des Expositions",
+    "creator": "AgwA + architecten jan de vylder inge vinck",
+    "location": "Wallonia",
+    "country": "Belgium",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041635/charleroi-palais-des-expositions-agwa-plus-architecten-jan-de-vylder-inge-vinck",
+    "image_url": "https://images.adsttc.com/media/images/6a0b/9dbf/fd52/9201/89f2/0b70/medium_jpg/charleroi-palais-des-expositions-agwa-plus-architecten-jan-de-vylder-inge-vinck_5.jpg?1779146225",
+    "typology": [
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T06:00:00.000Z",
+    "ingested_at": "2026-05-22T11:48:19.406Z"
   }
 ]
