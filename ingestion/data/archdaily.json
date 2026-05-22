@@ -10565,5 +10565,46 @@
     "material": [],
     "published_at": "2026-05-22T07:00:00.000Z",
     "ingested_at": "2026-05-22T14:49:17.551Z"
+  },
+  {
+    "id": "419d13ab-9b94-4e60-8b4c-1f698dea1a06",
+    "title": "Spaziu Davia Franceschini - Open-Air Theater and Cultural Center",
+    "creator": "A FABRiCA architettura +  CGZ Architecture",
+    "location": "Corbara",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041662/spaziu-davia-franceschini-a-fabrica-architettura-plus-cgz-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a0c/7485/35eb/2400/01f0/3e05/medium_jpg/SPAZIU_DAVIA_FRANCESCHINI_01.jpg?1779201178",
+    "typology": [
+      "Landscape Architecture",
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "theater",
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T12:00:00.000Z",
+    "ingested_at": "2026-05-22T17:11:20.575Z"
+  },
+  {
+    "id": "c2055bc1-fc94-476b-966b-1d0877de6a78",
+    "title": "North Vancouver Remodel",
+    "creator": "Olson Kundig",
+    "location": "North Vancouver",
+    "country": "Canada",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041188/north-vancouver-remodel-olson-kundig",
+    "image_url": "https://images.adsttc.com/media/images/69f9/e26d/20d6/d800/0166/4234/medium_jpg/17031_00_N38_high300.jpg?1777984139",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T10:00:00.000Z",
+    "ingested_at": "2026-05-22T17:11:20.576Z"
   }
 ]
