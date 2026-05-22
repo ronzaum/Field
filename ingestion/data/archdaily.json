@@ -10470,5 +10470,64 @@
     "material": [],
     "published_at": "2026-05-21T19:00:00.000Z",
     "ingested_at": "2026-05-22T04:08:27.680Z"
+  },
+  {
+    "id": "2b151f40-cca4-4df9-9dc6-707b2bb7a51b",
+    "title": "Sentier - Contemporary Workplace",
+    "creator": "Agathe Marimbert Architecte + Exbrayat Enrico architectes + Romain Granoux architecte",
+    "location": "Paris",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041733/sentier-contemporary-workplace-agathe-marimbert-architecte-plus-exbrayat-enrico-architectes-plus-romain-granoux-architecte",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/06bd/35eb/2400/01f0/4148/medium_jpg/EE_SENTIER_JBT-2.jpg?1779369692",
+    "typology": [
+      "Offices",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T03:00:00.000Z",
+    "ingested_at": "2026-05-22T08:24:34.941Z"
+  },
+  {
+    "id": "8b28b1ed-4387-4a04-a8ca-6172c469659a",
+    "title": "O4 House",
+    "creator": "studiokian",
+    "location": "Kecamatan Serpong Utara",
+    "country": "Indonesia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041713/o4-house",
+    "image_url": "https://images.adsttc.com/media/images/6a0e/27c2/35eb/2400/01f0/4066/medium_jpg/7._O4_House.jpg?1779312682",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T02:00:00.000Z",
+    "ingested_at": "2026-05-22T08:24:34.943Z"
+  },
+  {
+    "id": "dbcdee5b-0efb-4d05-b2e8-b570b15ed35b",
+    "title": "Voiceless Coffee · Sensory Lab",
+    "creator": "No10-Architects",
+    "location": "Heping Road",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041642/voiceless-coffee-star-sensory-lab-no10-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a0b/f98f/35eb/2400/01f0/3d58/medium_jpg/06-_____.jpg?1779169697",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T00:00:00.000Z",
+    "ingested_at": "2026-05-22T08:24:34.944Z"
   }
 ]
