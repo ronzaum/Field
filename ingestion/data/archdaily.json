@@ -10547,5 +10547,23 @@
     "material": [],
     "published_at": "2026-05-22T06:00:00.000Z",
     "ingested_at": "2026-05-22T11:48:19.406Z"
+  },
+  {
+    "id": "b56bd699-1da6-4f34-8f56-f28b0a842c35",
+    "title": "Boutique House",
+    "creator": "Studio Gontijo Arquitetura",
+    "location": "Park Way",
+    "country": "Brasil",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041690/boutique-house-studio-gontijo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69e0/ad0f/8471/2000/01f8/e943/medium_jpg/Imagem_de_destaque.jpg?1776332114",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T07:00:00.000Z",
+    "ingested_at": "2026-05-22T14:49:17.551Z"
   }
 ]
