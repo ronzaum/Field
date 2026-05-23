@@ -415,5 +415,25 @@
     "material": [],
     "published_at": "2026-05-16T10:00:57.000Z",
     "ingested_at": "2026-05-16T13:43:28.901Z"
+  },
+  {
+    "id": "8745b6cc-82e5-4496-90e3-d03c708ee448",
+    "title": "This week a 60-building data centre",
+    "creator": "Gensler was unveiled",
+    "location": "Data centres",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
+    "image_url": "http://static.dezeen.com/uploads/2026/05/gensler-stratos-data-center-utah_dezeen_2364_hero-1-1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "This week on Dezeen",
+      "Utah",
+      "Gensler"
+    ],
+    "material": [],
+    "published_at": "2026-05-23T05:00:42.000Z",
+    "ingested_at": "2026-05-23T13:48:07.000Z"
   }
 ]
