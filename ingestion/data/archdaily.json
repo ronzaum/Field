@@ -10625,5 +10625,23 @@
     "material": [],
     "published_at": "2026-05-22T15:00:00.000Z",
     "ingested_at": "2026-05-22T21:16:23.570Z"
+  },
+  {
+    "id": "45f20075-f800-4a78-b5fc-75200b632942",
+    "title": "Malli Showroom",
+    "creator": "UP2DATE architects",
+    "location": "Almaty",
+    "country": "Kazakhstan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041730/malli-showroom-up2date-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/049a/35eb/2400/01f0/40f5/medium_jpg/UP2DATE_Malli_hero01_otegen.jpg?1779369158",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-22T19:00:00.000Z",
+    "ingested_at": "2026-05-23T03:46:55.304Z"
   }
 ]

@@ -3853,5 +3853,25 @@
     "material": [],
     "published_at": "2026-05-22T09:30:39.000Z",
     "ingested_at": "2026-05-22T11:48:20.436Z"
+  },
+  {
+    "id": "2f1a53b8-aa1d-4648-b328-d38b7f04466a",
+    "title": "ZAV architects weaves a modular yellow playground through an olive orchard in iran",
+    "creator": "ZAV Architects",
+    "location": "Minudasht",
+    "country": "Iran",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/zav-architects-cheshm-cheran-bazi-playground-iran-minoudasht/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/zav-architects-cheshm-cheran-bazi-playground-iran-designboom-700-1-500x400-22b08q85r140.jpg",
+    "typology": [
+      "architecture",
+      "architecture in iran",
+      "children's spaces",
+      "ZAV architects"
+    ],
+    "material": [],
+    "published_at": "2026-05-23T00:30:38.000Z",
+    "ingested_at": "2026-05-23T03:46:56.215Z"
   }
 ]
