@@ -435,5 +435,25 @@
     "material": [],
     "published_at": "2026-05-23T05:00:42.000Z",
     "ingested_at": "2026-05-23T13:48:07.000Z"
+  },
+  {
+    "id": "bc9dc8f9-af17-431a-bee4-60957eb334ec",
+    "title": "Mixed-use building",
+    "creator": "Barde vanVoltt reflects \"slower rhythm\" of Baja California",
+    "location": "Cafes",
+    "country": "Mexico",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/05/23/barde-vanvoltt-estero-residences-gamba-cafe-san-jose-del-cabo-mexico/",
+    "image_url": "http://static.dezeen.com/uploads/2026/05/estero_barde-vanvoltt_dezeen_sq1ex-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Mixed-use",
+      "Barde vanVoltt"
+    ],
+    "material": [],
+    "published_at": "2026-05-23T17:00:33.000Z",
+    "ingested_at": "2026-05-23T20:59:36.319Z"
   }
 ]

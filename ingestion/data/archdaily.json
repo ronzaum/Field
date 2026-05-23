@@ -10718,5 +10718,23 @@
     "material": [],
     "published_at": "2026-05-23T11:00:00.000Z",
     "ingested_at": "2026-05-23T17:07:25.255Z"
+  },
+  {
+    "id": "59eb89c3-9f82-4549-b271-59c9360df098",
+    "title": "UVVA Winery",
+    "creator": "GAM Arquitetos",
+    "location": "Mucugê – Chapada Diamantina",
+    "country": "Brasil",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041691/uvva-winery-gam-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/69de/fa87/63f5/ef01/884f/d10e/medium_jpg/vinicola-uvva-gam-arquitetos_18.jpg?1776220824",
+    "typology": [
+      "Industrial Architecture",
+      "Winery"
+    ],
+    "material": [],
+    "published_at": "2026-05-23T15:00:00.000Z",
+    "ingested_at": "2026-05-23T20:59:35.898Z"
   }
 ]
