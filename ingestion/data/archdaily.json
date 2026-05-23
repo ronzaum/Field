@@ -10643,5 +10643,26 @@
     "material": [],
     "published_at": "2026-05-22T19:00:00.000Z",
     "ingested_at": "2026-05-23T03:46:55.304Z"
+  },
+  {
+    "id": "f971f5b3-5fc9-4817-8b7b-17fecb076732",
+    "title": "fuu Oimachi by LATIERRA",
+    "creator": "R/URBAN DESIGN OFFICE",
+    "location": "Shinagawa",
+    "country": "Japan",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041620/fuu-oimachi-by-latierra-r-urban-design-office",
+    "image_url": "https://images.adsttc.com/media/images/6a0b/0507/35eb/2400/01f0/3cfc/medium_jpg/communal_lounge_06.jpg?1779107115",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges",
+      "Interior Design",
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-23T02:00:00.000Z",
+    "ingested_at": "2026-05-23T09:05:15.293Z"
   }
 ]
