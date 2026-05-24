@@ -10793,5 +10793,23 @@
     "material": [],
     "published_at": "2026-05-24T02:00:00.000Z",
     "ingested_at": "2026-05-24T08:36:27.333Z"
+  },
+  {
+    "id": "91e0645f-7ef1-4aef-b2ad-1d4dfb5cfc93",
+    "title": "The Labs Tower",
+    "creator": "Eraclis Papachristou Architects",
+    "location": "Nicosia",
+    "country": "Cyprus",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041747/the-labs-tower-eraclis-papachristou-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/1b58/35eb/2400/01f0/429e/medium_jpg/_Hufton_Crow_004.jpg?1779375047",
+    "typology": [
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-05-24T06:00:00.000Z",
+    "ingested_at": "2026-05-24T10:44:27.120Z"
   }
 ]
