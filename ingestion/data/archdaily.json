@@ -10829,5 +10829,26 @@
     "material": [],
     "published_at": "2026-05-24T09:00:00.000Z",
     "ingested_at": "2026-05-24T14:26:58.091Z"
+  },
+  {
+    "id": "0307c41c-6a76-49bb-be86-ac2377a379ad",
+    "title": "Eleventhfloor Restaurant",
+    "creator": "Noue Studio",
+    "location": "Granges-Paccot",
+    "country": "Switzerland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041742/eleventhfloor-restaurant-noue-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/1b46/35eb/2400/01f0/421f/medium_jpg/noue_fribourg_200425_willempab_ef_17.jpg?1779375068",
+    "typology": [
+      "Refurbishment",
+      "Renovation",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-24T11:00:00.000Z",
+    "ingested_at": "2026-05-24T16:04:51.585Z"
   }
 ]
