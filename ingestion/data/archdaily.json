@@ -10756,5 +10756,23 @@
     "material": [],
     "published_at": "2026-05-23T17:00:00.000Z",
     "ingested_at": "2026-05-24T00:01:37.695Z"
+  },
+  {
+    "id": "4e5a0ede-2c6f-4201-8744-5ddf50bd7ff2",
+    "title": "Sudhagar's Mud House",
+    "creator": "Aagaram Architects",
+    "location": "Hosur",
+    "country": "India",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041777/sudhagars-mud-house-aagaram-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a10/670d/093e/9201/8986/5c6f/medium_jpg/sudhagars-mud-house-aagaram-architects_24.jpg?1779459881",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-23T21:00:00.000Z",
+    "ingested_at": "2026-05-24T05:04:32.787Z"
   }
 ]
