@@ -10850,5 +10850,40 @@
     "material": [],
     "published_at": "2026-05-24T11:00:00.000Z",
     "ingested_at": "2026-05-24T16:04:51.585Z"
+  },
+  {
+    "id": "be30aaab-4c10-4fd6-8ff9-45fa0afb062b",
+    "title": "3D Building",
+    "creator": "FHHH friends",
+    "location": "Mapo-gu",
+    "country": "South Korea",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041724/3d-building-fhhh-friends",
+    "image_url": "https://images.adsttc.com/media/images/6a0e/cff6/35eb/2400/01f0/4083/medium_jpg/Kyoungtae_Kim_348.jpg?1779355684",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-24T17:00:00.000Z",
+    "ingested_at": "2026-05-24T21:59:40.620Z"
+  },
+  {
+    "id": "1901d685-1e4d-40cf-8f03-c67c76c1aee3",
+    "title": "The Calm House",
+    "creator": "Carazo Arquitectura",
+    "location": "Nosara",
+    "country": "Costa Rica",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041491/the-calm-house-carazo-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/69f3/593a/e0a7/c201/892c/b14d/medium_jpg/casa-calma-carazo-arquitectura_7.jpg?1777555797",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-24T15:00:00.000Z",
+    "ingested_at": "2026-05-24T21:59:40.621Z"
   }
 ]
