@@ -10736,5 +10736,25 @@
     "material": [],
     "published_at": "2026-05-23T15:00:00.000Z",
     "ingested_at": "2026-05-23T20:59:35.898Z"
+  },
+  {
+    "id": "3d38b630-8467-42bf-bd7f-5b6e994ed554",
+    "title": "Human Haus TN",
+    "creator": "Minuspluse Design",
+    "location": "Tainan",
+    "country": "Taiwan",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041763/human-haus-tn-minuspluse-design",
+    "image_url": "https://images.adsttc.com/media/images/6a10/2bab/35eb/2400/01f0/42dc/medium_jpg/2-HUMAN_HAUS__-s-10.jpg?1779444685",
+    "typology": [
+      "Refurbishment",
+      "Adaptive reuse",
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-23T17:00:00.000Z",
+    "ingested_at": "2026-05-24T00:01:37.695Z"
   }
 ]
