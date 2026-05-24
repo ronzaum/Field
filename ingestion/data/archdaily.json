@@ -10811,5 +10811,23 @@
     "material": [],
     "published_at": "2026-05-24T06:00:00.000Z",
     "ingested_at": "2026-05-24T10:44:27.120Z"
+  },
+  {
+    "id": "0e2d917e-9ae2-4a1d-9f45-c3758a15eb87",
+    "title": "Haus W",
+    "creator": "Studio EH",
+    "location": "Gamprin-Bendern",
+    "country": "Liechtenstein",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041745/haus-w-studio-eh",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/1b4a/35eb/2400/01f0/4237/medium_jpg/Haus_W_Studio_EH__3_.jpg?1779375039",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-24T09:00:00.000Z",
+    "ingested_at": "2026-05-24T14:26:58.091Z"
   }
 ]

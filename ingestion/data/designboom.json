@@ -3873,5 +3873,23 @@
     "material": [],
     "published_at": "2026-05-23T00:30:38.000Z",
     "ingested_at": "2026-05-23T03:46:56.215Z"
+  },
+  {
+    "id": "062dba9d-4cad-48fd-9a9f-cef07fa74a22",
+    "title": "studio i/thee designs architecture that listens to mud, algae, wood, and weather",
+    "creator": "i/thee",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/studio-i-thee-mud-algae-wood-weather/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/i-thee-radical-softness-designboom-700-500x400-22b08q85r406.jpg",
+    "typology": [
+      "architecture",
+      "RADICAL SOFTNESS"
+    ],
+    "material": [],
+    "published_at": "2026-05-24T12:45:25.000Z",
+    "ingested_at": "2026-05-24T14:26:59.282Z"
   }
 ]
