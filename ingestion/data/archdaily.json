@@ -10885,5 +10885,23 @@
     "material": [],
     "published_at": "2026-05-24T15:00:00.000Z",
     "ingested_at": "2026-05-24T21:59:40.621Z"
+  },
+  {
+    "id": "1421952b-0a34-4f7d-b3a4-7d95ff11bec3",
+    "title": "Office H",
+    "creator": "Minuspluse Design",
+    "location": "Taipei",
+    "country": "Taiwan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041765/office-h-minuspluse-design",
+    "image_url": "https://images.adsttc.com/media/images/6a10/2d06/35eb/2400/01f0/42f4/medium_jpg/4-minusplus-P0099225_Panorama_0_5x.jpg?1779445025",
+    "typology": [
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-24T21:00:00.000Z",
+    "ingested_at": "2026-05-25T04:18:41.633Z"
   }
 ]
