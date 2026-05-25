@@ -3912,5 +3912,25 @@
     "material": [],
     "published_at": "2026-05-24T20:30:16.000Z",
     "ingested_at": "2026-05-24T21:59:41.560Z"
+  },
+  {
+    "id": "06c2b4fb-5990-4e68-b548-ac8ce4d50145",
+    "title": "a biophilic retail interior shaped by organic textures, fluid transitions and soft light",
+    "creator": "Sinchugova Antonina",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/biophilic-retail-interior-organic-textures-fluid-transitions-soft-light-inside-the-bloom-sinchugova-antonina/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/inside-bloom-biophilic-retail-concept-nature-growth-human-perception-sinchugova-antonina-designboom-700-500x400-22b08q85r280.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "biophilic design",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-25T09:00:38.000Z",
+    "ingested_at": "2026-05-25T13:32:25.883Z"
   }
 ]

@@ -476,5 +476,26 @@
     "material": [],
     "published_at": "2026-05-24T17:00:15.000Z",
     "ingested_at": "2026-05-24T21:59:40.851Z"
+  },
+  {
+    "id": "73ae3aeb-6f2b-4e3f-861b-1039bbf8f396",
+    "title": "Summer Home",
+    "creator": "Mindspark Architects overlooks cardamom plantation in India",
+    "location": "Kerala",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/05/25/summer-home-mindspark-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/05/summer-home-mindspark-architects-architecture-residential-house-kerala-india_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Residential architecture and interiors",
+      "Houses",
+      "Indian houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-25T10:00:51.000Z",
+    "ingested_at": "2026-05-25T13:32:25.187Z"
   }
 ]
