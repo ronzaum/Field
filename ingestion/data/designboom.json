@@ -3932,5 +3932,25 @@
     "material": [],
     "published_at": "2026-05-25T09:00:38.000Z",
     "ingested_at": "2026-05-25T13:32:25.883Z"
+  },
+  {
+    "id": "113b8851-e791-4e06-b9d8-8360eea364a3",
+    "title": "monochromatic concrete geometry shapes temporary pavilion in são paulo",
+    "creator": "Leonardo Zanatta",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/monochromatic-concrete-geometry-temporary-sofia-pavilion-sao-paulo-leonardo-zanatta/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/campo-belo-sao-paulo-experimental-sofia-pavilion-leonardo-zanatta-designboom-700-500x400-22b08q85r594.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in sao paulo",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-05-25T14:30:18.000Z",
+    "ingested_at": "2026-05-25T16:25:17.050Z"
   }
 ]

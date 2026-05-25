@@ -10993,5 +10993,24 @@
     "material": [],
     "published_at": "2026-05-25T00:00:00.000Z",
     "ingested_at": "2026-05-25T13:32:24.944Z"
+  },
+  {
+    "id": "d6870ba8-d9a7-4b35-a576-abf4275da288",
+    "title": "Captain's House",
+    "creator": "Miguel Marcelino",
+    "location": "Lisboa",
+    "country": "Portugal",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041590/captains-house-miguel-marcelino",
+    "image_url": "https://images.adsttc.com/media/images/6a07/9b19/fd52/9201/89f2/03f9/medium_jpg/casa-capitao-miguel-marcelino_11.jpg?1778883390",
+    "typology": [
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "concert house"
+    ],
+    "material": [],
+    "published_at": "2026-05-25T10:00:00.000Z",
+    "ingested_at": "2026-05-25T16:25:15.355Z"
   }
 ]
