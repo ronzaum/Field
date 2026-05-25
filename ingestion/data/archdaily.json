@@ -11012,5 +11012,24 @@
     "material": [],
     "published_at": "2026-05-25T10:00:00.000Z",
     "ingested_at": "2026-05-25T16:25:15.355Z"
+  },
+  {
+    "id": "5e978f2e-193d-4000-954a-41b8a0949990",
+    "title": "Mabelle Park",
+    "creator": "LGA Architectural Partners",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040706/mabelle-park-lga-architectural-partners",
+    "image_url": "https://images.adsttc.com/media/images/6a0d/fc3a/fd52/9261/c796/3ad6/medium_jpg/mabelle-park-lga-architectural-partners_15.jpg?1779301460",
+    "typology": [
+      "Landscape Architecture",
+      "Park",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-25T12:00:00.000Z",
+    "ingested_at": "2026-05-25T18:27:29.750Z"
   }
 ]
