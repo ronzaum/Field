@@ -11031,5 +11031,23 @@
     "material": [],
     "published_at": "2026-05-25T12:00:00.000Z",
     "ingested_at": "2026-05-25T18:27:29.750Z"
+  },
+  {
+    "id": "82df9fd7-0776-4263-9dbe-86226dc23b02",
+    "title": "Clay House",
+    "creator": "Norenaarquitectos",
+    "location": "Colombia",
+    "country": null,
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041478/clay-house-norenaarquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69f8/575a/e0a7/c201/892c/b5fa/medium_jpg/casa-barro-norenaarquitectos_6.jpg?1777883009",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-25T15:00:00.000Z",
+    "ingested_at": "2026-05-25T20:24:02.473Z"
   }
 ]
