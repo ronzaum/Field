@@ -3972,5 +3972,27 @@
     "material": [],
     "published_at": "2026-05-26T00:00:13.000Z",
     "ingested_at": "2026-05-26T00:10:32.670Z"
+  },
+  {
+    "id": "23adfbce-3b54-4fa2-9285-c54ddfe2f40a",
+    "title": "heatherwick studio’s moon bridge-inspired ‘west bund orbit’ captured by paul clemence",
+    "creator": "Heatherwick Studio",
+    "location": "West Bund",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/heatherwick-studio-moon-bridge-west-bund-orbit-paul-clemence-shanghai-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/ORBIT-heatherwick-studio-shanghai-west-bund-paul-clemence-designboom-700-1-500x400-22b08q85r510.jpg",
+    "typology": [
+      "architecture",
+      "architectural photography",
+      "architecture in china",
+      "architecture in shanghai",
+      "paul clemence / ARCHI-PHOTO",
+      "thomas heatherwick"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T15:30:21.000Z",
+    "ingested_at": "2026-05-26T17:30:25.516Z"
   }
 ]

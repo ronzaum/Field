@@ -11157,5 +11157,42 @@
     "material": [],
     "published_at": "2026-05-26T06:00:00.000Z",
     "ingested_at": "2026-05-26T13:56:25.060Z"
+  },
+  {
+    "id": "f12a0f14-158d-484d-8a3c-6d8d7ce9ba3a",
+    "title": "Mitte Café 2.0",
+    "creator": "LIS design studio",
+    "location": "Lviv",
+    "country": "Ukraine",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041667/mitte-cafe-lis-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a0c/ec63/fd52/9201/89f2/0fc7/medium_jpg/mitte-cafe-lis-design-studio_6.jpg?1779231865",
+    "typology": [
+      "Interior Design",
+      "Hospitality Interiors",
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T12:00:00.000Z",
+    "ingested_at": "2026-05-26T17:30:24.671Z"
+  },
+  {
+    "id": "128aa427-3980-416a-af6e-f6d3b9d9f1e8",
+    "title": "Tower House",
+    "creator": "kit",
+    "location": "St. Gallen",
+    "country": "Switzerland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041739/tower-house-kit",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/0b42/35eb/2400/01f0/41cf/medium_jpg/00_kit_Tower_House_Photo_Featured_Image_Till_Forrer.jpg?1779370855",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T10:00:00.000Z",
+    "ingested_at": "2026-05-26T17:30:24.673Z"
   }
 ]
