@@ -11049,5 +11049,41 @@
     "material": [],
     "published_at": "2026-05-25T15:00:00.000Z",
     "ingested_at": "2026-05-25T20:24:02.473Z"
+  },
+  {
+    "id": "afe69733-f7d8-406c-9a4a-83c95520c313",
+    "title": "Node House",
+    "creator": "Ming Architects",
+    "location": "Serangoon Gardens",
+    "country": "Singapore",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041801/node-house-ming-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a11/6c2b/35eb/2400/01f0/44cb/medium_jpg/Node_House__23_.jpg?1779526785",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T00:00:00.000Z",
+    "ingested_at": "2026-05-26T05:06:20.867Z"
+  },
+  {
+    "id": "33190376-94dc-41a8-97ab-bf1f9ff68583",
+    "title": "Arth Home",
+    "creator": "Wright Inspires",
+    "location": "Bengaluru",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041792/arth-home-wright-inspires",
+    "image_url": "https://images.adsttc.com/media/images/6a10/7515/35eb/2400/01f0/448f/medium_jpg/IMG_0396.jpg?1779463502",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-25T19:00:00.000Z",
+    "ingested_at": "2026-05-26T05:06:20.868Z"
   }
 ]
