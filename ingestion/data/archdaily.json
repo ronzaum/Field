@@ -11120,5 +11120,42 @@
     "material": [],
     "published_at": "2026-05-26T02:00:00.000Z",
     "ingested_at": "2026-05-26T10:05:47.632Z"
+  },
+  {
+    "id": "c2b616c2-3d83-4550-af7d-703d614ca5a1",
+    "title": "Dongguan MIXC VILLAGE IP Installation",
+    "creator": "PILLS",
+    "location": "Dongguan",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041669/dongguan-mixc-village-ip-installation-pills",
+    "image_url": "https://images.adsttc.com/media/images/6a0d/1aba/fd52/9201/89f2/1087/medium_jpg/dongguan-mixc-village-ip-installation-pills_6.jpg?1779243715",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T07:00:00.000Z",
+    "ingested_at": "2026-05-26T13:56:25.058Z"
+  },
+  {
+    "id": "a270f5a6-742c-47ff-8c6f-ec5d1ef43845",
+    "title": "Tribeca Residence",
+    "creator": "Muqaddas Akkari Studio",
+    "location": "New York",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041731/tribeca-residence-muqaddas-akkari-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/05c5/35eb/2400/01f0/4120/medium_jpg/31_-_Tribeca_Residence_-_MA_Studio_-_Joe_Kramm.jpg?1779369589",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T06:00:00.000Z",
+    "ingested_at": "2026-05-26T13:56:25.060Z"
   }
 ]
