@@ -11085,5 +11085,40 @@
     "material": [],
     "published_at": "2026-05-25T19:00:00.000Z",
     "ingested_at": "2026-05-26T05:06:20.868Z"
+  },
+  {
+    "id": "f7913b10-9d13-4e87-85eb-c2cd0446def2",
+    "title": "El Mayab Sports and Cultural Center",
+    "creator": "Taller de Arquitectura Miguel Montor",
+    "location": "Ciudad de México",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041484/el-mayab-sports-and-cultural-center-taller-de-arquitectura-miguel-montor",
+    "image_url": "https://images.adsttc.com/media/images/69dd/e60d/8471/2000/01f8/e780/medium_jpg/Captura_de_pantalla_2026-04-01_a_la_s__10.45.50_p.m..jpg?1776150101",
+    "typology": [
+      "Sports Architecture",
+      "Recreation & Training"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T03:00:00.000Z",
+    "ingested_at": "2026-05-26T10:05:47.629Z"
+  },
+  {
+    "id": "08343129-9bcb-4d2c-8c7b-b552c97fca27",
+    "title": "The Wood Cabin",
+    "creator": "S.O.S Architects",
+    "location": "Baan Doi lan",
+    "country": "Thailand",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041776/the-wood-cabin-sos-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a10/325c/35eb/2400/01f0/435b/medium_jpg/DJI_20251125170654_0208_D72DPI.jpg?1779446381",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T02:00:00.000Z",
+    "ingested_at": "2026-05-26T10:05:47.632Z"
   }
 ]
