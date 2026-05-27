@@ -11287,5 +11287,62 @@
     "material": [],
     "published_at": "2026-05-27T02:00:00.000Z",
     "ingested_at": "2026-05-27T10:03:59.474Z"
+  },
+  {
+    "id": "a37a253b-7381-4f00-8a5b-f6b5170ff252",
+    "title": "Robert Mondavi Winery Transformation",
+    "creator": "Aidlin Darlin Design",
+    "location": "Napa",
+    "country": "United States",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041840/robert-mondavi-winery-transformation-aidlin-darlin-design",
+    "image_url": "https://images.adsttc.com/media/images/6a14/c83f/fd52/9237/7d94/b996/medium_jpg/robert-mondavi-winery-transformation-aidlin-darlin-design_13.jpg?1779746898",
+    "typology": [
+      "Industrial Architecture",
+      "Winery",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T10:00:00.000Z",
+    "ingested_at": "2026-05-27T14:29:29.817Z"
+  },
+  {
+    "id": "397721f2-affd-4b67-9c53-27447ea06fa5",
+    "title": "Slope House",
+    "creator": "SOURCE Architecture Studio",
+    "location": "Włocławek",
+    "country": "Poland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041732/slope-house-source-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/0678/35eb/2400/01f0/4137/medium_jpg/Nate_Cook_House_in_W_oc_awek_14.jpg?1779370416",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T07:00:00.000Z",
+    "ingested_at": "2026-05-27T14:29:29.819Z"
+  },
+  {
+    "id": "09f2ed58-3ae2-49d1-a3ed-c890afa648ca",
+    "title": "Vertical Extension and Refurbishment of Collège Rousseau",
+    "creator": "Burckhardt",
+    "location": "Genève",
+    "country": "Switzerland",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041805/vertical-extension-and-refurbishment-of-college-rousseau-burckhardt",
+    "image_url": "https://images.adsttc.com/media/images/6a11/f2f6/fd52/9257/63e7/b786/medium_jpg/vertical-extension-and-refurbishment-of-college-rousseau-burckhardt_6.jpg?1779561294",
+    "typology": [
+      "Educational Architecture",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T06:00:00.000Z",
+    "ingested_at": "2026-05-27T14:29:29.822Z"
   }
 ]
