@@ -11212,5 +11212,43 @@
     "material": [],
     "published_at": "2026-05-26T15:00:00.000Z",
     "ingested_at": "2026-05-26T20:15:24.201Z"
+  },
+  {
+    "id": "f89224d4-1072-414d-bc62-92e35469b62c",
+    "title": "Anna Pao Sohmen Centre at YK Pao School",
+    "creator": "Scenic Architecture Office",
+    "location": "No 2206",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041795/anna-pao-sohmen-centre-at-yk-pao-school-scenic-architecture-office",
+    "image_url": "https://images.adsttc.com/media/images/6a10/bc31/fd52/9201/89f2/207f/medium_jpg/anna-pao-sohmen-centre-at-yk-pao-school-scenic-architecture-office_2.jpg?1779481741",
+    "typology": [
+      "Sports Architecture",
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T00:00:00.000Z",
+    "ingested_at": "2026-05-27T05:20:38.894Z"
+  },
+  {
+    "id": "37b12e27-6479-4e12-b332-4cfcf19a5769",
+    "title": "Hiwa - The University of Auckland Recreation Centre",
+    "creator": "Warren and Mahoney",
+    "location": "Auckland",
+    "country": "New Zealand",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041841/hiwa-the-university-of-auckland-recreation-centre-warren-and-mahoney",
+    "image_url": "https://images.adsttc.com/media/images/6a14/d158/093e/9201/8986/62c6/medium_jpg/hiwa-the-university-of-auckland-recreation-centre-warren-and-mahoney_5.jpg?1779749226",
+    "typology": [
+      "Educational Architecture",
+      "Higher Education",
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-05-26T19:00:00.000Z",
+    "ingested_at": "2026-05-27T05:20:38.897Z"
   }
 ]
