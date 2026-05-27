@@ -11344,5 +11344,26 @@
     "material": [],
     "published_at": "2026-05-27T06:00:00.000Z",
     "ingested_at": "2026-05-27T14:29:29.822Z"
+  },
+  {
+    "id": "903ca704-a139-4e7c-aff6-0a49baf6eb56",
+    "title": "Zemlja Earth Apartment",
+    "creator": "Projekt V Arhitektura",
+    "location": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041473/earth-apartment-zemlja-projekt-v-arhitektura",
+    "image_url": "https://images.adsttc.com/media/images/6a03/097a/a59b/8300/01a7/f618/medium_jpg/Zemlja_215_72dpi_2880px.jpg?1778583998",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments",
+      "Refurbishment",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T12:00:00.000Z",
+    "ingested_at": "2026-05-27T18:04:08.124Z"
   }
 ]

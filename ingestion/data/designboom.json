@@ -4054,5 +4054,25 @@
     "material": [],
     "published_at": "2026-05-27T06:30:07.000Z",
     "ingested_at": "2026-05-27T10:04:00.283Z"
+  },
+  {
+    "id": "d20f779d-9da9-4c8d-a1a3-9baed575f939",
+    "title": "zaha hadid architects completes world’s longest single-mast bridge in taiwan",
+    "creator": "Zaha Hadid Architects",
+    "location": "New Taipei City",
+    "country": "Taiwan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/zaha-hadid-architects-completes-worlds-longest-single-mast-bridge-taiwan-danjiang/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/danjiang-bridge-zaha-hadid-architects-taiwan-longest-single-tower-designboom-700-500x400-22b08q85r035.jpg",
+    "typology": [
+      "architecture",
+      "architecture in taiwan",
+      "bridge architecture and design",
+      "zaha hadid"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T15:30:28.000Z",
+    "ingested_at": "2026-05-27T18:04:09.055Z"
   }
 ]
