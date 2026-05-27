@@ -4012,5 +4012,47 @@
     "material": [],
     "published_at": "2026-05-26T21:00:22.000Z",
     "ingested_at": "2026-05-26T22:23:23.782Z"
+  },
+  {
+    "id": "844f6fe3-f580-455e-9864-8a48e627d8e1",
+    "title": "uv lab reimagines arcadia as a layered timber gathering installation in lyon",
+    "creator": "UV LAB",
+    "location": "Lyon",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/uv-lab-arcadia-layered-timber-gathering-installation-lyon/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/arcadia-wooden-installation-les-subs-lyon-uv-lab-ensba-designboom-700-1-500x400-22b08q85r169.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in france",
+      "interactive installation",
+      "street furniture",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T10:00:31.000Z",
+    "ingested_at": "2026-05-27T10:04:00.276Z"
+  },
+  {
+    "id": "c68352de-4599-45a0-8184-7044697c4b8a",
+    "title": "mirrored aluminum facade blurs distretto solidale social space into the italian landscape",
+    "creator": "Pier Currà Architettura",
+    "location": "Cesena",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mirrored-aluminum-facade-distretto-solidale-social-space-italian-landscape-pier-curra-architettura/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/distretto-solidale-cesena-italy-social-support-center-pier-curra-architettura-designboom-700-500x400-22b08q85r281.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in italy"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T06:30:07.000Z",
+    "ingested_at": "2026-05-27T10:04:00.283Z"
   }
 ]

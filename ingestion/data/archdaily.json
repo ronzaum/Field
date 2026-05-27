@@ -11250,5 +11250,42 @@
     "material": [],
     "published_at": "2026-05-26T19:00:00.000Z",
     "ingested_at": "2026-05-27T05:20:38.897Z"
+  },
+  {
+    "id": "f90a46ab-85d9-4203-ad25-77796cefe347",
+    "title": "JGG I Shopping Center",
+    "creator": "OMAC Arquitectos",
+    "location": "Bernal",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041483/jgg-i-shopping-center-omac-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69e6/2018/8471/2000/01f8/eb99/medium_jpg/Terraza_JGG-_Omac_Arq-_Foto_Ariadna_Polo-02.jpg?1776689223",
+    "typology": [
+      "Refurbishment",
+      "Restoration",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T03:00:00.000Z",
+    "ingested_at": "2026-05-27T10:03:59.471Z"
+  },
+  {
+    "id": "22190fa9-4f1e-42d4-bb5b-3b9a541e48a6",
+    "title": "Barwon Dunes House",
+    "creator": "Eliza Blair Architecture",
+    "location": "Barwon Heads",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041791/barwon-dunes-house-eliza-blair-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a10/745b/fd52/9201/89f2/1f84/medium_jpg/barwon-dunes-house-eliza-blair-architecture_8.jpg?1779463277",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T02:00:00.000Z",
+    "ingested_at": "2026-05-27T10:03:59.474Z"
   }
 ]
