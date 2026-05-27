@@ -11365,5 +11365,23 @@
     "material": [],
     "published_at": "2026-05-27T12:00:00.000Z",
     "ingested_at": "2026-05-27T18:04:08.124Z"
+  },
+  {
+    "id": "741b15ca-f00e-44c6-9286-2284deeb54f4",
+    "title": "House of Sculpture",
+    "creator": "Sabella Arquitetura",
+    "location": "Quinta da Baronesa",
+    "country": "Brasil",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041686/house-of-sculpture-sabella-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a05/5072/a59b/8300/01a7/f81c/medium_jpg/_DSF2807.jpg?1778733268",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T15:00:00.000Z",
+    "ingested_at": "2026-05-27T21:03:29.235Z"
   }
 ]
