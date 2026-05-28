@@ -4074,5 +4074,26 @@
     "material": [],
     "published_at": "2026-05-27T15:30:28.000Z",
     "ingested_at": "2026-05-27T18:04:09.055Z"
+  },
+  {
+    "id": "f987c13f-b6c3-418d-85fc-fcf762cd5ed4",
+    "title": "how my archischool evolves AI from generic copycat to personal design partner",
+    "creator": "tim spears",
+    "location": "Hong Kong",
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/my-archischool-artificial-intelligence-personal-design-partner/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/my-archischool_designboom_700-500x400-22b08q85r260.jpg",
+    "typology": [
+      "architecture",
+      "artificial intelligence",
+      "design education",
+      "education",
+      "my archischool"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T08:00:24.000Z",
+    "ingested_at": "2026-05-28T08:46:16.253Z"
   }
 ]
