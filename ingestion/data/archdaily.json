@@ -11497,5 +11497,23 @@
     "material": [],
     "published_at": "2026-05-28T06:00:00.000Z",
     "ingested_at": "2026-05-28T12:33:04.625Z"
+  },
+  {
+    "id": "1f2444b3-4b81-4dc5-adc4-c2a085b5d789",
+    "title": "Diagonal Apartment",
+    "creator": "De la Villa Studio",
+    "location": "Barcelona",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041786/diagonal-apartment-de-la-villa-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a10/6246/35eb/2400/01f0/4463/medium_jpg/DSCF2016-Edit-Edit.jpg?1779458724",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T10:00:00.000Z",
+    "ingested_at": "2026-05-28T16:57:15.970Z"
   }
 ]

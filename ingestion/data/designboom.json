@@ -4118,5 +4118,45 @@
     "material": [],
     "published_at": "2026-05-28T09:30:46.000Z",
     "ingested_at": "2026-05-28T12:33:06.825Z"
+  },
+  {
+    "id": "6f3af3ff-08e8-41b0-a502-b996fa9ed6f4",
+    "title": "red elevated metal walkway extends casa castela across steep brazilian slope",
+    "creator": "Ariwá (Helder Livio)",
+    "location": "Condomínio Vila Castela",
+    "country": "Brazil",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/red-elevated-metal-walkway-casa-castela-steep-brazilian-slope-biri/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/casa-castela-biri-nova-lima-brazil-designboom-700-500x400-22b08q85r426.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in brazil",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T16:30:50.000Z",
+    "ingested_at": "2026-05-28T16:57:17.091Z"
+  },
+  {
+    "id": "18f24ebb-001a-4dd1-83fc-f7d9ee05d1df",
+    "title": "k-studio redesigns AKFC’s el paso stadium around rock formations in athens",
+    "creator": "K-Studio",
+    "location": "Athens",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/k-studio-redesigns-akfc-el-paso-stadium-rock-formations-athens-greece/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/k-studio-athens-kallithea-FC-stadium-greece-designboom-700-500x400-22b08q85r757.jpg",
+    "typology": [
+      "architecture",
+      "architecture in greece",
+      "k-studio",
+      "stadium architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T14:38:04.000Z",
+    "ingested_at": "2026-05-28T16:57:17.104Z"
   }
 ]
