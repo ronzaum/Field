@@ -11383,5 +11383,26 @@
     "material": [],
     "published_at": "2026-05-27T15:00:00.000Z",
     "ingested_at": "2026-05-27T21:03:29.235Z"
+  },
+  {
+    "id": "94462db0-dc08-4d33-b913-39e58ab63937",
+    "title": "Fairlie Wellness Centre",
+    "creator": "Wood Marsh",
+    "location": "South Yarra",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041860/fairlie-wellness-centre-wood-marsh",
+    "image_url": "https://images.adsttc.com/media/images/6a15/84a3/093e/9201/8986/6596/medium_jpg/fairlie-wellness-centre-wood-marsh_1.jpg?1779795150",
+    "typology": [
+      "Healthcare Architecture",
+      "Wellbeing",
+      "Residential Architecture",
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-05-27T19:00:00.000Z",
+    "ingested_at": "2026-05-28T04:06:59.779Z"
   }
 ]
