@@ -11536,5 +11536,24 @@
     "material": [],
     "published_at": "2026-05-28T12:00:00.000Z",
     "ingested_at": "2026-05-28T19:40:29.507Z"
+  },
+  {
+    "id": "996af960-a8af-4c2e-a52d-ea0d9192d141",
+    "title": "Londres 187 Building",
+    "creator": "CCA | Bernardo Quinzaños  + Olga Romano",
+    "location": "Ciudad de México",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041479/londres-187-building-cca-bernardo-quinzanos-plus-olga-romano",
+    "image_url": "https://images.adsttc.com/media/images/69f1/bdc9/20d6/d800/0166/3ec6/medium_jpg/15-Londres-187_CCA-I-Bernardo-Quinza_os_Arturo-Arrieta_ALTA-15.jpg?1777450478",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T15:00:00.000Z",
+    "ingested_at": "2026-05-28T21:59:31.302Z"
   }
 ]
