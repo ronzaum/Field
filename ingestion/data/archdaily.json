@@ -11461,5 +11461,41 @@
     "material": [],
     "published_at": "2026-05-28T00:00:00.000Z",
     "ingested_at": "2026-05-28T08:46:15.598Z"
+  },
+  {
+    "id": "b76c169a-0738-469c-a7df-e8aedb98675f",
+    "title": "Classrooms for New Day School School",
+    "creator": "Simple Architecture",
+    "location": "Unnamed Road",
+    "country": "Thailand",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041735/classrooms-for-new-day-school-school-simple-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/0d73/5cf3/e201/7f70/87d0/medium_jpg/classrooms-for-new-day-school-school-simple-architecture_3.jpg?1779371398",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T07:00:00.000Z",
+    "ingested_at": "2026-05-28T12:33:04.622Z"
+  },
+  {
+    "id": "14c2b25e-bfc9-4990-a42b-d9378ddd802e",
+    "title": "Cornebarrieu Social Housing",
+    "creator": "Atelier Régis Roudil Architectes",
+    "location": "2 rue Jacqueline Auriol",
+    "country": "France",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041798/cornebarrieu-social-housing-atelier-regis-roudil-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a10/cb9a/fd52/9201/89f2/20d5/medium_jpg/cornebarrieu-social-housing-atelier-regis-roudil-architectes_1.jpg?1779485617",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T06:00:00.000Z",
+    "ingested_at": "2026-05-28T12:33:04.625Z"
   }
 ]
