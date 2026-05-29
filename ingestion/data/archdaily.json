@@ -11681,5 +11681,42 @@
     "material": [],
     "published_at": "2026-05-29T04:00:00.000Z",
     "ingested_at": "2026-05-29T12:19:56.099Z"
+  },
+  {
+    "id": "fba918d6-4bf0-42d2-aeb6-584e5254ace4",
+    "title": "Safety Shelters",
+    "creator": "Paulo Moreira Architectures",
+    "location": "Johanesburgo",
+    "country": "África do Sul",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041807/safety-shelters-paulo-moreira-architectures",
+    "image_url": "https://images.adsttc.com/media/images/6a10/d49c/35eb/2400/01f0/44af/medium_jpg/Safety_Shelter_North_03_photo_by_Leon_Krige_archdaily.jpg?1779487914",
+    "typology": [
+      "Urbanism",
+      "Cultural Architecture",
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-05-29T12:00:00.000Z",
+    "ingested_at": "2026-05-29T19:33:57.495Z"
+  },
+  {
+    "id": "e3f2a623-94ea-4357-894f-03838699ddd5",
+    "title": "Villa Normanni Puglia",
+    "creator": "Urban Interior",
+    "location": "San Vito dei Normanni",
+    "country": "Italy",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041504/villa-normanni-puglia-urban-interior",
+    "image_url": "https://images.adsttc.com/media/images/6a03/9ef1/2112/1f01/8002/9d0d/medium_jpg/villa-normanni-puglia-urban-interior_2.jpg?1778622211",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-29T10:00:00.000Z",
+    "ingested_at": "2026-05-29T19:33:57.497Z"
   }
 ]
