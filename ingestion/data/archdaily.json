@@ -11718,5 +11718,23 @@
     "material": [],
     "published_at": "2026-05-29T10:00:00.000Z",
     "ingested_at": "2026-05-29T19:33:57.497Z"
+  },
+  {
+    "id": "d8d5abbd-680a-439c-9843-a9349035dd91",
+    "title": "Terramar House",
+    "creator": "Estúdio Pedro Haruf",
+    "location": "Itacare",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040820/terramar-house-estudio-pedro-haruf",
+    "image_url": "https://images.adsttc.com/media/images/69e6/aebf/63f5/ef01/884f/e3a3/medium_jpg/casa-terramar-estudio-pedro-haruf_8.jpg?1776725723",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-29T15:00:00.000Z",
+    "ingested_at": "2026-05-29T21:55:22.167Z"
   }
 ]
