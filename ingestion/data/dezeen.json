@@ -497,5 +497,27 @@
     "material": [],
     "published_at": "2026-05-25T10:00:51.000Z",
     "ingested_at": "2026-05-25T13:32:25.187Z"
+  },
+  {
+    "id": "4f710586-1a12-440a-8d94-85f4d67dddeb",
+    "title": "The Art House in New Delhi is defined",
+    "creator": "\"intense level of customisation\"",
+    "location": "New Delhi",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
+    "image_url": "http://static.dezeen.com/uploads/2026/05/the-art-house-spaces-architects-ka-residence-delhi-india-interiors-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Interiors",
+      "Exclusives",
+      "Residential architecture and interiors",
+      "Art",
+      "Indian houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-29T05:00:27.000Z",
+    "ingested_at": "2026-05-29T08:44:46.163Z"
   }
 ]
