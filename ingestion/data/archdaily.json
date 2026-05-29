@@ -11555,5 +11555,23 @@
     "material": [],
     "published_at": "2026-05-28T15:00:00.000Z",
     "ingested_at": "2026-05-28T21:59:31.302Z"
+  },
+  {
+    "id": "88b761bc-584e-41db-8a07-18f2367105da",
+    "title": "Second Chance Library",
+    "creator": "ODDs&ENDs architects",
+    "location": "Hwadae-ri",
+    "country": "South Korea",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041868/second-chance-library-odds-and-ends-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a15/c4de/093e/9201/8986/66dd/medium_jpg/second-chance-library-odds-and-ends-architects_3.jpg?1779811601",
+    "typology": [
+      "Cultural Architecture",
+      "Library"
+    ],
+    "material": [],
+    "published_at": "2026-05-28T19:00:00.000Z",
+    "ingested_at": "2026-05-29T04:09:01.828Z"
   }
 ]
