@@ -11777,5 +11777,23 @@
     "material": [],
     "published_at": "2026-05-30T02:00:00.000Z",
     "ingested_at": "2026-05-30T06:51:14.338Z"
+  },
+  {
+    "id": "880b9b58-a9cc-435b-b34c-398a864f8b60",
+    "title": "Beech Cottage",
+    "creator": "MiMStudios",
+    "location": "United Kingdom",
+    "country": null,
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041282/beech-cottage-mimstudios",
+    "image_url": "https://images.adsttc.com/media/images/69fc/502c/a59b/8300/01a7/f2c0/medium_jpg/Haselmere_Mimstudios___Henry_Woide__High_Res_006.jpg?1778143396",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-30T06:00:00.000Z",
+    "ingested_at": "2026-05-30T11:25:08.087Z"
   }
 ]
