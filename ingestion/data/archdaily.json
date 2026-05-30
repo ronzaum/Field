@@ -11795,5 +11795,23 @@
     "material": [],
     "published_at": "2026-05-30T06:00:00.000Z",
     "ingested_at": "2026-05-30T11:25:08.087Z"
+  },
+  {
+    "id": "05329213-d3de-44fc-96a5-0d9e00106f00",
+    "title": "Ulster House",
+    "creator": "LGA Architectural Partners",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041969/ulster-house-lga-architectural-partners",
+    "image_url": "https://images.adsttc.com/media/images/6a18/8c5f/35eb/2400/01f0/4913/medium_jpg/LGA_Ulster_Image2_CreditDoubleSpace.jpg?1779993836",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-30T09:00:00.000Z",
+    "ingested_at": "2026-05-30T15:13:41.650Z"
   }
 ]
