@@ -4245,5 +4245,25 @@
     "material": [],
     "published_at": "2026-05-29T14:20:48.000Z",
     "ingested_at": "2026-05-29T16:46:35.769Z"
+  },
+  {
+    "id": "9c2c5558-96ac-4302-b344-96b0f0f89c59",
+    "title": "historic shipyard in china becomes walkable volcanic stone rooftop by kengo kuma",
+    "creator": "Kengo Kuma & Associates",
+    "location": "Guangzhou",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/historic-shipyard-china-walkable-volcanic-stone-rooftop-kengo-kuma-guangzhou-1914/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/kengo-kuma-associates-shipyard-1914-rooftop-guangzhou-china-designboom-700-500x400-22b08q85r576.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "kengo kuma",
+      "rooftop architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-30T01:45:24.000Z",
+    "ingested_at": "2026-05-30T03:55:13.203Z"
   }
 ]
