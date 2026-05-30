@@ -11831,5 +11831,23 @@
     "material": [],
     "published_at": "2026-05-30T11:00:00.000Z",
     "ingested_at": "2026-05-30T17:14:36.229Z"
+  },
+  {
+    "id": "2d5757ce-6959-4bc4-9529-b5bf79473df0",
+    "title": "House Jeviò",
+    "creator": "DB Estudio de Arquitectura",
+    "location": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1028412/house-jevio-db-estudio-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/67e3/66bd/f559/c601/87f0/48b1/medium_jpg/casa-jevio-db-estudio-de-arquitectura_1.jpg?1742956297",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-30T15:00:00.000Z",
+    "ingested_at": "2026-05-30T21:05:10.626Z"
   }
 ]
