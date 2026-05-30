@@ -11813,5 +11813,23 @@
     "material": [],
     "published_at": "2026-05-30T09:00:00.000Z",
     "ingested_at": "2026-05-30T15:13:41.650Z"
+  },
+  {
+    "id": "32ef4d1c-1528-4b22-a1a2-52430390fb4f",
+    "title": "New Winery URS HAUSER",
+    "creator": "Wespi de Meuron Romeo architects",
+    "location": "Gambarogno",
+    "country": "Switzerland",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041960/new-winery-urs-hauser-wespi-de-meuron-romeo-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a18/4cf5/35eb/2400/01f0/4839/medium_jpg/Cantina_Hauser_Albo-1.jpg?1779977489",
+    "typology": [
+      "Industrial Architecture",
+      "Winery"
+    ],
+    "material": [],
+    "published_at": "2026-05-30T11:00:00.000Z",
+    "ingested_at": "2026-05-30T17:14:36.229Z"
   }
 ]
