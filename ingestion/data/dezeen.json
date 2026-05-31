@@ -519,5 +519,27 @@
     "material": [],
     "published_at": "2026-05-29T05:00:27.000Z",
     "ingested_at": "2026-05-29T08:44:46.163Z"
+  },
+  {
+    "id": "314c00ed-0d27-4f25-b7e9-a03ded3eeb89",
+    "title": "Sweeping roofs top bright red logistics hub in Ukraine",
+    "creator": "Aranchii Architects",
+    "location": "Ukraine",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/05/31/prostir-business-hub-aranchii-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/05/prostir-business-hub-aranchii-architects-architecture-infrastructure-warehouses-offices-ukraine_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Aranchii Architects",
+      "Infrastructure",
+      "Warehouses",
+      "Red buildings",
+      "Red"
+    ],
+    "material": [],
+    "published_at": "2026-05-31T10:00:01.000Z",
+    "ingested_at": "2026-05-31T11:02:10.420Z"
   }
 ]
