@@ -4310,5 +4310,27 @@
     "material": [],
     "published_at": "2026-05-30T15:30:47.000Z",
     "ingested_at": "2026-05-30T17:14:37.248Z"
+  },
+  {
+    "id": "0158a1c0-2201-4b48-8647-0781ee59d625",
+    "title": "photo series distorts manhattan’s cityscape through fractured glass reflections",
+    "creator": "Navid Baraty",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/photo-series-manhattan-cityscape-fractured-glass-reflections-hidden-city-navid-baraty/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/hidden-city-navid-baraty-photographic-study-manhattan-reflections-glass-facades-designboom-700-500x400-22b08q85r125.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architectural photography",
+      "architecture in new york",
+      "facades",
+      "skyscraper architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-05-31T03:45:52.000Z",
+    "ingested_at": "2026-05-31T04:20:11.755Z"
   }
 ]

@@ -11870,5 +11870,22 @@
     "material": [],
     "published_at": "2026-05-30T17:00:00.000Z",
     "ingested_at": "2026-05-30T23:03:21.903Z"
+  },
+  {
+    "id": "23592fc0-c8c1-47a1-a4e7-96eb977e2346",
+    "title": "Metal Curtain Building",
+    "creator": "Hyunjoon Yoo + Partners",
+    "location": "Gangnam District",
+    "country": "South Korea",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041924/metal-curtain-building-hyunjoon-yoo-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/6a19/8fed/093e/927a/6386/dd2c/medium_jpg/metal-curtain-building-hyunjoon-yoo-plus-partners_17.jpg?1780060152",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-05-30T21:00:00.000Z",
+    "ingested_at": "2026-05-31T04:20:10.977Z"
   }
 ]
