@@ -11959,5 +11959,42 @@
     "material": [],
     "published_at": "2026-05-31T11:00:00.000Z",
     "ingested_at": "2026-05-31T17:13:42.824Z"
+  },
+  {
+    "id": "ec916370-1ca9-4d4d-9c5a-82018f6693e6",
+    "title": "Dazhou Atelier and Its Surrounding Area Renovation",
+    "creator": "SpActrum",
+    "location": "Shaoxing",
+    "country": "China",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1019633/dazhou-atelier-and-its-surrounding-area-renovation-spactrum",
+    "image_url": "https://images.adsttc.com/media/images/66ac/ea79/f87e/4959/fe54/a832/medium_jpg/dazhou-atelier-and-its-surrounding-area-renovation-spactrum_5.jpg?1722608282",
+    "typology": [
+      "Public Architecture",
+      "Refurbishment",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-05-31T17:00:00.000Z",
+    "ingested_at": "2026-05-31T23:04:57.568Z"
+  },
+  {
+    "id": "8f8fda02-ab01-471c-a262-50c72f623124",
+    "title": "AAM Residence",
+    "creator": "Ximenes Leite Arquitetura",
+    "location": "Granja Viana",
+    "country": "Brasil",
+    "year": 2020,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041688/aam-residence-ximenes-leite-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69e6/80fb/8471/2000/01f8/ec14/medium_jpg/alta_ximenesleitearq_andremortatti_AAM-2.jpg?1776714042",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-31T15:00:00.000Z",
+    "ingested_at": "2026-05-31T23:04:57.570Z"
   }
 ]
