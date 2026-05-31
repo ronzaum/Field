@@ -4332,5 +4332,27 @@
     "material": [],
     "published_at": "2026-05-31T03:45:52.000Z",
     "ingested_at": "2026-05-31T04:20:11.755Z"
+  },
+  {
+    "id": "69c0de8a-fe10-4fb1-a304-785d1d73c178",
+    "title": "lima house carves open living spaces around a tropical garden in são paulo",
+    "creator": "Pietro Terlizzi Arquitetura",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lima-house-open-living-spaces-tropical-garden-sao-paulo-pietro-terlizzi-arquitetura/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/lima-house-pietro-terlizzi-arquitetura-sao-paulo-brazil-designboom-700-500x400-22b08q85r640.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in brazil",
+      "architecture in sao paulo",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-05-31T19:30:56.000Z",
+    "ingested_at": "2026-05-31T21:05:51.753Z"
   }
 ]
