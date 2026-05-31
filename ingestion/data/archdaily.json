@@ -11924,5 +11924,23 @@
     "material": [],
     "published_at": "2026-05-31T06:00:00.000Z",
     "ingested_at": "2026-05-31T11:02:10.074Z"
+  },
+  {
+    "id": "3f8cbff9-0236-451a-bc73-2c18bf0a14cc",
+    "title": "Knowlton Prairie",
+    "creator": "L. McComber",
+    "location": "Lac-Brome",
+    "country": "Canada",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041925/knowlton-prairie-l-mccomber",
+    "image_url": "https://images.adsttc.com/media/images/6a17/2558/35eb/2400/01f0/4768/medium_jpg/Knowlton_Prairie__UlysseLemerise-_OSAimages__1_.jpg?1779901809",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-05-31T09:00:00.000Z",
+    "ingested_at": "2026-05-31T15:21:36.289Z"
   }
 ]
