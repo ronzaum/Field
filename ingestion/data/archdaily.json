@@ -12127,5 +12127,43 @@
     "material": [],
     "published_at": "2026-06-01T07:00:00.000Z",
     "ingested_at": "2026-06-01T16:42:11.990Z"
+  },
+  {
+    "id": "7466786b-300d-417c-95f3-8c809013dd10",
+    "title": "Eclipse House",
+    "creator": "Etea + Ghostframe",
+    "location": "Mérida",
+    "country": "México",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041477/eclipse-house-etea-plus-ghostframe",
+    "image_url": "https://images.adsttc.com/media/images/69f8/99a4/20d6/d800/0166/40c8/medium_jpg/CASA_ECLIPSE_16_Manolo_R._Sol_s.jpg?1777900033",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T15:00:00.000Z",
+    "ingested_at": "2026-06-01T20:58:04.196Z"
+  },
+  {
+    "id": "f0e7d4ac-3993-4b70-9207-582896baa37d",
+    "title": "O-day'min Park Pavilion",
+    "creator": "gh3*",
+    "location": "Edmonton",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041971/o-daymin-park-pavilion-gh3-star",
+    "image_url": "https://images.adsttc.com/media/images/6a18/8c68/35eb/2400/01f0/493b/medium_jpg/O-day_min_Park_Pavilion_GG_2025_07_North_canopy_view.jpg?1779993980",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Pavilion",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T12:00:00.000Z",
+    "ingested_at": "2026-06-01T20:58:04.198Z"
   }
 ]
