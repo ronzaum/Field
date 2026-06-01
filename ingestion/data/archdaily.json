@@ -12014,5 +12014,81 @@
     "material": [],
     "published_at": "2026-05-31T21:00:00.000Z",
     "ingested_at": "2026-06-01T04:48:59.122Z"
+  },
+  {
+    "id": "e977b6b8-eace-407a-b89a-ce47eaf997e0",
+    "title": "Nanterre Housing",
+    "creator": "AQMA",
+    "location": "Nanterre",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042027/nanterre-housing-aqma",
+    "image_url": "https://images.adsttc.com/media/images/6a19/ed9e/09e5/3c01/7fc3/2d82/medium_jpg/nanterre-housing-aqma_1.jpg?1780084227",
+    "typology": [
+      "Residential Architecture",
+      "Social Housing",
+      "Offices",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T06:00:00.000Z",
+    "ingested_at": "2026-06-01T10:25:14.291Z"
+  },
+  {
+    "id": "103cd0e4-18af-4d61-aa38-ab8c5fe48787",
+    "title": "Mosso",
+    "creator": "Nomos",
+    "location": "Geneva",
+    "country": "Switzerland",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041982/mosso-nomos",
+    "image_url": "https://images.adsttc.com/media/images/6a18/d591/093e/9241/487f/379b/medium_jpg/mosso-nomos_19.jpg?1780012452",
+    "typology": [
+      "Offices",
+      "Office buildings",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T03:00:00.000Z",
+    "ingested_at": "2026-06-01T10:25:14.292Z"
+  },
+  {
+    "id": "b26612b7-538e-4a33-8bce-3b10480ff2f9",
+    "title": "The House Veiled In Brick",
+    "creator": "LIJO.RENY.architects",
+    "location": "Thrissur",
+    "country": "India",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042007/the-house-veiled-in-brick-lijenrchitects",
+    "image_url": "https://images.adsttc.com/media/images/6a19/8d65/4245/3407/3626/1301/medium_jpg/the-house-veiled-in-brick-lijenrchitects_11.jpg?1780059521",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T02:00:00.000Z",
+    "ingested_at": "2026-06-01T10:25:14.295Z"
+  },
+  {
+    "id": "e1e100a7-9266-4cfd-ac63-1c2502579039",
+    "title": "Zhuhai Chillong Dreamland Barn Restaurant",
+    "creator": "SHUISHI",
+    "location": "Zhuhai",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041793/zhuhai-chillong-dreamland-barn-restaurant-shuishi",
+    "image_url": "https://images.adsttc.com/media/images/6a10/9702/093e/9201/8986/5de8/medium_jpg/zhuhai-chillong-dreamland-barn-restaurant-shuishi_3.jpg?1779472145",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T00:00:00.000Z",
+    "ingested_at": "2026-06-01T10:25:14.297Z"
   }
 ]
