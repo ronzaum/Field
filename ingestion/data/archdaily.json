@@ -12090,5 +12090,42 @@
     "material": [],
     "published_at": "2026-06-01T00:00:00.000Z",
     "ingested_at": "2026-06-01T10:25:14.297Z"
+  },
+  {
+    "id": "c5b68868-cf9a-4033-b466-58469efcc3ce",
+    "title": "Yard House",
+    "creator": "Exbrayat Enrico architectes",
+    "location": "Montreuil",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041780/yard-house-exbrayat-enrico-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a10/54a0/35eb/2400/01f0/43e7/medium_jpg/CUBE_YARD_JBT-32.jpg?1779455159",
+    "typology": [
+      "Offices",
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T10:00:00.000Z",
+    "ingested_at": "2026-06-01T16:42:11.988Z"
+  },
+  {
+    "id": "9f9e4da6-6f43-4ef4-9b5f-9cc9bbac7181",
+    "title": "Prairie Ark and Nomads' Beacon Tower",
+    "creator": "BUZZ/ Büro Ziyu Zhuang",
+    "location": "Ulanqab",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041939/prairie-ark-and-nomads-beacon-tower-buzz-buro-ziyu-zhuang",
+    "image_url": "https://images.adsttc.com/media/images/6a17/b640/35eb/2400/01f0/47b6/medium_jpg/_________-2.jpg?1779938900",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Exhibition center"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T07:00:00.000Z",
+    "ingested_at": "2026-06-01T16:42:11.990Z"
   }
 ]
