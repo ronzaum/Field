@@ -12314,5 +12314,23 @@
     "material": [],
     "published_at": "2026-06-02T10:00:00.000Z",
     "ingested_at": "2026-06-02T18:44:33.120Z"
+  },
+  {
+    "id": "e7e19670-9c0d-435f-87fe-b125d3b1fb59",
+    "title": "Castela House",
+    "creator": "BIRI",
+    "location": "Nova Lima",
+    "country": "Brasil",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041934/castela-house-biri",
+    "image_url": "https://images.adsttc.com/media/images/6a17/63ba/093e/9201/8986/6d19/medium_jpg/casa-castela-biri_5.jpg?1779917771",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T15:00:00.000Z",
+    "ingested_at": "2026-06-02T21:52:07.598Z"
   }
 ]
