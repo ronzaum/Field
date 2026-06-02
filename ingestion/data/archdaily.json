@@ -12278,5 +12278,41 @@
     "material": [],
     "published_at": "2026-06-02T06:00:00.000Z",
     "ingested_at": "2026-06-02T14:10:00.100Z"
+  },
+  {
+    "id": "6f5128ff-4a2b-4eb1-90ae-63f8d21cca5b",
+    "title": "Primary School Franklin",
+    "creator": "LRO GmbH & Co. KG Freie Architekten BDA",
+    "location": "Mannheim",
+    "country": "Germany",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041997/primary-school-franklin-lro-gmbh-and-co-kg-freie-architekten-bda",
+    "image_url": "https://images.adsttc.com/media/images/6a19/547a/35eb/2400/01f0/49da/medium_jpg/RH3115-0058b.jpg?1780044982",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T12:00:00.000Z",
+    "ingested_at": "2026-06-02T18:44:33.118Z"
+  },
+  {
+    "id": "0283562d-4d48-49ef-bc91-7e777d41315c",
+    "title": "Cano House",
+    "creator": "Diego Cano-Lasso",
+    "location": "Los Angeles",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042018/cano-house-diego-cano-lasso",
+    "image_url": "https://images.adsttc.com/media/images/6a19/d3ab/35eb/2400/01f0/4a7d/medium_jpg/Cano-House-LA-2297.jpg?1780077611",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T10:00:00.000Z",
+    "ingested_at": "2026-06-02T18:44:33.120Z"
   }
 ]
