@@ -12242,5 +12242,41 @@
     "material": [],
     "published_at": "2026-06-02T00:00:00.000Z",
     "ingested_at": "2026-06-02T09:12:39.733Z"
+  },
+  {
+    "id": "06f93cb1-897e-4dbe-8ee1-4dd350837c13",
+    "title": "House JR",
+    "creator": "Gonzalo Bardach arquitectura",
+    "location": "San Isidro",
+    "country": "Argentina",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041797/house-jr-gonzalo-bardach-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a10/c2cb/093e/9201/8986/5e6d/medium_jpg/casa-jr-gonzalo-bardach-arquitectura_2.jpg?1779483354",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T07:00:00.000Z",
+    "ingested_at": "2026-06-02T14:10:00.098Z"
+  },
+  {
+    "id": "55b3a69b-aa8a-4ebb-b9ef-22b1e3a697af",
+    "title": "Trnava School Campus Reconstruction",
+    "creator": "Šercel Švec",
+    "location": "Trnava",
+    "country": "Slovakia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041734/trnava-school-campus-reconstruction-sercel-svec",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/073c/35eb/2400/01f0/4179/medium_jpg/sercel-svec_matejhakar__L3A4117.jpg?1779369879",
+    "typology": [
+      "Landscape Architecture",
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T06:00:00.000Z",
+    "ingested_at": "2026-06-02T14:10:00.100Z"
   }
 ]

@@ -4375,5 +4375,27 @@
     "material": [],
     "published_at": "2026-06-02T09:00:22.000Z",
     "ingested_at": "2026-06-02T09:12:40.951Z"
+  },
+  {
+    "id": "fbdee32d-4f02-433c-ba59-c28216bdc7cb",
+    "title": "a series of cantilevered beams and slender posts compose cano house above los angeles",
+    "creator": "Diego Cano Lasso",
+    "location": "Los Angeles",
+    "country": "US",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/cantilevered-beams-slender-posts-cano-house-los-angeles-diego-cano-lasso/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/cano-house-diego-cano-lasso-mid-century-post-and-beam-architecture-los-angeles-designboom-700-500x400-22b08q85r604.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in los angeles",
+      "residential architecture and interiors",
+      "steel architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T07:30:18.000Z",
+    "ingested_at": "2026-06-02T14:10:00.985Z"
   }
 ]
