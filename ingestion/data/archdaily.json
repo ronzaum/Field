@@ -12165,5 +12165,26 @@
     "material": [],
     "published_at": "2026-06-01T12:00:00.000Z",
     "ingested_at": "2026-06-01T20:58:04.198Z"
+  },
+  {
+    "id": "72f63422-47d0-4506-90f2-6a8ff4b7e3b2",
+    "title": "Houm Yoga",
+    "creator": "Dhanie & Sal",
+    "location": "Kecamatan Kebayoran Baru",
+    "country": "Indonesia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041998/houm-yoga-dhanie-and-sal",
+    "image_url": "https://images.adsttc.com/media/images/6a19/547b/35eb/2400/01f0/49e8/medium_jpg/Ernest_Theofilus_-_6.jpg?1780044941",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-06-01T19:00:00.000Z",
+    "ingested_at": "2026-06-02T04:38:09.676Z"
   }
 ]
