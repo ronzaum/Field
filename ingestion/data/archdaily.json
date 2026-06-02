@@ -12186,5 +12186,61 @@
     "material": [],
     "published_at": "2026-06-01T19:00:00.000Z",
     "ingested_at": "2026-06-02T04:38:09.676Z"
+  },
+  {
+    "id": "a61ae345-261a-43ad-9a88-2b0c5f7af14a",
+    "title": "Rue de l'Eglise - Office Building Transformation",
+    "creator": "Vincent Lavergne Architecture Urbanisme + COVE Architectes",
+    "location": "Neuilly-sur-Seine",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041965/rue-de-leglise-office-building-transformation-vincent-lavergne-architecture-urbanisme-plus-cove-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a18/4d9d/35eb/2400/01f0/48dd/medium_jpg/Charles_Bouchaib_VLAU_1.jpg?1779977655",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T03:00:00.000Z",
+    "ingested_at": "2026-06-02T09:12:39.728Z"
+  },
+  {
+    "id": "0baf0be8-7239-42eb-8f8e-9ae37e1247a0",
+    "title": "The Brick Veil House",
+    "creator": "VPA Architects",
+    "location": "Ahmedabad",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042004/the-brick-veil-house-vpa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a19/8431/093e/927a/6386/dcdd/medium_jpg/the-brick-veil-house-vpa-architects_12.jpg?1780057169",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T02:00:00.000Z",
+    "ingested_at": "2026-06-02T09:12:39.731Z"
+  },
+  {
+    "id": "68c5506b-4fb8-4e34-b379-11b177cb020f",
+    "title": "Mini South Villa",
+    "creator": "Dispacement Architectural Design",
+    "location": "Lvxiang Town Qifeng Village，Jinshan District，Shanghai， China",
+    "country": null,
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1019380/mini-south-villa-dispacement-architectural-design",
+    "image_url": "https://images.adsttc.com/media/images/66a3/ac71/c8b7/c854/2cea/de5b/medium_jpg/mini-south-villa-dispacement-architectural-design_30.jpg?1722002571",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Housing",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T00:00:00.000Z",
+    "ingested_at": "2026-06-02T09:12:39.733Z"
   }
 ]

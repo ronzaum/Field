@@ -4354,5 +4354,26 @@
     "material": [],
     "published_at": "2026-05-31T19:30:56.000Z",
     "ingested_at": "2026-05-31T21:05:51.753Z"
+  },
+  {
+    "id": "9f8e08a7-92b7-4896-a053-a9631af80f29",
+    "title": "architects invited to adapt former textile school into christo and jeanne-claude centre",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/former-textile-school-christo-and-jeanne-claude-centre-competition/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/05/christo-jeanne-claude-centre-competition-designboom-700-500x400-22b08q85r598.jpg",
+    "typology": [
+      "architecture",
+      "architecture in bulgaria",
+      "christo and jeanne-claude",
+      "memorials and monuments",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T09:00:22.000Z",
+    "ingested_at": "2026-06-02T09:12:40.951Z"
   }
 ]
