@@ -12332,5 +12332,41 @@
     "material": [],
     "published_at": "2026-06-02T15:00:00.000Z",
     "ingested_at": "2026-06-02T21:52:07.598Z"
+  },
+  {
+    "id": "734fe65c-06cf-4c92-999e-7f9a274cf2c3",
+    "title": "LuZhai Cottage",
+    "creator": "kooo architects",
+    "location": "Yuwan village",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1013578/luzhai-cottage-kooo-architects",
+    "image_url": "https://images.adsttc.com/media/images/65d4/d4d8/b451/ce41/f7eb/35a2/medium_jpg/luzhai-cottage-kooo-architects_27.jpg?1708446954",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-06-03T00:00:00.000Z",
+    "ingested_at": "2026-06-03T04:47:12.630Z"
+  },
+  {
+    "id": "cc85fbd7-c12a-4ef4-a207-58c8d32b0078",
+    "title": "Color Pit",
+    "creator": "Studio Etienne Bastormagi",
+    "location": "Geitawi",
+    "country": "Lebanon",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042067/color-pit-studio-etienne-bastormagi",
+    "image_url": "https://images.adsttc.com/media/images/6a1d/ed58/fd52/922d/0b0b/9a5a/medium_jpg/color-pit-studio-etienne-bastormagi_2.jpg?1780346250",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-06-02T19:00:00.000Z",
+    "ingested_at": "2026-06-03T04:47:12.633Z"
   }
 ]
