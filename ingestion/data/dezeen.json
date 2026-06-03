@@ -541,5 +541,26 @@
     "material": [],
     "published_at": "2026-05-31T10:00:01.000Z",
     "ingested_at": "2026-05-31T11:02:10.420Z"
+  },
+  {
+    "id": "8699d678-9321-45f4-b8d4-1c4f2b9c048e",
+    "title": "Delcy Morelos creates monumental soil installation",
+    "creator": "hand at the Barbican",
+    "location": "Clay",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/03/delcy-morelos-origo-installation-barbican/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/delcy-morelos-origo-installation-barbican-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Installations",
+      "Soil",
+      "London",
+      "Barbican"
+    ],
+    "material": [],
+    "published_at": "2026-06-03T05:00:25.000Z",
+    "ingested_at": "2026-06-03T09:57:30.690Z"
   }
 ]
