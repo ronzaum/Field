@@ -12591,5 +12591,41 @@
     "material": [],
     "published_at": "2026-06-04T06:00:00.000Z",
     "ingested_at": "2026-06-04T12:04:22.921Z"
+  },
+  {
+    "id": "1701a6e4-043e-47ff-aaeb-af9c331587d3",
+    "title": "Layer House",
+    "creator": "W O V E N Architecture and Design",
+    "location": "Willis Point",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042178/layer-house-w-o-v-e-n-architecture-and-design",
+    "image_url": "https://images.adsttc.com/media/images/6a20/676a/0f40/eb00/01df/5679/medium_jpg/GARDEN_1_reduced.jpg?1780508546",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-04T10:00:00.000Z",
+    "ingested_at": "2026-06-04T16:22:00.990Z"
+  },
+  {
+    "id": "44a36c07-a2fe-4b1e-895e-a3bd19d0c1a6",
+    "title": "La Casa De Papel",
+    "creator": "Bhoomija Creations",
+    "location": "Papali Beach",
+    "country": "India",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042117/la-casa-de-papel-bhoomija-creations",
+    "image_url": "https://images.adsttc.com/media/images/6a1e/eaa4/3d5b/9901/7d64/c10e/medium_jpg/la-casa-de-papel-bhoomija-creations_1.jpg?1780411098",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-04T07:00:00.000Z",
+    "ingested_at": "2026-06-04T16:22:00.992Z"
   }
 ]
