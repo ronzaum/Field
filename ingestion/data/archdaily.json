@@ -12647,5 +12647,26 @@
     "material": [],
     "published_at": "2026-06-04T12:00:00.000Z",
     "ingested_at": "2026-06-04T19:24:57.166Z"
+  },
+  {
+    "id": "53ec70b5-c880-4f13-9d50-87eefbca1755",
+    "title": "Pantanal Biopark",
+    "creator": "ohtake",
+    "location": "Chácara Cachoeira",
+    "country": "Brazil",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041949/pantanal-biopark-ohtake",
+    "image_url": "https://images.adsttc.com/media/images/6a14/b6d6/35eb/2400/01f0/4523/medium_jpg/DJI_0316.jpg?1779742496",
+    "typology": [
+      "Landscape Architecture",
+      "Park",
+      "Cultural Architecture",
+      "Learning",
+      "science center"
+    ],
+    "material": [],
+    "published_at": "2026-06-04T15:00:00.000Z",
+    "ingested_at": "2026-06-04T21:45:40.022Z"
   }
 ]

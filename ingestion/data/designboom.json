@@ -4529,5 +4529,25 @@
     "material": [],
     "published_at": "2026-06-04T14:20:43.000Z",
     "ingested_at": "2026-06-04T16:22:01.888Z"
+  },
+  {
+    "id": "db4a4417-235e-4e08-a4f5-da5bed7db5d9",
+    "title": "MVRDV shapes bordeaux’s ‘la vallée verte’ with suncut roofs and a hidden garden",
+    "creator": "MVRDV",
+    "location": "Bastide Niel",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mvrdv-bordeaux-la-vallee-verte-suncut-roofs-hidden-garden-france/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/MVRDV-valle-verte-bastide-niel-bordeaux-france-designboom-700-500x400-22b08q85r362.jpg",
+    "typology": [
+      "architecture",
+      "architecture in france",
+      "MVRDV",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-04T20:45:04.000Z",
+    "ingested_at": "2026-06-04T21:45:40.969Z"
   }
 ]
