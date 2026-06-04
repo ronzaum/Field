@@ -4442,5 +4442,48 @@
     "material": [],
     "published_at": "2026-06-03T10:30:45.000Z",
     "ingested_at": "2026-06-03T14:52:11.374Z"
+  },
+  {
+    "id": "bb70bca1-8fd2-42ff-a901-7741a080b2d2",
+    "title": "herzog & de meuron to revitalize tirana’s palace of congresses with cultural hub and tower",
+    "creator": "Herzog & de Meuron",
+    "location": "Tirana",
+    "country": "Albania",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower-designboom-700-500x400-22b08q85r840.jpg",
+    "typology": [
+      "architecture",
+      "architecture in albania",
+      "herzog and de meuron",
+      "renovation and restoration architecture and design",
+      "skyscraper architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-04T08:00:34.000Z",
+    "ingested_at": "2026-06-04T08:53:40.499Z"
+  },
+  {
+    "id": "d44e538a-0fe2-420b-ad08-c5ae9f8cf5d1",
+    "title": "‘tradition contains generations of knowledge’: natura futura builds with ecuadorian wisdom",
+    "creator": "Natura Futura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/tradition-contains-generations-of-knowledge-natura-futura-builds-with-ecuadorian-wisdom/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/natura-futura-radical-softness-ecuador-designboom-700-500x400-22b08q85r169.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in ecuador",
+      "architecture interviews",
+      "natura futura arquitectura",
+      "RADICAL SOFTNESS"
+    ],
+    "material": [],
+    "published_at": "2026-06-04T07:37:29.000Z",
+    "ingested_at": "2026-06-04T08:53:40.519Z"
   }
 ]
