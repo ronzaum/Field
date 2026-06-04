@@ -12627,5 +12627,25 @@
     "material": [],
     "published_at": "2026-06-04T07:00:00.000Z",
     "ingested_at": "2026-06-04T16:22:00.992Z"
+  },
+  {
+    "id": "05b76444-c00a-4000-8948-2afa2d92fa1e",
+    "title": "Lew-Tolstoi-School",
+    "creator": "AFF architekten",
+    "location": "Römerweg 120",
+    "country": "Germany",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041981/lew-tolstoi-school-aff-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a18/cf35/093e/923a/0082/b4fe/medium_jpg/lew-tolstoi-school-aff-architekten_2.jpg?1780010822",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-06-04T12:00:00.000Z",
+    "ingested_at": "2026-06-04T19:24:57.166Z"
   }
 ]
