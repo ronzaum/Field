@@ -12814,5 +12814,24 @@
     "material": [],
     "published_at": "2026-06-05T12:00:00.000Z",
     "ingested_at": "2026-06-05T18:03:52.543Z"
+  },
+  {
+    "id": "316eb3e0-5c32-4f47-8c1b-548eeb753066",
+    "title": "Herradura Cabin",
+    "creator": "ALMA de Arquitectos",
+    "location": "Zapopan",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041481/herradura-cabin-alma-de-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69ef/28ab/2f06/ec00/01cd/06e5/medium_jpg/Caban_a_Herradura-foto001.jpg?1777281213",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T15:00:00.000Z",
+    "ingested_at": "2026-06-05T20:49:46.508Z"
   }
 ]
