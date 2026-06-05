@@ -12686,5 +12686,58 @@
     "material": [],
     "published_at": "2026-06-04T19:00:00.000Z",
     "ingested_at": "2026-06-05T04:15:20.623Z"
+  },
+  {
+    "id": "23c3b45b-42c6-45b3-8455-bcb8910bd8b4",
+    "title": "205 North Quay",
+    "creator": "HASSELL + REX + Richards and Spence",
+    "location": "Brisbane",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042192/205-north-quay-hassell-plus-rex-plus-richards-and-spence",
+    "image_url": "https://images.adsttc.com/media/images/6a21/55a8/58b9/e001/8919/51a8/medium_jpg/205-north-quay-hassell-plus-rex-plus-richards-and-spence_10.jpg?1780569540",
+    "typology": [
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T03:00:00.000Z",
+    "ingested_at": "2026-06-05T08:45:48.739Z"
+  },
+  {
+    "id": "5cea9232-41ba-41e9-8476-f37305434d7b",
+    "title": "Glass Pavillion",
+    "creator": "M space",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042151/glass-pavillion-m-space",
+    "image_url": "https://images.adsttc.com/media/images/6a1f/f856/0f40/eb00/01df/55c9/medium_jpg/6_Mspace.jpg?1780480135",
+    "typology": [
+      "Religious Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T02:00:00.000Z",
+    "ingested_at": "2026-06-05T08:45:48.742Z"
+  },
+  {
+    "id": "e142087b-872d-4211-a6c1-7b7e821b8e3c",
+    "title": "Renovation of “Homestead Land” in Shenzhen Shajing",
+    "creator": "MOZHAO ARCHITECTS",
+    "location": "Shenzhen",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042069/renovation-of-homestead-land-in-shenzhen-shajing-mozhao-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a1e/1cea/bf81/6401/7e20/58bc/medium_jpg/renovation-of-homestead-land-in-shenzhen-shajing-mozhao-architects_14.jpg?1780358411",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T00:00:00.000Z",
+    "ingested_at": "2026-06-05T08:45:48.744Z"
   }
 ]
