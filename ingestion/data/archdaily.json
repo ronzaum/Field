@@ -12778,5 +12778,22 @@
     "material": [],
     "published_at": "2026-06-05T06:00:00.000Z",
     "ingested_at": "2026-06-05T12:12:11.129Z"
+  },
+  {
+    "id": "34fbf150-143d-4f88-aee5-2e7630776281",
+    "title": "House Transformation in Harmonia",
+    "creator": "Atelier 008",
+    "location": "Modra",
+    "country": "Slovakia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042083/house-transformation-in-harmonia-atelier-008",
+    "image_url": "https://images.adsttc.com/media/images/6a1e/8b04/35eb/2400/01f0/4ba0/medium_jpg/int-11_matejhakar__L3A4407.jpg?1780386645",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T10:00:00.000Z",
+    "ingested_at": "2026-06-05T15:58:23.656Z"
   }
 ]
