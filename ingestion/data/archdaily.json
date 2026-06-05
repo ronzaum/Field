@@ -12795,5 +12795,24 @@
     "material": [],
     "published_at": "2026-06-05T10:00:00.000Z",
     "ingested_at": "2026-06-05T15:58:23.656Z"
+  },
+  {
+    "id": "ec5837ff-577e-4eea-a5ad-7b015f7181e2",
+    "title": "Des Cimes Dental Clinic",
+    "creator": "CARTA. Architecte + Designer",
+    "location": "Val-David",
+    "country": "Canada",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042023/des-cimes-dental-clinic-carta-architecte-plus-designer",
+    "image_url": "https://images.adsttc.com/media/images/6a19/e211/35eb/2400/01f0/4aa9/medium_jpg/__David_Boyer_Photographe_INC._0001.jpg?1780081203",
+    "typology": [
+      "Healthcare Architecture",
+      "Healthcare",
+      "clinic"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T12:00:00.000Z",
+    "ingested_at": "2026-06-05T18:03:52.543Z"
   }
 ]
