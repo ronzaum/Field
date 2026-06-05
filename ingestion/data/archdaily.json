@@ -12739,5 +12739,44 @@
     "material": [],
     "published_at": "2026-06-05T00:00:00.000Z",
     "ingested_at": "2026-06-05T08:45:48.744Z"
+  },
+  {
+    "id": "61f9c567-9724-45e5-817d-cbee71afb9f4",
+    "title": "La Vallée Verte",
+    "creator": "MVRDV",
+    "location": "Bordeaux",
+    "country": "France",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042194/la-vallee-verte-mvrdv",
+    "image_url": "https://images.adsttc.com/media/images/6a21/6ceb/58b9/e001/8919/5275/medium_jpg/la-vallee-verte-mvrdv_1.jpg?1780575495",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T07:00:00.000Z",
+    "ingested_at": "2026-06-05T12:12:11.126Z"
+  },
+  {
+    "id": "36c1e123-2f78-4f96-8ccb-3ccb323be97c",
+    "title": "Camp Meeker Cabin",
+    "creator": "Renée del Gaudio Architecture",
+    "location": "Allenspark",
+    "country": "United States",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042199/camp-meeker-cabin-renee-del-gaudio-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a21/fde0/d2d3/6e00/0102/f183/medium_jpg/8_CampMeeker-0016.jpg?1780612669",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges",
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T06:00:00.000Z",
+    "ingested_at": "2026-06-05T12:12:11.129Z"
   }
 ]

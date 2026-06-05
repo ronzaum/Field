@@ -562,5 +562,49 @@
     "material": [],
     "published_at": "2026-06-03T05:00:25.000Z",
     "ingested_at": "2026-06-03T09:57:30.690Z"
+  },
+  {
+    "id": "6dae60df-c4f9-40f1-84e0-da52402be4e6",
+    "title": "Plant pots and people-shaped portals animate Bordeaux housing",
+    "creator": "MVRDV",
+    "location": "News",
+    "country": "France",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/05/la-vallee-verte-mvrdv/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/la-vallee-verte-mvrdv-bordeaux-france-housing-residential-plant-pots_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Apartments",
+      "MVRDV",
+      "Plants",
+      "Housing",
+      "Facets",
+      "Residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T10:45:18.000Z",
+    "ingested_at": "2026-06-05T12:12:11.289Z"
+  },
+  {
+    "id": "a2426f0d-2761-4ba1-a4fe-58ba58c9e47a",
+    "title": "\"Tent-like\" Eve Music Hall",
+    "creator": "BIG under construction in Croatia",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/05/eve-music-hall-big-under-construction-croatia/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/eve-music-hall-big_dezeen_2364_col_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Croatia",
+      "BIG",
+      "Concert halls",
+      "Performance venues"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T09:45:53.000Z",
+    "ingested_at": "2026-06-05T12:12:11.290Z"
   }
 ]
