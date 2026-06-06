@@ -12904,5 +12904,24 @@
     "material": [],
     "published_at": "2026-06-06T09:00:00.000Z",
     "ingested_at": "2026-06-06T14:45:56.076Z"
+  },
+  {
+    "id": "38609a9a-b62c-4649-8cbf-cbf97f0c7bed",
+    "title": "É Um Restaurante",
+    "creator": "SIA arquitectura + gonçalves perić",
+    "location": "Amadora",
+    "country": "Portugal",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041041/e-um-restaurante-sia-arquitectura-plus-goncalves-peric",
+    "image_url": "https://images.adsttc.com/media/images/69f0/b74c/20d6/d800/0166/3deb/medium_jpg/Charlotte_Auger_08.jpg?1777383313",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-06-06T11:00:00.000Z",
+    "ingested_at": "2026-06-06T18:10:54.415Z"
   }
 ]
