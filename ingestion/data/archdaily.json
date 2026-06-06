@@ -12887,5 +12887,22 @@
     "material": [],
     "published_at": "2026-06-06T06:00:00.000Z",
     "ingested_at": "2026-06-06T12:08:29.572Z"
+  },
+  {
+    "id": "62fa4afd-4fba-4967-95e3-e09040f67334",
+    "title": "Renovation in Veillac",
+    "creator": "Atelier AJO",
+    "location": "Pont-de-Salars",
+    "country": "France",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042087/renovation-in-veillac-atelier-ajo",
+    "image_url": "https://images.adsttc.com/media/images/6a1e/8c29/35eb/2400/01f0/4bf6/medium_jpg/sandrineiratcabal_2026_AAJO_MAISONVEILLAC_PONT_DE_SALARS_HD-2.jpg?1780386944",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-06-06T09:00:00.000Z",
+    "ingested_at": "2026-06-06T14:45:56.076Z"
   }
 ]
