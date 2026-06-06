@@ -12833,5 +12833,24 @@
     "material": [],
     "published_at": "2026-06-05T15:00:00.000Z",
     "ingested_at": "2026-06-05T20:49:46.508Z"
+  },
+  {
+    "id": "22f1f72c-f9c5-45d9-912a-15a03fdeda05",
+    "title": "JER café at Tselinny Center of Contemporary Culture",
+    "creator": "NAAW",
+    "location": "Almaty",
+    "country": "Kazakhstan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042118/jer-cafe-at-tselinny-center-of-contemporary-culture-naaw",
+    "image_url": "https://images.adsttc.com/media/images/6a1e/e9d4/35eb/2400/01f0/52b9/medium_jpg/Naaw_Tselinniy_5.jpg?1780410911",
+    "typology": [
+      "Interior Design",
+      "Hospitality Interiors",
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T19:00:00.000Z",
+    "ingested_at": "2026-06-06T04:57:10.511Z"
   }
 ]
