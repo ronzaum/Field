@@ -12923,5 +12923,23 @@
     "material": [],
     "published_at": "2026-06-06T11:00:00.000Z",
     "ingested_at": "2026-06-06T18:10:54.415Z"
+  },
+  {
+    "id": "53a325c6-59df-4555-a8c6-01d782c969a8",
+    "title": "Villa Robles House",
+    "creator": "arquitectura.te",
+    "location": "Villa Robles",
+    "country": "Argentina",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041198/villa-robles-house-arquitecture",
+    "image_url": "https://images.adsttc.com/media/images/69fa/5a75/754a/ba01/a3ca/815a/medium_jpg/casa-villa-robles-arquitecture_3.jpg?1778014856",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-06T15:00:00.000Z",
+    "ingested_at": "2026-06-06T20:13:25.762Z"
   }
 ]
