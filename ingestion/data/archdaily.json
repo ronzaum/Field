@@ -12941,5 +12941,24 @@
     "material": [],
     "published_at": "2026-06-06T15:00:00.000Z",
     "ingested_at": "2026-06-06T20:13:25.762Z"
+  },
+  {
+    "id": "9215d1b4-8c67-4021-aec4-8450a8a228ef",
+    "title": "On cloud9 hdy  cafe",
+    "creator": "Sitti architects and design",
+    "location": "Tambon Hat Yai",
+    "country": "Thailand",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042202/on-cloud9-hdy-cafe-sitti-architects-and-design",
+    "image_url": "https://images.adsttc.com/media/images/6a22/8672/d2d3/6e00/0102/f1ae/medium_jpg/On_cloud9_hdy__34_.jpg?1780647676",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-06-06T17:00:00.000Z",
+    "ingested_at": "2026-06-06T22:07:36.454Z"
   }
 ]
