@@ -4571,5 +4571,28 @@
     "material": [],
     "published_at": "2026-06-05T09:40:56.000Z",
     "ingested_at": "2026-06-05T12:12:12.021Z"
+  },
+  {
+    "id": "2ca24074-622d-4f0f-b574-faadb0270f2d",
+    "title": "line+ embeds a cluster of sculptural roofed volumes within red-earth valley in china",
+    "creator": "line+ studio",
+    "location": "Mile",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/line-plus-cluster-sculptural-roofed-volumes-red-earth-valley-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/line-plus-cluster-sculptural-roofed-volumes-red-earth-valley-china-designboom-700-500x400-22b08q85r485.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in china",
+      "line+ studio",
+      "marble and stone design",
+      "private courtyards",
+      "rooftop architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-05T21:45:22.000Z",
+    "ingested_at": "2026-06-06T00:12:28.530Z"
   }
 ]
