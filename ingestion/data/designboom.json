@@ -4637,5 +4637,26 @@
     "material": [],
     "published_at": "2026-06-07T04:45:10.000Z",
     "ingested_at": "2026-06-07T05:26:09.425Z"
+  },
+  {
+    "id": "45703bfb-7b5c-4659-b006-2c3badc2dd5b",
+    "title": "PAX proposes a cavernous museum embedded into norway’s fjord landscape",
+    "creator": "PAX Architects",
+    "location": "Sunnfjord",
+    "country": "Norge",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/pax-cavernous-museum-embedded-norway-fjord-astruptunet-cave/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/PAX-astruptunet-hidden-cave-museum-norway-designboom-700-500x400-22b08q85r852.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in norway",
+      "museums and galleries",
+      "underground architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-07T09:30:00.000Z",
+    "ingested_at": "2026-06-07T11:52:36.715Z"
   }
 ]
