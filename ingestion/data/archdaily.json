@@ -13038,5 +13038,24 @@
     "material": [],
     "published_at": "2026-06-07T09:00:00.000Z",
     "ingested_at": "2026-06-07T14:05:08.281Z"
+  },
+  {
+    "id": "f01246f3-56ac-4028-b519-eccfc02ab8fd",
+    "title": "Marian Goodman Gallery New York",
+    "creator": "studioMDA",
+    "location": "New York",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042233/marian-goodman-gallery-new-york-studiomda",
+    "image_url": "https://images.adsttc.com/media/images/6a23/7ae2/d2d3/6e00/0102/f2f2/medium_jpg/11_Photo_Credit_Roland_Halbe.jpg?1780710134",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Gallery"
+    ],
+    "material": [],
+    "published_at": "2026-06-07T11:00:00.000Z",
+    "ingested_at": "2026-06-07T18:08:10.219Z"
   }
 ]
