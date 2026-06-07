@@ -13017,5 +13017,26 @@
     "material": [],
     "published_at": "2026-06-07T06:00:00.000Z",
     "ingested_at": "2026-06-07T11:52:35.788Z"
+  },
+  {
+    "id": "443bd022-5d1d-4e88-a30e-41f2d2410497",
+    "title": "OUNASS Stage Dubai",
+    "creator": "VAUST Studio",
+    "location": "Dubai",
+    "country": "United Arab Emirates",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042184/ounass-stage-dubai-vaust-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a20/d536/5b1e/d900/010d/46b6/medium_jpg/Stage_NicolasQuiniou_019.jpg?1780537743",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Gallery",
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-07T09:00:00.000Z",
+    "ingested_at": "2026-06-07T14:05:08.281Z"
   }
 ]
