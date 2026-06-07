@@ -13077,5 +13077,24 @@
     "material": [],
     "published_at": "2026-06-07T15:00:00.000Z",
     "ingested_at": "2026-06-07T20:16:33.746Z"
+  },
+  {
+    "id": "07ff2ea2-bd4e-46eb-8f68-a8f1b02244be",
+    "title": "Permanent Camping 3",
+    "creator": "Casey Brown Architecture",
+    "location": "Orange",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042203/permanent-camping-3-casey-brown-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a22/8f1b/325f/9301/8750/fc1f/medium_jpg/permanent-camping-3-casey-brown-architecture_3.jpg?1780649775",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-06-07T17:00:00.000Z",
+    "ingested_at": "2026-06-07T22:09:14.872Z"
   }
 ]
