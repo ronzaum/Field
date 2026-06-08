@@ -4658,5 +4658,26 @@
     "material": [],
     "published_at": "2026-06-07T09:30:00.000Z",
     "ingested_at": "2026-06-07T11:52:36.715Z"
+  },
+  {
+    "id": "ae90fbb3-885c-4378-976a-6eab64564ea4",
+    "title": "a fire-scarred house becomes a social center overlooking the spanish village of muimenta",
+    "creator": "Firm BASED architecture",
+    "location": "Ourense",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/social-center-spain-muimenta-firm-based-renovation/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/muimenta-social-center-firm-based-spain-designboom-700-500x400-22b08q85r254.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in spain",
+      "marble and stone design",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-08T07:30:13.000Z",
+    "ingested_at": "2026-06-08T11:09:45.664Z"
   }
 ]
