@@ -4679,5 +4679,25 @@
     "material": [],
     "published_at": "2026-06-08T07:30:13.000Z",
     "ingested_at": "2026-06-08T11:09:45.664Z"
+  },
+  {
+    "id": "3d514a03-b204-43b8-a5ef-6332a209c716",
+    "title": "trees grow through this rust-colored coffee shed in a shanghai park",
+    "creator": "SHISUO Design Office",
+    "location": "Shanghai",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/trees-rust-coffee-shed-shanghai-luxun-park-shisuo-design-office/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/SHISUO-design-office-coffee-shed-luxun-park-shanghai-china-designboom-700-500x400-22b08q85r959.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "architecture in shanghai",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-06-08T15:30:01.000Z",
+    "ingested_at": "2026-06-08T16:03:33.054Z"
   }
 ]
