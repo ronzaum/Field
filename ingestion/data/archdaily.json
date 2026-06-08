@@ -13227,5 +13227,23 @@
     "material": [],
     "published_at": "2026-06-08T07:00:00.000Z",
     "ingested_at": "2026-06-08T16:03:31.120Z"
+  },
+  {
+    "id": "be505eba-c7aa-47c6-b665-b2ca13191faf",
+    "title": "Rosa Jamaica Beach Club",
+    "creator": "Gris | Estudio de Diseño + Arquitectura",
+    "location": "El Paredon",
+    "country": "Guatemala",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041890/rosa-jamaica-beach-club-gris-estudio-de-diseno-plus-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a16/ada5/35eb/2400/01f0/4666/medium_jpg/GRISRosaJamaica036.jpg?1779871198",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-06-08T12:00:00.000Z",
+    "ingested_at": "2026-06-08T19:24:04.748Z"
   }
 ]
