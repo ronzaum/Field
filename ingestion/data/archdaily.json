@@ -13096,5 +13096,42 @@
     "material": [],
     "published_at": "2026-06-07T17:00:00.000Z",
     "ingested_at": "2026-06-07T22:09:14.872Z"
+  },
+  {
+    "id": "476d3c89-dea9-42cf-a21c-64a38d696c47",
+    "title": "House for Rejuvenation",
+    "creator": "JK-AR",
+    "location": "Gyeongju-si",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042204/house-for-rejuvenation-jk-ar",
+    "image_url": "https://images.adsttc.com/media/images/6a22/9731/d2d3/6e00/0102/f1c7/medium_jpg/01-photo-24.jpg?1780651858",
+    "typology": [
+      "Mixed Use Architecture",
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-06-08T00:00:00.000Z",
+    "ingested_at": "2026-06-08T05:55:40.168Z"
+  },
+  {
+    "id": "43ca585d-fce6-400e-8f3a-15d1e49acd39",
+    "title": "Gong’s House",
+    "creator": "Various Associates",
+    "location": "Wenzhou",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1018074/gongs-house-various-associates",
+    "image_url": "https://images.adsttc.com/media/images/667a/0b62/f15c/cd3c/a6a2/a40b/medium_jpg/gongs-house-various-associates_36.jpg?1719274357",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-07T21:00:00.000Z",
+    "ingested_at": "2026-06-08T05:55:40.171Z"
   }
 ]
