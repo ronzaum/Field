@@ -13245,5 +13245,23 @@
     "material": [],
     "published_at": "2026-06-08T12:00:00.000Z",
     "ingested_at": "2026-06-08T19:24:04.748Z"
+  },
+  {
+    "id": "f2a97b0d-9545-4117-b6aa-50ef02ffee43",
+    "title": "710 House",
+    "creator": "BLOCO Arquitetos",
+    "location": "Brasília",
+    "country": "Brazil",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041948/710-house-bloco-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a15/7eaa/093e/923a/8800/b5ae/medium_jpg/casa-710-bloco-arquitetos_5.jpg?1779793630",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-08T15:00:00.000Z",
+    "ingested_at": "2026-06-08T21:53:47.852Z"
   }
 ]
