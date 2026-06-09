@@ -13263,5 +13263,40 @@
     "material": [],
     "published_at": "2026-06-08T15:00:00.000Z",
     "ingested_at": "2026-06-08T21:53:47.852Z"
+  },
+  {
+    "id": "400f62f9-e8ca-40b0-962d-c78f693eeb24",
+    "title": "Parnasambhar",
+    "creator": "N. B. Architects",
+    "location": "Bordi",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042228/parnasambhar-n-b-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a22/efec/d2d3/6e00/0102/f298/medium_jpg/09.jpg?1780674577",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-08T19:00:00.000Z",
+    "ingested_at": "2026-06-09T04:01:24.058Z"
+  },
+  {
+    "id": "fa8c38b5-d016-4565-aa22-42066007ac03",
+    "title": "Transformation House ME. in Brissago",
+    "creator": "Wespi de Meuron Romeo architects",
+    "location": "Brissago",
+    "country": "Switzerland",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041966/transformation-house-me-in-brissago-wespi-de-meuron-romeo-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a18/4da2/35eb/2400/01f0/48eb/medium_jpg/CasaMe_Albo-1.jpg?1779977656",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-08T06:00:00.000Z",
+    "ingested_at": "2026-06-09T04:01:24.069Z"
   }
 ]
