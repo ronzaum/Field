@@ -13409,5 +13409,23 @@
     "material": [],
     "published_at": "2026-06-09T10:00:00.000Z",
     "ingested_at": "2026-06-09T16:07:29.120Z"
+  },
+  {
+    "id": "87722667-dd03-471e-a324-66605ce7300b",
+    "title": "Abadim House",
+    "creator": "Paulo Moreira Architectures",
+    "location": "Cabeceiras de Basto",
+    "country": "Portugal",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041950/abadim-house-paulo-moreira-architectures",
+    "image_url": "https://images.adsttc.com/media/images/6a17/4dd8/35eb/2400/01f0/4792/medium_jpg/Casa_Abadim_by_Ivo_Tavares_04.jpg?1779912202",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T15:00:00.000Z",
+    "ingested_at": "2026-06-09T21:50:47.311Z"
   }
 ]
