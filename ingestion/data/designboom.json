@@ -4721,5 +4721,51 @@
     "material": [],
     "published_at": "2026-06-09T02:20:58.000Z",
     "ingested_at": "2026-06-09T04:01:24.836Z"
+  },
+  {
+    "id": "1e7ad4c6-a5ad-422a-be2c-87785a8c6b0c",
+    "title": "crafting with code: how architects reinvent making through robotics and digital fabrication",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/crafting-code-architects-robotics-digital-fabrication/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/crafting-code-architects-robotics-digital-fabrication-designboom-700-500x400-22b08q85r463.jpg",
+    "typology": [
+      "architecture",
+      "3D printing",
+      "bjarke ingels group / BIG",
+      "ceramic art and design",
+      "CRAFTING THE FUTURE",
+      "studio RAP",
+      "the new raw"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T10:50:40.000Z",
+    "ingested_at": "2026-06-09T12:08:17.695Z"
+  },
+  {
+    "id": "9d21cfb0-5edd-4baa-ab50-bace04bb3573",
+    "title": "vens vanbelle reshapes painter’s former home through de stijl aesthetics and primary colors",
+    "creator": "Atelier Vens Vanbelle",
+    "location": "Aalter",
+    "country": "Belgium",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/vens-vanbelle-painter-former-home-de-stijl-aesthetics-primary-colors-antoon-de-clerck-ine-charles/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/aalter-belgium-atelier-vens-vanbelle-antoon-de-clerck-renovation-residence-designboom-700-500x400-22b08q85r812.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in belgium",
+      "atelier vens vanbelle",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T10:05:56.000Z",
+    "ingested_at": "2026-06-09T12:08:17.714Z"
   }
 ]

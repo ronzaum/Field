@@ -628,5 +628,26 @@
     "material": [],
     "published_at": "2026-06-06T10:00:05.000Z",
     "ingested_at": "2026-06-06T10:09:46.805Z"
+  },
+  {
+    "id": "4514f4d6-d51e-49a5-a77b-dce3c48a7555",
+    "title": "Overhanging balconies to unite Albanian housing blocks",
+    "creator": "Zaha Hadid Architects",
+    "location": "Albania",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/the-nest-zaha-hadid-architects-housing-residential-tirana-albania_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Apartments",
+      "Zaha Hadid Architects",
+      "Housing",
+      "Tirana"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T10:00:26.000Z",
+    "ingested_at": "2026-06-09T12:08:16.717Z"
   }
 ]

@@ -13336,5 +13336,42 @@
     "material": [],
     "published_at": "2026-06-09T00:00:00.000Z",
     "ingested_at": "2026-06-09T08:33:06.414Z"
+  },
+  {
+    "id": "fa81a2aa-c9ea-4653-853c-3c877e594499",
+    "title": "CP Rancho",
+    "creator": "Weber Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042210/cp-rancho-weber-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a1d/5b30/488f/0b01/7f4d/0f04/medium_jpg/rancho-cp-weber-arquitectos_7.jpg?1780308851",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T07:00:00.000Z",
+    "ingested_at": "2026-06-09T12:08:16.562Z"
+  },
+  {
+    "id": "41e7daf3-e2e5-44c6-a361-0c000147fec6",
+    "title": "Ara Manor",
+    "creator": "Reincarnation",
+    "location": "Baroicha",
+    "country": "Bangladesh",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042246/ara-manor-reincarnation",
+    "image_url": "https://images.adsttc.com/media/images/6a26/9467/d2d3/6e00/0102/f373/medium_jpg/__Mehedi_Hasan_Junaid___27_.jpg?1780913339",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T03:00:00.000Z",
+    "ingested_at": "2026-06-09T12:08:16.565Z"
   }
 ]
