@@ -13373,5 +13373,41 @@
     "material": [],
     "published_at": "2026-06-09T03:00:00.000Z",
     "ingested_at": "2026-06-09T12:08:16.565Z"
+  },
+  {
+    "id": "23926ecb-315c-491f-9d07-930a38f2f178",
+    "title": "Casa Tlaloc",
+    "creator": "Lopez Gonzalez Studio",
+    "location": "Xalapa",
+    "country": "Mexico",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041889/casa-tlaloc-lopez-gonzalez-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a16/ad85/35eb/2400/01f0/4638/medium_jpg/CasaTlaloc_LOPEZ_GONZALEZ_12.jpg?1779871215",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T12:00:00.000Z",
+    "ingested_at": "2026-06-09T16:07:29.117Z"
+  },
+  {
+    "id": "9ad72894-7dbe-431f-a801-85d2206eb865",
+    "title": "Cherry Orchard  Shared Living Spaces",
+    "creator": "Actual Office",
+    "location": "London",
+    "country": "United Kingdom",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042278/cherry-orchard-shared-living-spaces-actual-office",
+    "image_url": "https://images.adsttc.com/media/images/6a27/5168/d2d3/6e00/0102/f4a6/medium_jpg/22_Cherry_Orchard-01.jpg?1780961819",
+    "typology": [
+      "Residential Architecture",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T10:00:00.000Z",
+    "ingested_at": "2026-06-09T16:07:29.120Z"
   }
 ]
