@@ -13542,5 +13542,23 @@
     "material": [],
     "published_at": "2026-06-10T06:00:00.000Z",
     "ingested_at": "2026-06-10T12:26:39.161Z"
+  },
+  {
+    "id": "f77fc228-a4fc-4704-bb92-7b4be9fc7722",
+    "title": "House #474",
+    "creator": "PLATAFORMArq",
+    "location": "Teixoso",
+    "country": "Portugal",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042138/house-number-474-plataformarq",
+    "image_url": "https://images.adsttc.com/media/images/6a1f/374c/0f40/eb00/01df/5564/medium_jpg/JFS_8618-HDR.jpg?1780430748",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T10:00:00.000Z",
+    "ingested_at": "2026-06-10T16:38:15.663Z"
   }
 ]
