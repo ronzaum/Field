@@ -4787,5 +4787,45 @@
     "material": [],
     "published_at": "2026-06-09T18:05:50.000Z",
     "ingested_at": "2026-06-09T19:19:28.803Z"
+  },
+  {
+    "id": "54177cc1-e5ec-4918-9d96-dce152e6995a",
+    "title": "an intricate timber viewpoint by dum-dum lab rises beside chile’s laguna troya",
+    "creator": "Dum-Dum Lab",
+    "location": "Laguna Troya",
+    "country": "Chile",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/timber-viewpoint-dum-dum-lab-chile-laguna-troya/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/dum-dum-lab-troya-viewpoint-designboom-700-500x400-22b08q85r713.jpg",
+    "typology": [
+      "architecture",
+      "architecture in chile",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T03:55:31.000Z",
+    "ingested_at": "2026-06-10T04:12:57.310Z"
+  },
+  {
+    "id": "0af86223-c5fa-4bb1-b148-84ba6327d78b",
+    "title": "steel rings and stepped platforms spiral around trees in landscape gathering installation",
+    "creator": "Studio Clash",
+    "location": "Zibo",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/spiraling-steel-rings-stepped-platforms-trees-landscape-gathering-installation-circle-pit-studio-clash/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/circle-pit-installation-studio-clash-four-xiangchun-trees-zibo-china-designboom-700-500x400-22b08q85r131.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in china",
+      "interactive installation",
+      "landscape architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T23:15:25.000Z",
+    "ingested_at": "2026-06-10T04:12:57.319Z"
   }
 ]

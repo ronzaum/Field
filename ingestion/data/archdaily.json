@@ -13427,5 +13427,25 @@
     "material": [],
     "published_at": "2026-06-09T15:00:00.000Z",
     "ingested_at": "2026-06-09T21:50:47.311Z"
+  },
+  {
+    "id": "266673af-e56d-48c9-b884-732d1611b539",
+    "title": "555 Sunshine Farmshop",
+    "creator": "SO",
+    "location": "Khao Yai",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042260/555-sunshine-farmshop-so",
+    "image_url": "https://images.adsttc.com/media/images/6a26/ae66/1a3b/b201/881e/34aa/medium_jpg/555-sunshine-farmshop-so_19.jpg?1780919918",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-09T19:00:00.000Z",
+    "ingested_at": "2026-06-10T04:12:56.417Z"
   }
 ]
