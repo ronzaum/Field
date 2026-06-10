@@ -13577,5 +13577,23 @@
     "material": [],
     "published_at": "2026-06-10T12:00:00.000Z",
     "ingested_at": "2026-06-10T19:37:51.156Z"
+  },
+  {
+    "id": "b1c59956-0e16-4bbd-8154-7b5bbdbcec02",
+    "title": "The Porch House",
+    "creator": "Vasco Burnay Arquitectura",
+    "location": "Vila Franca de Xira",
+    "country": "Portugal",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042183/the-porch-house-vasco-burnay-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a20/c39c/2381/be35/2eb7/6453/medium_jpg/casa-do-alpendre-vasco-burnay-arquitectura_30.jpg?1780532140",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T15:00:00.000Z",
+    "ingested_at": "2026-06-10T22:08:20.399Z"
   }
 ]
