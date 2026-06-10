@@ -13447,5 +13447,64 @@
     "material": [],
     "published_at": "2026-06-09T19:00:00.000Z",
     "ingested_at": "2026-06-10T04:12:56.417Z"
+  },
+  {
+    "id": "78d0a4b8-cc70-48a1-acd5-fe6194f0e62d",
+    "title": "Śhālā Twam Community Hub",
+    "creator": "Bhoomija Creations",
+    "location": "Thrippunithara",
+    "country": "India",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042298/shala-twam-community-hub-bhoomija-creations",
+    "image_url": "https://images.adsttc.com/media/images/6a28/10aa/325f/9301/8751/0977/medium_jpg/shala-twam-bhoomija-creations_1.jpg?1781010639",
+    "typology": [
+      "Public Architecture",
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T03:00:00.000Z",
+    "ingested_at": "2026-06-10T08:53:00.756Z"
+  },
+  {
+    "id": "3bc9341b-ffcd-485b-9e23-58770fe283f5",
+    "title": "CROUS student restaurant",
+    "creator": "BPM Architectes",
+    "location": "Talence",
+    "country": "France",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042311/crous-student-restaurant-bpm-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a28/52d3/8373/7501/8831/0942/medium_jpg/crous-student-restaurant-bpm-architectes_7.jpg?1781027555",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Educational Architecture",
+      "Higher Education",
+      "University",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T02:00:00.000Z",
+    "ingested_at": "2026-06-10T08:53:00.759Z"
+  },
+  {
+    "id": "7f2e2e8e-dbbb-447f-ba36-d666ac73406d",
+    "title": "Suzhounan Railway Station",
+    "creator": "CCTN Design",
+    "location": "Suzhou",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1025988/suzhounan-railway-station-cctn-design",
+    "image_url": "https://images.adsttc.com/media/images/678e/c9b4/a704/7901/883c/93fe/medium_jpg/suzhounan-railway-station-cctn-design_6.jpg?1737411101",
+    "typology": [
+      "Infrastructure",
+      "Transportation",
+      "Train Station"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T00:00:00.000Z",
+    "ingested_at": "2026-06-10T08:53:00.761Z"
   }
 ]
