@@ -4827,5 +4827,26 @@
     "material": [],
     "published_at": "2026-06-09T23:15:25.000Z",
     "ingested_at": "2026-06-10T04:12:57.319Z"
+  },
+  {
+    "id": "09de87ca-7951-4bfc-9171-f2123dbafccd",
+    "title": "sagrada família inaugurates 176-meter tower on centenary of gaudí’s death",
+    "creator": "Antoni Gaudí (original design)",
+    "location": "Barcelona",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gaudi-sagrada-familia-full-height-cross-tower-jesus-christ/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/gaudi-sagrada-familia-full-height-cross-tower-jesus-christ-designboom-700-500x400-22b08q85r577.jpg",
+    "typology": [
+      "architecture",
+      "video",
+      "architecture in barcelona",
+      "architecture in spain",
+      "church architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T09:45:54.000Z",
+    "ingested_at": "2026-06-10T12:26:40.158Z"
   }
 ]
