@@ -13560,5 +13560,22 @@
     "material": [],
     "published_at": "2026-06-10T10:00:00.000Z",
     "ingested_at": "2026-06-10T16:38:15.663Z"
+  },
+  {
+    "id": "462642b2-e9e8-4042-b9af-35bab0091d75",
+    "title": "Art Building – Cardenal Spellman Educational Unit",
+    "creator": "STUDIO BLUR",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042211/art-building-cardenal-spellman-educational-unit-studio-blur",
+    "image_url": "https://images.adsttc.com/media/images/6a1e/8ee6/fd52/922d/0b0b/9bfc/medium_jpg/edificio-de-arte-unidad-educativa-cardenal-spellman-studio-blur_36.jpg?1780387662",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-10T12:00:00.000Z",
+    "ingested_at": "2026-06-10T19:37:51.156Z"
   }
 ]
