@@ -13742,5 +13742,23 @@
     "material": [],
     "published_at": "2026-06-11T10:00:00.000Z",
     "ingested_at": "2026-06-11T18:19:40.490Z"
+  },
+  {
+    "id": "70dd42c8-7617-48e2-bcec-1cdd262cc9b0",
+    "title": "Vão House",
+    "creator": "Studio Carlito e Renata Pascucci",
+    "location": "Maresias",
+    "country": "Brasil",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042080/vao-house-studio-carlito-e-renata-pascucci",
+    "image_url": "https://images.adsttc.com/media/images/6a19/e8fb/35eb/2400/01f0/4b0c/medium_jpg/Projeto_Carlito_e_Renata_Pascucci_Arquitetura_-_V_o_I_Foto_Julia_Novoa___108___1_.jpg?1780083106",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-11T15:00:00.000Z",
+    "ingested_at": "2026-06-11T21:24:48.393Z"
   }
 ]
