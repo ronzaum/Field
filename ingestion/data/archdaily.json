@@ -13631,5 +13631,60 @@
     "material": [],
     "published_at": "2026-06-11T00:00:00.000Z",
     "ingested_at": "2026-06-11T05:54:42.640Z"
+  },
+  {
+    "id": "c10f2025-32cd-46b6-b847-aae3ba09ef7c",
+    "title": "The Luanda Library Technology Park",
+    "creator": "Typsa",
+    "location": "Luanda",
+    "country": "Angola",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041888/the-luanda-library-technology-park-typsa",
+    "image_url": "https://images.adsttc.com/media/images/6a16/ad21/35eb/2400/01f0/461e/medium_jpg/Luanda-5.jpg?1779871036",
+    "typology": [
+      "Cultural Architecture",
+      "Library"
+    ],
+    "material": [],
+    "published_at": "2026-06-11T06:00:00.000Z",
+    "ingested_at": "2026-06-11T10:46:26.907Z"
+  },
+  {
+    "id": "8a8fa610-cba9-4a78-8e9b-40db422cfe77",
+    "title": "Jugnoo Cabin",
+    "creator": "PMA madhushala",
+    "location": "Panshet",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042340/jugnoo-pma-madhushala",
+    "image_url": "https://images.adsttc.com/media/images/6a29/a8bf/a0e0/6344/6c82/fe02/medium_jpg/jugnoo-pma-madhushala_13.jpg?1781115099",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-06-11T03:00:00.000Z",
+    "ingested_at": "2026-06-11T10:46:26.909Z"
+  },
+  {
+    "id": "5bdaa5c9-ed92-4a55-aaf5-41b5ed6c112d",
+    "title": "Mount Martha House",
+    "creator": "Victoria Merrett Architects",
+    "location": "Mornington Peninsula",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042297/mount-martha-house-victoria-merrett-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a28/0bc1/54de/fb73/ba4f/a457/medium_jpg/mount-martha-house-victoria-merrett-architects_18.jpg?1781009547",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-11T02:00:00.000Z",
+    "ingested_at": "2026-06-11T10:46:26.912Z"
   }
 ]
