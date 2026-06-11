@@ -13703,5 +13703,44 @@
     "material": [],
     "published_at": "2026-06-11T07:00:00.000Z",
     "ingested_at": "2026-06-11T14:43:29.458Z"
+  },
+  {
+    "id": "04e6af2d-ef6e-4e36-b1a6-a0dbe5d61334",
+    "title": "Tabancura School Library Pavilion",
+    "creator": "José Ignacio Valdivieso",
+    "location": "Santiago",
+    "country": "Chile",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042213/tabancura-school-library-pavilion-jose-ignacio-valdivieso",
+    "image_url": "https://images.adsttc.com/media/images/69fa/f43d/754a/ba01/8bca/84d1/medium_jpg/pabellon-biblioteca-colegio-tabancura-valdivieso-arquitectos_2.jpg?1778054222",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-06-11T12:00:00.000Z",
+    "ingested_at": "2026-06-11T18:19:40.487Z"
+  },
+  {
+    "id": "e671a5eb-7d66-4116-9153-e863a4024574",
+    "title": "Malibu High School",
+    "creator": "KoningEizenberg Architecture",
+    "location": "Malibu",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042314/malibu-high-school-koningeizenberg-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a28/c118/ba07/4e00/01cd/a438/medium_jpg/L1590365_-_web.jpg?1781055911",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "High School"
+    ],
+    "material": [],
+    "published_at": "2026-06-11T10:00:00.000Z",
+    "ingested_at": "2026-06-11T18:19:40.490Z"
   }
 ]
