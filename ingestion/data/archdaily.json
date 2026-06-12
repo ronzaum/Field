@@ -13760,5 +13760,82 @@
     "material": [],
     "published_at": "2026-06-11T15:00:00.000Z",
     "ingested_at": "2026-06-11T21:24:48.393Z"
+  },
+  {
+    "id": "83d1656d-d5cd-4223-b18c-e5f516afc8ba",
+    "title": "Beymen Tersane",
+    "creator": "OMA",
+    "location": "Istanbul",
+    "country": "Türkiye",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042368/beymen-tersane-oma",
+    "image_url": "https://images.adsttc.com/media/images/6a2a/bada/6341/4201/8a2c/32d0/medium_jpg/beymen-tersane-oma_2.jpg?1781185296",
+    "typology": [
+      "Refurbishment",
+      "Adaptive reuse",
+      "Commercial Architecture",
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-06-12T03:00:00.000Z",
+    "ingested_at": "2026-06-12T09:02:30.498Z"
+  },
+  {
+    "id": "d0751605-8ca7-4408-a0b9-494b8a9641ad",
+    "title": "Clyde Creek Primary School",
+    "creator": "Kerstin Thompson Architects",
+    "location": "Clyde",
+    "country": "Australia",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042367/clyde-creek-primary-school-kerstin-thompson-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a2a/b3fd/6341/4201/8a2c/3288/medium_jpg/clyde-creek-primary-school-kerstin-thompson-architects_3.jpg?1781183546",
+    "typology": [
+      "Educational Architecture",
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-06-12T02:00:00.000Z",
+    "ingested_at": "2026-06-12T09:02:30.500Z"
+  },
+  {
+    "id": "faed598e-4c6f-458e-91e1-82004b5d93b2",
+    "title": "The Earth Valley Theater",
+    "creator": "GOA (Group of Architects)",
+    "location": "Wuxi",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042338/the-earth-valley-theater-goa-group-of-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a29/a50d/8373/7501/8831/0e14/medium_jpg/the-earth-valley-theater-goa-group-of-architects_6.jpg?1781114145",
+    "typology": [
+      "Landscape Architecture",
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "theater"
+    ],
+    "material": [],
+    "published_at": "2026-06-12T00:00:00.000Z",
+    "ingested_at": "2026-06-12T09:02:30.503Z"
+  },
+  {
+    "id": "0e744258-6774-4189-90af-15a0e2b25513",
+    "title": "Four Walls Pavilion",
+    "creator": "Studio Mango",
+    "location": "Chennai",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042335/four-walls-pavilion-studio-mango",
+    "image_url": "https://images.adsttc.com/media/images/6a29/803b/ba07/4e00/01cd/a4e7/medium_jpg/1.jpg?1781104779",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-11T19:00:00.000Z",
+    "ingested_at": "2026-06-12T09:02:30.505Z"
   }
 ]
