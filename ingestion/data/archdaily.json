@@ -13913,5 +13913,23 @@
     "material": [],
     "published_at": "2026-06-12T12:00:00.000Z",
     "ingested_at": "2026-06-12T19:09:22.587Z"
+  },
+  {
+    "id": "0afb2e50-c61c-4f56-bdcf-96ed1ae2d656",
+    "title": "Avocado Tree House",
+    "creator": "Dayala e Rafael arquitetos associados",
+    "location": "Jardins Itália",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042390/avocado-tree-house-dayala-e-rafael-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/6ddd/712c/db00/01fb/e1c3/medium_jpg/CASA_ABACATEIRO-0187x.jpg?1781231145",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-12T15:00:00.000Z",
+    "ingested_at": "2026-06-12T21:52:38.991Z"
   }
 ]
