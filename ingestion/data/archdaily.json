@@ -13837,5 +13837,45 @@
     "material": [],
     "published_at": "2026-06-11T19:00:00.000Z",
     "ingested_at": "2026-06-12T09:02:30.505Z"
+  },
+  {
+    "id": "a6b0417b-f5ac-4e40-ad7c-ba84227fd1f6",
+    "title": "TITLIS Tower",
+    "creator": "Herzog & de Meuron",
+    "location": "Titlis",
+    "country": "Switzerland",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042379/titlis-tower-herzog-and-de-meuron",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/262f/6341/4201/8a2c/34c9/medium_jpg/titlis-tower-herzog-and-de-meuron_1.jpg?1781212778",
+    "typology": [
+      "Cultural Architecture",
+      "Learning",
+      "watching tower",
+      "Sports Architecture",
+      "Recreation & Training",
+      "Ski Center"
+    ],
+    "material": [],
+    "published_at": "2026-06-12T07:00:00.000Z",
+    "ingested_at": "2026-06-12T12:57:28.820Z"
+  },
+  {
+    "id": "53a353d9-7fe5-4e0c-bd93-64382186023d",
+    "title": "Cabane 7L & Librairie 7L",
+    "creator": "salazarsequeromedina",
+    "location": "Roma",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042365/cabane-7l-and-librairie-7l-salazarsequeromedina",
+    "image_url": "https://images.adsttc.com/media/images/6a2a/8b61/6341/4201/8a2c/31fe/medium_jpg/cabane-7l-and-librairie-7l-salazarsequeromedina_17.jpg?1781173128",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-12T06:00:00.000Z",
+    "ingested_at": "2026-06-12T12:57:28.822Z"
   }
 ]
