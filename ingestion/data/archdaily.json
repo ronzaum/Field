@@ -13984,5 +13984,22 @@
     "material": [],
     "published_at": "2026-06-13T02:00:00.000Z",
     "ingested_at": "2026-06-13T08:25:17.759Z"
+  },
+  {
+    "id": "79ca3366-7eb6-48ca-9628-79c1e547e6b8",
+    "title": "2226 Robin Seestadt Office Building",
+    "creator": "Baumschlager Eberle Architekten",
+    "location": "Wien",
+    "country": "Austria",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042386/2226-robin-seestadt-office-building-baumschlager-eberle-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/609a/712c/db00/01fb/e18d/medium_jpg/20241106_2019_MIS_WIE_190505_2226_ROBIN_Seestadt_Aspern_Wien_S4_Final_018_MH_autorisiert__1_.jpg?1781227693",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T06:00:00.000Z",
+    "ingested_at": "2026-06-13T14:10:59.991Z"
   }
 ]
