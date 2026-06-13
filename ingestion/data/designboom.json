@@ -4911,5 +4911,25 @@
     "material": [],
     "published_at": "2026-06-12T15:45:30.000Z",
     "ingested_at": "2026-06-12T16:25:04.408Z"
+  },
+  {
+    "id": "acc36ffb-3822-4b84-af89-1bde06331015",
+    "title": "baobab-inspired floating waterfall power plant generates renewable energy off madagascar",
+    "creator": "Ahmad Eghtesad",
+    "location": "Madagascar",
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/baobab-floating-waterfall-power-plant-renewable-energy-madagascar-ahmad-eghtesad/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/baobab-waterfall-power-plant-ahmad-eghtesad-madagascar-designboom-700-1-500x400-22b08q85r286.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in madagascar",
+      "floating architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T00:55:50.000Z",
+    "ingested_at": "2026-06-13T04:17:12.862Z"
   }
 ]

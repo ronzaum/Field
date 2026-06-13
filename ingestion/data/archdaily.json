@@ -13931,5 +13931,22 @@
     "material": [],
     "published_at": "2026-06-12T15:00:00.000Z",
     "ingested_at": "2026-06-12T21:52:38.991Z"
+  },
+  {
+    "id": "f3ede403-b810-48ac-840e-5a644300d204",
+    "title": "Jing'An Investment Center",
+    "creator": "Nikken Sekkei",
+    "location": "Shanghai",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042339/jingan-investment-center-nikken-sekkei",
+    "image_url": "https://images.adsttc.com/media/images/6a29/a4c2/ba07/4e00/01cd/a529/medium_jpg/04_mintwow.jpg?1781114335",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-12T19:00:00.000Z",
+    "ingested_at": "2026-06-13T04:17:11.626Z"
   }
 ]
