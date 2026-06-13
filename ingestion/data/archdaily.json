@@ -14021,5 +14021,25 @@
     "material": [],
     "published_at": "2026-06-13T09:00:00.000Z",
     "ingested_at": "2026-06-13T16:18:51.045Z"
+  },
+  {
+    "id": "d3bf7e85-8728-48a7-b719-f6fc5c0dc183",
+    "title": "La Piada",
+    "creator": "pfeffermint AG",
+    "location": "Zürich",
+    "country": "Switzerland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042277/la-piada-pfeffermint-ag",
+    "image_url": "https://images.adsttc.com/media/images/6a27/3be7/54de/fb01/89c8/fbfd/medium_jpg/la-piada-pfeffermint-ag_1.jpg?1780956147",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Bar",
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T11:00:00.000Z",
+    "ingested_at": "2026-06-13T18:12:53.904Z"
   }
 ]
