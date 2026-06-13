@@ -14001,5 +14001,25 @@
     "material": [],
     "published_at": "2026-06-13T06:00:00.000Z",
     "ingested_at": "2026-06-13T14:10:59.991Z"
+  },
+  {
+    "id": "a5a10387-1b6d-4b7d-a37e-3aa3313e085a",
+    "title": "Candy Loft",
+    "creator": "SUSA",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1038784/candy-loft-susa",
+    "image_url": "https://images.adsttc.com/media/images/698f/4a9e/a4ec/4d00/01a7/e954/medium_jpg/25020-109.jpg?1770998596",
+    "typology": [
+      "Residential Architecture",
+      "Refurbishment",
+      "Adaptive reuse",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T09:00:00.000Z",
+    "ingested_at": "2026-06-13T16:18:51.045Z"
   }
 ]
