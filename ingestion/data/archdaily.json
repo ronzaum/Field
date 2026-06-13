@@ -14041,5 +14041,24 @@
     "material": [],
     "published_at": "2026-06-13T11:00:00.000Z",
     "ingested_at": "2026-06-13T18:12:53.904Z"
+  },
+  {
+    "id": "4ebb8f78-5f74-474d-8457-dc1d73fe9632",
+    "title": "Vicco Building",
+    "creator": "sauermartins",
+    "location": "Porto Alegre",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042352/vicco-building-sauermartins",
+    "image_url": "https://images.adsttc.com/media/images/6a2a/19d7/6341/4201/8a2c/2f86/medium_jpg/edificio-vicco-sauermartins_3.jpg?1781144038",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T15:00:00.000Z",
+    "ingested_at": "2026-06-13T20:19:45.702Z"
   }
 ]
