@@ -13948,5 +13948,41 @@
     "material": [],
     "published_at": "2026-06-12T19:00:00.000Z",
     "ingested_at": "2026-06-13T04:17:11.626Z"
+  },
+  {
+    "id": "4731c690-f656-43b2-b058-34b66a8d10f8",
+    "title": "Villa E",
+    "creator": "Vásquez & López Arquitectos",
+    "location": "Pucallpa",
+    "country": "Peru",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042263/villa-e-vasquez-and-lopez-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a26/baca/d2d3/6e00/0102/f3dc/medium_jpg/01_East_facade_view__Eleazar_Cuados.jpg?1780923117",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T03:00:00.000Z",
+    "ingested_at": "2026-06-13T08:25:17.756Z"
+  },
+  {
+    "id": "0c43c95a-9086-4453-82ec-7f8bedce5fc7",
+    "title": "OASIZ",
+    "creator": "Ruhaus Studio",
+    "location": "1st Floor Atrium",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042240/oasiz-ruhaus-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a29/20c1/8373/7501/8831/0b0d/medium_jpg/oasiz-ruhaus-studio_24.jpg?1781080461",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T02:00:00.000Z",
+    "ingested_at": "2026-06-13T08:25:17.759Z"
   }
 ]
