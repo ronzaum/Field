@@ -14060,5 +14060,23 @@
     "material": [],
     "published_at": "2026-06-13T15:00:00.000Z",
     "ingested_at": "2026-06-13T20:19:45.702Z"
+  },
+  {
+    "id": "9aa87b79-7fd8-493a-9ccd-9cdd4b7c492e",
+    "title": "KLE School, Sankeshwar",
+    "creator": "Shreyas Patil Architects",
+    "location": "Sankeshwar",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042416/kle-school-sankeshwar-shreyas-patil-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a2d/1635/712c/db00/01fb/e28e/medium_jpg/2.jpg?1781339777",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T17:00:00.000Z",
+    "ingested_at": "2026-06-13T22:09:33.135Z"
   }
 ]
