@@ -14173,5 +14173,23 @@
     "material": [],
     "published_at": "2026-06-14T09:00:00.000Z",
     "ingested_at": "2026-06-14T15:08:52.471Z"
+  },
+  {
+    "id": "50fe0a2a-8d8f-473a-8905-4a1ed17b9bca",
+    "title": "Casa Circular",
+    "creator": "efcarquitetura",
+    "location": "Indaiatuba-SP",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041947/casa-circular-efcarquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a0d/fe56/35eb/2400/01f0/4055/medium_jpg/03.jpg?1779302167",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T15:00:00.000Z",
+    "ingested_at": "2026-06-14T21:19:01.791Z"
   }
 ]
