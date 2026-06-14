@@ -649,5 +649,25 @@
     "material": [],
     "published_at": "2026-06-09T10:00:26.000Z",
     "ingested_at": "2026-06-09T12:08:16.717Z"
+  },
+  {
+    "id": "85bb27fd-6f6d-42f6-a235-998c650bdf03",
+    "title": "Vacant supermarket in Portland converted into library facility",
+    "creator": "Hennebery Eddy",
+    "location": "Libraries",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/14/multnomah-county-library-operations-center-portland-henneber-eddy-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/multnomah-county-library-operations-center-oregon-hennebery-eddy-architects_dezeen_2364_sq_15-1704x1217-1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Oregon",
+      "Portland",
+      "Hennebery Eddy Architects"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T17:00:28.000Z",
+    "ingested_at": "2026-06-14T23:13:15.975Z"
   }
 ]
