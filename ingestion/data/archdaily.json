@@ -14097,5 +14097,43 @@
     "material": [],
     "published_at": "2026-06-13T21:00:00.000Z",
     "ingested_at": "2026-06-14T05:54:34.029Z"
+  },
+  {
+    "id": "a39efcfc-dfc1-4124-8757-962459fe0279",
+    "title": "House in a Former Factory, Renovation and Extension",
+    "creator": "Morsa Taller + Pablo Giterman",
+    "location": "Buenos Aires",
+    "country": "Argentina",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042397/house-in-a-former-factory-renovation-and-extension-morsa-taller-plus-pablo-giterman",
+    "image_url": "https://images.adsttc.com/media/images/6a26/d9c3/325f/9301/8751/0528/medium_jpg/casa-en-una-ex-fabrica-reforma-y-ampliacion-morsa-taller-plus-pablo-giterman_8.jpg?1780931029",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T03:00:00.000Z",
+    "ingested_at": "2026-06-14T09:44:33.898Z"
+  },
+  {
+    "id": "0d30bac1-4b2f-4da1-a6a1-9698e04f1a3b",
+    "title": "Mount Bazaar",
+    "creator": "People’s Architecture Office",
+    "location": "Fuxing Island",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042317/mount-bazaar-peoples-architecture-office",
+    "image_url": "https://images.adsttc.com/media/images/6a29/16dd/a0e0/6301/89c9/ef61/medium_jpg/mount-bazaar-peoples-architecture-office_45.jpg?1781077755",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T02:00:00.000Z",
+    "ingested_at": "2026-06-14T09:44:33.900Z"
   }
 ]
