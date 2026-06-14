@@ -14135,5 +14135,22 @@
     "material": [],
     "published_at": "2026-06-14T02:00:00.000Z",
     "ingested_at": "2026-06-14T09:44:33.900Z"
+  },
+  {
+    "id": "c85c0a13-e136-4636-9e91-e5243c99c682",
+    "title": "G-Beach Residence",
+    "creator": "B+D+M Architetti",
+    "location": "Jesolo",
+    "country": "Italy",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042315/g-beach-residence-b-plus-d-plus-m-architetti",
+    "image_url": "https://images.adsttc.com/media/images/6a28/c1e2/ba07/4e00/01cd/a447/medium_jpg/ALESSANDRA_BELLO_Featured_Image_GBeach__MGL1012-2__ab_.jpg?1781055998",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T06:00:00.000Z",
+    "ingested_at": "2026-06-14T12:01:27.138Z"
   }
 ]
