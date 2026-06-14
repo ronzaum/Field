@@ -14078,5 +14078,24 @@
     "material": [],
     "published_at": "2026-06-13T17:00:00.000Z",
     "ingested_at": "2026-06-13T22:09:33.135Z"
+  },
+  {
+    "id": "21eb5d1e-be96-4d74-9d01-13812fa5eccc",
+    "title": "Sydney Harbour Bridge Cycleway Ramp",
+    "creator": "ASPECT Studios",
+    "location": "Milsons Point",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042420/sydney-harbour-bridge-cycleway-ramp-aspect-studios",
+    "image_url": "https://images.adsttc.com/media/images/6a2d/de70/aa48/ad01/89b7/cbb3/medium_jpg/sydney-harbour-bridge-cycleway-ramp-aspect-studios_4.jpg?1781390981",
+    "typology": [
+      "Infrastructure",
+      "Transportation",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-13T21:00:00.000Z",
+    "ingested_at": "2026-06-14T05:54:34.029Z"
   }
 ]
