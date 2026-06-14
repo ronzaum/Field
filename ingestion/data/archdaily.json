@@ -14152,5 +14152,26 @@
     "material": [],
     "published_at": "2026-06-14T06:00:00.000Z",
     "ingested_at": "2026-06-14T12:01:27.138Z"
+  },
+  {
+    "id": "dd347cac-73f8-40d6-802e-1d4a80775a0b",
+    "title": "Telekom Tower, Konstanz",
+    "creator": "Sauerbruch Hutton",
+    "location": "Konstanz",
+    "country": "Germany",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042385/telekom-tower-konstanz-sauerbruch-hutton",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/61c7/6341/427a/f935/4944/medium_jpg/telekom-tower-konstanz-sauerbruch-hutton_6.jpg?1781227995",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments",
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T09:00:00.000Z",
+    "ingested_at": "2026-06-14T15:08:52.471Z"
   }
 ]

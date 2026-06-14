@@ -4956,5 +4956,25 @@
     "material": [],
     "published_at": "2026-06-14T00:52:11.000Z",
     "ingested_at": "2026-06-14T05:54:34.836Z"
+  },
+  {
+    "id": "f1e6e630-4f0b-46e5-9e9d-e0221a3a156c",
+    "title": "PLAT ASIA uses box-like frames to connect fitness, dining, and play in beijing community hub",
+    "creator": "PLAT ASIA",
+    "location": "Fengtai District",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/plat-asia-box-frames-fitness-dining-play-beijing-community-foresky-center/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/plat-asia-beijing-foresky-community-center-box-frames-fitness-dining-play-designboom-700-500x400-22b08q85r013.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in beijing",
+      "PLAT ASIA"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T13:55:02.000Z",
+    "ingested_at": "2026-06-14T15:08:53.553Z"
   }
 ]
