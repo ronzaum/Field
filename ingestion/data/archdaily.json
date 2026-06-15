@@ -14191,5 +14191,59 @@
     "material": [],
     "published_at": "2026-06-14T15:00:00.000Z",
     "ingested_at": "2026-06-14T21:19:01.791Z"
+  },
+  {
+    "id": "c4a129e1-2054-4cba-a51f-67fa01bdafb3",
+    "title": "YunTuo Distillery",
+    "creator": "OLI Architecture",
+    "location": "Dali",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042359/yuntuo-distillery-oli-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a2a/7564/6341/4201/8a2c/30fe/medium_jpg/yuntuo-distillery-oli-architecture_1.jpg?1781167470",
+    "typology": [
+      "Industrial Architecture",
+      "Brewery"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T00:00:00.000Z",
+    "ingested_at": "2026-06-15T04:59:37.094Z"
+  },
+  {
+    "id": "6fedfe6c-f0aa-41c6-9191-8b965884e6d6",
+    "title": "Kenari House",
+    "creator": "Ken Workshop",
+    "location": "Jakarta Utara",
+    "country": "Indonesia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042424/kenari-house-ken-workshop",
+    "image_url": "https://images.adsttc.com/media/images/6a2e/854d/712c/db00/01fb/e2f5/medium_jpg/1P5A2091-HDR_11zon.jpg?1781433745",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T21:00:00.000Z",
+    "ingested_at": "2026-06-15T04:59:37.096Z"
+  },
+  {
+    "id": "12fefe20-6617-4240-ac9b-90aad5d9374c",
+    "title": "Beijing Foresky Community Center",
+    "creator": "PLAT ASIA",
+    "location": "Foresky Community",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042395/beijing-foresky-community-center-plat-asia",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/c34a/712c/db00/01fb/e1dc/medium_jpg/01_______________Zhu_Yumeng.jpg?1781252955",
+    "typology": [
+      "Interior Design",
+      "Healthcare Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-14T17:00:00.000Z",
+    "ingested_at": "2026-06-15T04:59:37.098Z"
   }
 ]
