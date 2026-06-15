@@ -14281,5 +14281,78 @@
     "material": [],
     "published_at": "2026-06-15T02:00:00.000Z",
     "ingested_at": "2026-06-15T11:20:00.247Z"
+  },
+  {
+    "id": "d063817d-b09f-4016-a70b-afd9bd765d39",
+    "title": "Resort Guest Amenities Building",
+    "creator": "Poik Stanley Wilcox Architects",
+    "location": "1590 Evermore Way Orlando",
+    "country": "United States",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042378/resort-guest-amenities-building-poik-stanley-wilcox-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/1cc3/712c/db00/01fb/e12b/medium_jpg/_Tim_Hursley_TH040424_PSW_Evermore_0025.jpg?1781210331",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T12:00:00.000Z",
+    "ingested_at": "2026-06-15T17:21:11.771Z"
+  },
+  {
+    "id": "ab7033d7-db24-4de6-9ff0-77b40249b581",
+    "title": "Hilltop House",
+    "creator": "W O V E N Architecture and Design",
+    "location": "Salt Spring Island",
+    "country": "Canada",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042330/hilltop-house-w-o-v-e-n-architecture-and-design",
+    "image_url": "https://images.adsttc.com/media/images/6a29/67ef/ba07/4e00/01cd/a4cd/medium_jpg/SIDE_1.jpg?1781098501",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T10:00:00.000Z",
+    "ingested_at": "2026-06-15T17:21:11.772Z"
+  },
+  {
+    "id": "a4687570-ebd6-4d4e-8fa9-5bf871e329b3",
+    "title": "Nieuw Bergen",
+    "creator": "MVRDV",
+    "location": "Eindhoven",
+    "country": "The Netherlands",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042421/nieuw-bergen-mvrdv",
+    "image_url": "https://images.adsttc.com/media/images/6a2d/e4d4/6341/4201/8a2c/3d7b/medium_jpg/nieuw-bergen-mvrdv_2.jpg?1781392622",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T07:00:00.000Z",
+    "ingested_at": "2026-06-15T17:21:11.775Z"
+  },
+  {
+    "id": "ec59ce8b-61d0-49ab-bcc6-0b7746f6a33a",
+    "title": "House on the Reservoir",
+    "creator": "Obranegra Arquitectos",
+    "location": "Retiro",
+    "country": "Colombia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042212/house-on-the-reservoir-obranegra-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a16/ab6e/35eb/2400/01f0/45c5/medium_jpg/25_MauricioCarvajal_Casa_en_el_Embalse.jpg?1779871052",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T06:00:00.000Z",
+    "ingested_at": "2026-06-15T17:21:11.777Z"
   }
 ]
