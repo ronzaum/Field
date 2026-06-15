@@ -14245,5 +14245,41 @@
     "material": [],
     "published_at": "2026-06-14T17:00:00.000Z",
     "ingested_at": "2026-06-15T04:59:37.098Z"
+  },
+  {
+    "id": "d46d02a7-62ba-4040-a2d5-1251ad6a3713",
+    "title": "House Alva",
+    "creator": "Arhitekti Počivašek Petranovič",
+    "location": "Slovenia",
+    "country": null,
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042387/house-alva-arhitekti-pocivasek-petranovic",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/61bd/712c/db00/01fb/e1a7/medium_jpg/08_House_Alva_-_Arhitekti_Pocivasek_Petranovic_-_foto_Urban_Petranovic-.jpg?1781228019",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T03:00:00.000Z",
+    "ingested_at": "2026-06-15T11:20:00.244Z"
+  },
+  {
+    "id": "2f0c03aa-015b-49fa-8781-37eed168caee",
+    "title": "Eva and Marc Besen Centre",
+    "creator": "Kerstin Thompson Architects",
+    "location": "Healesville",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042383/eva-and-marc-besen-centre-kerstin-thompson-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/583b/6341/4272/1e50/7b20/medium_jpg/eva-and-marc-besen-centre-kerstin-thompson-architects_1.jpg?1781225557",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Exhibition center"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T02:00:00.000Z",
+    "ingested_at": "2026-06-15T11:20:00.247Z"
   }
 ]

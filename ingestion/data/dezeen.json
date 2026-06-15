@@ -669,5 +669,28 @@
     "material": [],
     "published_at": "2026-06-14T17:00:28.000Z",
     "ingested_at": "2026-06-14T23:13:15.975Z"
+  },
+  {
+    "id": "b64ac2a5-4161-4afe-99d6-bbb9c4b15e2b",
+    "title": "Garden walls conceal compact London house",
+    "creator": "Inglis Badrashi Loddo",
+    "location": "London",
+    "country": "UK",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/15/walled-courtyard-inglis-badrashi-loddo/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/walled-courtyard-cleaver-square-sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Bricks",
+      "Courtyards",
+      "Green roofs",
+      "London houses",
+      "Skylights"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T10:30:03.000Z",
+    "ingested_at": "2026-06-15T11:20:00.491Z"
   }
 ]
