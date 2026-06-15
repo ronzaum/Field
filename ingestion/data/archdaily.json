@@ -14354,5 +14354,23 @@
     "material": [],
     "published_at": "2026-06-15T06:00:00.000Z",
     "ingested_at": "2026-06-15T17:21:11.777Z"
+  },
+  {
+    "id": "62885c91-1166-4d21-854c-0f9582db0724",
+    "title": "Adega do Ataíde Winery",
+    "creator": "Luís Loureiro Arquiteto",
+    "location": "Adeganha",
+    "country": "Portugal",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042412/adega-do-ataide-winery-luis-loureiro-arquiteto",
+    "image_url": "https://images.adsttc.com/media/images/6a2c/688c/712c/db00/01fb/e264/medium_jpg/02_exterior_south.jpg?1781295310",
+    "typology": [
+      "Industrial Architecture",
+      "Winery"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T15:00:00.000Z",
+    "ingested_at": "2026-06-15T21:10:38.834Z"
   }
 ]

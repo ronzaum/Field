@@ -692,5 +692,24 @@
     "material": [],
     "published_at": "2026-06-15T10:30:03.000Z",
     "ingested_at": "2026-06-15T11:20:00.491Z"
+  },
+  {
+    "id": "7607d47f-35f7-4339-a296-ab4e37b54f23",
+    "title": "WilkinsonEyre completes Toronto skyscrapers linked",
+    "creator": "elevated park",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/15/wilkinsoneyre-cibc-development-toronto-canada/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/cibc-square-toronto-canada-wilkinsoneyre-completion_dezeen_2364_sq-1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Skyscrapers",
+      "WilkinsonEyre"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T19:00:45.000Z",
+    "ingested_at": "2026-06-15T21:10:39.064Z"
   }
 ]
