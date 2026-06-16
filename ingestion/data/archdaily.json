@@ -14501,5 +14501,42 @@
     "material": [],
     "published_at": "2026-06-16T06:00:00.000Z",
     "ingested_at": "2026-06-16T16:00:29.576Z"
+  },
+  {
+    "id": "7f91173f-cee8-4777-b14b-ae261e15341d",
+    "title": "House in Quinta do Perú",
+    "creator": "GSS arquitectos",
+    "location": "Quinta do Conde",
+    "country": "Portugal",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041687/house-in-quinta-do-peru-gss-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69f0/aa43/20d6/d800/0166/3dbc/medium_jpg/21_DSC8921.jpg?1777380088",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-16T15:00:00.000Z",
+    "ingested_at": "2026-06-16T20:13:09.854Z"
+  },
+  {
+    "id": "4d04949a-fbd9-4ee0-9f80-35ce6796af9d",
+    "title": "House of Panes",
+    "creator": "Matthew Giles Architects",
+    "location": "United Kingdom",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042467/house-of-panes-matthew-giles-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a30/a6aa/712c/db00/01fb/e444/medium_jpg/Donovan_Avenue_by_MGA___French_Tye_8.jpg?1781573398",
+    "typology": [
+      "Residential Architecture",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-06-16T12:00:00.000Z",
+    "ingested_at": "2026-06-16T20:13:09.855Z"
   }
 ]
