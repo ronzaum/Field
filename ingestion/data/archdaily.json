@@ -14448,5 +14448,58 @@
     "material": [],
     "published_at": "2026-06-16T02:00:00.000Z",
     "ingested_at": "2026-06-16T10:19:02.606Z"
+  },
+  {
+    "id": "f806ed96-8da7-42ab-b6be-71ae5c0ed8e2",
+    "title": "Breathe Lodge Residence",
+    "creator": "Jérôme Lapierre Architecte",
+    "location": "Stanstead",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042465/breathe-lodge-residence-jerome-lapierre-architecte",
+    "image_url": "https://images.adsttc.com/media/images/6a30/5935/712c/db00/01fb/e429/medium_jpg/28_BreatheLodge_JLA.jpg?1781553677",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-16T10:00:00.000Z",
+    "ingested_at": "2026-06-16T16:00:29.568Z"
+  },
+  {
+    "id": "b2007ced-5817-4edd-89c3-398b89f5abdf",
+    "title": "Pineta Nature Resort",
+    "creator": "MICHELE SICHER ARCHITETTO",
+    "location": "Coredo",
+    "country": "Italy",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042468/pineta-nature-resort-michele-sicher-architetto",
+    "image_url": "https://images.adsttc.com/media/images/6a30/ab06/712c/db00/01fb/e473/medium_jpg/1011_PinetaSicher_HR-52.jpg?1781574555",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-16T07:00:00.000Z",
+    "ingested_at": "2026-06-16T16:00:29.571Z"
+  },
+  {
+    "id": "beb1a959-142f-49c3-9506-f58bd18cb5c5",
+    "title": "Lego House",
+    "creator": "Fernanda Marques Arquitetos Associados",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042328/lego-house-fernanda-marques-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/6a29/4d84/a0e0/6301/89c9/f0f0/medium_jpg/casa-lego-fernanda-marques-arquitetos-associados_8.jpg?1781091728",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-16T06:00:00.000Z",
+    "ingested_at": "2026-06-16T16:00:29.576Z"
   }
 ]
