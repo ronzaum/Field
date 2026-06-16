@@ -14372,5 +14372,44 @@
     "material": [],
     "published_at": "2026-06-15T15:00:00.000Z",
     "ingested_at": "2026-06-15T21:10:38.834Z"
+  },
+  {
+    "id": "944eabf4-8b40-4a70-a12b-1229b9908e5f",
+    "title": "Shenzhen Mingwan School",
+    "creator": "Perkins&Will",
+    "location": "Shenzhen",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042060/shenzhen-mingwan-school-perkins-and-will",
+    "image_url": "https://images.adsttc.com/media/images/6a1d/ab9a/093e/927a/6386/e2f9/medium_jpg/shenzhen-mingwan-school-perkins-and-will_1.jpg?1780329523",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-06-16T00:00:00.000Z",
+    "ingested_at": "2026-06-16T04:59:52.237Z"
+  },
+  {
+    "id": "9afc9878-d757-4bfd-8f7c-f246e637b4ad",
+    "title": "Northgate Spirit",
+    "creator": "Sher Maker",
+    "location": "Tambon Si Phum",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042452/northgate-spirit-sher-maker",
+    "image_url": "https://images.adsttc.com/media/images/6a30/158b/712c/db00/01fb/e389/medium_jpg/DSC_0952_copy.jpg?1781536171",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Bar",
+      "Public Architecture",
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-06-15T19:00:00.000Z",
+    "ingested_at": "2026-06-16T04:59:52.239Z"
   }
 ]
