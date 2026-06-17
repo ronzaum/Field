@@ -14629,5 +14629,40 @@
     "material": [],
     "published_at": "2026-06-17T02:00:00.000Z",
     "ingested_at": "2026-06-17T11:53:43.324Z"
+  },
+  {
+    "id": "dea843a9-8925-4267-803b-467613361630",
+    "title": "House 2302",
+    "creator": "Nordest Arquitectura",
+    "location": "Serra de Daró",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042493/house-2302-nordest-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a31/efd9/54d7/6a00/01cc/6468/medium_jpg/24_House_23-002_-_NordEst_Arquitectura_-_Serra_de_Dar___Spain-_POL1116.jpg?1781657585",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T10:00:00.000Z",
+    "ingested_at": "2026-06-17T15:47:13.244Z"
+  },
+  {
+    "id": "d994d36e-c782-46a5-8e89-627eb323fdcf",
+    "title": "Riverton House",
+    "creator": "Alexandra Buchanan Architecture",
+    "location": "Chelmer",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042439/riverton-house-alexandra-buchanan-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a2f/dae6/aa48/ad01/89b7/ce9d/medium_jpg/riverton-house-alexandra-buchanan-architecture_33.jpg?1781521175",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T07:00:00.000Z",
+    "ingested_at": "2026-06-17T15:47:13.245Z"
   }
 ]
