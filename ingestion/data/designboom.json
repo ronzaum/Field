@@ -5060,5 +5060,46 @@
     "material": [],
     "published_at": "2026-06-16T19:30:29.000Z",
     "ingested_at": "2026-06-16T20:13:10.778Z"
+  },
+  {
+    "id": "4059b57b-7f37-4b1e-ab6f-62f2ebd148cd",
+    "title": "two corrugated metal volumes shelter courtyard retreat in mexico’s desert landscape",
+    "creator": "ORTO Studio",
+    "location": "Valle De Guadalupe",
+    "country": "Mexico",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/two-corrugated-metal-volumes-courtyard-retreat-mexico-desert-landscape-serentha-cabin-orto-studio/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/two-corrugated-metal-volumes-courtyard-retreat-mexico-serentha-cabin-orto-studio-designboom-700-500x400-22b08q85r180.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in mexico",
+      "cabin architecture and design",
+      "private courtyards",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T10:00:32.000Z",
+    "ingested_at": "2026-06-17T11:53:46.620Z"
+  },
+  {
+    "id": "fc71ef46-1dc2-4817-8c70-f2e1b4f6680a",
+    "title": "flowing forms inspired by cantonese opera shape ZHA’s songshan lake cultural centre",
+    "creator": "ZHA",
+    "location": "Dongguan",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/flowing-forms-cantonese-opera-zha-songshan-lake-cultural-centre-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/flowing-forms-cantonese-opera-zha-songshan-lake-cultural-centre-china-designboom-700-500x400-22b08q85r549.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "zaha hadid"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T08:00:56.000Z",
+    "ingested_at": "2026-06-17T11:53:46.631Z"
   }
 ]

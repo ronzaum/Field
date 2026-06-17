@@ -711,5 +711,26 @@
     "material": [],
     "published_at": "2026-06-15T19:00:45.000Z",
     "ingested_at": "2026-06-15T21:10:39.064Z"
+  },
+  {
+    "id": "cff7d1dc-969b-4c0c-9d32-35e134e298f0",
+    "title": "Anthill caverns inform \"earthy and tactile\" Indian home",
+    "creator": "Kaushal Tatiya Architects",
+    "location": "Balconies",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/17/anthill-house-kaushal-tatiya-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/the-anthill-kaushal-tatiya-architects-architecture-residential-houses_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Indian houses",
+      "Residential architecture and interiors",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T10:30:32.000Z",
+    "ingested_at": "2026-06-17T11:53:44.540Z"
   }
 ]

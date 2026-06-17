@@ -14575,5 +14575,59 @@
     "material": [],
     "published_at": "2026-06-16T19:00:00.000Z",
     "ingested_at": "2026-06-17T06:20:02.462Z"
+  },
+  {
+    "id": "fc785017-477a-4fd4-8ac5-af7475e67dc6",
+    "title": "The Grove Al Ain",
+    "creator": "shell+core",
+    "location": "Al Ain",
+    "country": "United Arab Emirates",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042492/the-grove-al-ain-shell-plus-core",
+    "image_url": "https://images.adsttc.com/media/images/6a31/bd5a/8576/0e01/8921/a4cb/medium_jpg/the-grove-al-ain-shell-plus-core_3.jpg?1781644664",
+    "typology": [
+      "Interior Design",
+      "Hospitality Interiors",
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T06:00:00.000Z",
+    "ingested_at": "2026-06-17T11:53:43.318Z"
+  },
+  {
+    "id": "19723be5-2fc3-44ec-964c-63f9f5479b1c",
+    "title": "Kola Bay Lighthouse Viewpoint",
+    "creator": "Evgeny Makarenko’s Timber Architecture Workshop",
+    "location": "Russia",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042494/kola-bay-lighthouse-viewpoint-evgeny-makarenkos-timber-architecture-workshop",
+    "image_url": "https://images.adsttc.com/media/images/6a31/eff3/54d7/6a00/01cc/648e/medium_jpg/The_Kola_Bay_Lighthouse_Evgeny_Makarenko_ph_Arushanyan_Malenchik_Okuneva_26.jpg?1781657687",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T03:00:00.000Z",
+    "ingested_at": "2026-06-17T11:53:43.321Z"
+  },
+  {
+    "id": "e53950b3-9be4-407e-8350-ce5d35da16bb",
+    "title": "JASH  Factory",
+    "creator": "KSM Architecture",
+    "location": "Chennai",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042490/jash-factory-ksm-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a31/be99/6c38/4801/88c1/795a/medium_jpg/jash-factory-ksm-architecture_17.jpg?1781644959",
+    "typology": [
+      "Industrial Architecture",
+      "Factory"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T02:00:00.000Z",
+    "ingested_at": "2026-06-17T11:53:43.324Z"
   }
 ]
