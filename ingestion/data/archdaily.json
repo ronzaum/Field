@@ -14682,5 +14682,23 @@
     "material": [],
     "published_at": "2026-06-17T12:00:00.000Z",
     "ingested_at": "2026-06-17T18:25:36.730Z"
+  },
+  {
+    "id": "7821c3ad-0ffe-4a9a-90af-2061b54e0b24",
+    "title": "Melides House",
+    "creator": "Sabrab",
+    "location": "Melides",
+    "country": "Portugal",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042498/melides-house-sabrab",
+    "image_url": "https://images.adsttc.com/media/images/6a32/015a/6c38/4801/88c1/7a48/medium_jpg/melides-house-sabrab_17.jpg?1781662090",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T15:00:00.000Z",
+    "ingested_at": "2026-06-17T21:12:53.778Z"
   }
 ]
