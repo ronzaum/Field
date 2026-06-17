@@ -14664,5 +14664,23 @@
     "material": [],
     "published_at": "2026-06-17T07:00:00.000Z",
     "ingested_at": "2026-06-17T15:47:13.245Z"
+  },
+  {
+    "id": "f7237f1a-c002-461e-acb8-8ec094e39068",
+    "title": "Villa CORA – Bamboo House in Tulum",
+    "creator": "terrAurea studio",
+    "location": "Tulum",
+    "country": "México",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042454/villa-cora-bamboo-house-in-tulum-terraurea-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a29/2e70/ba07/4e00/01cd/a4a0/medium_jpg/04.jpg?1781083783",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T12:00:00.000Z",
+    "ingested_at": "2026-06-17T18:25:36.730Z"
   }
 ]
