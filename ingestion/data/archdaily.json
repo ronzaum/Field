@@ -14538,5 +14538,42 @@
     "material": [],
     "published_at": "2026-06-16T12:00:00.000Z",
     "ingested_at": "2026-06-16T20:13:09.855Z"
+  },
+  {
+    "id": "99138005-2d14-4b33-86ee-63ffa583c57a",
+    "title": "Clustered Rocks Court & Floating Leaf Pavilion",
+    "creator": "Atelier Z+",
+    "location": "Pudong",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042404/clustered-rocks-court-and-floating-leaf-pavilion-atelier-z-plus",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/f2d2/6341/4201/8a2c/3a9d/medium_jpg/clustered-rocks-court-and-floating-leaf-pavilion-atelier-z-plus_7.jpg?1781265132",
+    "typology": [
+      "Landscape Architecture",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T00:00:00.000Z",
+    "ingested_at": "2026-06-17T06:20:02.459Z"
+  },
+  {
+    "id": "36fa12b2-ea2f-47a4-b3f7-88af4f9f30cc",
+    "title": "Bahār Residential Building",
+    "creator": "DIM Architecture Studio",
+    "location": "Mashhad",
+    "country": "Iran",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042423/bahar-residential-building-dim-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a2e/8492/712c/db00/01fb/e2e5/medium_jpg/IMG_1203-HDR_-1.jpg?1781433581",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-06-16T19:00:00.000Z",
+    "ingested_at": "2026-06-17T06:20:02.462Z"
   }
 ]
