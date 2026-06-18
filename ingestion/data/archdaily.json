@@ -14700,5 +14700,27 @@
     "material": [],
     "published_at": "2026-06-17T15:00:00.000Z",
     "ingested_at": "2026-06-17T21:12:53.778Z"
+  },
+  {
+    "id": "0a996dbe-780b-4dbe-9618-824df21c3d4a",
+    "title": "Koncrete Space",
+    "creator": "shell+core",
+    "location": "Dubai",
+    "country": "United Arab Emirates",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042487/koncrete-space-shell-plus-core",
+    "image_url": "https://images.adsttc.com/media/images/6a31/3d1d/5706/8e01/7fc2/de9a/medium_jpg/koncrete-space-shell-plus-core_16.jpg?1781611911",
+    "typology": [
+      "Commercial Architecture",
+      "Retail",
+      "Store",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-17T19:00:00.000Z",
+    "ingested_at": "2026-06-18T04:38:35.130Z"
   }
 ]
