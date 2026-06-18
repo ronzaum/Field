@@ -14820,5 +14820,22 @@
     "material": [],
     "published_at": "2026-06-18T03:00:00.000Z",
     "ingested_at": "2026-06-18T13:32:19.224Z"
+  },
+  {
+    "id": "71ee58c7-5b13-4486-a851-d6b1fd88e350",
+    "title": "Spa Complex Moon2",
+    "creator": "Architectural Studio Chado",
+    "location": "Arkhyz",
+    "country": "Russia",
+    "year": 2012,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042495/spa-complex-moon2-architectural-studio-chado",
+    "image_url": "https://images.adsttc.com/media/images/6a31/f10a/54d7/6a00/01cc/649a/medium_jpg/resized-image.jpg?1781657965",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T10:00:00.000Z",
+    "ingested_at": "2026-06-18T17:17:31.614Z"
   }
 ]
