@@ -5164,5 +5164,48 @@
     "material": [],
     "published_at": "2026-06-18T10:50:40.000Z",
     "ingested_at": "2026-06-18T13:32:20.415Z"
+  },
+  {
+    "id": "b7f6467e-e9c5-466a-8777-265c7518ae4e",
+    "title": "industrial kinetic displays shape hybrid exhibition and automotive service space in tbilisi",
+    "creator": "Material Editors",
+    "location": "Tbilisi",
+    "country": "Georgia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/industrial-kinetic-displays-hybrid-exhibition-automotive-service-space-tbilisi-material-editors-teona-kokhodze-reimagine-ride/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/material-editors-teona-kokhodze-reimagine-ride-automotive-service-center-tbilisi-georgia-designboom-700-500x400-22b08q85r275.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in georgia",
+      "car design",
+      "exhibition design",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T18:30:38.000Z",
+    "ingested_at": "2026-06-18T20:31:56.863Z"
+  },
+  {
+    "id": "1a72588f-94cb-488e-ac87-7430304135be",
+    "title": "heatherwick studio plans otherworldly observatory for dark-sky tourism in saudi desert",
+    "creator": "Heatherwick Studio",
+    "location": "near AlUla",
+    "country": "Saudi Arabia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/heatherwick-studio-observatory-astrotourism-saudi-arabia-desert-alula-manara/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/heatherwick-studios-astrotourism-visitor-center-alula-saudi-arabia-designboom-700-500x400-22b08q85r110.jpg",
+    "typology": [
+      "architecture",
+      "art and architecture in alula",
+      "art and architecture in saudi arabia",
+      "observatory architecture and design",
+      "thomas heatherwick"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T18:04:28.000Z",
+    "ingested_at": "2026-06-18T20:31:56.874Z"
   }
 ]

@@ -14837,5 +14837,44 @@
     "material": [],
     "published_at": "2026-06-18T10:00:00.000Z",
     "ingested_at": "2026-06-18T17:17:31.614Z"
+  },
+  {
+    "id": "85635a06-d942-4e6f-ae8f-b5a18bc53227",
+    "title": "Brastemp House",
+    "creator": "Bezerra Panobianco",
+    "location": "Goiás",
+    "country": "Brazil",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042523/brastemp-house-bezerra-panobianco",
+    "image_url": "https://images.adsttc.com/media/images/6a31/fcbb/8576/0e0c/cb76/3b3e/medium_jpg/casa-brastemp-bezerra-panobianco_29.jpg?1781660880",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T15:00:00.000Z",
+    "ingested_at": "2026-06-18T20:31:55.908Z"
+  },
+  {
+    "id": "cf95e522-4725-4599-924d-4ed6d8fac252",
+    "title": "Ecopark Ciénaga de Mallorquín",
+    "creator": "DEB + El Equipo Mazzanti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035092/ecopark-cienaga-de-mallorquin-deb-plus-el-equipo-mazzanti",
+    "image_url": "https://images.adsttc.com/media/images/68f0/04ab/d88c/7038/5b3d/f87a/medium_jpg/ecoparque-cienaga-de-mallorquin-deb-plus-el-equipo-mazzanti_20.jpg?1760560314",
+    "typology": [
+      "Urbanism",
+      "Urban Design",
+      "Public Space",
+      "Landscape Architecture",
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T12:00:00.000Z",
+    "ingested_at": "2026-06-18T20:31:55.910Z"
   }
 ]
