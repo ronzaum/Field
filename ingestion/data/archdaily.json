@@ -14760,5 +14760,65 @@
     "material": [],
     "published_at": "2026-06-18T00:00:00.000Z",
     "ingested_at": "2026-06-18T09:19:37.125Z"
+  },
+  {
+    "id": "9399b5a7-a5bd-455e-ae99-d5ce9db294c7",
+    "title": "Songshan Lake Exhibition and Performance Centre",
+    "creator": "ZHA",
+    "location": "Dongguan",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042488/songshan-lake-exhibition-and-performance-centre-zaha-hadid-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a31/4aba/e62b/f101/8897/354f/medium_jpg/songshan-lake-exhibition-and-performance-centre-zaha-hadid-architects_12.jpg?1781615367",
+    "typology": [
+      "Cultural Architecture",
+      "Theaters & Performance",
+      "performing arts center",
+      "Museums & Exhibit",
+      "Exhibition center",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T07:00:00.000Z",
+    "ingested_at": "2026-06-18T13:32:19.219Z"
+  },
+  {
+    "id": "929b61ee-be5e-453d-91d4-b2a7aae03a53",
+    "title": "The House of the Maywas",
+    "creator": "La Cabina de la Curiosidad",
+    "location": "Quito",
+    "country": "Ecuador",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042508/the-house-of-the-maywas-la-cabina-de-la-curiosidad",
+    "image_url": "https://images.adsttc.com/media/images/6a2a/77f6/6341/4201/8a2c/3115/medium_jpg/la-casa-de-las-maywas-la-cabina-de-la-curiosidad_7.jpg?1781168135",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T06:00:00.000Z",
+    "ingested_at": "2026-06-18T13:32:19.221Z"
+  },
+  {
+    "id": "f1c431f5-b719-4af9-a888-579b1b2a6575",
+    "title": "Double Courtyard House",
+    "creator": "Roberts Gray Architects",
+    "location": "Te Arai",
+    "country": "New Zealand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042535/double-courtyard-house-roberts-gray-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a32/a6c3/8576/0e01/8921/aa7c/medium_jpg/double-courtyard-house-roberts-gray-architects_3.jpg?1781704419",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T03:00:00.000Z",
+    "ingested_at": "2026-06-18T13:32:19.224Z"
   }
 ]

@@ -732,5 +732,51 @@
     "material": [],
     "published_at": "2026-06-17T10:30:32.000Z",
     "ingested_at": "2026-06-17T11:53:44.540Z"
+  },
+  {
+    "id": "9c61bd74-3416-4a30-abae-2779d9ad9dd3",
+    "title": "Gaudí's \"ghost of an alternative New York\" visualised",
+    "creator": "AI artist Thierry Lechanteur",
+    "location": "Gaudí Centenary",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/18/hotel-attraction-renders-gaudi-centenary/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/hotel-attraction-gaudi-thierry-lechanteur-architecture-hotels-new-york-ai-render_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Antoni Gaudi",
+      "Artificial intelligence (AI)",
+      "Conceptual architecture",
+      "Digital design",
+      "New York",
+      "Renderings",
+      "Skyscrapers",
+      "Supertall skyscrapers"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T10:15:17.000Z",
+    "ingested_at": "2026-06-18T13:32:19.403Z"
+  },
+  {
+    "id": "24b0c999-a63f-4157-967d-98704ece4145",
+    "title": "Images of relocated London Museum",
+    "creator": "Stanton Williams and Asif Khan revealed",
+    "location": "News",
+    "country": "England",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/18/london-museum-stanton-williams-asif-khan-revealed/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/london-museum-smithfield-asif-khan-stanton-williams_dezeen_2364_col_sq3-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Asif Khan",
+      "London",
+      "Museums",
+      "Stanton Williams"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T09:45:30.000Z",
+    "ingested_at": "2026-06-18T13:32:19.404Z"
   }
 ]
