@@ -15009,5 +15009,24 @@
     "material": [],
     "published_at": "2026-06-19T12:00:00.000Z",
     "ingested_at": "2026-06-19T18:59:43.889Z"
+  },
+  {
+    "id": "2c0ee6cd-0020-4b71-a472-b5ce83b25a9a",
+    "title": "Apartment of Skewed Relations",
+    "creator": "fala",
+    "location": "Porto",
+    "country": "Portugal",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042580/apartment-of-skewed-relations-fala",
+    "image_url": "https://images.adsttc.com/media/images/6a34/746d/8576/0e68/c6e7/5915/medium_jpg/apartment-of-skewed-relations-fala_5.jpg?1781822597",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T15:00:00.000Z",
+    "ingested_at": "2026-06-19T20:42:26.919Z"
   }
 ]

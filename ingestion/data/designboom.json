@@ -5318,5 +5318,27 @@
     "material": [],
     "published_at": "2026-06-19T14:35:57.000Z",
     "ingested_at": "2026-06-19T16:10:10.536Z"
+  },
+  {
+    "id": "97ba1d1a-7a2e-45cd-9c13-938b91b0c28b",
+    "title": "smiljan radić pitches a chilean circus tent in spain for concéntrico 2026",
+    "creator": "kat barandy",
+    "location": "Logroño",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/smiljan-radic-chilean-circus-tent-spain-concentrico-logrono-circo/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/smiljan-radic-circo-circus-installation-barcelona-concentrico-designboom-700-500x400-22b08q85r422.jpg",
+    "typology": [
+      "architecture",
+      "architecture in barcelona",
+      "architecture in spain",
+      "concéntrico",
+      "smiljan radic",
+      "tents"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T20:00:13.000Z",
+    "ingested_at": "2026-06-19T20:42:29.397Z"
   }
 ]
