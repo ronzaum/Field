@@ -5207,5 +5207,93 @@
     "material": [],
     "published_at": "2026-06-18T18:04:28.000Z",
     "ingested_at": "2026-06-18T20:31:56.874Z"
+  },
+  {
+    "id": "eadf3b46-96d6-4b67-8a16-9aed8043970d",
+    "title": "materializing the future: indian architects on the shift to regenerative design",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/india-future-regenerative-design-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/episode-01-700-thumb-500x400-22b08q85r097.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in india",
+      "architecture interviews",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T10:00:51.000Z",
+    "ingested_at": "2026-06-19T12:12:41.257Z"
+  },
+  {
+    "id": "3b0d6be2-73f3-4cb0-9b10-6118ad58312c",
+    "title": "sculptural steel spiral staircase reorganizes circulation in a century-old shanghai house",
+    "creator": "Uchida Shanghai",
+    "location": "Yu Yuan Road",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/newsletter-inclusion/sculptural-steel-spiral-staircase-circulation-century-old-shanghai-house-uchida-shanghai-mitsuhiro-shoji/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/uchida-shanghai-mitsuhiro-shoji-renovation-old-shanghai-house-steel-spiral-staircase-designboom-700-500x400-22b08q85r653.jpg",
+    "typology": [
+      "architecture",
+      "newsletter inclusion",
+      "readers",
+      "architecture in shanghai",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "spiral staircases",
+      "steel architecture and design",
+      "uchida shanghai"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T09:30:30.000Z",
+    "ingested_at": "2026-06-19T12:12:41.269Z"
+  },
+  {
+    "id": "1b0483de-3db3-4e74-8bc7-49eb65468ad0",
+    "title": "2050+ uses movable frontones to reclaim a parking lot for play in logroño, spain",
+    "creator": "2050+",
+    "location": "Aparcamiento del Revellín",
+    "country": "Logroño",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/2050-plus-movable-frontones-parking-lot-play-logrono-spain-concentrico-2026/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/2050-plus-movable-frontones-parking-lot-play-logrono-spain-concentrico-2026-designboom-700-500x400-22b08q85r122.jpg",
+    "typology": [
+      "architecture",
+      "2050+",
+      "architecture in spain",
+      "concéntrico",
+      "interactive installation",
+      "parking areas"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T08:30:29.000Z",
+    "ingested_at": "2026-06-19T12:12:41.285Z"
+  },
+  {
+    "id": "b9e45dfa-fe64-4fa6-8b14-6641b5b421c9",
+    "title": "sci-arc reviews speculative architectural futures envisioned by undergraduate students",
+    "creator": "mariana rodrigues",
+    "location": "Los Angeles",
+    "country": "California",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sci-arc-speculative-future-undergraduate-thesis/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/sci-arc_designboom_700-2-500x400-22b08q85r779.jpg",
+    "typology": [
+      "architecture",
+      "design education",
+      "SCI-Arc"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T07:30:37.000Z",
+    "ingested_at": "2026-06-19T12:12:41.290Z"
   }
 ]
