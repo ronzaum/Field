@@ -14990,5 +14990,24 @@
     "material": [],
     "published_at": "2026-06-19T07:00:00.000Z",
     "ingested_at": "2026-06-19T16:10:09.303Z"
+  },
+  {
+    "id": "a0ddc895-c451-4da0-9261-3e663bc81545",
+    "title": "Huerquehue Refuge",
+    "creator": "DRAA",
+    "location": "Pucon",
+    "country": "Chile",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041275/huerquehue-refuge-draa",
+    "image_url": "https://images.adsttc.com/media/images/69fc/4611/ad4f/9c3d/f23d/ccf3/medium_jpg/refugio-huerquehue-draa_14.jpg?1778140709",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T12:00:00.000Z",
+    "ingested_at": "2026-06-19T18:59:43.889Z"
   }
 ]
