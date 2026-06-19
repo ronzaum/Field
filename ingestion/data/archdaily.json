@@ -14876,5 +14876,23 @@
     "material": [],
     "published_at": "2026-06-18T12:00:00.000Z",
     "ingested_at": "2026-06-18T20:31:55.910Z"
+  },
+  {
+    "id": "4fad68d0-2653-4a15-ab31-cedd2044d728",
+    "title": "Steel House",
+    "creator": "Alto Arquitectura",
+    "location": "Colombia",
+    "country": null,
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042405/steel-house-alto-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/f10d/6341/4201/8a2c/3a85/medium_jpg/steel-house-alto-arquitectura_1.jpg?1781264675",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-18T19:00:00.000Z",
+    "ingested_at": "2026-06-19T01:48:26.075Z"
   }
 ]
