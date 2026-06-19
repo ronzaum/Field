@@ -14950,5 +14950,45 @@
     "material": [],
     "published_at": "2026-06-19T02:00:00.000Z",
     "ingested_at": "2026-06-19T12:12:39.635Z"
+  },
+  {
+    "id": "4c34f793-b7bc-4cb5-af87-2017da730c82",
+    "title": "Bar Edicola",
+    "creator": "MRDK",
+    "location": "Montréal",
+    "country": "Canada",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042501/bar-edicola-mrdk",
+    "image_url": "https://images.adsttc.com/media/images/6a32/0b1e/6c38/4801/88c1/7aba/medium_jpg/bar-edicola-mrdk_2.jpg?1781664558",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Bar"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T10:00:00.000Z",
+    "ingested_at": "2026-06-19T16:10:09.300Z"
+  },
+  {
+    "id": "bf05b1d7-cee7-4951-9b33-d3855f3c5d95",
+    "title": "Gallery For A Tree \"Flyover\" Marcellin College",
+    "creator": "Farrell Wray Architects",
+    "location": "Bulleen",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042567/gallery-for-a-tree-flyover-marcellin-college-farrell-wray-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a33/f8d6/8576/0e01/8921/af01/medium_jpg/gallery-for-a-tree-flyover-marcellin-college-farrell-wray-architects_28.jpg?1781790958",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Gallery",
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T07:00:00.000Z",
+    "ingested_at": "2026-06-19T16:10:09.303Z"
   }
 ]
