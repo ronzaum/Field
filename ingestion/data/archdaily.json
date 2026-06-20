@@ -15028,5 +15028,23 @@
     "material": [],
     "published_at": "2026-06-19T15:00:00.000Z",
     "ingested_at": "2026-06-19T20:42:26.919Z"
+  },
+  {
+    "id": "2057d4c0-7e23-441d-a106-2dd62f9c8ce3",
+    "title": "Casa Alba II",
+    "creator": "Además arquitectura",
+    "location": "Canning",
+    "country": "Argentina",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042587/casa-alba-ii-ademas-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a35/107d/54d7/6a00/01cc/6693/medium_jpg/01_ALBA_II_Ademas_ARQ_-___Federico_Cairoli.jpg?1781862716",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-19T19:00:00.000Z",
+    "ingested_at": "2026-06-20T00:14:14.240Z"
   }
 ]
