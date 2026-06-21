@@ -15139,5 +15139,24 @@
     "material": [],
     "published_at": "2026-06-20T17:00:00.000Z",
     "ingested_at": "2026-06-21T04:52:22.767Z"
+  },
+  {
+    "id": "5152a037-729a-477d-9bc2-35bdc124adfd",
+    "title": "Flat for One",
+    "creator": "Metrics Architecture Studio",
+    "location": "Taiwan",
+    "country": "China",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/996366/flat-for-one-metrics-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/63e8/8f4e/805c/6146/6772/ea90/medium_jpg/not-ready-flat-for-one-metrics-architecture-studio_1.jpg?1676185445",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-21T02:00:00.000Z",
+    "ingested_at": "2026-06-21T08:59:02.783Z"
   }
 ]
