@@ -15158,5 +15158,23 @@
     "material": [],
     "published_at": "2026-06-21T02:00:00.000Z",
     "ingested_at": "2026-06-21T08:59:02.783Z"
+  },
+  {
+    "id": "b49d582a-d41e-49fd-a720-9a3be25b14ba",
+    "title": "House for María",
+    "creator": "Metriq Estudio",
+    "location": "Quito",
+    "country": "Ecuador",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042489/house-for-maria-metriq-estudio",
+    "image_url": "https://images.adsttc.com/media/images/695f/6a26/60cb/5200/01b8/fd39/medium_jpg/Casa_para_Maria_7.jpg?1767860835",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-21T15:00:00.000Z",
+    "ingested_at": "2026-06-21T20:26:42.362Z"
   }
 ]
