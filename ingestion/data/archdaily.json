@@ -15103,5 +15103,41 @@
     "material": [],
     "published_at": "2026-06-20T11:00:00.000Z",
     "ingested_at": "2026-06-20T21:22:19.400Z"
+  },
+  {
+    "id": "d885ebb6-fb4a-47a3-ab81-6abcd832a501",
+    "title": "Saddleback Mountain House",
+    "creator": "Casey Brown Architecture",
+    "location": "New South Wales",
+    "country": "Australia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042571/saddleback-mountain-house-casey-brown-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a34/50b3/6c38/4801/88c1/8512/medium_jpg/saddleback-mountain-house-casey-brown-architecture_5.jpg?1781813478",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-06-20T21:00:00.000Z",
+    "ingested_at": "2026-06-21T04:52:22.765Z"
+  },
+  {
+    "id": "95127ed6-b45a-4c79-b05c-7f2e5f255c32",
+    "title": "Naya Restaurant Ayutthaya",
+    "creator": "BodinChapa Architects",
+    "location": "Phra Nakhon Si Ayutthaya",
+    "country": "Thailand",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042588/naya-restaurant-ayutthaya-bodinchapa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a35/11fd/54d7/6a00/01cc/66c2/medium_jpg/A006.jpg?1781862926",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-20T17:00:00.000Z",
+    "ingested_at": "2026-06-21T04:52:22.767Z"
   }
 ]

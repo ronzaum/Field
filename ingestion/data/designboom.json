@@ -5380,5 +5380,25 @@
     "material": [],
     "published_at": "2026-06-20T19:45:05.000Z",
     "ingested_at": "2026-06-20T21:22:20.414Z"
+  },
+  {
+    "id": "7fb944cd-ec87-4e55-a305-32640fc14dac",
+    "title": "public library clad in washed timber integrates with warsaw’s wooded neighborhood",
+    "creator": "Ambient Architects",
+    "location": "Choszczówka",
+    "country": "Poland",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/public-library-washed-timber-warsaw-wooded-neighborhood-choszczowka-ambient-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/public-library-choszczowka-ambient-architects-designboom-700-500x400-22b08q85r799.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in poland",
+      "library architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-21T00:52:17.000Z",
+    "ingested_at": "2026-06-21T04:52:23.717Z"
   }
 ]
