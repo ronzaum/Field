@@ -15310,5 +15310,41 @@
     "material": [],
     "published_at": "2026-06-22T02:00:00.000Z",
     "ingested_at": "2026-06-22T12:52:39.537Z"
+  },
+  {
+    "id": "26e9ac93-c026-4f29-af09-f329974c93c2",
+    "title": "Casa 29",
+    "creator": "estudio29",
+    "location": "Ecuador",
+    "country": null,
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042653/casa-29-estudio29",
+    "image_url": "https://images.adsttc.com/media/images/69af/f778/1d07/d400/0132/40de/medium_jpg/SEBASTIAN-CORRRAL-CUENCA-JAG-2211-WEB-RGB1.jpg?1773139850",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T12:00:00.000Z",
+    "ingested_at": "2026-06-22T17:41:32.216Z"
+  },
+  {
+    "id": "39be45ec-c9d9-4fab-be61-2a16f3bd3357",
+    "title": "Meadows Primary School",
+    "creator": "Project 12 Architecture",
+    "location": "Broadmeadows",
+    "country": "Australia",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1026349/meadows-primary-school-project-12-architecture",
+    "image_url": "https://images.adsttc.com/media/images/679c/cb21/e862/3700/01c0/7b85/medium_jpg/RoryGardiner1605c_003.jpg?1738328891",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T10:00:00.000Z",
+    "ingested_at": "2026-06-22T17:41:32.219Z"
   }
 ]
