@@ -15193,5 +15193,41 @@
     "material": [],
     "published_at": "2026-06-21T17:00:00.000Z",
     "ingested_at": "2026-06-21T22:17:48.228Z"
+  },
+  {
+    "id": "f4d1172f-9343-4971-a960-6f30638b54d5",
+    "title": "Anthill House",
+    "creator": "Kaushal TaTiya Architects",
+    "location": "Ahilyanagar",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042600/anthill-house-kaushal-tatiya-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a35/656b/6c38/4816/a744/184a/medium_jpg/anthill-house-kaushal-tatiya-architects_22.jpg?1781884282",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T00:00:00.000Z",
+    "ingested_at": "2026-06-22T06:32:39.206Z"
+  },
+  {
+    "id": "baf1f0d6-5b69-43c2-b537-4cfd51df03fd",
+    "title": "THE TREE",
+    "creator": "YXDesigners",
+    "location": "Quzhou",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1019519/the-tree-yxdesigners",
+    "image_url": "https://images.adsttc.com/media/images/66a9/d797/aa9b/6b14/33f2/4743/medium_jpg/the-tree-yxdesigners_23.jpg?1722406828",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-21T21:00:00.000Z",
+    "ingested_at": "2026-06-22T06:32:39.210Z"
   }
 ]
