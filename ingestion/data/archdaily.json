@@ -15229,5 +15229,86 @@
     "material": [],
     "published_at": "2026-06-21T21:00:00.000Z",
     "ingested_at": "2026-06-22T06:32:39.210Z"
+  },
+  {
+    "id": "4275963d-df2b-48fb-8f84-e8e343e53663",
+    "title": "As Seen Below – The Dome, a Skyspace",
+    "creator": "James Turrell + SHL",
+    "location": "ARoS Aarhus Art Museum",
+    "country": "Denmark",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042572/as-seen-below-the-dome-a-skyspace-james-turrell-plus-schmidt-hammer-lassen",
+    "image_url": "https://images.adsttc.com/media/images/6a34/553f/6c38/4801/88c1/8556/medium_jpg/as-seen-below-the-dome-a-skyspace-james-turrell-plus-schmidt-hammer-lassen_15.jpg?1781814679",
+    "typology": [
+      "Urbanism",
+      "Urban Design",
+      "Public Space",
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Museum",
+      "Installation"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T07:00:00.000Z",
+    "ingested_at": "2026-06-22T12:52:39.530Z"
+  },
+  {
+    "id": "00ec1c67-8272-4414-b99c-ae59cf6c8d10",
+    "title": "Casa Blajot",
+    "creator": "exitprojectes estudi d'arquitectura",
+    "location": "Premià de Dalt",
+    "country": "Spain",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042624/casa-blajot-exitprojectes-estudi-darquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a36/3c80/54d7/6a00/01cc/6841/medium_jpg/Casa_Blajot_de_Josep_Lluis_Sert_reformada_por_Exitprojectes-25.jpg?1781939379",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T06:00:00.000Z",
+    "ingested_at": "2026-06-22T12:52:39.533Z"
+  },
+  {
+    "id": "20b3d424-af7c-419a-a349-205f82ee6e43",
+    "title": "Las Cigarreras Industrial Complex",
+    "creator": "Ramón Esteve Estudio",
+    "location": "Alicante",
+    "country": "Spain",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042586/las-cigarreras-industrial-complex-ramon-esteve-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a35/0b4a/54d7/6a00/01cc/667c/medium_jpg/Ramon_Esteve_Estudio_-_Conjunto_Industrial_Las_Cigarreras_10.jpg?1781861211",
+    "typology": [
+      "Mixed Use Architecture",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T03:00:00.000Z",
+    "ingested_at": "2026-06-22T12:52:39.535Z"
+  },
+  {
+    "id": "a937050b-c54a-431a-8b80-2713b8069055",
+    "title": "Nakano House",
+    "creator": "KUMA & ELSA",
+    "location": "Fukuoka",
+    "country": "Japan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042599/nakano-house-kuma-and-elsa",
+    "image_url": "https://images.adsttc.com/media/images/6a35/5e29/8576/0e01/8921/b42b/medium_jpg/nakano-house-kuma-and-elsa_5.jpg?1781882428",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T02:00:00.000Z",
+    "ingested_at": "2026-06-22T12:52:39.537Z"
   }
 ]
