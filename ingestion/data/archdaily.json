@@ -15491,5 +15491,23 @@
     "material": [],
     "published_at": "2026-06-23T12:00:00.000Z",
     "ingested_at": "2026-06-23T18:03:13.445Z"
+  },
+  {
+    "id": "4080aaaa-bba9-420d-9be0-85c4a5df02bb",
+    "title": "KH House",
+    "creator": "NGSTUDIO",
+    "location": "Piracaia",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042665/kh-house-ngstudio",
+    "image_url": "https://images.adsttc.com/media/images/6a32/ee2a/54d7/6a00/01cc/65c9/medium_jpg/NG_Studio_-_Piracaia-049__4_.jpg?1781722880",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T15:00:00.000Z",
+    "ingested_at": "2026-06-23T21:01:59.418Z"
   }
 ]
