@@ -15454,5 +15454,24 @@
     "material": [],
     "published_at": "2026-06-23T07:00:00.000Z",
     "ingested_at": "2026-06-23T12:37:39.867Z"
+  },
+  {
+    "id": "31f36166-8904-43e7-9037-c97e21875270",
+    "title": "CIBC Square",
+    "creator": "WilkinsonEyre",
+    "location": "Toronto",
+    "country": "Canada",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042663/cibc-square-wilkinsoneyre",
+    "image_url": "https://images.adsttc.com/media/images/6a39/7e52/6c38/4816/a744/20c0/medium_jpg/cibc-square-wilkinsoneyre_8.jpg?1782152801",
+    "typology": [
+      "Mixed Use Architecture",
+      "Commercial Architecture",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T10:00:00.000Z",
+    "ingested_at": "2026-06-23T15:54:05.459Z"
   }
 ]
