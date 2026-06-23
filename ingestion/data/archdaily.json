@@ -15363,5 +15363,23 @@
     "material": [],
     "published_at": "2026-06-22T15:00:00.000Z",
     "ingested_at": "2026-06-22T20:54:08.772Z"
+  },
+  {
+    "id": "9e533897-cd71-4ccd-8fe2-7fdd78124df0",
+    "title": "Kurashiki Central Hospital Miwa Nursery School",
+    "creator": "Nikken Sekkei",
+    "location": "Kurashiki",
+    "country": "Japan",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042640/kurashiki-central-hospital-miwa-nursery-school-nikken-sekkei",
+    "image_url": "https://images.adsttc.com/media/images/6a39/03ad/54d7/6a00/01cc/68b3/medium_jpg/14_South_Wing_Classroom_01_SS_Co.__Ltd..jpg?1782121458",
+    "typology": [
+      "Educational Architecture",
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-06-22T19:00:00.000Z",
+    "ingested_at": "2026-06-23T00:12:18.308Z"
   }
 ]
