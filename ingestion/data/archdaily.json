@@ -15473,5 +15473,23 @@
     "material": [],
     "published_at": "2026-06-23T10:00:00.000Z",
     "ingested_at": "2026-06-23T15:54:05.459Z"
+  },
+  {
+    "id": "a7b9fd1d-f2f1-4e94-9466-547c3857bdc8",
+    "title": "Casa TA",
+    "creator": "Estudio Felipe Escudero",
+    "location": "Cumbayá",
+    "country": "Ecuador",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042208/casa-ta-estudio-felipe-escudero",
+    "image_url": "https://images.adsttc.com/media/images/6a22/a4df/d2d3/6e00/0102/f1f5/medium_jpg/DSC_9363.jpg?1780655365",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T12:00:00.000Z",
+    "ingested_at": "2026-06-23T18:03:13.445Z"
   }
 ]
