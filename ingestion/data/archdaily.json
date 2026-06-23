@@ -15435,5 +15435,24 @@
     "material": [],
     "published_at": "2026-06-23T00:00:00.000Z",
     "ingested_at": "2026-06-23T09:52:21.471Z"
+  },
+  {
+    "id": "3f5ffd82-2b57-466f-a07a-4de82d59916f",
+    "title": "Hangzhou Prism",
+    "creator": "OMA",
+    "location": "Hangzhou",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042657/hangzhou-prism-oma",
+    "image_url": "https://images.adsttc.com/media/images/6a39/45ff/6c38/4816/a744/2005/medium_jpg/hangzhou-prism-oma_3.jpg?1782138402",
+    "typology": [
+      "Mixed Use Architecture",
+      "Offices",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T07:00:00.000Z",
+    "ingested_at": "2026-06-23T12:37:39.867Z"
   }
 ]

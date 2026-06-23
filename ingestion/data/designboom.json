@@ -5488,5 +5488,26 @@
     "material": [],
     "published_at": "2026-06-23T09:00:56.000Z",
     "ingested_at": "2026-06-23T09:52:22.457Z"
+  },
+  {
+    "id": "a0987727-9a04-41c8-9d34-9b24e346fcdd",
+    "title": "a swooping facade line reinterprets suburban split-level homes in new jersey",
+    "creator": "Out of Line",
+    "location": "South Orange",
+    "country": "US",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/swooping-facade-line-suburban-split-level-homes-new-jersey-out-of-line-swoop-adu/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/out-of-line-swoop-adu-south-orange-new-jersey-designboom-700-1-500x400-22b08q85r416.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the US",
+      "rafael gamo",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T10:30:27.000Z",
+    "ingested_at": "2026-06-23T12:37:42.419Z"
   }
 ]
