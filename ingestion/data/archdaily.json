@@ -15381,5 +15381,59 @@
     "material": [],
     "published_at": "2026-06-22T19:00:00.000Z",
     "ingested_at": "2026-06-23T00:12:18.308Z"
+  },
+  {
+    "id": "7db2f6cb-8f50-48b2-94e4-19a9e14a9c12",
+    "title": "Shou Sugi Ban House",
+    "creator": "Sandy Anghie Architect",
+    "location": "Claremont",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042643/shou-sugi-ban-house-sandy-anghie-architect",
+    "image_url": "https://images.adsttc.com/media/images/6a39/0e47/8576/0e01/8921/ba6e/medium_jpg/shou-sugi-ban-house-sandy-anghie-architect_2.jpg?1782124111",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T03:00:00.000Z",
+    "ingested_at": "2026-06-23T09:52:21.467Z"
+  },
+  {
+    "id": "79a16571-3d20-43d8-a7d2-f7a03c1ea17a",
+    "title": "Aquatic Gallery",
+    "creator": "INI Design Studio",
+    "location": "Ahmedabad",
+    "country": "India",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042641/aquatic-gallery-ini-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a39/07f0/54d7/6a00/01cc/68ce/medium_jpg/Aquatic_Gallery-03.jpg?1782122547",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T02:00:00.000Z",
+    "ingested_at": "2026-06-23T09:52:21.469Z"
+  },
+  {
+    "id": "1732ac05-c1a3-4da1-b46d-c43e0885dae4",
+    "title": "Zhengzhou Liuzhuang Urban Development Museum",
+    "creator": "HYP-ARCH CONSULTANTS",
+    "location": "Liuzhuang",
+    "country": "China",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/998801/not-ready-zhengzhou-liuzhuang-urban-development-museum-hyp-arch-consultants",
+    "image_url": "https://images.adsttc.com/media/images/6426/be13/079b/b201/6f00/7729/medium_jpg/not-ready-zhengzhou-liuzhuang-urban-development-museum-hyp-arch-consultants_16.jpg?1680260680",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit",
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T00:00:00.000Z",
+    "ingested_at": "2026-06-23T09:52:21.471Z"
   }
 ]

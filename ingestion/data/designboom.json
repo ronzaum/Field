@@ -5465,5 +5465,28 @@
     "material": [],
     "published_at": "2026-06-22T15:21:31.000Z",
     "ingested_at": "2026-06-22T17:41:34.258Z"
+  },
+  {
+    "id": "2711f5fc-1bf9-4bf6-b4f4-7f0e7321f66b",
+    "title": "NOT A STUDIO uses color-coded structure to open up century-old barcelona apartment",
+    "creator": "NOT A STUDIO",
+    "location": "Sarrià",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/itsnotastudio-color-coded-structure-century-old-barcelona-apartment/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/itsnotastudio-original-volume-century-old-barcelona-apartment-color-coded-structure-designboom-700-500x400-22b08q85r871.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in barcelona",
+      "architecture in spain",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "spaces under 50 sqm"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T09:00:56.000Z",
+    "ingested_at": "2026-06-23T09:52:22.457Z"
   }
 ]
