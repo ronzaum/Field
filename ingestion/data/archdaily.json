@@ -15672,5 +15672,24 @@
     "material": [],
     "published_at": "2026-06-24T10:00:00.000Z",
     "ingested_at": "2026-06-24T17:08:20.507Z"
+  },
+  {
+    "id": "f3d5d5c1-f4c2-428e-bf52-6eda035b7b42",
+    "title": "Casa Daia Bungalows",
+    "creator": "UNA Barbara e Valentim",
+    "location": "Brazil",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042725/casa-daia-bungalows-una-barbara-e-valentim",
+    "image_url": "https://images.adsttc.com/media/images/6a3b/3946/54d7/6a00/01cc/6b5d/medium_jpg/VC20251028_DSF7208-.jpg?1782266227",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T15:00:00.000Z",
+    "ingested_at": "2026-06-24T19:52:47.059Z"
   }
 ]
