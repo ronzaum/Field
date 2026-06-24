@@ -15509,5 +15509,41 @@
     "material": [],
     "published_at": "2026-06-23T15:00:00.000Z",
     "ingested_at": "2026-06-23T21:01:59.418Z"
+  },
+  {
+    "id": "4e4ab13f-da41-49bb-910f-19f122b882ef",
+    "title": "Pit garden in Passive House",
+    "creator": "D Environmental Design System Laboratory",
+    "location": "Kinosaki",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042650/pit-garden-in-passive-house-d-environmental-design-system-laboratory",
+    "image_url": "https://images.adsttc.com/media/images/6a39/26cf/54d7/6a00/01cc/6905/medium_jpg/01-inside_view_of_pit_garden01.jpg?1782130427",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T19:00:00.000Z",
+    "ingested_at": "2026-06-24T04:02:50.802Z"
+  },
+  {
+    "id": "2547c6d3-2f57-4ad9-badd-00ac8c7bb0a3",
+    "title": "MG Houses",
+    "creator": "delavegacanolasso",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041487/mg-houses-delavegacanolasso",
+    "image_url": "https://images.adsttc.com/media/images/6a03/1d49/fda2/da01/89bd/d424/medium_jpg/casas-mg-delavegacanolasso_2.jpg?1778589018",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-23T06:00:00.000Z",
+    "ingested_at": "2026-06-24T04:02:50.811Z"
   }
 ]
