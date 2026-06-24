@@ -15618,5 +15618,23 @@
     "material": [],
     "published_at": "2026-06-24T06:00:00.000Z",
     "ingested_at": "2026-06-24T11:48:25.259Z"
+  },
+  {
+    "id": "221aa387-51c5-4d95-a2d8-12ec7562ef1f",
+    "title": "El Arca Residential Pavilion",
+    "creator": "Mallol",
+    "location": "Nueva Suiza",
+    "country": "Panama",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042685/el-arca-residential-pavilion-mallol",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/5ae8/6c38/4816/a744/2369/medium_jpg/el-arca-residential-pavilion-mallol_16.jpg?1782209276",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T07:00:00.000Z",
+    "ingested_at": "2026-06-24T14:42:27.291Z"
   }
 ]
