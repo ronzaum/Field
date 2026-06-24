@@ -15636,5 +15636,41 @@
     "material": [],
     "published_at": "2026-06-24T07:00:00.000Z",
     "ingested_at": "2026-06-24T14:42:27.291Z"
+  },
+  {
+    "id": "b1940ae0-b31b-45cd-bb94-7da6de580930",
+    "title": "Prado Park",
+    "creator": "Edgar Mazo + CONNATURAL",
+    "location": "Medellín",
+    "country": "Colombia",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042721/prado-park-edgar-mazo-plus-connatural",
+    "image_url": "https://images.adsttc.com/media/images/6a36/38b7/54d7/6a00/01cc/67d9/medium_jpg/26-La_vida_en_el_jardin_Isaac_Ram_rez.jpg?1781938428",
+    "typology": [
+      "Landscape Architecture",
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T12:00:00.000Z",
+    "ingested_at": "2026-06-24T17:08:20.505Z"
+  },
+  {
+    "id": "98ad1d01-a5ed-4ffb-82b5-28b32d336bd7",
+    "title": "VE House",
+    "creator": "Triangular",
+    "location": "Chile",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041271/ve-house-triangular",
+    "image_url": "https://images.adsttc.com/media/images/69fc/3b96/a59b/8300/01a7/f2a3/medium_jpg/CA_VE_01_2880.jpg?1778138027",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T10:00:00.000Z",
+    "ingested_at": "2026-06-24T17:08:20.507Z"
   }
 ]

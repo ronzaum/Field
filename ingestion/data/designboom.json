@@ -5573,5 +5573,47 @@
     "material": [],
     "published_at": "2026-06-24T10:00:22.000Z",
     "ingested_at": "2026-06-24T11:48:27.599Z"
+  },
+  {
+    "id": "129902a3-c92a-44b6-8919-968e2dea0254",
+    "title": "lithium crystal forms inspire this mirrored pink sauna on sweden’s reclaimed wasteland",
+    "creator": "Nordmark & Nordmark Architects",
+    "location": "WasteLand",
+    "country": "Sweden",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lithium-crystal-mirrored-pink-sauna-sweden-reclaimed-wasteland-bigert-bergstrom/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/bigert-bergstrom-crystal-sauna-waste-land-designboom-700-500x400-22b08q85r516.jpg",
+    "typology": [
+      "architecture",
+      "architecture in sweden",
+      "bigert & bergström",
+      "pink",
+      "saunas"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T16:01:13.000Z",
+    "ingested_at": "2026-06-24T17:08:21.449Z"
+  },
+  {
+    "id": "78b10268-ea5f-4884-80de-256f21b5ecce",
+    "title": "amasa estudio carves patios and millwork into a mid-century home in mexico city",
+    "creator": "AMASA Estudio",
+    "location": "Coyoacán",
+    "country": "Mexico City",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/amasa-estudio-patios-millwork-mid-century-home-mexico-city-casa-xoltic/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/amasa-estudio-casa-xoltic-rehabilitation-mid-century-house-coyoacan-mexico-designboom-700-500x400-22b08q85r306.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in mexico",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T14:30:06.000Z",
+    "ingested_at": "2026-06-24T17:08:21.453Z"
   }
 ]
