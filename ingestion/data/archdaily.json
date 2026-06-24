@@ -15600,5 +15600,23 @@
     "material": [],
     "published_at": "2026-06-24T00:00:00.000Z",
     "ingested_at": "2026-06-24T08:25:19.918Z"
+  },
+  {
+    "id": "100a074f-d9c4-422a-8db4-dda16caa5138",
+    "title": "Casa Meyra",
+    "creator": "Di Frenna Arquitectos",
+    "location": "Colima",
+    "country": "Mexico",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040036/casa-meyra-di-frenna-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69c5/5712/d139/4600/01de/92ba/medium_jpg/1._Casa_Meyra.jpg?1774540631",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T06:00:00.000Z",
+    "ingested_at": "2026-06-24T11:48:25.259Z"
   }
 ]

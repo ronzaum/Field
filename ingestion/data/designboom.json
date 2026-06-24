@@ -5551,5 +5551,27 @@
     "material": [],
     "published_at": "2026-06-24T01:15:27.000Z",
     "ingested_at": "2026-06-24T04:02:51.593Z"
+  },
+  {
+    "id": "092c9763-8180-4aae-a3d4-a713213472fe",
+    "title": "the digital vernacular: reframing AI as an unexpected ally for local heritage",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ai-ally-local-heritage-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/700-thumb-02-500x400-22b08q85r550.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture interviews",
+      "artificial intelligence",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T10:00:22.000Z",
+    "ingested_at": "2026-06-24T11:48:27.599Z"
   }
 ]
