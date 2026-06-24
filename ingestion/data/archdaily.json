@@ -15545,5 +15545,60 @@
     "material": [],
     "published_at": "2026-06-23T06:00:00.000Z",
     "ingested_at": "2026-06-24T04:02:50.811Z"
+  },
+  {
+    "id": "0b233c6b-1ea3-424e-9956-666f19d3e8c2",
+    "title": "The Dip Pavilion",
+    "creator": "andblack design studio",
+    "location": "Ahmedabad",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042695/the-dip-pavilion-andblack-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/9426/6c38/4816/a744/245c/medium_jpg/the-dip-pavilion-andblack-design-studio_3.jpg?1782223940",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T03:00:00.000Z",
+    "ingested_at": "2026-06-24T08:25:19.913Z"
+  },
+  {
+    "id": "482039d6-bf6e-4737-88ad-b2ccd3e818e8",
+    "title": "Hapjeong Artplex Mixed-use Facility",
+    "creator": "NOTNOT Architects",
+    "location": "Mapo-gu",
+    "country": "South Korea",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042675/hapjeong-artplex-mixed-use-facility-notnot-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/322f/54d7/6a00/01cc/6977/medium_jpg/ad03.jpg?1782198940",
+    "typology": [
+      "Mixed Use Architecture",
+      "Cultural Architecture",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T02:00:00.000Z",
+    "ingested_at": "2026-06-24T08:25:19.915Z"
+  },
+  {
+    "id": "ee85554c-13ab-4d83-9e55-580e0101b4b6",
+    "title": "New Era Rural Community in Yongchun County",
+    "creator": "3andwich Design / He Wei Studio",
+    "location": "Wuxi Village",
+    "country": "China",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1001055/new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio",
+    "image_url": "https://images.adsttc.com/media/images/6463/635f/8085/d358/c8da/7641/medium_jpg/not-ready-new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio_1.jpg?1684235114",
+    "typology": [
+      "Public Architecture",
+      "Community",
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T00:00:00.000Z",
+    "ingested_at": "2026-06-24T08:25:19.918Z"
   }
 ]
