@@ -5615,5 +5615,45 @@
     "material": [],
     "published_at": "2026-06-24T14:30:06.000Z",
     "ingested_at": "2026-06-24T17:08:21.453Z"
+  },
+  {
+    "id": "f81dcc22-eb92-4ced-b9c1-85919ff2cce9",
+    "title": "step into frank gehry’s sweeping signature style in a new retrospective",
+    "creator": "Frank Gehry",
+    "location": "Fundação de Serralves – Museum of Contemporary Art",
+    "country": "Portugal | @fundacao_serralves",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/the-century-of-gehry-serralves-foundation-pritzker-architect-career/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/gehry-serralves-designboom-700-500x400-22b08q85r914.jpg",
+    "typology": [
+      "architecture",
+      "alvaro siza",
+      "architecture in portugal",
+      "frank gehry"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T09:30:27.000Z",
+    "ingested_at": "2026-06-25T11:42:52.796Z"
+  },
+  {
+    "id": "385d14a3-1c9c-43ed-93b7-05402a78e902",
+    "title": "build your own soviet-era modernist circus with zupagrafika’s architectural model book",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/soviet-era-modernist-circus-zupagrafika-architectural-model-book/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/soviet-era-modernist-circus-zupagrafika-architectural-model-book-designboom-700-500x400-22b08q85r588.jpg",
+    "typology": [
+      "architecture",
+      "designboom book reports",
+      "paper art and design",
+      "zupagrafika"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T08:30:27.000Z",
+    "ingested_at": "2026-06-25T11:42:52.807Z"
   }
 ]

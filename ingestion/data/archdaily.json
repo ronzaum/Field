@@ -15745,5 +15745,40 @@
     "material": [],
     "published_at": "2026-06-25T00:00:00.000Z",
     "ingested_at": "2026-06-25T08:25:44.697Z"
+  },
+  {
+    "id": "ede7ee68-646a-488d-acfb-29b3a11dccb4",
+    "title": "Casa Estudio F36",
+    "creator": "Estudio Tecalli",
+    "location": "México",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042728/casa-estudio-f36-estudio-tecalli",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/3d58/54d7/6a00/01cc/6a4c/medium_jpg/EstudioTecalli_F36_AmyBello_2026-18.jpg?1782201736",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T07:00:00.000Z",
+    "ingested_at": "2026-06-25T11:42:51.965Z"
+  },
+  {
+    "id": "22ea78ee-1e41-4305-b54b-fa0dac7e13e4",
+    "title": "Xplore Agora School Amsterdam",
+    "creator": "Studio Ard Hoksbergen",
+    "location": "Amsterdam",
+    "country": "The Netherlands",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042693/xplore-agora-school-amsterdam-studio-ard-hoksbergen",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/80c1/54d7/6a00/01cc/6a73/medium_jpg/Studio_Ard_Hoksbergen_Xplore_02.jpg?1782218976",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T06:00:00.000Z",
+    "ingested_at": "2026-06-25T11:42:51.967Z"
   }
 ]
