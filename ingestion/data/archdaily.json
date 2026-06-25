@@ -15691,5 +15691,24 @@
     "material": [],
     "published_at": "2026-06-24T15:00:00.000Z",
     "ingested_at": "2026-06-24T19:52:47.059Z"
+  },
+  {
+    "id": "04f40c62-0445-4672-8a9f-597ec49e4e22",
+    "title": "Curio Residence",
+    "creator": "Waterfrom Design",
+    "location": "Puzhao Village",
+    "country": "Taiwan",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042676/curio-residence-waterfrom-design",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/3508/54d7/6a00/01cc/699a/medium_jpg/2._entrance.jpg?1782199638",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-24T19:00:00.000Z",
+    "ingested_at": "2026-06-25T04:03:09.425Z"
   }
 ]
