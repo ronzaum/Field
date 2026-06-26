@@ -15943,5 +15943,23 @@
     "material": [],
     "published_at": "2026-06-26T06:00:00.000Z",
     "ingested_at": "2026-06-26T12:15:02.859Z"
+  },
+  {
+    "id": "d12f4f6e-3889-44a6-a942-cefd2aa5bd6d",
+    "title": "Island Crest",
+    "creator": "ONOMA Architecture",
+    "location": "Mercer Island",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042770/island-crest-onoma-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a3d/71ba/8385/1500/01fa/e38e/medium_jpg/ONOMA-Crest-25.jpg?1782411922",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T10:00:00.000Z",
+    "ingested_at": "2026-06-26T15:26:10.819Z"
   }
 ]

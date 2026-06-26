@@ -5720,5 +5720,27 @@
     "material": [],
     "published_at": "2026-06-26T10:30:19.000Z",
     "ingested_at": "2026-06-26T12:15:03.593Z"
+  },
+  {
+    "id": "d09f67bf-3025-4755-9394-580134df8b51",
+    "title": "gehry partners’ billowing performing arts center to neighbor guggenheim abu dhabi",
+    "creator": "Gehry Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gehry-partners-billowing-performing-arts-center-dar-al-funoon-abu-dhabi-uae/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/frank-gehry-dar-al-funoon-abu-dhabi-designboom-700-1-500x400-22b08q85r947.jpg",
+    "typology": [
+      "architecture",
+      "art and architecture in abu dhabi",
+      "art and architecture in the united arab emirates",
+      "frank gehry",
+      "rooftop architecture and design",
+      "theaters"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T14:31:39.000Z",
+    "ingested_at": "2026-06-26T15:26:12.418Z"
   }
 ]
