@@ -15906,5 +15906,42 @@
     "material": [],
     "published_at": "2026-06-25T10:00:00.000Z",
     "ingested_at": "2026-06-26T09:36:33.410Z"
+  },
+  {
+    "id": "847a8d5d-ba52-4c51-8131-2014d7b59aa3",
+    "title": "A White Barn",
+    "creator": "M.S.A.A. atelier",
+    "location": "Langfang",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042756/a-white-barn-msaa-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6a3c/e252/8385/1500/01fa/e2c9/medium_jpg/007-___.jpg?1782375031",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T07:00:00.000Z",
+    "ingested_at": "2026-06-26T12:15:02.856Z"
+  },
+  {
+    "id": "cf989ee4-d398-445d-be1c-db45a68b3790",
+    "title": "Josef-Schwarz School",
+    "creator": "Behnisch Architekten",
+    "location": "Heilbronn",
+    "country": "Germany",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042540/josef-schwarz-school-behnisch-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a33/541d/54d7/6a00/01cc/65dc/medium_jpg/05_Josef-Schwarz-Schule_Behnisch_Architekturb_ro_David_Matthiessen.jpg?1781748841",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T06:00:00.000Z",
+    "ingested_at": "2026-06-26T12:15:02.859Z"
   }
 ]
