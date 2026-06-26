@@ -5655,5 +5655,49 @@
     "material": [],
     "published_at": "2026-06-25T08:30:27.000Z",
     "ingested_at": "2026-06-25T11:42:52.807Z"
+  },
+  {
+    "id": "b542685c-380d-409b-9abd-2c413d5b40ba",
+    "title": "inside a century-old hanok, urban sophistication seoul flagship is organized like a home",
+    "creator": "Elad & Neta Yam in collaboration with PUMP Spatial Design",
+    "location": "Bukchon Hanok Village",
+    "country": "South Korea",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/century-old-hanok-urban-sophistication-seoul-flagship-organized-home/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/century-old-hanok-urban-sophistication-seoul-flagship-logic-domestic-life-designboom-700-500x400-22b08q85r872.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in korea",
+      "renovation and restoration architecture and design",
+      "retail interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T06:30:28.000Z",
+    "ingested_at": "2026-06-26T09:36:34.361Z"
+  },
+  {
+    "id": "26e3a8c7-d617-4826-9001-009c7a8847d7",
+    "title": "underused house reconfigures into child-centered bright red preschool in india",
+    "creator": "Gayatrilokesh Architects LLP",
+    "location": "Latur",
+    "country": "India",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/underused-house-child-centered-bright-red-preschool-india-gayatrilokesh-architects-llp-rooted-retrofit/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/latur-maharashtra-india-preschool-reuse-gayatrilokesh-architects-llp-rooted-retrofit-designboom-700-1-500x400-22b08q85r665.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in india",
+      "renovation and restoration architecture and design",
+      "school architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T14:00:19.000Z",
+    "ingested_at": "2026-06-26T09:36:34.371Z"
   }
 ]

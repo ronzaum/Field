@@ -15780,5 +15780,131 @@
     "material": [],
     "published_at": "2026-06-25T06:00:00.000Z",
     "ingested_at": "2026-06-25T11:42:51.967Z"
+  },
+  {
+    "id": "926f1158-6591-4daa-b5eb-e9e75654b3b5",
+    "title": "Care and Wellness Center for the Elderly and Disabled",
+    "creator": "sol89",
+    "location": "Paju-si",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041152/care-and-wellness-center-for-the-elderly-and-disabled-sol89",
+    "image_url": "https://images.adsttc.com/media/images/69f8/ab9c/20d6/d800/0166/40e8/medium_jpg/02_Danurimb.jpg?1777904564",
+    "typology": [
+      "Healthcare Architecture",
+      "Healthcare",
+      "healthcare center"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T03:00:00.000Z",
+    "ingested_at": "2026-06-26T09:36:33.398Z"
+  },
+  {
+    "id": "3d33adc6-b792-4e78-8b68-4ac2b2378c67",
+    "title": "RJH House",
+    "creator": "Wiyoga Nurdiansyah",
+    "location": "South Jakarta",
+    "country": "Indonesia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042753/rjh-house-wiyoga-nurdiansyah",
+    "image_url": "https://images.adsttc.com/media/images/6a3c/d639/8385/1500/01fa/e2ad/medium_jpg/RJH_House_-_Exterior_02__artehaus____.jpg?1782371969",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T02:00:00.000Z",
+    "ingested_at": "2026-06-26T09:36:33.400Z"
+  },
+  {
+    "id": "804a7d65-f613-4968-975b-e0018d36b7e5",
+    "title": "Dahecun National Archaeological Site Park and Dehecun Site Museum",
+    "creator": "CADG",
+    "location": "Zhongzhou Street",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042762/dahecun-national-archaeological-site-park-and-dehecun-site-museum-cadg",
+    "image_url": "https://images.adsttc.com/media/images/6a3c/f75d/8385/1500/01fa/e306/medium_jpg/14__________________.jpg?1782380397",
+    "typology": [
+      "Cultural Architecture",
+      "Museums & Exhibit"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T00:00:00.000Z",
+    "ingested_at": "2026-06-26T09:36:33.403Z"
+  },
+  {
+    "id": "cc869ca7-af59-4c52-b166-5039d5b4ece9",
+    "title": "WIDOARQUITECTOS Office",
+    "creator": "WIDOARQUITECTOS",
+    "location": "Cuernavaca",
+    "country": "Mexico",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041855/widoarquitectos-office-widoarquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a10/6211/35eb/2400/01f0/4408/medium_jpg/12.FACHADA_PRINCIPAL_ESCALA.jpg?1779458610",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T19:00:00.000Z",
+    "ingested_at": "2026-06-26T09:36:33.405Z"
+  },
+  {
+    "id": "d0225e40-805f-4088-bea8-5754b8bb5ee2",
+    "title": "House A",
+    "creator": "L2C Arquitetura",
+    "location": "Braga",
+    "country": "Portugal",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039261/casa-a-l2c-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69a6/6a18/3c49/4901/7d2a/db66/medium_jpg/casa-a-l2c-arquitetura_5.jpg?1772513841",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T15:00:00.000Z",
+    "ingested_at": "2026-06-26T09:36:33.407Z"
+  },
+  {
+    "id": "0d00452d-dfe0-40bb-8e89-56bd9dcdb5cd",
+    "title": "Paso de los Toros House",
+    "creator": "Juan Carlos Sabbagh Arquitectos",
+    "location": "Chicureo",
+    "country": "Chile",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1037734/paso-de-los-toros-house-juan-carlos-sabbagh-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6964/b03f/60cb/5200/01b9/01ad/medium_jpg/CP-JCSabbagh-CPasoLosToros-0064.jpg?1768206430",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T12:00:00.000Z",
+    "ingested_at": "2026-06-26T09:36:33.408Z"
+  },
+  {
+    "id": "21864d57-855e-4abe-bbb1-0a212461f852",
+    "title": "HANZA, Business Centre",
+    "creator": "AEXN Architects",
+    "location": "Klaipeda",
+    "country": "Lithuania",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042279/hanza-business-centre-aexn-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a27/551d/d2d3/6e00/0102/f4b6/medium_jpg/Untitled_design__6_.jpg?1780962610",
+    "typology": [
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T10:00:00.000Z",
+    "ingested_at": "2026-06-26T09:36:33.410Z"
   }
 ]

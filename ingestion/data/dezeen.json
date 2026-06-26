@@ -799,5 +799,27 @@
     "material": [],
     "published_at": "2026-06-23T10:15:50.000Z",
     "ingested_at": "2026-06-23T12:37:40.195Z"
+  },
+  {
+    "id": "8bb58cca-7cdc-42ac-8d5f-e9b5fa7a9d9b",
+    "title": "Dezeen Agenda features a mesh-covered Miami building",
+    "creator": "Snøhetta",
+    "location": "Miami",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/06/25/snohetta-miami-design-district-sweetbird-north-dezeen-debate/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/sweetbird-north-miami-design-district-snohetta_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Retail",
+      "Snøhetta",
+      "Miami Design District",
+      "Mesh",
+      "Dezeen Agenda"
+    ],
+    "material": [],
+    "published_at": "2026-06-25T18:00:14.000Z",
+    "ingested_at": "2026-06-26T09:36:33.556Z"
   }
 ]
