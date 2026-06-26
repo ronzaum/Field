@@ -15961,5 +15961,24 @@
     "material": [],
     "published_at": "2026-06-26T10:00:00.000Z",
     "ingested_at": "2026-06-26T15:26:10.819Z"
+  },
+  {
+    "id": "9b7395f6-f96c-4121-ae2d-0dec88e427e5",
+    "title": "Guesthouse \"Postal route\"",
+    "creator": "Plazma Architecture Studio",
+    "location": "Neringa",
+    "country": "Lithuania",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042697/guesthouse-postal-route-plazma-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/95a0/54d7/6a00/01cc/6ac2/medium_jpg/25-Plazma-LR48C-__Norbert_Tukaj-2915__Custom_.jpg?1782224319",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Restaurants & Bars"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T12:00:00.000Z",
+    "ingested_at": "2026-06-26T17:54:20.141Z"
   }
 ]
