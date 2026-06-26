@@ -15980,5 +15980,23 @@
     "material": [],
     "published_at": "2026-06-26T12:00:00.000Z",
     "ingested_at": "2026-06-26T17:54:20.141Z"
+  },
+  {
+    "id": "9b0fd181-05c6-4fd3-8442-efd8af287dd5",
+    "title": "Caiçara House",
+    "creator": "Studio Carlito e Renata Pascucci",
+    "location": "Praia de Boiçucanga",
+    "country": "Brazil",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042651/caicara-house-studio-carlito-e-renata-pascucci",
+    "image_url": "https://images.adsttc.com/media/images/6a35/a061/54d7/6a00/01cc/6739/medium_jpg/Projeto_Studio_Carlito_e_Renata_Pascucci_Arquitetura_-_Cai_ara_I_Foto_Julia_Novoa___19.jpg?1781899403",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T15:00:00.000Z",
+    "ingested_at": "2026-06-26T21:24:44.606Z"
   }
 ]
