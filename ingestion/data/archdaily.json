@@ -16078,5 +16078,23 @@
     "material": [],
     "published_at": "2026-06-27T15:00:00.000Z",
     "ingested_at": "2026-06-27T20:11:44.089Z"
+  },
+  {
+    "id": "640c081d-becf-4d38-9ece-27426d0692e9",
+    "title": "Machikado Project in Toyama",
+    "creator": "Plan 21",
+    "location": "Toyama",
+    "country": "Japan",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042744/machikado-project-in-toyama-plan-21",
+    "image_url": "https://images.adsttc.com/media/images/6a3c/535f/ddd9/3811/cc9c/137d/medium_jpg/machikado-project-in-toyama-plan-21_18.jpg?1782338454",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-27T17:00:00.000Z",
+    "ingested_at": "2026-06-27T22:06:56.857Z"
   }
 ]
