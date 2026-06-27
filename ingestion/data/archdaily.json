@@ -16036,5 +16036,29 @@
     "material": [],
     "published_at": "2026-06-27T02:00:00.000Z",
     "ingested_at": "2026-06-27T07:22:16.802Z"
+  },
+  {
+    "id": "e16d4f38-b1d1-4dd2-9db4-21b92e4cb2e8",
+    "title": "Laboratorium Coffee Shop",
+    "creator": "EktraArhitectura",
+    "location": "Cluj-Napoca",
+    "country": "Romania",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042698/laboratorium-coffee-shop-ektraarhitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/95b1/54d7/6a00/01cc/6ae2/medium_jpg/in-still_Laboratorium-2.jpg?1782224325",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Coffee Shop",
+      "Refurbishment",
+      "Restoration",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-27T06:00:00.000Z",
+    "ingested_at": "2026-06-27T12:10:29.576Z"
   }
 ]
