@@ -16016,5 +16016,25 @@
     "material": [],
     "published_at": "2026-06-26T19:00:00.000Z",
     "ingested_at": "2026-06-27T03:56:22.457Z"
+  },
+  {
+    "id": "6235f460-e939-4ea1-a90c-5d332b7a4c88",
+    "title": "Renovation of 5 X 7",
+    "creator": "Greater Dog Architects",
+    "location": "No.2689",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1008351/renovation-of-5-x-7-greater-dog-architects",
+    "image_url": "https://images.adsttc.com/media/images/652d/60da/64e5/0c06/c50a/943a/medium_jpg/renovation-of-5-x-7-greater-dog-architects_2.jpg?1697472753",
+    "typology": [
+      "Refurbishment",
+      "Adaptive reuse",
+      "Other",
+      "Small Scale"
+    ],
+    "material": [],
+    "published_at": "2026-06-27T02:00:00.000Z",
+    "ingested_at": "2026-06-27T07:22:16.802Z"
   }
 ]
