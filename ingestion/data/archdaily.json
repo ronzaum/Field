@@ -15998,5 +15998,23 @@
     "material": [],
     "published_at": "2026-06-26T15:00:00.000Z",
     "ingested_at": "2026-06-26T21:24:44.606Z"
+  },
+  {
+    "id": "13118642-a2a0-4a8f-91e7-2a3568ead3c9",
+    "title": "Villa Riviera Golf Residence",
+    "creator": "Atelier130",
+    "location": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042800/villa-riviera-golf-residence-atelier130",
+    "image_url": "https://images.adsttc.com/media/images/6a3e/9f84/0789/c600/018c/2575/medium_jpg/Alejandra_Loreto_00.jpg?1782488993",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-26T19:00:00.000Z",
+    "ingested_at": "2026-06-27T03:56:22.457Z"
   }
 ]
