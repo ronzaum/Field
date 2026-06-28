@@ -16114,5 +16114,22 @@
     "material": [],
     "published_at": "2026-06-27T21:00:00.000Z",
     "ingested_at": "2026-06-28T05:20:08.194Z"
+  },
+  {
+    "id": "d644e250-779c-4776-8f3f-88d5ae7111b7",
+    "title": "Buildings of Liangzi Lake Changling Ferry",
+    "creator": "UP Architecture",
+    "location": "Ezhou",
+    "country": "China",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1017130/buildings-of-liangzi-lake-changling-ferry-up-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6656/59e8/17a9/f25b/bf7a/ce86/medium_jpg/buildings-of-liangzi-lake-changling-ferry-up-architecture_1.jpg?1716935169",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-28T02:00:00.000Z",
+    "ingested_at": "2026-06-28T09:18:18.064Z"
   }
 ]
