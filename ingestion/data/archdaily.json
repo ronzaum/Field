@@ -16096,5 +16096,23 @@
     "material": [],
     "published_at": "2026-06-27T17:00:00.000Z",
     "ingested_at": "2026-06-27T22:06:56.857Z"
+  },
+  {
+    "id": "c6e79656-e76e-4d2a-a23d-d64dc97b8b36",
+    "title": "Sandstone House",
+    "creator": "4Brick Studio",
+    "location": "Shyanumangala",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042796/sandstone-house-4brick-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a3e/7889/0789/c600/018c/2541/medium_jpg/25_06_08_Eagleton_930.jpg?1782479345",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-27T21:00:00.000Z",
+    "ingested_at": "2026-06-28T05:20:08.194Z"
   }
 ]
