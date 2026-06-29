@@ -16154,5 +16154,41 @@
     "material": [],
     "published_at": "2026-06-28T15:00:00.000Z",
     "ingested_at": "2026-06-28T21:08:03.301Z"
+  },
+  {
+    "id": "c81ad6e9-2b2d-400e-9abb-1f92125ca570",
+    "title": "Nam Da House",
+    "creator": "24Minimalist Architecture",
+    "location": "Nam Da",
+    "country": "Vietnam",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042801/nam-da-house-24minimalist-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a3e/a444/0789/c600/018c/2589/medium_jpg/NamDaHouse_03.jpg?1782490215",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-28T21:00:00.000Z",
+    "ingested_at": "2026-06-29T04:25:42.397Z"
+  },
+  {
+    "id": "67353232-a8bb-4402-8363-1d1d3fe19278",
+    "title": "YP Building",
+    "creator": "Simplex Architecture",
+    "location": "Seocho District",
+    "country": "South Korea",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042818/yp-building-simplex-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a41/2bb0/0789/c600/018c/2637/medium_jpg/1856_Kyungsub_Shin_e_s.jpg?1782656100",
+    "typology": [
+      "Mixed Use Architecture",
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-06-28T17:00:00.000Z",
+    "ingested_at": "2026-06-29T04:25:42.399Z"
   }
 ]
