@@ -5846,5 +5846,30 @@
     "material": [],
     "published_at": "2026-06-29T10:20:57.000Z",
     "ingested_at": "2026-06-29T14:09:06.131Z"
+  },
+  {
+    "id": "3839ebd3-d653-4b88-ac66-44e47ab5bf01",
+    "title": "Hermès beijing flagship wrapped in a rose-pink ceramic veil by mamou-mani",
+    "creator": "kat barandy",
+    "location": "Sanlitun District",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/hermes-beijing-flagship-rose-pink-ceramic-veil-mamou-mani-rdai/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/hermes-beijing-flagship-mamou-mani-facade-designboom-700-500x400-22b08q85r548.jpg",
+    "typology": [
+      "architecture",
+      "architecture in beijing",
+      "architecture in china",
+      "arthur mamou-mani",
+      "ceramic art and design",
+      "facades",
+      "Hermès",
+      "retail interiors",
+      "terracotta"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T20:00:11.000Z",
+    "ingested_at": "2026-06-29T20:05:53.689Z"
   }
 ]
