@@ -16190,5 +16190,61 @@
     "material": [],
     "published_at": "2026-06-28T17:00:00.000Z",
     "ingested_at": "2026-06-29T04:25:42.399Z"
+  },
+  {
+    "id": "75c27bac-23ac-4edb-82a2-91fb0fca5793",
+    "title": "Sublime Comporta Sand",
+    "creator": "Fragmentos",
+    "location": "Grândola",
+    "country": "Portugal",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042746/sublime-comporta-sand-fragmentos",
+    "image_url": "https://images.adsttc.com/media/images/6a3c/5e6d/3e62/7a1b/5e23/887d/medium_jpg/sublime-comporta-sand-fragmentos_3.jpg?1782341291",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T03:00:00.000Z",
+    "ingested_at": "2026-06-29T09:51:56.771Z"
+  },
+  {
+    "id": "c947220e-0093-40f6-8fd5-103588e489dd",
+    "title": "Brick Tower Mixed Use Building",
+    "creator": "ASA Studio",
+    "location": "Gasabo District",
+    "country": "Rwanda",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042802/brick-tower-mixed-use-building-asa-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a3e/a683/0789/c600/018c/259d/medium_jpg/1.jpg?1782490831",
+    "typology": [
+      "Mixed Use Architecture",
+      "Residential Architecture",
+      "Housing",
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T02:00:00.000Z",
+    "ingested_at": "2026-06-29T09:51:56.772Z"
+  },
+  {
+    "id": "18a7b814-da6b-49df-bfdc-47fa5f25630a",
+    "title": "Raintree Lane Farm House",
+    "creator": "Yangnar Studio",
+    "location": "San Kamphaeng District",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042799/raintree-lane-farm-house-yangnar-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a41/baa1/8481/2b01/8af5/0be2/medium_jpg/raintree-lane-farm-house-yangnar-studio_30.jpg?1782692519",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T00:00:00.000Z",
+    "ingested_at": "2026-06-29T09:51:56.775Z"
   }
 ]
