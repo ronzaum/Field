@@ -16301,5 +16301,23 @@
     "material": [],
     "published_at": "2026-06-29T12:00:00.000Z",
     "ingested_at": "2026-06-29T20:05:52.590Z"
+  },
+  {
+    "id": "efb14a69-3694-456d-87b7-24c21d2ac9b0",
+    "title": "Lagoa Azul Suite",
+    "creator": "Carlos Alberto Arquitetura",
+    "location": "Tupaciguara",
+    "country": "Brazil",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042821/lagoa-azul-suite-carlos-alberto-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a35/9c6f/54d7/6a00/01cc/6729/medium_jpg/fazenda-1.jpg?1781898396",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T15:00:00.000Z",
+    "ingested_at": "2026-06-29T22:12:37.064Z"
   }
 ]
