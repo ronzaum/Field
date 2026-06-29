@@ -16246,5 +16246,42 @@
     "material": [],
     "published_at": "2026-06-29T00:00:00.000Z",
     "ingested_at": "2026-06-29T09:51:56.775Z"
+  },
+  {
+    "id": "a20e88f9-ba6a-45c3-94e5-58c583daa995",
+    "title": "Anjung House",
+    "creator": "Eleena Jamil Architect",
+    "location": "Selangor",
+    "country": "Malaysia",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042816/anjung-house-eleena-jamil-architect",
+    "image_url": "https://images.adsttc.com/media/images/6a41/24f5/bdfc/1a01/8a6a/2854/medium_jpg/anjung-house-eleena-jamil-architect_6.jpg?1782654264",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T07:00:00.000Z",
+    "ingested_at": "2026-06-29T14:09:05.320Z"
+  },
+  {
+    "id": "a73db285-292a-417d-a9a7-0eb3fef00d0b",
+    "title": "Egedammen Kindergarten",
+    "creator": "BBP Arkitekter",
+    "location": "Søborg",
+    "country": "Denmark",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042696/egedammen-kindergarten-bbp-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/954b/54d7/6a00/01cc/6aae/medium_jpg/2a-BBP_Egedam.jpg?1782224226",
+    "typology": [
+      "Educational Architecture",
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T06:00:00.000Z",
+    "ingested_at": "2026-06-29T14:09:05.322Z"
   }
 ]

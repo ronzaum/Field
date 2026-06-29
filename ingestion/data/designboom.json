@@ -5803,5 +5803,48 @@
     "material": [],
     "published_at": "2026-06-29T02:35:44.000Z",
     "ingested_at": "2026-06-29T04:25:43.392Z"
+  },
+  {
+    "id": "208dbcc0-87da-4e59-a353-311f0b45194c",
+    "title": "reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living",
+    "creator": "zU-studio",
+    "location": "Basque Country",
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/reclaimed-stone-timber-basque-farmhouse-contemporary-living-zu-studio/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/reclaimed-stone-timber-basque-farm-zu-studio-designboom-700-500x400-22b08q85r111.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "marble and stone design",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "zU-studio"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T14:00:44.000Z",
+    "ingested_at": "2026-06-29T14:09:06.126Z"
+  },
+  {
+    "id": "7c9196fe-20b4-42c7-ad55-07bb74f1fd42",
+    "title": "adaptive legacies: why the ultimate form of sustainability means building as little as possible",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/adaptive-legacies-sustainability-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/700-thumb-500x400-22b08q85r418.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "Milan Design Week 2026",
+      "podcast: room for dreams",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T10:20:57.000Z",
+    "ingested_at": "2026-06-29T14:09:06.131Z"
   }
 ]
