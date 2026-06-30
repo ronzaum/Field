@@ -16469,5 +16469,25 @@
     "material": [],
     "published_at": "2026-06-30T12:00:00.000Z",
     "ingested_at": "2026-06-30T18:01:36.782Z"
+  },
+  {
+    "id": "2d6733cc-0ea2-4a8f-9941-21c58fda487a",
+    "title": "The Apartment That Began with a Tile",
+    "creator": "Atelier Glushkó",
+    "location": "Copacabana",
+    "country": "Brazil",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042810/the-apartment-that-began-with-a-tile-atelier-glushko",
+    "image_url": "https://images.adsttc.com/media/images/6a3e/e574/0789/c600/018c/25ea/medium_jpg/alta_andrey_glushko_apto_ipanema_mortattistudio-17_copia.jpg?1782507013",
+    "typology": [
+      "Residential Architecture",
+      "Housing",
+      "Apartments",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T15:00:00.000Z",
+    "ingested_at": "2026-06-30T20:58:59.660Z"
   }
 ]
