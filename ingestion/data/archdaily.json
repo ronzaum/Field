@@ -16339,5 +16339,23 @@
     "material": [],
     "published_at": "2026-06-29T19:00:00.000Z",
     "ingested_at": "2026-06-30T00:10:28.139Z"
+  },
+  {
+    "id": "f27205a7-bc3c-41f7-b8e3-1bcde2efb738",
+    "title": "Zhenshi New Materials Industrial Park Phase I",
+    "creator": "YS-ONE DESIGN",
+    "location": "Intersection of Zhoudian Highway and Wenhua South Road",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1028088/zhenshi-new-materials-industrial-park-phase-i-one-design-landscape-architecture",
+    "image_url": "https://images.adsttc.com/media/images/67d9/512a/006a/4701/8a1c/aaf5/medium_jpg/zhenshi-new-materials-industrial-park-phase-i-one-design-landscape-architecture_18.jpg?1742295461",
+    "typology": [
+      "Industrial Architecture",
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T00:00:00.000Z",
+    "ingested_at": "2026-06-30T05:08:58.608Z"
   }
 ]
