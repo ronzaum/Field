@@ -16411,5 +16411,45 @@
     "material": [],
     "published_at": "2026-06-30T06:00:00.000Z",
     "ingested_at": "2026-06-30T12:13:46.744Z"
+  },
+  {
+    "id": "e2efe25f-2ac7-46bd-a712-83cb38efaf30",
+    "title": "Casa Tahiti Interior",
+    "creator": "Margine",
+    "location": "Roma",
+    "country": "Italy",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042882/casa-tahiti-margine",
+    "image_url": "https://images.adsttc.com/media/images/6a43/a92a/8481/2b01/8af5/16ae/medium_jpg/casa-tahiti-margine_11.jpg?1782819174",
+    "typology": [
+      "Refurbishment",
+      "Renovation",
+      "Interior Design",
+      "Residential Interiors",
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T10:00:00.000Z",
+    "ingested_at": "2026-06-30T15:33:17.842Z"
+  },
+  {
+    "id": "94e46111-70ae-485d-8cd6-912e323b505c",
+    "title": "Educational Center with an Adult Education School, Music School and Kindergarten",
+    "creator": "Bez+Kock Architekten",
+    "location": "Rottenburg am Neckar",
+    "country": "Germany",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042793/educational-center-with-an-adult-education-school-music-school-and-kindergarten-bez-plus-kock-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a3e/5d85/0789/c600/018c/2510/medium_jpg/01_260327045_gonzalez.jpg?1782472098",
+    "typology": [
+      "Educational Architecture",
+      "Kindergarten",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T07:00:00.000Z",
+    "ingested_at": "2026-06-30T15:33:17.845Z"
   }
 ]
