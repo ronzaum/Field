@@ -16393,5 +16393,23 @@
     "material": [],
     "published_at": "2026-06-30T02:00:00.000Z",
     "ingested_at": "2026-06-30T09:49:45.943Z"
+  },
+  {
+    "id": "68e5d66a-66be-46dd-af63-e9e0dceaebba",
+    "title": "Roche Diagnostic Centre",
+    "creator": "Studio Alexander Fehre",
+    "location": "Penzberg",
+    "country": "Germany",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042884/roche-diagnostic-centre-studio-alexander-fehre",
+    "image_url": "https://images.adsttc.com/media/images/6a43/926e/0789/c600/018c/2818/medium_jpg/Studio_Alexander_Fehre_ROCHE_Diagnostik-Innovationszentrum_Arbeitswelt_18.jpg?1782813369",
+    "typology": [
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T06:00:00.000Z",
+    "ingested_at": "2026-06-30T12:13:46.744Z"
   }
 ]
