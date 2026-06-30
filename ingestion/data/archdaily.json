@@ -16319,5 +16319,25 @@
     "material": [],
     "published_at": "2026-06-29T15:00:00.000Z",
     "ingested_at": "2026-06-29T22:12:37.064Z"
+  },
+  {
+    "id": "fa0cd4d3-b142-4996-a9ab-532f053499c7",
+    "title": "Makino's Roadside Station",
+    "creator": "Wakatake Town Planning Research Institute + STUDIO YY + WORKSTATION",
+    "location": "Kochi",
+    "country": "Japan",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042817/makinos-roadside-station-wakatake-town-planning-research-institute-plus-studio-yy-plus-workstation",
+    "image_url": "https://images.adsttc.com/media/images/6a41/ac93/8481/2b01/8af5/0b79/medium_jpg/makinos-roadside-station-wakatake-town-planning-research-institute-plus-studio-yy-plus-workstation_10.jpg?1782688931",
+    "typology": [
+      "Infrastructure",
+      "Transportation",
+      "Train Station",
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-06-29T19:00:00.000Z",
+    "ingested_at": "2026-06-30T00:10:28.139Z"
   }
 ]
