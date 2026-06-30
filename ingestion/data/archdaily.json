@@ -16357,5 +16357,41 @@
     "material": [],
     "published_at": "2026-06-30T00:00:00.000Z",
     "ingested_at": "2026-06-30T05:08:58.608Z"
+  },
+  {
+    "id": "49cc85a6-f1d2-412d-8372-3073b260a271",
+    "title": "The TH Villa Hoi An",
+    "creator": "85 Design",
+    "location": "Hội An Tây",
+    "country": "Vietnam",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042815/the-th-villa-hoi-an-85-design",
+    "image_url": "https://images.adsttc.com/media/images/6a40/f881/0789/c600/018c/2602/medium_jpg/1.jpg?1782642868",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T03:00:00.000Z",
+    "ingested_at": "2026-06-30T09:49:45.941Z"
+  },
+  {
+    "id": "8dbfdfb0-1628-4e98-8eb1-04ada1301798",
+    "title": "Baan You Yen Residence",
+    "creator": "Studio Miti",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042790/baan-you-yen-residence-studio-miti",
+    "image_url": "https://images.adsttc.com/media/images/6a41/fc24/8481/2b01/8af5/0d4a/medium_jpg/baan-you-yen-residence-studio-miti_27.jpg?1782709314",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T02:00:00.000Z",
+    "ingested_at": "2026-06-30T09:49:45.943Z"
   }
 ]

@@ -5871,5 +5871,27 @@
     "material": [],
     "published_at": "2026-06-29T20:00:11.000Z",
     "ingested_at": "2026-06-29T20:05:53.689Z"
+  },
+  {
+    "id": "dc177a51-d67a-496d-ab32-9f8b409e4e33",
+    "title": "acne studios’ pink library in tokyo celebrates three decades of fashion, art, and publishing",
+    "creator": "thomai tsimpou",
+    "location": "StandBy Harajuku",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait-designboom-700-500x400-22b08q85r784.jpg",
+    "typology": [
+      "architecture",
+      "acne studios",
+      "architecture in japan",
+      "architecture in tokyo",
+      "library architecture and design",
+      "pink"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T08:30:21.000Z",
+    "ingested_at": "2026-06-30T09:49:46.980Z"
   }
 ]
