@@ -5982,5 +5982,26 @@
     "material": [],
     "published_at": "2026-07-01T08:00:35.000Z",
     "ingested_at": "2026-07-01T09:58:41.302Z"
+  },
+  {
+    "id": "b1430f69-802c-406c-b5f3-e30651a2794b",
+    "title": "MAD opens shenzhen’s tengyun center with lifted, cloud-like offices",
+    "creator": "MAD",
+    "location": "Shenzhen",
+    "country": "China",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mad-shenzhen-tengyun-center-cloud-offices-tencent-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/MAD-tengyun-center-shenzhen-china-designboom-700-500x400-22b08q85r377.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "architecture in shenzhen",
+      "MAD architects",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T15:07:22.000Z",
+    "ingested_at": "2026-07-01T15:46:23.255Z"
   }
 ]

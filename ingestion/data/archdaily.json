@@ -16601,5 +16601,25 @@
     "material": [],
     "published_at": "2026-07-01T06:00:00.000Z",
     "ingested_at": "2026-07-01T12:41:24.764Z"
+  },
+  {
+    "id": "798a65f8-37a3-4dbb-be09-718151954aec",
+    "title": "Fantastic Frank Stockholm Showroom",
+    "creator": "ASKA",
+    "location": "Sweden",
+    "country": null,
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042878/fantastic-frank-stockholm-showroom-aska",
+    "image_url": "https://images.adsttc.com/media/images/6a43/8051/0789/c600/018c/27ab/medium_jpg/2_ASKA_ARCHITECTS_FANTASTIC_FRANK_MIKAEL_LUNDBLAD_HIRES.jpg?1782808677",
+    "typology": [
+      "Commercial Architecture",
+      "Retail",
+      "Showroom",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T10:00:00.000Z",
+    "ingested_at": "2026-07-01T15:46:22.225Z"
   }
 ]
