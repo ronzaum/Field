@@ -16561,5 +16561,45 @@
     "material": [],
     "published_at": "2026-07-01T02:00:00.000Z",
     "ingested_at": "2026-07-01T09:58:38.730Z"
+  },
+  {
+    "id": "d29cacff-237a-46e5-a18a-9af14abc2e24",
+    "title": "One Milestone Life Science Campus",
+    "creator": "Studio Gang + Henning Larsen",
+    "location": "1 Milestone St",
+    "country": "United States",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042866/one-milestone-life-science-campus-studio-gang-plus-henning-larsen",
+    "image_url": "https://images.adsttc.com/media/images/6a43/3562/bdfc/1a01/8a6a/31b7/medium_jpg/breakthrough-properties-one-milestone-studio-gang-plus-henning-larsen_6.jpg?1782789487",
+    "typology": [
+      "Research center",
+      "Educational Architecture",
+      "Offices",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T07:00:00.000Z",
+    "ingested_at": "2026-07-01T12:41:24.761Z"
+  },
+  {
+    "id": "038d4653-7ec3-4725-afac-54e9e062b704",
+    "title": "KIS International School Reignwood Park",
+    "creator": "Rosan Bosch Studio",
+    "location": "Tambon Lam Sai",
+    "country": "Thailand",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042844/kis-international-school-reignwood-park-rosan-bosch-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a42/60cf/0789/c600/018c/2667/medium_jpg/1_KIS_Rosan_Bosch_Studio.jpg?1782735081",
+    "typology": [
+      "Educational Architecture",
+      "Schools",
+      "Interior Design",
+      "Educational Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T06:00:00.000Z",
+    "ingested_at": "2026-07-01T12:41:24.764Z"
   }
 ]
