@@ -5936,5 +5936,51 @@
     "material": [],
     "published_at": "2026-06-30T19:00:46.000Z",
     "ingested_at": "2026-06-30T20:59:01.141Z"
+  },
+  {
+    "id": "dd642eaa-8c8d-4931-a0ed-0caede62c74e",
+    "title": "from FDNY firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo residence",
+    "creator": "Napoleon LeBrun",
+    "location": "SoHo",
+    "country": "USA",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence-designboom-700-500x400-22b08q85r722.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in new york",
+      "daniel arsham",
+      "https://www.designboom.com/tag/brick-architecture/",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T08:30:24.000Z",
+    "ingested_at": "2026-07-01T09:58:41.294Z"
+  },
+  {
+    "id": "fa2e7478-81c3-43f8-8278-7e44d5f3ec9d",
+    "title": "pink mosaic flows across every surface at alaïa’s first miami boutique",
+    "creator": "Halleroed",
+    "location": "Miami Design District",
+    "country": "USA",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/pink-mosaic-surface-alaia-first-miami-boutique-halleroed/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/pink-mosaic-surface-alaia-first-miami-boutique-halleroed-designboom-700-500x400-22b08q85r072.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "alaïa",
+      "facades",
+      "halleroed",
+      "pink",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T08:00:35.000Z",
+    "ingested_at": "2026-07-01T09:58:41.302Z"
   }
 ]

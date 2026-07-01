@@ -16525,5 +16525,41 @@
     "material": [],
     "published_at": "2026-06-30T19:00:00.000Z",
     "ingested_at": "2026-07-01T05:25:52.852Z"
+  },
+  {
+    "id": "85e38435-b629-44be-9df9-9cbefd4f650a",
+    "title": "No.41 House",
+    "creator": "Tristan Burfield",
+    "location": "Red Hill South",
+    "country": "Australia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042893/n1-house-tristan-burfield",
+    "image_url": "https://images.adsttc.com/media/images/6a43/c912/bdfc/1a01/8a6a/358b/medium_jpg/n1-house-tristan-burfield_28.jpg?1782827296",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T03:00:00.000Z",
+    "ingested_at": "2026-07-01T09:58:38.728Z"
+  },
+  {
+    "id": "3b05bc22-8bbb-4c03-9c32-d65b89f43630",
+    "title": "Oculus House",
+    "creator": "Condon Scott Architects",
+    "location": "Queenstown",
+    "country": "New Zealand",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042885/oculus-house-condon-scott-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a43/aebf/0789/c600/018c/2841/medium_jpg/Condon_Scott_Architects_Oculus_House_Biddi_Rowley_Entrance.jpg?1782820614",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T02:00:00.000Z",
+    "ingested_at": "2026-07-01T09:58:38.730Z"
   }
 ]
