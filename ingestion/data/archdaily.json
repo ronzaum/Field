@@ -16489,5 +16489,41 @@
     "material": [],
     "published_at": "2026-06-30T15:00:00.000Z",
     "ingested_at": "2026-06-30T20:58:59.660Z"
+  },
+  {
+    "id": "ec21fc00-0bfd-4a78-8e00-6d732048c723",
+    "title": "Grape Classroom in the Field",
+    "creator": "atelier anonymous",
+    "location": "Junshi Village",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042763/grape-classroom-in-the-field-atelier-anonymous",
+    "image_url": "https://images.adsttc.com/media/images/6a42/a23f/8481/2b01/8af5/10f5/medium_jpg/grape-classroom-in-the-field-atelier-anonymous_37.jpg?1782751825",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T00:00:00.000Z",
+    "ingested_at": "2026-07-01T05:25:52.849Z"
+  },
+  {
+    "id": "7f6a76c2-667e-495e-afc9-3d9d580f3f72",
+    "title": "Malhaar Residence",
+    "creator": "Vaissnavi Shukl",
+    "location": "Ahmedabad",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042859/malhaar-residence-vaissnavi-shukl",
+    "image_url": "https://images.adsttc.com/media/images/6a43/d5fd/8481/2b01/8af5/1933/medium_jpg/malhaar-residence-vaissnavi-shukl_10.jpg?1782830606",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-06-30T19:00:00.000Z",
+    "ingested_at": "2026-07-01T05:25:52.852Z"
   }
 ]
