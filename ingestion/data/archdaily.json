@@ -16621,5 +16621,41 @@
     "material": [],
     "published_at": "2026-07-01T10:00:00.000Z",
     "ingested_at": "2026-07-01T15:46:22.225Z"
+  },
+  {
+    "id": "0111f366-7bf5-4d31-975d-787d59d0171f",
+    "title": "Country House",
+    "creator": "Teresa Borsoi Arquitetura",
+    "location": "Chacara de Recreio Jardim Alvorada",
+    "country": "Brazil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041694/country-house-teresa-borsoi-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69fd/dc37/a59b/8300/01a7/f468/medium_jpg/Teresa-Borsoi-BTU-2023-daniel-santo-fotografia_-7820.jpg?1778244693",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T13:00:00.000Z",
+    "ingested_at": "2026-07-01T18:02:10.509Z"
+  },
+  {
+    "id": "10f6c170-0a84-441c-861e-97c6b0663cac",
+    "title": "Le Diamant",
+    "creator": "in situ atelier d'architecture + Coarchitecture + Jacques Plante",
+    "location": "Québec",
+    "country": "Canada",
+    "year": 2019,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042857/le-diamant",
+    "image_url": "https://images.adsttc.com/media/images/6a42/cd68/0789/c600/018c/26e3/medium_jpg/01_DIAMANT_VUEEXTERIEUREPRINCIPALE.jpg?1782762917",
+    "typology": [
+      "Mixed Use Architecture",
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T12:00:00.000Z",
+    "ingested_at": "2026-07-01T18:02:10.512Z"
   }
 ]
