@@ -6042,5 +6042,68 @@
     "material": [],
     "published_at": "2026-07-02T08:00:54.000Z",
     "ingested_at": "2026-07-02T09:21:27.244Z"
+  },
+  {
+    "id": "89ff67ed-9c8b-45e2-89b3-b884d3d9225a",
+    "title": "kengo kuma on why craftsmanship remains architecture’s connection to place",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kengo-kuma-craftsmanship-architecture-connection-place-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/kengo-kuma-craftsmanship-architecture-connection-place-designboom-700-500x400-22b08q85r234.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture interviews",
+      "CRAFTING THE FUTURE",
+      "kengo kuma"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T10:45:43.000Z",
+    "ingested_at": "2026-07-02T12:11:35.084Z"
+  },
+  {
+    "id": "cb1153f6-f609-4bc2-9ec7-6fac985ecbee",
+    "title": "BIG completes dymak’s HQ as a full-scale showcase of natural materials in denmark",
+    "creator": "Bjarke Ingels Group (BIG)",
+    "location": "Odense",
+    "country": "Denmark",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark-designboom-700-500x400-22b08q85r594.jpg",
+    "typology": [
+      "architecture",
+      "architecture in denmark",
+      "bjarke ingels group / BIG",
+      "where people work",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T10:31:52.000Z",
+    "ingested_at": "2026-07-02T12:11:35.099Z"
+  },
+  {
+    "id": "7ba0d289-ea2a-4222-9e40-7a55e12adba5",
+    "title": "monolithic brick volumes wrap weekend house around a series of courtyards in argentina",
+    "creator": "PLUG arquitectura",
+    "location": "San Andrés de Giles",
+    "country": "Argentina",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/monolithic-brick-volumes-weekend-house-courtyards-argentina-plug-arquitectura/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/san-andres-de-giles-weekend-brick-house-plug-arquitectura-designboom-700-1-500x400-22b08q85r170.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in argentina",
+      "brick architecture",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T09:30:26.000Z",
+    "ingested_at": "2026-07-02T12:11:35.115Z"
   }
 ]

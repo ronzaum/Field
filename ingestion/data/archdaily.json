@@ -16770,5 +16770,41 @@
     "material": [],
     "published_at": "2026-07-02T00:00:00.000Z",
     "ingested_at": "2026-07-02T09:21:26.371Z"
+  },
+  {
+    "id": "6fa0ed26-56e6-499b-b3c0-78bfdeb0ca1b",
+    "title": "Dymak HQ",
+    "creator": "BIG",
+    "location": "Odense",
+    "country": "Denmark",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042958/dymak-hq-big",
+    "image_url": "https://images.adsttc.com/media/images/6a46/3eaa/cbaa/8c01/8a6e/d542/medium_jpg/dymak-hq-big_5.jpg?1782988493",
+    "typology": [
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T07:00:00.000Z",
+    "ingested_at": "2026-07-02T12:11:33.947Z"
+  },
+  {
+    "id": "7d3654b8-9dc1-4ef9-a2c5-d3e553b94fed",
+    "title": "School Maria Assumpta Instituut",
+    "creator": "LOW Architecten",
+    "location": "Opwijk",
+    "country": "Belgium",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042939/school-maria-assumpta-instituut-low-architecten",
+    "image_url": "https://images.adsttc.com/media/images/6a45/287a/0789/c600/018c/29eb/medium_jpg/LO-MAIO-0985-_StijnBollaert-HR.jpg?1782917326",
+    "typology": [
+      "Educational Architecture",
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T06:00:00.000Z",
+    "ingested_at": "2026-07-02T12:11:33.949Z"
   }
 ]

@@ -821,5 +821,28 @@
     "material": [],
     "published_at": "2026-06-25T18:00:14.000Z",
     "ingested_at": "2026-06-26T09:36:33.556Z"
+  },
+  {
+    "id": "4e869be9-3ac3-44cb-abd2-b53440a61853",
+    "title": "Sunken lightwells illuminate partially submerged London home",
+    "creator": "Stylus Architects",
+    "location": "Larch",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/02/green-lodge-stylus-architects-london-house-extension/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/green-lodge-stylus-architects-london-house-extension-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Residential architecture and interiors",
+      "Extensions",
+      "Houses",
+      "Underground architecture",
+      "London houses",
+      "London house extensions"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T05:00:55.000Z",
+    "ingested_at": "2026-07-02T12:11:34.226Z"
   }
 ]
