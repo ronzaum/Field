@@ -16695,5 +16695,26 @@
     "material": [],
     "published_at": "2026-07-01T15:00:00.000Z",
     "ingested_at": "2026-07-02T00:13:41.712Z"
+  },
+  {
+    "id": "bf4d52fe-8fa7-4b5f-9652-40fd09178d28",
+    "title": "Casa Continuum",
+    "creator": "Inverse Project",
+    "location": "Peninsula Papagayo",
+    "country": "Costa Rica",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042769/casa-continuum-inverse-project",
+    "image_url": "https://images.adsttc.com/media/images/6a3d/3f2f/8385/1500/01fa/e36c/medium_jpg/Casa-Continuum-Inverse-Project-Costa-Rica-Alvaro-Fonseca-Depth-Lens-Drone-2.jpg?1782399084",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Interior Design",
+      "Residential Interiors",
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T19:00:00.000Z",
+    "ingested_at": "2026-07-02T05:01:53.641Z"
   }
 ]
