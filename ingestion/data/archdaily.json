@@ -16865,5 +16865,23 @@
     "material": [],
     "published_at": "2026-07-02T15:00:00.000Z",
     "ingested_at": "2026-07-02T19:39:19.157Z"
+  },
+  {
+    "id": "8be24d0f-7fe1-446f-8657-e72493f79191",
+    "title": "Abuxarda House 1",
+    "creator": "Fragmentos",
+    "location": "Alcabideche",
+    "country": "Portugal",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041379/abuxarda-house-1-fragmentos",
+    "image_url": "https://images.adsttc.com/media/images/69fe/3ef4/a59b/8300/01a7/f4c9/medium_jpg/Fragmentos_Abuxarda1__Louren_oTeixeiradeAbreu_003.jpg?1778270007",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T17:00:00.000Z",
+    "ingested_at": "2026-07-02T23:13:05.419Z"
   }
 ]
