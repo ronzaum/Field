@@ -16657,5 +16657,43 @@
     "material": [],
     "published_at": "2026-07-01T12:00:00.000Z",
     "ingested_at": "2026-07-01T18:02:10.512Z"
+  },
+  {
+    "id": "6fc641be-e72b-45a3-9d77-8f35d1f1b20d",
+    "title": "Iporanga Beach House",
+    "creator": "DB Arquitetos",
+    "location": "Brazil",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042917/iporanga-beach-house-db-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a42/ce84/0789/c600/018c/2714/medium_jpg/Casa_em_Iporanga_SP_projetada_pelo_arquiteto_DAVID_BASTOS___foto_3.jpg?1782763248",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T17:00:00.000Z",
+    "ingested_at": "2026-07-02T00:13:41.710Z"
+  },
+  {
+    "id": "fe0c2337-ea36-4c10-9cff-036c476bd212",
+    "title": "Rural Guesthouse La Reunión",
+    "creator": "IR arquitectura + Menhir Arquitectura",
+    "location": "Rawson",
+    "country": "Argentina",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042786/rural-guesthouse-la-reunion-ir-arquitectura-plus-menhir-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a3e/13a1/0789/c600/018c/24d1/medium_jpg/35_javier_agustin_rojas_rawson_DSF5703_low.jpg?1782453221",
+    "typology": [
+      "Hospitality Architecture",
+      "Tourism",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-01T15:00:00.000Z",
+    "ingested_at": "2026-07-02T00:13:41.712Z"
   }
 ]
