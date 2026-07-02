@@ -6003,5 +6003,44 @@
     "material": [],
     "published_at": "2026-07-01T15:07:22.000Z",
     "ingested_at": "2026-07-01T15:46:23.255Z"
+  },
+  {
+    "id": "b002af62-1beb-458d-9662-d86de8d60b5e",
+    "title": "designing for the senses: moving beyond the picture-perfect obsession to activate emotion",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/designing-emotion-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/700-thumb-1-500x400-22b08q85r042.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T08:45:55.000Z",
+    "ingested_at": "2026-07-02T09:21:27.234Z"
+  },
+  {
+    "id": "4c0cdfd0-5193-426a-82f6-0b462f316466",
+    "title": "gris shapes naturally cooled beach club around series of open-air pavilions in guatemala",
+    "creator": "Gris | Estudio de Diseño + Arquitectura",
+    "location": "El Paredón Buena Vista",
+    "country": "Guatemala",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gris-naturally-cooled-beach-club-series-open-air-pavilions-guatemala/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/gris-naturally-cooled-beach-club-series-open-air-pavilions-guatemala-designboom-700-500x400-22b08q85r241.jpg",
+    "typology": [
+      "architecture",
+      "bar architecture and design",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T08:00:54.000Z",
+    "ingested_at": "2026-07-02T09:21:27.244Z"
   }
 ]

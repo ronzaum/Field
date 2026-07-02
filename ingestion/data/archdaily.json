@@ -16716,5 +16716,59 @@
     "material": [],
     "published_at": "2026-07-01T19:00:00.000Z",
     "ingested_at": "2026-07-02T05:01:53.641Z"
+  },
+  {
+    "id": "e438e9fc-5c7d-4d28-9cae-a6b3ff4f041c",
+    "title": "Enkime HQ",
+    "creator": "RHO",
+    "location": "Berlin",
+    "country": "Germany",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042889/enkime-hq-rho",
+    "image_url": "https://images.adsttc.com/media/images/6a43/baad/0789/c600/018c/28cd/medium_jpg/RHO_Clemens_Poloczek-19.jpg?1782823662",
+    "typology": [
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T03:00:00.000Z",
+    "ingested_at": "2026-07-02T09:21:26.368Z"
+  },
+  {
+    "id": "c058fbcd-8469-40c5-abb1-ef682cd2b0c8",
+    "title": "Primus Office Building",
+    "creator": "Sanjay Puri Architects",
+    "location": "Jaipur",
+    "country": "India",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042940/primus-office-building-sanjay-puri-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a45/2ab7/bdfc/1a01/8a6a/3bbf/medium_jpg/primus-office-building-sanjay-puri-architects_3.jpg?1782917864",
+    "typology": [
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T02:00:00.000Z",
+    "ingested_at": "2026-07-02T09:21:26.369Z"
+  },
+  {
+    "id": "e80c8040-4fa1-4992-ba3a-71fb050db238",
+    "title": "Pages Afloat",
+    "creator": "f-a-n architects",
+    "location": "Huizhou",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042913/pages-afloat-f-a-n-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a44/2d45/8481/2b01/8af5/1a43/medium_jpg/pages-afloat-f-a-n-architects_20.jpg?1782852955",
+    "typology": [
+      "Installations & Structures",
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T00:00:00.000Z",
+    "ingested_at": "2026-07-02T09:21:26.371Z"
   }
 ]
