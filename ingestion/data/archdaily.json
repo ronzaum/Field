@@ -16806,5 +16806,44 @@
     "material": [],
     "published_at": "2026-07-02T06:00:00.000Z",
     "ingested_at": "2026-07-02T12:11:33.949Z"
+  },
+  {
+    "id": "6c14ee30-9e1a-4f35-a3fd-14a5bd9487b1",
+    "title": "Acervo House",
+    "creator": "GAM Arquitetos",
+    "location": "Praia do Forte",
+    "country": "Brazil",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042966/acervo-house-gam-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a45/9ca3/cbaa/8c01/8a6e/d3c3/medium_jpg/casa-acervo-gam-arquitetos_5.jpg?1782947054",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Interior Design",
+      "Residential Interiors",
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T13:00:00.000Z",
+    "ingested_at": "2026-07-02T17:54:46.945Z"
+  },
+  {
+    "id": "70cc032a-e014-4d99-a3cc-a0494da2084e",
+    "title": "Watermill Artist Residence",
+    "creator": "Roger Ferris + Partners",
+    "location": "Water Mill",
+    "country": "United States",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042865/watermill-artist-residence-roger-ferris-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/6a42/f529/0789/c600/018c/2764/medium_jpg/Roger-Ferris---Watermill-Center_366_copy.jpg?1782773249",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-02T12:00:00.000Z",
+    "ingested_at": "2026-07-02T17:54:46.947Z"
   }
 ]
