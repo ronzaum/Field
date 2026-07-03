@@ -16938,5 +16938,23 @@
     "material": [],
     "published_at": "2026-07-03T00:00:00.000Z",
     "ingested_at": "2026-07-03T07:27:23.269Z"
+  },
+  {
+    "id": "389ea615-3180-4163-9709-aa027fee1601",
+    "title": "Lake house",
+    "creator": "Ultra Architects",
+    "location": "Wiewiórczyn",
+    "country": "Poland",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042876/lake-house-ultra-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a43/802e/0789/c600/018c/2778/medium_jpg/013_ultra_architects_42.jpg?1782808670",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T03:00:00.000Z",
+    "ingested_at": "2026-07-03T10:42:32.819Z"
   }
 ]
