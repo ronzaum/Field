@@ -16956,5 +16956,44 @@
     "material": [],
     "published_at": "2026-07-03T03:00:00.000Z",
     "ingested_at": "2026-07-03T10:42:32.819Z"
+  },
+  {
+    "id": "2bf7231a-21d2-4bc7-8587-f8a8639e24e0",
+    "title": "Coco Beans House",
+    "creator": "Aamir and Hameeda",
+    "location": "Hyderabad",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042942/coco-beans-house-aamir-and-hameeda",
+    "image_url": "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/medium_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T07:00:00.000Z",
+    "ingested_at": "2026-07-03T12:59:27.847Z"
+  },
+  {
+    "id": "8b5f907c-c30c-48df-8ba9-f1471f3242a6",
+    "title": "Moss Farmhouse",
+    "creator": "Pasparakis Friel",
+    "location": "Glenties",
+    "country": "Ireland",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042954/moss-farmhouse-pasparakis-friel",
+    "image_url": "https://images.adsttc.com/media/images/6a46/27d9/0789/c600/018c/2aab/medium_jpg/Pasparakis_Friel_0.jpg?1782982675",
+    "typology": [
+      "Cultural Architecture",
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T06:00:00.000Z",
+    "ingested_at": "2026-07-03T12:59:27.850Z"
   }
 ]
