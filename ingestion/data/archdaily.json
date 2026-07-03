@@ -16995,5 +16995,24 @@
     "material": [],
     "published_at": "2026-07-03T06:00:00.000Z",
     "ingested_at": "2026-07-03T12:59:27.850Z"
+  },
+  {
+    "id": "73c35ac1-deb1-4551-84a9-566517fa939e",
+    "title": "Sanctum Retreat",
+    "creator": "arches",
+    "location": "Bezdonys",
+    "country": "Lithuania",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042957/sanctum-retreat-arches",
+    "image_url": "https://images.adsttc.com/media/images/6a46/30a0/0789/c600/018c/2aeb/medium_jpg/15.jpg?1782985116",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Tourism"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T10:00:00.000Z",
+    "ingested_at": "2026-07-03T17:38:00.284Z"
   }
 ]
