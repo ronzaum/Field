@@ -17071,5 +17071,23 @@
     "material": [],
     "published_at": "2026-07-03T12:00:00.000Z",
     "ingested_at": "2026-07-03T19:36:41.786Z"
+  },
+  {
+    "id": "3402e8dc-895d-461c-a81f-d28070b30ae4",
+    "title": "Cerdeiras House Hotel",
+    "creator": "Tiago do Vale Arquitectos",
+    "location": "Labruja",
+    "country": "Portugal",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040873/cerdeiras-house-hotel-tiago-do-vale-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/69e9/1eec/8471/2000/01f8/edd9/medium_jpg/JM_TdV_Labruja_S11.jpg?1776885558",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T17:00:00.000Z",
+    "ingested_at": "2026-07-03T23:09:48.457Z"
   }
 ]
