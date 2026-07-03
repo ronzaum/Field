@@ -17014,5 +17014,62 @@
     "material": [],
     "published_at": "2026-07-03T10:00:00.000Z",
     "ingested_at": "2026-07-03T17:38:00.284Z"
+  },
+  {
+    "id": "4a205455-619d-4423-a862-d1d5ec8cc1c7",
+    "title": "Plaza Luna Vallenata",
+    "creator": "Tarq Studio",
+    "location": "Valledupar",
+    "country": "Colombia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039373/plaza-luna-vallenata-tarq-studio",
+    "image_url": "https://images.adsttc.com/media/images/69aa/2acb/314f/6601/8902/b482/medium_jpg/plaza-luna-vallenata-tarq-studio_6.jpg?1772759769",
+    "typology": [
+      "Urbanism",
+      "Urban Design",
+      "Square",
+      "Commercial Architecture",
+      "Market"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T15:00:00.000Z",
+    "ingested_at": "2026-07-03T19:36:41.780Z"
+  },
+  {
+    "id": "cdfe7a83-c511-4008-afd3-5e96bd3fea2b",
+    "title": "House in Pompéia",
+    "creator": "23 SUL",
+    "location": "Sumaré",
+    "country": "Brazil",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043007/house-in-pompeia-23-sul",
+    "image_url": "https://images.adsttc.com/media/images/69f0/b3d6/20d6/d800/0166/3dd2/medium_jpg/CASA_POMPEIA_-_23_SUL-AMATA-2.jpg?1777382458",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T13:00:00.000Z",
+    "ingested_at": "2026-07-03T19:36:41.783Z"
+  },
+  {
+    "id": "852ad943-932b-4493-8ec3-cdaefb445f07",
+    "title": "Rollingwood Residence",
+    "creator": "A Parallel Architecture",
+    "location": "West Lake Hills",
+    "country": "United States",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042945/rollingwood-residence-a-parallel-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a45/8dfd/0789/c600/018c/2a4e/medium_jpg/AD_Rollingwood_-_Chase_Daniel__1_.jpg?1782943498",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T12:00:00.000Z",
+    "ingested_at": "2026-07-03T19:36:41.786Z"
   }
 ]
