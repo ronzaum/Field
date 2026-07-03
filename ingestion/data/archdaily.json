@@ -16901,5 +16901,42 @@
     "material": [],
     "published_at": "2026-07-02T19:00:00.000Z",
     "ingested_at": "2026-07-03T03:45:51.764Z"
+  },
+  {
+    "id": "de8cde46-6382-47f6-9019-5c42ceaff6c6",
+    "title": "Faye House",
+    "creator": "Alhumaidhi Architects",
+    "location": "Shamiya",
+    "country": "Kuwait",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042973/faye-house-alhumaidhi-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a46/7b4f/0789/c600/018c/2b86/medium_jpg/02_ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_p_150525_0420_EDITED.jpg?1783004070",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T02:00:00.000Z",
+    "ingested_at": "2026-07-03T07:27:23.267Z"
+  },
+  {
+    "id": "21c3af51-60c5-45ba-9c42-ff080e2f8967",
+    "title": "LAGO Italian Family Kitchen",
+    "creator": "Vari Architects",
+    "location": "Yihe Ecological Park",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042912/lago-italian-family-kitchen-vari-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a44/283c/bdfc/1a01/8a6a/376d/medium_jpg/lago-italian-family-kitchen-vari-architects_27.jpg?1782851655",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T00:00:00.000Z",
+    "ingested_at": "2026-07-03T07:27:23.269Z"
   }
 ]
