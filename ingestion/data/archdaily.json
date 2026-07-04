@@ -17224,5 +17224,23 @@
     "material": [],
     "published_at": "2026-07-04T15:00:00.000Z",
     "ingested_at": "2026-07-04T21:03:44.287Z"
+  },
+  {
+    "id": "1e017dbd-ddc0-466c-bd06-19675457e6ca",
+    "title": "Antarvan Residence",
+    "creator": "Neogenesis+Studi0261",
+    "location": "Surat",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042887/antarvan-residence-neogenesis-plus-studi0261",
+    "image_url": "https://images.adsttc.com/media/images/6a43/b7a5/0789/c600/018c/285f/medium_jpg/DSC06797.jpg?1782822869",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T17:00:00.000Z",
+    "ingested_at": "2026-07-04T23:01:49.862Z"
   }
 ]
