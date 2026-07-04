@@ -17144,5 +17144,23 @@
     "material": [],
     "published_at": "2026-07-04T06:00:00.000Z",
     "ingested_at": "2026-07-04T11:37:09.537Z"
+  },
+  {
+    "id": "b999157b-75d7-4f7c-9702-7eab4301819a",
+    "title": "The Bridle Path",
+    "creator": "Ampuero Yutronic",
+    "location": "Ewell",
+    "country": "Reino Unido",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042849/the-bridle-path-ampuero-yutronic",
+    "image_url": "https://images.adsttc.com/media/images/6a26/c562/d2d3/6e00/0102/f422/medium_jpg/03.jpg?1780925861",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T09:00:00.000Z",
+    "ingested_at": "2026-07-04T13:44:49.871Z"
   }
 ]
