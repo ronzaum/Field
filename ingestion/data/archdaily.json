@@ -17107,5 +17107,23 @@
     "material": [],
     "published_at": "2026-07-03T19:00:00.000Z",
     "ingested_at": "2026-07-04T03:37:49.852Z"
+  },
+  {
+    "id": "00e98245-e149-4909-b905-427068605808",
+    "title": "CR Land: Wuxi MixC Mall",
+    "creator": "Ippolito Fleitz Group",
+    "location": "1688 Taihu Avenue",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1027613/cr-land-wuxi-mixc-mall-ippolito-fleitz-group",
+    "image_url": "https://images.adsttc.com/media/images/67c7/6c6a/f3a3/6501/8753/db60/medium_jpg/cr-land-wuxi-mixc-mall-ippolito-fleitz-group_1.jpg?1741122775",
+    "typology": [
+      "Commercial Architecture",
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T02:00:00.000Z",
+    "ingested_at": "2026-07-04T09:26:07.490Z"
   }
 ]
