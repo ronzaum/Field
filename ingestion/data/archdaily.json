@@ -17089,5 +17089,23 @@
     "material": [],
     "published_at": "2026-07-03T17:00:00.000Z",
     "ingested_at": "2026-07-03T23:09:48.457Z"
+  },
+  {
+    "id": "bc6a4a15-ca96-44a3-b44a-36918344af0a",
+    "title": "El Molino Residential Development",
+    "creator": "FAMM Arquitectura",
+    "location": "Playa Pelada",
+    "country": "Costa Rica",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042623/el-molino-famm-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a36/3ae0/54d7/6a00/01cc/6817/medium_jpg/FAMM_El-Molino-16.jpg?1781938936",
+    "typology": [
+      "Residential Architecture",
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-07-03T19:00:00.000Z",
+    "ingested_at": "2026-07-04T03:37:49.852Z"
   }
 ]
