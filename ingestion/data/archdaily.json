@@ -17125,5 +17125,24 @@
     "material": [],
     "published_at": "2026-07-04T02:00:00.000Z",
     "ingested_at": "2026-07-04T09:26:07.490Z"
+  },
+  {
+    "id": "e792360c-0f17-4206-96a4-d89c9591a4e6",
+    "title": "Stone and Wood Studio",
+    "creator": "Common Wonder",
+    "location": "Amsterdam",
+    "country": "The Netherlands",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042792/stone-and-wood-studio-common-wonder",
+    "image_url": "https://images.adsttc.com/media/images/6a42/6900/8481/2b7b/c42a/6dac/medium_jpg/stone-and-wood-studio-common-wonder_1.jpg?1782737208",
+    "typology": [
+      "Residential Architecture",
+      "Interior Design",
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T06:00:00.000Z",
+    "ingested_at": "2026-07-04T11:37:09.537Z"
   }
 ]
