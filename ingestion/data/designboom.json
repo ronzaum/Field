@@ -6152,5 +6152,24 @@
     "material": [],
     "published_at": "2026-07-03T15:08:14.000Z",
     "ingested_at": "2026-07-03T15:19:39.683Z"
+  },
+  {
+    "id": "e10ac805-bc2b-444b-9174-9f93949af2bb",
+    "title": "copper shingles wrap curving concert hall ‘la source vive’ in évian, france",
+    "creator": "Philippe Chiambaretta Architecte (PCA-STREAM)",
+    "location": "Evian-les-Bains",
+    "country": "France",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/copper-shingles-curving-concert-hall-la-source-vive-evian-france-philippe-chiambaretta/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/source-vive-philippe-chiambaretta-architecte-evian-bains-france-designboom-700-500x400-22b08q85r632.jpg",
+    "typology": [
+      "architecture",
+      "architecture in france",
+      "theaters"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T14:35:26.000Z",
+    "ingested_at": "2026-07-04T15:10:15.174Z"
   }
 ]
