@@ -17180,5 +17180,49 @@
     "material": [],
     "published_at": "2026-07-04T13:00:00.000Z",
     "ingested_at": "2026-07-04T19:21:30.910Z"
+  },
+  {
+    "id": "c1ade612-418d-4cd9-85cc-390b60af954a",
+    "title": "Rosso listening bar",
+    "creator": "Naso",
+    "location": "Ciudad de México",
+    "country": "Mexico",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042999/rosso-listening-bar-naso",
+    "image_url": "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a95f/medium_jpg/DSC06167_1.jpg?1783062070",
+    "typology": [
+      "Hospitality Architecture",
+      "Restaurants & Bars",
+      "Bar",
+      "Interior Design",
+      "Hospitality Interiors",
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T16:00:00.000Z",
+    "ingested_at": "2026-07-04T21:03:44.284Z"
+  },
+  {
+    "id": "d813b643-90d9-4c63-932d-80f295f8431c",
+    "title": "PARAISO office building + industrial warehouse",
+    "creator": "TEC Taller EC",
+    "location": "Tambillo",
+    "country": "Ecuador",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041242/paraiso-office-building-plus-industrial-warehouse-tec-taller-ec",
+    "image_url": "https://images.adsttc.com/media/images/69fa/f978/a59b/8300/01a7/ee5a/medium_jpg/1._TEC_TALLER_PARAISO.jpg?1778055561",
+    "typology": [
+      "Industrial Architecture",
+      "Warehouse",
+      "Offices",
+      "Office buildings",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T15:00:00.000Z",
+    "ingested_at": "2026-07-04T21:03:44.287Z"
   }
 ]
