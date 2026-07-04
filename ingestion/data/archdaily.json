@@ -17162,5 +17162,23 @@
     "material": [],
     "published_at": "2026-07-04T09:00:00.000Z",
     "ingested_at": "2026-07-04T13:44:49.871Z"
+  },
+  {
+    "id": "b0237b22-871b-4cde-a053-f607a3d4d257",
+    "title": "Terra Catarina House",
+    "creator": "Nola Arquitetura",
+    "location": "Brazil",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043025/terra-catarina-house-nola-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a47/0dca/b477/e200/0107/a8de/medium_jpg/EM_260409_NA_0443.jpg?1783041511",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T13:00:00.000Z",
+    "ingested_at": "2026-07-04T19:21:30.910Z"
   }
 ]
