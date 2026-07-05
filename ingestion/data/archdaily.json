@@ -17260,5 +17260,23 @@
     "material": [],
     "published_at": "2026-07-04T21:00:00.000Z",
     "ingested_at": "2026-07-05T03:56:46.280Z"
+  },
+  {
+    "id": "5359bc47-f88d-46d2-a033-83489e594df9",
+    "title": "Easel Bridge",
+    "creator": "XBTW OFFICE",
+    "location": "Moganshan",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042923/easel-bridge-xbtw-office",
+    "image_url": "https://images.adsttc.com/media/images/6a45/347d/bdfc/1a01/8a6a/3c10/medium_jpg/easel-bridge-xbtw-office_46.jpg?1782920354",
+    "typology": [
+      "Infrastructure",
+      "Bridges"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T02:00:00.000Z",
+    "ingested_at": "2026-07-05T10:21:28.787Z"
   }
 ]

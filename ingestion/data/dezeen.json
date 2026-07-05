@@ -844,5 +844,26 @@
     "material": [],
     "published_at": "2026-07-02T05:00:55.000Z",
     "ingested_at": "2026-07-02T12:11:34.226Z"
+  },
+  {
+    "id": "ec6a8560-8d49-41d1-8744-0d5c5451603f",
+    "title": "Terta transforms decommissioned power station in Iceland into colourful site for \"learning",
+    "creator": "playing\"",
+    "location": "Power plants",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/05/terta-ellidaarstod-power-station/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/ellidaarstod-power-station-terta-iceland-reykjavik-adaptive-reuse-education_dezeen_2364_sq2-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Iceland",
+      "Education",
+      "Public and leisure",
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T10:00:15.000Z",
+    "ingested_at": "2026-07-05T10:21:29.928Z"
   }
 ]
