@@ -17278,5 +17278,24 @@
     "material": [],
     "published_at": "2026-07-05T02:00:00.000Z",
     "ingested_at": "2026-07-05T10:21:28.787Z"
+  },
+  {
+    "id": "958de220-a15b-4d36-abfe-1f96d777a319",
+    "title": "The Silo Parking House",
+    "creator": "Antonelli + Herry Architectes",
+    "location": "Strasbourg",
+    "country": "France",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042928/the-silo-parking-house-antonelli-plus-herry-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29b6/medium_jpg/2-DSC_0163.jpg?1782899034",
+    "typology": [
+      "Infrastructure",
+      "Transportation",
+      "Parking"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T06:00:00.000Z",
+    "ingested_at": "2026-07-05T12:20:16.129Z"
   }
 ]
