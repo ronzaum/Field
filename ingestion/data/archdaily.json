@@ -17335,5 +17335,43 @@
     "material": [],
     "published_at": "2026-07-05T11:00:00.000Z",
     "ingested_at": "2026-07-05T18:08:07.209Z"
+  },
+  {
+    "id": "bb7c6904-8575-4d0c-9c7d-08d7fbb8f010",
+    "title": "CR Residence",
+    "creator": "Lucas Takaoka",
+    "location": "Fazenda Boa Vista",
+    "country": "Brazil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043027/cr-residence-lucas-takaoka",
+    "image_url": "https://images.adsttc.com/media/images/69d2/e539/5a31/3100/01da/ea17/medium_jpg/DSC_8057.jpg?1775428988",
+    "typology": [
+      "Residential Architecture",
+      "Interior Design",
+      "Residential Interiors",
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T15:00:00.000Z",
+    "ingested_at": "2026-07-05T20:17:50.681Z"
+  },
+  {
+    "id": "0bb50464-d885-4897-83ad-37ef12cf8200",
+    "title": "Cafelândia House",
+    "creator": "Ana Sawaia Arquitetura",
+    "location": "Sumaré",
+    "country": "Brazil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1040760/cafelandia-house-ana-sawaia-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/69e2/30fe/8471/2000/01f8/eaa1/medium_jpg/AndreScarpa_Cafelandia__1_.jpg?1776431416",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T13:00:00.000Z",
+    "ingested_at": "2026-07-05T20:17:50.683Z"
   }
 ]
