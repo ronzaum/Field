@@ -6171,5 +6171,32 @@
     "material": [],
     "published_at": "2026-07-04T14:35:26.000Z",
     "ingested_at": "2026-07-04T15:10:15.174Z"
+  },
+  {
+    "id": "cdbf2bf2-d740-4d4e-bd47-e2cb4131f89f",
+    "title": "a bookstore inside cobe copenhagen: a material library of architecture, cities, and ideas",
+    "creator": "Stinelund",
+    "location": "Orientkaj 4",
+    "country": "Denmark",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/cobe-public-architecture-bookstore-copenhagen-studio-designboom-700-500x400-22b08q85r808.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in denmark",
+      "books",
+      "bookstores",
+      "COBE architects",
+      "interiors",
+      "library architecture and design",
+      "restaurant and café design",
+      "steel architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T02:50:54.000Z",
+    "ingested_at": "2026-07-05T03:56:47.358Z"
   }
 ]

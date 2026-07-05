@@ -17242,5 +17242,23 @@
     "material": [],
     "published_at": "2026-07-04T17:00:00.000Z",
     "ingested_at": "2026-07-04T23:01:49.862Z"
+  },
+  {
+    "id": "c0d3196e-5e83-427b-902f-e7bdfcc0e829",
+    "title": "Neeti-Lime House",
+    "creator": "DINTERPLAY ARCHITECTS",
+    "location": "Chadotar",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042961/neeti-lime-house-dinterplay-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a46/3f89/0789/c600/018c/2b3a/medium_jpg/ELEVATION-PRATIKRUTI__2_.jpg?1782988711",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-04T21:00:00.000Z",
+    "ingested_at": "2026-07-05T03:56:46.280Z"
   }
 ]
