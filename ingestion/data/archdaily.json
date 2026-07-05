@@ -17317,5 +17317,23 @@
     "material": [],
     "published_at": "2026-07-05T09:00:00.000Z",
     "ingested_at": "2026-07-05T14:47:10.131Z"
+  },
+  {
+    "id": "a2175b2b-e50c-4c02-a8a0-9590269e8c81",
+    "title": "Cabin Åkvåg",
+    "creator": "Praksis A + Studio Sted",
+    "location": "Norway",
+    "country": null,
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042877/cabin-akvag-praksis-a-plus-studio-sted",
+    "image_url": "https://images.adsttc.com/media/images/6a43/803f/0789/c600/018c/278d/medium_jpg/IMG_3887_0_edited.jpg?1782808692",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T11:00:00.000Z",
+    "ingested_at": "2026-07-05T18:08:07.209Z"
   }
 ]
