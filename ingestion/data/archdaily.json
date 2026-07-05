@@ -17297,5 +17297,25 @@
     "material": [],
     "published_at": "2026-07-05T06:00:00.000Z",
     "ingested_at": "2026-07-05T12:20:16.129Z"
+  },
+  {
+    "id": "4e46a300-4498-43a3-91c1-ce07a543ce5b",
+    "title": "Basque Farm",
+    "creator": "zU-studio",
+    "location": "Basque Country",
+    "country": "Spain",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042959/basque-farm-zu-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a46/39be/0789/c600/018c/2b05/medium_jpg/PG909_7.jpg?1782987223",
+    "typology": [
+      "Residential Architecture",
+      "Refurbishment",
+      "Renovation",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T09:00:00.000Z",
+    "ingested_at": "2026-07-05T14:47:10.131Z"
   }
 ]
