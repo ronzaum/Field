@@ -17373,5 +17373,41 @@
     "material": [],
     "published_at": "2026-07-05T13:00:00.000Z",
     "ingested_at": "2026-07-05T20:17:50.683Z"
+  },
+  {
+    "id": "cd9a0d7e-9d71-49ae-a2fc-7c561aa299b3",
+    "title": "Basianshan Natural Public Toilet",
+    "creator": "Protoplain Architects",
+    "location": "Guguan",
+    "country": "Taiwan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043019/basianshan-natural-public-toilet-protoplain-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a47/eb76/c1bc/ef01/88fc/ea07/medium_jpg/basianshan-natural-public-toilet-protoplain-architects_13.jpg?1783098237",
+    "typology": [
+      "Public Architecture",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T17:00:00.000Z",
+    "ingested_at": "2026-07-05T22:05:39.694Z"
+  },
+  {
+    "id": "d8d306ad-8233-4a48-8acb-38cc4acb6862",
+    "title": "Hampi Samay Wasi: Regenerative Architecture and Ancestral Memory in the Kichwa Amazon",
+    "creator": "Allwa Arquitectura",
+    "location": "Archidona",
+    "country": "Ecuador",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043005/hampi-samay-wasi-regenerative-architecture-and-ancestral-memory-in-the-kichwa-amazon-allwa-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a46/2e77/0789/c600/018c/2ac8/medium_jpg/01_By_Javier_Morales__7_.jpg?1782984372",
+    "typology": [
+      "Cultural Architecture",
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T16:00:00.000Z",
+    "ingested_at": "2026-07-05T22:05:39.697Z"
   }
 ]
