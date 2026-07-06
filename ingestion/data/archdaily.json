@@ -17444,5 +17444,61 @@
     "material": [],
     "published_at": "2026-07-05T21:00:00.000Z",
     "ingested_at": "2026-07-06T05:16:07.466Z"
+  },
+  {
+    "id": "a0267731-2e38-46fa-b567-48fbeac1819b",
+    "title": "Renovation of two terraced houses of the housing cooperative \"Progres - Mirje\" Ljubljana",
+    "creator": "dans arhitekti",
+    "location": "Ljubljana",
+    "country": "Slovenia",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043024/renovation-of-two-terraced-houses-of-the-housing-cooperative-progres-mirje-ljubljana-dans-arhitekti",
+    "image_url": "https://images.adsttc.com/media/images/6a47/f33d/b477/e200/0107/aa91/medium_jpg/Dans_arhitekti_Photo_After_renovation_04_Miran_Kambi_.jpg?1783100330",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T06:00:00.000Z",
+    "ingested_at": "2026-07-06T10:47:44.902Z"
+  },
+  {
+    "id": "2a85ed40-f69e-4297-8c71-377a9f01a2f0",
+    "title": "A Tale of Tinted Courts Residence",
+    "creator": "Architects Collaborative",
+    "location": "Noida",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042965/a-tale-of-tinted-courts-residence-architects-collaborative",
+    "image_url": "https://images.adsttc.com/media/images/6a47/bae7/de7f/3c01/8757/2b37/medium_jpg/a-tale-of-tinted-courts-residence-architects-collaborative_27.jpg?1783085849",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T03:00:00.000Z",
+    "ingested_at": "2026-07-06T10:47:44.905Z"
+  },
+  {
+    "id": "55f5dc38-aefe-4070-90fe-ed9df083a1b5",
+    "title": "Beyond The Courtyard House",
+    "creator": "RCAB Studio",
+    "location": "West Jakarta",
+    "country": "Indonesia",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043006/beyond-the-courtyard-house-rcab-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a47/be64/b477/e200/0107/a9a0/medium_jpg/DJI_20251002094659_0024_D.jpg?1783086793",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T02:00:00.000Z",
+    "ingested_at": "2026-07-06T10:47:44.907Z"
   }
 ]

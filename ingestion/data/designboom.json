@@ -6222,5 +6222,26 @@
     "material": [],
     "published_at": "2026-07-06T01:15:10.000Z",
     "ingested_at": "2026-07-06T05:16:08.733Z"
+  },
+  {
+    "id": "aef21ef0-3fef-4d88-99f6-05113bc86b94",
+    "title": "the new global nomad: are we replacing local identity for a universal architecture style?",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/local-identity-versus-universal-style-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/700-thumb-500x400-22b08q85r633.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture interviews",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T10:20:42.000Z",
+    "ingested_at": "2026-07-06T10:47:45.608Z"
   }
 ]
