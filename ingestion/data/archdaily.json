@@ -17518,5 +17518,40 @@
     "material": [],
     "published_at": "2026-07-06T07:00:00.000Z",
     "ingested_at": "2026-07-06T14:29:23.172Z"
+  },
+  {
+    "id": "d93dabea-a725-4063-865e-6778d7785ff4",
+    "title": "Terrace Mountain Residence",
+    "creator": "A Parallel Architecture",
+    "location": "West Lake Hills",
+    "country": "United States",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042943/terrace-mountain-residence-a-parallel-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a45/8df4/0789/c600/018c/2a12/medium_jpg/AD_Terrace_Mountain_Residence_-_Chase_Daniel__1_.jpg?1782943261",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T12:00:00.000Z",
+    "ingested_at": "2026-07-06T17:47:03.323Z"
+  },
+  {
+    "id": "0fd503b7-c68f-466a-9a83-15aca2a0e1c2",
+    "title": "PERMA  Serifos Retreat",
+    "creator": "MOLD Architects",
+    "location": "Serifos Island",
+    "country": "Greece",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042953/perma-retreat-mold-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a46/27c8/0789/c600/018c/2a8c/medium_jpg/PERMA__13_.jpg?1782982776",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T10:00:00.000Z",
+    "ingested_at": "2026-07-06T17:47:03.325Z"
   }
 ]
