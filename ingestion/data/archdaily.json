@@ -17553,5 +17553,41 @@
     "material": [],
     "published_at": "2026-07-06T10:00:00.000Z",
     "ingested_at": "2026-07-06T17:47:03.325Z"
+  },
+  {
+    "id": "776f620a-d1b2-48ce-a641-bf205b58e8df",
+    "title": "WildSumaco Research Pavilion",
+    "creator": "Caá Porá Arquitectura",
+    "location": "Ecuador",
+    "country": null,
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043000/wildsumaco-research-pavilion-caa-pora-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a47/6064/de7f/3c01/8757/2983/medium_jpg/estacion-biologica-wildsumaco-caa-pora-arquitectura_20.jpg?1783062644",
+    "typology": [
+      "Research center",
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T15:00:00.000Z",
+    "ingested_at": "2026-07-06T20:04:41.474Z"
+  },
+  {
+    "id": "2aad99fd-55b6-4746-ab34-142ce5d8717a",
+    "title": "Xingu House",
+    "creator": "TETRO Arquitetura",
+    "location": "Nova Lima",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042982/xingu-house-tetro-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a47/0e3d/b477/e200/0107/a8f1/medium_jpg/01K_0778_copiar.jpg?1783041717",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T13:00:00.000Z",
+    "ingested_at": "2026-07-06T20:04:41.477Z"
   }
 ]
