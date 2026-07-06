@@ -17409,5 +17409,40 @@
     "material": [],
     "published_at": "2026-07-05T16:00:00.000Z",
     "ingested_at": "2026-07-05T22:05:39.697Z"
+  },
+  {
+    "id": "6f551c40-735f-4f7d-a1da-60951e5af2c3",
+    "title": "Nanhai Buddha Pavilion",
+    "creator": "DoDesign",
+    "location": "Chongqing",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042914/nanhai-buddha-pavilion-dodesign",
+    "image_url": "https://images.adsttc.com/media/images/6a44/4785/0789/c600/018c/2922/medium_jpg/03_DoDesign.jpg?1782859696",
+    "typology": [
+      "Religious Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T00:00:00.000Z",
+    "ingested_at": "2026-07-06T05:16:07.463Z"
+  },
+  {
+    "id": "85164caf-6113-4263-bfcc-5bb757a78e5b",
+    "title": "Shilaya Cottage",
+    "creator": "Meister Varma Architects",
+    "location": "Kotagiri",
+    "country": "India",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043013/shilaya-cottage-meister-varma-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a47/d326/b477/e200/0107/a9c4/medium_jpg/Photographer_Syam_Sreesylam__4_.jpg?1783092045",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-05T21:00:00.000Z",
+    "ingested_at": "2026-07-06T05:16:07.466Z"
   }
 ]
