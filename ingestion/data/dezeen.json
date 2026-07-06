@@ -865,5 +865,28 @@
     "material": [],
     "published_at": "2026-07-05T10:00:15.000Z",
     "ingested_at": "2026-07-05T10:21:29.928Z"
+  },
+  {
+    "id": "d892f8ba-7f08-4eb4-a98e-807959bf08a6",
+    "title": "Perforated brickwork wraps courtyard home in India",
+    "creator": "Spacefiction Studio",
+    "location": "Perforations",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/06/twilight-house-spacefiction-studio/",
+    "image_url": "http://static.dezeen.com/uploads/2026/06/twilight-house-spacefiction-studio-india-sq_dezeen_2364_col_1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Courtyards",
+      "Bricks",
+      "Skylights",
+      "Indian houses",
+      "Spacefiction Studio"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T10:30:44.000Z",
+    "ingested_at": "2026-07-06T14:29:23.443Z"
   }
 ]
