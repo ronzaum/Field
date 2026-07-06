@@ -17589,5 +17589,23 @@
     "material": [],
     "published_at": "2026-07-06T13:00:00.000Z",
     "ingested_at": "2026-07-06T20:04:41.477Z"
+  },
+  {
+    "id": "a1513527-384d-430a-b635-27853804d868",
+    "title": "Lake Cabin",
+    "creator": "Matéria Base",
+    "location": "Santa Isabel do Rio Preto",
+    "country": "Brazil",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041946/lake-cabin-materia-base",
+    "image_url": "https://images.adsttc.com/media/images/6a10/4955/35eb/2400/01f0/43ad/medium_jpg/39_Cabana_em_Conservato_ria_Materia_Base_-___Federico_Cairoli.jpg?1779452398",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T17:00:00.000Z",
+    "ingested_at": "2026-07-06T22:17:28.040Z"
   }
 ]
