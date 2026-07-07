@@ -17607,5 +17607,22 @@
     "material": [],
     "published_at": "2026-07-06T17:00:00.000Z",
     "ingested_at": "2026-07-06T22:17:28.040Z"
+  },
+  {
+    "id": "31e91dca-ba47-480e-94a6-277153fd8410",
+    "title": "QUINCHOPEL offices",
+    "creator": "vbrügg",
+    "location": "Córdoba",
+    "country": "Argentina",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054021/quinchopel-offices-vbrugg",
+    "image_url": "https://images.adsttc.com/media/images/6a47/5b2d/b477/e200/0107/a94e/medium_jpg/28.jpg?1783061675",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-07-06T19:00:00.000Z",
+    "ingested_at": "2026-07-07T00:13:38.231Z"
   }
 ]
