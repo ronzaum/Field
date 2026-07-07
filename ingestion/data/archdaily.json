@@ -17624,5 +17624,24 @@
     "material": [],
     "published_at": "2026-07-06T19:00:00.000Z",
     "ingested_at": "2026-07-07T00:13:38.231Z"
+  },
+  {
+    "id": "64d4c291-ecc5-43e1-93db-c3071949d124",
+    "title": "Bawan Village Visitor Center",
+    "creator": "TAO (Trace Architecture Office)",
+    "location": "Baoshan",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042977/bawan-village-visitor-center-tao-trace-architecture-office",
+    "image_url": "https://images.adsttc.com/media/images/6a46/a202/c1bc/ef01/88fc/e2bc/medium_jpg/bawan-village-visitor-center-lujiang-town-yunnan-province-tao-trace-architecture-office_1.jpg?1783014000",
+    "typology": [
+      "visitor center",
+      "Cultural Architecture",
+      "Learning"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T00:00:00.000Z",
+    "ingested_at": "2026-07-07T04:56:40.669Z"
   }
 ]
