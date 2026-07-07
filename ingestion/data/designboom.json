@@ -6284,5 +6284,47 @@
     "material": [],
     "published_at": "2026-07-06T17:31:49.000Z",
     "ingested_at": "2026-07-06T17:47:04.090Z"
+  },
+  {
+    "id": "33fe6c3f-889b-4508-98c2-f46a050c4efa",
+    "title": "a black fabric veil hovers within a raw bamboo matrix in hubei’s dense grove",
+    "creator": "gèngjin Architecture Office",
+    "location": "ANNSO·Ziyouji",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/black-fabric-veil-raw-bamboo-matrix-hubei-dense-grove-veil-tower-gengjin/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/veil-tower-gengjin-temporary-pavilion-bamboo-fabric-hubei-china-designboom-700-500x400-22b08q85r530.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in china",
+      "bamboo architecture and design",
+      "interactive installation",
+      "temporary pavilions",
+      "textile and fabric art"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T09:30:46.000Z",
+    "ingested_at": "2026-07-07T11:55:40.992Z"
+  },
+  {
+    "id": "f90e101e-c01b-4dee-9940-5eabb8d991fa",
+    "title": "gensler proposes landscape-first tourism masterplan for vang vieng, laos",
+    "creator": "Gensler",
+    "location": "Vang Vieng",
+    "country": "Laos",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gensler-landscape-tourism-masterplan-vang-vieng-laos/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/gensler-landscape-tourism-masterplan-vang-vieng-laos-designboom-700-500x400-22b08q85r211.jpg",
+    "typology": [
+      "architecture",
+      "gensler",
+      "masterplans and urban revitalization"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T08:30:17.000Z",
+    "ingested_at": "2026-07-07T11:55:41.000Z"
   }
 ]
