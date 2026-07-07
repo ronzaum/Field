@@ -17732,5 +17732,24 @@
     "material": [],
     "published_at": "2026-07-07T10:00:00.000Z",
     "ingested_at": "2026-07-07T17:21:34.238Z"
+  },
+  {
+    "id": "400d9263-7d10-49e2-ae17-47d81282e854",
+    "title": "Ouriques House",
+    "creator": "Ultra Arquitetura",
+    "location": "Jardim Isabel",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054038/ouriques-house-ultra-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/baba/062b/6500/019a/ab8b/medium_jpg/NOV_CASA_OURIQUES_ULTRA_ARQ-DSC00915__2.jpg?1783348575",
+    "typology": [
+      "Residential Architecture",
+      "Refurbishment",
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T13:00:00.000Z",
+    "ingested_at": "2026-07-07T20:03:04.307Z"
   }
 ]

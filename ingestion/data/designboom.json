@@ -6349,5 +6349,26 @@
     "material": [],
     "published_at": "2026-07-07T16:30:14.000Z",
     "ingested_at": "2026-07-07T17:21:35.380Z"
+  },
+  {
+    "id": "39394451-3da9-445f-a4c5-4dd4ac6a4f27",
+    "title": "a new art center will open on paris’ île seguin in october, designed by RCR arquitectes",
+    "creator": "claire brodka",
+    "location": "Île Seguin",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/new-art-center-paris-ile-seguin-october-rcr-arquitectes/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/new-art-center-paris-ile-seguin-october-rcr-arquitectes700-500x400-22b08q85r222.jpg",
+    "typology": [
+      "architecture",
+      "architecture in france",
+      "exhibitions",
+      "museums and galleries",
+      "RCR arquitectes"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T18:00:02.000Z",
+    "ingested_at": "2026-07-07T20:03:05.512Z"
   }
 ]
