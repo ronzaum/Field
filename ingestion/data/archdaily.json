@@ -17697,5 +17697,23 @@
     "material": [],
     "published_at": "2026-07-07T03:00:00.000Z",
     "ingested_at": "2026-07-07T11:55:39.658Z"
+  },
+  {
+    "id": "90e0b2a0-96f7-4fea-9c56-f78365f3cef7",
+    "title": "Showdepot De Groen",
+    "creator": "Space Encounters",
+    "location": "Cleantech Park Arnhem",
+    "country": "The Netherlands",
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1053992/showdepot-de-groen-space-encounters",
+    "image_url": "https://images.adsttc.com/media/images/6a49/43a8/54de/fb01/894b/b049/medium_jpg/showdepot-de-groen-space-encounters_1.jpg?1783186398",
+    "typology": [
+      "Industrial Architecture",
+      "Cultural Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T07:00:00.000Z",
+    "ingested_at": "2026-07-07T14:51:13.969Z"
   }
 ]
