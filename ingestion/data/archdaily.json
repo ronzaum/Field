@@ -17751,5 +17751,42 @@
     "material": [],
     "published_at": "2026-07-07T13:00:00.000Z",
     "ingested_at": "2026-07-07T20:03:04.307Z"
+  },
+  {
+    "id": "c7370bbd-d1ba-4cb5-a380-6b3b0bd4a53d",
+    "title": "BRM Residence",
+    "creator": "Jacobsen Arquitetura",
+    "location": "Paraty",
+    "country": "Brazil",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034338/brm-residence-jacobsen-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/68d1/3e5f/21de/2d76/0940/011d/medium_jpg/residencia-brm-jacobsen-arquitetura_25.jpg?1758543485",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T17:00:00.000Z",
+    "ingested_at": "2026-07-07T22:14:19.169Z"
+  },
+  {
+    "id": "6ed5dd8e-9386-4cae-b767-e0313abc2644",
+    "title": "Casa Co",
+    "creator": "Aagnes studio + JDEstudio",
+    "location": "Guadalajara",
+    "country": "Mexico",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042991/casa-co",
+    "image_url": "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91a/medium_jpg/_DSC7818.jpg?1783061104",
+    "typology": [
+      "Interior Design",
+      "Residential Interiors",
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T15:00:00.000Z",
+    "ingested_at": "2026-07-07T22:14:19.171Z"
   }
 ]

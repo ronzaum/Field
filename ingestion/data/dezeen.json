@@ -888,5 +888,26 @@
     "material": [],
     "published_at": "2026-07-06T10:30:44.000Z",
     "ingested_at": "2026-07-06T14:29:23.443Z"
+  },
+  {
+    "id": "28d0753e-1616-4d75-aa65-00cdb744a43c",
+    "title": "Dezeen Debate features \"intensely geometric\" headquarters",
+    "creator": "BIG",
+    "location": null,
+    "country": "Denmark",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/07/dezeen-debate-big-dymak-headquarters-denmark/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/big-dymak-headquarters-denmark_dezeen_2364_col_24_square-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Courtyards",
+      "Wooden architecture",
+      "BIG",
+      "Office architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T18:30:48.000Z",
+    "ingested_at": "2026-07-07T22:14:19.516Z"
   }
 ]
