@@ -18082,5 +18082,152 @@
     "material": [],
     "published_at": "2026-07-08T06:12:36.000Z",
     "ingested_at": "2026-07-08T17:42:22.956Z"
+  },
+  {
+    "id": "626f5a32-04b8-484a-8798-645192cc6d08",
+    "title": "Aunt Val’s House",
+    "creator": "Márcio Flávio Motta",
+    "location": "Martelos",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054039/aunt-vals-house-marcio-flavio-motta",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/badf/062b/6500/019a/aba1/medium_jpg/IMG_4823.jpg?1783347972",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T13:00:00.000Z",
+    "ingested_at": "2026-07-08T19:40:39.690Z"
+  },
+  {
+    "id": "0b521717-2b1b-45d6-9a0e-93379fde82eb",
+    "title": "Renovation of Shell Theatre in Beijing Chaoyang Park",
+    "creator": "DUTS design",
+    "location": "Central Island",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042980/renovation-of-shell-theatre-in-beijing-chaoyang-park-duts-design",
+    "image_url": "https://images.adsttc.com/media/images/6a46/f9de/b477/e200/0107/a8a5/medium_jpg/012______Shan-jian_images.jpg?1783036434",
+    "typology": [
+      "Landscape Architecture",
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T19:40:39.699Z"
+  },
+  {
+    "id": "1347f9de-6ef9-4f80-b09e-152f99b029ac",
+    "title": "Mexico City Stadium: Interior Remodeling & Hospitality Spaces",
+    "creator": "CUAIK CDS + Luis Huerta + ESTUDIO Ignacio Urquiza Ana Paula de Alba + CAAM Arquitectos + Clásicos Mexicanos",
+    "location": "Ciudad de México",
+    "country": "México",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092305/mexico-city-stadium-interior-remodeling-and-hospitality-spaces-cuaik-cds-plus-luis-huerta-plus-estudio-ignacio-urquiza-ana-paula-de-alba-plus-caam-arquitectos-plus-clasicos-mexicanos",
+    "image_url": "https://images.adsttc.com/media/images/6a46/259c/0789/c600/018c/2a69/medium_jpg/2026_MexicoCity_Stadium_WEB_PHOTO_by_Zaickz_Moz_31.jpg?1782982142",
+    "typology": [
+      "Refurbishment",
+      "Renovation",
+      "Interior Design",
+      "Sports Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T19:40:39.700Z"
+  },
+  {
+    "id": "67cb96b4-5365-446d-a36a-4c21ae04ce54",
+    "title": "Explicit Bodies, Hidden Bodies Exhibition",
+    "creator": "Vão",
+    "location": "Centro",
+    "country": "Brasil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1055988/explicit-bodies-hidden-bodies-exhibition-vao",
+    "image_url": "https://images.adsttc.com/media/images/6a42/d700/0789/c600/018c/2746/medium_jpg/06_Marilia_Camelo.jpg?1782765345",
+    "typology": [
+      "Cultural Architecture",
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T19:40:39.701Z"
+  },
+  {
+    "id": "70d5ea18-892d-4706-be09-454ee23a2b6f",
+    "title": "Casaluna",
+    "creator": "Anarquitectura",
+    "location": "Las Terrenas",
+    "country": "Dominican Republic",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1055217/casaluna-anarquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a43/b7db/0789/c600/018c/2882/medium_jpg/IRD_8823.jpg?1782822936",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T19:40:39.702Z"
+  },
+  {
+    "id": "7d5a56fe-a2a0-4533-a899-16fde7207a88",
+    "title": "Help Age Urban Gardens",
+    "creator": "Yemail Arquitectura",
+    "location": "Bogotá",
+    "country": "Colombia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1055892/help-age-urban-gardens-yemail-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a42/3428/bdfc/1a01/8a6a/2b39/medium_jpg/huertas-urbanas-help-age-yemail-arquitectura_1.jpg?1782723641",
+    "typology": [
+      "Urbanism",
+      "Urban Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T19:40:39.704Z"
+  },
+  {
+    "id": "c3aec3f8-45db-4919-9ca2-7a46e1fe24d3",
+    "title": "House Tenjin",
+    "creator": "atelier yoo",
+    "location": "Tenjinmae-cho",
+    "country": "Japan",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042853/house-tenjin-atelier-yoo",
+    "image_url": "https://images.adsttc.com/media/images/6a42/a611/0789/c600/018c/26ae/medium_jpg/japanese_room_towards_garden.jpg?1782752870",
+    "typology": [
+      "Residential Architecture",
+      "Houses",
+      "Refurbishment",
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T19:40:39.705Z"
+  },
+  {
+    "id": "2553aea9-656d-4a13-bc69-0a7c4bfb5bc4",
+    "title": "Spatial Renewal and Scene Stitching of Birland Food Court",
+    "creator": "Atelier Diving Bell",
+    "location": "Hangzhou",
+    "country": "China",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042922/spatial-renewal-and-scene-stitching-of-birland-food-court-parallect-design-plus-atelier-diving-bell",
+    "image_url": "https://images.adsttc.com/media/images/6a44/babb/0789/c600/018c/297d/medium_jpg/____2.jpg?1782889260",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T19:40:39.706Z"
   }
 ]
