@@ -6370,5 +6370,29 @@
     "material": [],
     "published_at": "2026-07-07T18:00:02.000Z",
     "ingested_at": "2026-07-07T20:03:05.512Z"
+  },
+  {
+    "id": "3236b8f6-b653-491f-8d34-748467a93144",
+    "title": "rethinking the glass tower through a living skin that grows, shades, and generates energy",
+    "creator": "uau studio",
+    "location": "Melbourne",
+    "country": "Australia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/rethinking-glass-tower-living-skin-grows-shades-generates-energy-uau-studio-algae-tower/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/uau-studio-algae-tower-photo-bio-reactor-technology-facade-designboom-700-1-500x400-22b08q85r484.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "algae",
+      "architecture in australia",
+      "biomaterials",
+      "facades",
+      "solar power",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T07:30:47.000Z",
+    "ingested_at": "2026-07-08T07:32:13.665Z"
   }
 ]
