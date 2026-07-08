@@ -17918,5 +17918,169 @@
     "material": [],
     "published_at": "2026-07-08T07:00:00.000Z",
     "ingested_at": "2026-07-08T15:24:59.633Z"
+  },
+  {
+    "id": "f7d5d24a-31a1-465d-8e51-167f03e4159b",
+    "title": "ECC Creative",
+    "creator": "A Parallel Architecture",
+    "location": "Austin",
+    "country": "United States",
+    "year": 2023,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042944/ecc-creative-a-parallel-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a45/8df7/0789/c600/018c/2a29/medium_jpg/AD_ECC_Creative_-_Chase_Daniel__1_.jpg?1782943316",
+    "typology": [
+      "Refurbishment",
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T12:00:00.000Z",
+    "ingested_at": "2026-07-08T17:42:22.939Z"
+  },
+  {
+    "id": "06269787-6fc8-42bb-8e28-fcee6852896e",
+    "title": "Tidsmaskinen After-School Center",
+    "creator": "BBP Arkitekter",
+    "location": "København",
+    "country": "Denmark",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054008/tidsmaskinen-after-school-center-bbp-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/ab19/062b/6500/019a/aafe/medium_jpg/00_Exterior_west_A_Jens_Lindhe.jpg?1783343923",
+    "typology": [
+      "Educational Architecture",
+      "Other facilities"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T11:43:31.000Z",
+    "ingested_at": "2026-07-08T17:42:22.942Z"
+  },
+  {
+    "id": "5b854a2b-eaf7-4a1d-9422-bd0d9348be5e",
+    "title": "Timber Studio",
+    "creator": "Koichi Takada Architects",
+    "location": "Shibuya",
+    "country": "Japan",
+    "year": 2021,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092329/timber-studio-koichi-takada-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/6765/5d2a/a935/af1f/5993/medium_jpg/timber-studio-koichi-takada-architects_1.jpg?1783523196",
+    "typology": [
+      "Offices",
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T17:42:22.950Z"
+  },
+  {
+    "id": "f339cef3-bc12-4a13-bbc2-beecb8628b65",
+    "title": "Rushi Hai Life Market",
+    "creator": "odd",
+    "location": "Qinhuangdao",
+    "country": "China",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042354/rushi-hai-life-market-odd",
+    "image_url": "https://images.adsttc.com/media/images/6a2a/1f21/6341/4201/8a2c/2fc5/medium_jpg/rushi-hai-life-market-odd_1.jpg?1781145397",
+    "typology": [
+      "Interior Design",
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:25:33.000Z",
+    "ingested_at": "2026-07-08T17:42:22.951Z"
+  },
+  {
+    "id": "fca43d4b-c705-4a5a-be87-efaa0c9f66dc",
+    "title": "Casa China",
+    "creator": "Jorgelina Tortorici & Asociados",
+    "location": "Bella Vista",
+    "country": "Argentina",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042218/casa-china-jorgelina-tortorici-and-asociados",
+    "image_url": "https://images.adsttc.com/media/images/6a22/bbbf/d2d3/6e00/0102/f22f/medium_jpg/083A6867__1_.jpg?1780661280",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:25:33.000Z",
+    "ingested_at": "2026-07-08T17:42:22.953Z"
+  },
+  {
+    "id": "bf11cfb8-6f43-4747-9c52-6a9a25f4845e",
+    "title": "Sendero Villas",
+    "creator": "LOOP Design Studio",
+    "location": "Guiones",
+    "country": "Costa Rica",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042120/sendero-villas-loop-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a1e/f2ea/35eb/2400/01f0/52e1/medium_jpg/SenderoVillas_ArchDaily_11.jpg?1780413234",
+    "typology": [
+      "Hospitality Architecture",
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:25:33.000Z",
+    "ingested_at": "2026-07-08T17:42:22.954Z"
+  },
+  {
+    "id": "5e311e70-eb02-4db7-961d-c987dc23f123",
+    "title": "CH Project",
+    "creator": "Ábaton",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": 2018,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042150/ch-project-abaton",
+    "image_url": "https://images.adsttc.com/media/images/6a1f/f29a/0f40/eb00/01df/55a8/medium_jpg/ABATON-proyecto-ch-05.jpg?1780478642",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:25:33.000Z",
+    "ingested_at": "2026-07-08T17:42:22.955Z"
+  },
+  {
+    "id": "9585e47d-53bc-4e9b-bde1-d2c9fb4db943",
+    "title": "AF Project",
+    "creator": "Ábaton",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042292/af-project",
+    "image_url": "https://images.adsttc.com/media/images/6a27/cc5c/d2d3/6e00/0102/f4fd/medium_jpg/_A7B6910.jpg?1780993193",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:25:33.000Z",
+    "ingested_at": "2026-07-08T17:42:22.955Z"
+  },
+  {
+    "id": "8225f7d9-5fb8-4ad3-a3ea-2d9078739c35",
+    "title": "Godai Ceramic Studio",
+    "creator": "IBERÊ STUDIO",
+    "location": "Barra Funda",
+    "country": "Brazil",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042464/godai-ceramic-studio-ibere-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a30/4584/712c/db00/01fb/e3eb/medium_jpg/9_staircase_and_collectibles_display.jpg?1781548477",
+    "typology": [
+      "Mixed Use Architecture",
+      "Refurbishment",
+      "Interior Design",
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:12:36.000Z",
+    "ingested_at": "2026-07-08T17:42:22.956Z"
   }
 ]
