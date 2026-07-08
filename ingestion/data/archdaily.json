@@ -17788,5 +17788,23 @@
     "material": [],
     "published_at": "2026-07-07T15:00:00.000Z",
     "ingested_at": "2026-07-07T22:14:19.171Z"
+  },
+  {
+    "id": "33b6b325-3fe7-4192-bd1c-90a8bb09d39b",
+    "title": "Rivera Paradise House",
+    "creator": "AtelierM",
+    "location": "Buenos Aires",
+    "country": "Argentina",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054061/rivera-paradise-house-atelierm",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/9765/062b/6500/019a/aadb/medium_jpg/RiveraMay26-11.jpg?1783338950",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-07T19:00:00.000Z",
+    "ingested_at": "2026-07-08T04:17:53.677Z"
   }
 ]
