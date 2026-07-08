@@ -18283,5 +18283,60 @@
     "material": [],
     "published_at": "2026-07-08T06:30:24.000Z",
     "ingested_at": "2026-07-08T21:13:18.665Z"
+  },
+  {
+    "id": "599823cf-ded5-4783-aeaa-55d4fcbd9fc7",
+    "title": "Pukará House",
+    "creator": "El Sindicato Arquitectura",
+    "location": "Cayambe",
+    "country": "Ecuador",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/686f/da75/fa38/a000/0150/3415/medium_jpg/Casa_Pukara_Eduardo_Espinosa_Garate_10.jpg?1752161006",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T19:00:00.000Z",
+    "ingested_at": "2026-07-08T23:12:39.005Z"
+  },
+  {
+    "id": "bf569be2-a690-43d3-a673-ffd42c702380",
+    "title": "MIDEA Science Center",
+    "creator": "Atelier Ma_BIAD",
+    "location": "Approx. 112 meters south of Midea Headquarters Building",
+    "country": "China",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041093/midea-science-center-atelier-ma-biad",
+    "image_url": "https://images.adsttc.com/media/images/69f2/68e1/c748/9401/89fb/9503/medium_jpg/midea-science-center-atelier-ma-biad_3.jpg?1777494260",
+    "typology": [
+      "Cultural Architecture",
+      "Learning",
+      "science center"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T18:00:00.000Z",
+    "ingested_at": "2026-07-08T23:12:39.007Z"
+  },
+  {
+    "id": "c4eecb97-99f5-4154-b0d9-9f08923e6a7b",
+    "title": "Yano House",
+    "creator": "Peninsula Arquitetura",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "year": 2022,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6901/4820/a46b/f91e/1cf2/ada6/medium_jpg/casa-yano-peninsula-arquitetura_15.jpg?1761691723",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T17:00:00.000Z",
+    "ingested_at": "2026-07-08T23:12:39.010Z"
   }
 ]
