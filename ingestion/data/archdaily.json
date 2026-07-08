@@ -17826,5 +17826,40 @@
     "material": [],
     "published_at": "2026-07-08T00:00:00.000Z",
     "ingested_at": "2026-07-08T07:32:12.473Z"
+  },
+  {
+    "id": "c5a7e628-a8b4-4451-b7f3-b96bdd5a1e2b",
+    "title": "Misato Canoe Boathouse",
+    "creator": "STUDIO YY",
+    "location": "Misato",
+    "country": "Japan",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054025/misato-canoe-boathouse-studio-yy",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/db88/73b8/d401/8935/68d5/medium_jpg/misato-canoe-boathouse-studio-yy_1.jpg?1783356346",
+    "typology": [
+      "Sports Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T03:00:00.000Z",
+    "ingested_at": "2026-07-08T10:23:36.043Z"
+  },
+  {
+    "id": "46f5e5c9-5f07-49f1-9397-a8cec4262dc4",
+    "title": "Ghost Gum House Extension",
+    "creator": "Adriano Pupilli Architects",
+    "location": "Manly",
+    "country": "Australia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/b46e/73b8/d422/330e/01c0/medium_jpg/ghost-gum-house-extension-adriano-pupilli-architects_2.jpg?1783346372",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T02:00:00.000Z",
+    "ingested_at": "2026-07-08T10:23:36.046Z"
   }
 ]
