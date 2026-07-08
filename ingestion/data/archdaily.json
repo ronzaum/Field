@@ -18229,5 +18229,59 @@
     "material": [],
     "published_at": "2026-07-08T06:30:24.000Z",
     "ingested_at": "2026-07-08T19:40:39.706Z"
+  },
+  {
+    "id": "35eefae2-1d02-45b4-998a-f0435440b116",
+    "title": "Villas de San Pablo Cultural Center, Barranquilla",
+    "creator": "ETHZ + Alejandro Restrepo Montoya",
+    "location": "Barranquilla",
+    "country": "Colombia",
+    "year": 2025,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092228/villas-de-san-pablo-cultural-center-barranquilla-ethz-plus-alejandro-restrepo-montoya",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/0109/56cb/6000/01e1/aa66/medium_jpg/CCVSP_ETHZ_UPB_A_Arango__4_.jpg?1783497147",
+    "typology": [
+      "Cultural Architecture",
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T15:00:00.000Z",
+    "ingested_at": "2026-07-08T21:13:18.649Z"
+  },
+  {
+    "id": "010137b9-f666-4f19-bb65-1ea411430a7f",
+    "title": "House in las Rozas, Madrid",
+    "creator": "Fran Silvestre Arquitectos",
+    "location": "Las Rozas de Madrid",
+    "country": "Spain",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043021/house-in-las-rozas-madrid-fran-silvestre-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a47/eaec/b477/e200/0107/aa3a/medium_jpg/HOUSE_IN_LAS_ROZAS_FRAN_SILVESTRE_ARQUITECTOS_IMAGES_01.jpg?1783098170",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T21:13:18.664Z"
+  },
+  {
+    "id": "746dca0f-16da-4476-8740-91d5271ff327",
+    "title": "Unusual Brick House",
+    "creator": "PLUG modular architecture",
+    "location": "San Andres de Giles",
+    "country": "Argentina",
+    "year": 2024,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1055902/unusual-brick-house-plug-modular-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a43/879f/0789/c600/018c/2804/medium_jpg/ALB_2496.jpg?1782810577",
+    "typology": [
+      "Residential Architecture",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-08T21:13:18.665Z"
   }
 ]
