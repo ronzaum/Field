@@ -17880,5 +17880,43 @@
     "material": [],
     "published_at": "2026-07-08T06:00:00.000Z",
     "ingested_at": "2026-07-08T12:24:00.962Z"
+  },
+  {
+    "id": "d1c8ba14-d3fe-4801-8458-a7bdb8b3d1f8",
+    "title": "Amonti Chalets",
+    "creator": "Architekt Andreas Gruber",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054052/amonti-chalets-architekt-andreas-gruber",
+    "image_url": "https://images.adsttc.com/media/images/6a4c/ea66/062b/6500/019a/ac09/medium_jpg/03_Andreas-Gruber-Arch_AMONTI_IMG_1210_GW.jpg?1783425659",
+    "typology": [
+      "Hospitality Architecture",
+      "Lodging",
+      "Cabins & Lodges",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T10:00:00.000Z",
+    "ingested_at": "2026-07-08T15:24:59.629Z"
+  },
+  {
+    "id": "e4763c73-bf74-4505-99f3-0cbf37c7b9bd",
+    "title": "TU Munich Kinderoase Daycare",
+    "creator": "Kéré Architecture  + HK Architekten",
+    "location": "Munich",
+    "country": "Germany",
+    "year": 2026,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054059/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/163e/25a9/f501/8a94/bc09/medium_jpg/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt_1.jpg?1783436970",
+    "typology": [
+      "Educational Architecture",
+      "Day Care"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T07:00:00.000Z",
+    "ingested_at": "2026-07-08T15:24:59.633Z"
   }
 ]
