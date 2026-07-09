@@ -18763,5 +18763,39 @@
     "material": [],
     "published_at": "2026-07-08T06:30:24.000Z",
     "ingested_at": "2026-07-09T07:41:36.184Z"
+  },
+  {
+    "id": "1e46367b-9f8b-4729-85ea-b82eb2c305a4",
+    "title": "KOSMALT Housing Renovation",
+    "creator": "Atrium Architekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054033/kosmalt-housing-renovation-atrium-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6a4c/0a00/73b8/d479/fe1b/c7aa/newsletter/kosmalt-housing-renovation-atrium-architekti_1.jpg?1783368277",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T10:00:00.000Z",
+    "ingested_at": "2026-07-09T15:20:39.259Z"
+  },
+  {
+    "id": "0c1dfba3-6ae3-4ce4-bb80-2fed4f488db3",
+    "title": "Gulzar’s Residence",
+    "creator": "Field Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1080021/gulzars-residence-field-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/e445/66eb/7b06/9a2a/d320/newsletter/gulzars-residence_2.jpg?1783489627",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T07:00:00.000Z",
+    "ingested_at": "2026-07-09T15:20:39.260Z"
   }
 ]
