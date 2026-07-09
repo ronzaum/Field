@@ -18338,5 +18338,328 @@
     "material": [],
     "published_at": "2026-07-08T17:00:00.000Z",
     "ingested_at": "2026-07-08T23:12:39.010Z"
+  },
+  {
+    "id": "48e8f32e-957a-4dd3-921e-cad639cde0b8",
+    "title": "Pukará House",
+    "creator": "El Sindicato Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1034573/pukara-house-el-sindicato-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/686f/da75/fa38/a000/0150/3415/newsletter/Casa_Pukara_Eduardo_Espinosa_Garate_10.jpg?1752161006",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T19:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.977Z"
+  },
+  {
+    "id": "6383ee6f-2563-4ad4-be07-6ffb6c2f8acf",
+    "title": "MIDEA Science Center",
+    "creator": "Atelier Ma_BIAD",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1041093/midea-science-center-atelier-ma-biad",
+    "image_url": "https://images.adsttc.com/media/images/69f2/68e1/c748/9401/89fb/9503/newsletter/midea-science-center-atelier-ma-biad_3.jpg?1777494260",
+    "typology": [
+      "science center"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T18:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.977Z"
+  },
+  {
+    "id": "71584a6c-4f5f-4994-8cfd-cbe563e6e871",
+    "title": "Yano House",
+    "creator": "Peninsula Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1035492/yano-house-peninsula-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6901/4820/a46b/f91e/1cf2/ada6/newsletter/casa-yano-peninsula-arquitetura_15.jpg?1761691723",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T17:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.977Z"
+  },
+  {
+    "id": "2a35304f-3f4b-40a0-9112-4904f08d27e2",
+    "title": "Villas de San Pablo Cultural Center, Barranquilla",
+    "creator": "ETHZ + Alejandro Restrepo Montoya",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1092228/villas-de-san-pablo-cultural-center-barranquilla-ethz-plus-alejandro-restrepo-montoya",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/0109/56cb/6000/01e1/aa66/newsletter/CCVSP_ETHZ_UPB_A_Arango__4_.jpg?1783497147",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T15:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.978Z"
+  },
+  {
+    "id": "cec3a085-a3c6-4da4-b50b-07ab03cdf1fb",
+    "title": "Aunt Val’s House",
+    "creator": "Márcio Flávio Motta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1054039/aunt-vals-house-marcio-flavio-motta",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/badf/062b/6500/019a/aba1/newsletter/IMG_4823.jpg?1783347972",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T13:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.978Z"
+  },
+  {
+    "id": "286c182a-7091-42f8-9580-3dc6c9a1be4d",
+    "title": "ECC Creative",
+    "creator": "A Parallel Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1042944/ecc-creative-a-parallel-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a45/8df7/0789/c600/018c/2a29/newsletter/AD_ECC_Creative_-_Chase_Daniel__1_.jpg?1782943316",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T12:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.978Z"
+  },
+  {
+    "id": "2a75756d-d5b8-4bec-aa73-87bdfd730cba",
+    "title": "Amonti Chalets",
+    "creator": "Architekt Andreas Gruber",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1054052/amonti-chalets-architekt-andreas-gruber",
+    "image_url": "https://images.adsttc.com/media/images/6a4c/ea66/062b/6500/019a/ac09/newsletter/03_Andreas-Gruber-Arch_AMONTI_IMG_1210_GW.jpg?1783425659",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T10:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.978Z"
+  },
+  {
+    "id": "35bff31d-5762-4677-a0ff-8f38edbb22c5",
+    "title": "TU Munich Kinderoase Daycare",
+    "creator": "Kéré Architecture  + HK Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1054059/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/163e/25a9/f501/8a94/bc09/newsletter/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt_1.jpg?1783436970",
+    "typology": [
+      "Day Care"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T07:00:00.000Z",
+    "ingested_at": "2026-07-09T03:47:35.978Z"
+  },
+  {
+    "id": "05c7b880-5196-4b8b-a9b6-b5c0f7f3c442",
+    "title": "Unusual Brick House",
+    "creator": "PLUG modular architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1055902/unusual-brick-house-plug-modular-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a43/879f/0789/c600/018c/2804/newsletter/ALB_2496.jpg?1782810577",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.979Z"
+  },
+  {
+    "id": "038d6fc9-c5c1-48b7-a4e7-a900c8abf826",
+    "title": "House Tenjin",
+    "creator": "atelier yoo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1042853/house-tenjin-atelier-yoo",
+    "image_url": "https://images.adsttc.com/media/images/6a42/a611/0789/c600/018c/26ae/newsletter/japanese_room_towards_garden.jpg?1782752870",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.979Z"
+  },
+  {
+    "id": "90514602-c4c9-4170-8be1-67804c15d93b",
+    "title": "Casaluna",
+    "creator": "Anarquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1055217/casaluna-anarquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a43/b7db/0789/c600/018c/2882/newsletter/IRD_8823.jpg?1782822936",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.979Z"
+  },
+  {
+    "id": "565e6146-55d9-46d2-8335-d371f7385415",
+    "title": "Explicit Bodies, Hidden Bodies Exhibition",
+    "creator": "Vão",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1055988/explicit-bodies-hidden-bodies-exhibition-vao",
+    "image_url": "https://images.adsttc.com/media/images/6a42/d700/0789/c600/018c/2746/newsletter/06_Marilia_Camelo.jpg?1782765345",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.979Z"
+  },
+  {
+    "id": "0e2d5cbd-2bbd-4165-9d5d-5ba74dbbecd6",
+    "title": "Timber Studio",
+    "creator": "Koichi Takada Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1092329/timber-studio-koichi-takada-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/6765/5d2a/a935/af1f/5993/newsletter/timber-studio-koichi-takada-architects_1.jpg?1783523196",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.980Z"
+  },
+  {
+    "id": "d5622445-da4e-4cb0-9cf1-6b3c40cb8c4d",
+    "title": "Help Age Urban Gardens",
+    "creator": "Yemail Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1055892/help-age-urban-gardens-yemail-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a42/3428/bdfc/1a01/8a6a/2b39/newsletter/huertas-urbanas-help-age-yemail-arquitectura_1.jpg?1782723641",
+    "typology": [
+      "Urban Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.980Z"
+  },
+  {
+    "id": "767bcb4d-42c2-4473-bcf8-bbec3c7c0735",
+    "title": "D House",
+    "creator": "Rastro Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1055060/d-house-rastro-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/3a57/54d7/6a00/01cc/69fe/newsletter/RastroEstudio-CasaD16.jpg?1782201011",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.980Z"
+  },
+  {
+    "id": "9ba97e44-f331-4b78-89fe-527d22af2c34",
+    "title": "Lina Building",
+    "creator": "IDEIA1",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1055250/lina-building-ideia1",
+    "image_url": "https://images.adsttc.com/media/images/6a39/6cd4/54d7/6a00/01cc/6937/newsletter/GK_20251008_IDEIA1_LINA_0890B-EE.jpg?1782148343",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.980Z"
+  },
+  {
+    "id": "ccf7004d-a19b-475f-8f3a-638cb478838f",
+    "title": "AE House",
+    "creator": "Taller Ezequiel Aguilar Martinez",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1056255/ae-house-taller-ezequiel-aguilar-martinez",
+    "image_url": "https://images.adsttc.com/media/images/6a3a/35fa/54d7/6a00/01cc/69ce/newsletter/TEAM__Casa_AE__Amy_Bello__2026-1.2-2880_PX.jpg?1782199818",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.980Z"
+  },
+  {
+    "id": "0a5ead8e-99cd-418a-912f-a45508b9a452",
+    "title": "J House",
+    "creator": "Hulot",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1054981/j-house-hulot",
+    "image_url": "https://images.adsttc.com/media/images/6a31/3965/712c/db00/01fb/e50d/newsletter/01_Unifamiliar_en_Gandi_a__Milena_Villalba_2021.jpg?1781610959",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.980Z"
+  },
+  {
+    "id": "43d709ca-1ca1-48e0-8bd6-1cb6162f011d",
+    "title": "VVS House",
+    "creator": "MCL Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/en/1054983/vvs-house-mcl-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a2b/d86e/712c/db00/01fb/e216/newsletter/MCL_SD_3871_10mb.jpg?1781258433",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T03:47:35.980Z"
   }
 ]
