@@ -18797,5 +18797,39 @@
     "material": [],
     "published_at": "2026-07-09T07:00:00.000Z",
     "ingested_at": "2026-07-09T15:20:39.260Z"
+  },
+  {
+    "id": "a008502c-892b-4cf1-a310-335cb0ac6818",
+    "title": "Anduhyaun Emergency Shelter",
+    "creator": "LGA Architectural Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054063/anduhyaun-emergency-shelter-lga-architectural-partners",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/3d3b/25af/6b00/019d/08ea/newsletter/LGA_Anduhyaun_Image4_Credit_Doublespace.jpg?1783446914",
+    "typology": [
+      "Wellbeing"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T12:00:00.000Z",
+    "ingested_at": "2026-07-09T18:00:46.884Z"
+  },
+  {
+    "id": "3677ee20-9386-4aa8-a80e-0e0cebe17cd1",
+    "title": "Courtyard House",
+    "creator": "Estudio Simbiosis",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092384/courtyard-house-estudio-simbiosis",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/7376/49a5/ed00/0187/3f70/newsletter/jar_simbiosis_estancias_DSF2615_low.jpg?1783591948",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T03:00:00.000Z",
+    "ingested_at": "2026-07-09T18:00:46.886Z"
   }
 ]
