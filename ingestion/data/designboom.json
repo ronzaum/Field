@@ -6455,5 +6455,65 @@
     "material": [],
     "published_at": "2026-07-09T06:30:13.000Z",
     "ingested_at": "2026-07-09T07:41:37.177Z"
+  },
+  {
+    "id": "8a21d8d6-b83b-4155-ad3e-7349f0c21681",
+    "title": "curving along lagoa de pataias, this sculptural museum proposal follows portugal’s lakeshore",
+    "creator": "Alexander Velgan",
+    "location": "Lagoa de Pataias",
+    "country": "Portugal",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lagoa-de-pataias-sculptural-museum-proposal-portugal-lakeshore-lp-alexander-velgan/",
+    "image_url": "https://www.designboom.com/wp-content/dbsub/466844/2026-07-08/contemporary-art-museum-at-lagoa-de-pataias-700-6a4eb15a879bf-500x400-22b08q85r167.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in portugal",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T10:30:45.000Z",
+    "ingested_at": "2026-07-09T11:08:59.817Z"
+  },
+  {
+    "id": "6b20652d-ca3a-4357-8ee3-f6ae26f39e87",
+    "title": "the indo-global dialogue: dropping western templates to give regional craft a voice",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/indo-global-dialogue-regional-craft-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/700-thumb-1-500x400-22b08q85r318.jpg",
+    "typology": [
+      "architecture",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T09:30:40.000Z",
+    "ingested_at": "2026-07-09T11:08:59.823Z"
+  },
+  {
+    "id": "fd4d2eca-974c-4a53-abca-2d0c477cb31e",
+    "title": "gerard & kelly reinhabit modernist villa benkemoun in arles with site-specific performance",
+    "creator": "Émile Sala (1913–1998)",
+    "location": "Villa Benkemoun | @villabenkemoun",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/villa-benkemoun-home-gerardandkelly-site-specific-performance-rencontres-arles-raphael-giannesini-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/villa-benkemoun-home-gerardandkelly-site-specific-performance-rencontres-arles-raphael-giannesini-interview-designboom-700-500x400-22b08q85r335.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "video",
+      "architectural icons",
+      "les rencontres de la photographie d'arles"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T08:30:29.000Z",
+    "ingested_at": "2026-07-09T11:08:59.841Z"
   }
 ]
