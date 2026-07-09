@@ -909,5 +909,24 @@
     "material": [],
     "published_at": "2026-07-07T18:30:48.000Z",
     "ingested_at": "2026-07-07T22:14:19.516Z"
+  },
+  {
+    "id": "1b87bd5a-c286-4feb-b699-1d1058605e47",
+    "title": "Dezeen Agenda features Theodore Roosevelt Presidential Library",
+    "creator": "Snøhetta",
+    "location": "North Dakota",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/09/dezeen-agenda-theodore-roosevelt-presidential-library-snohetta-north-dakota/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/snohetta-roosevelt-library-north-dakota_dezeen_2364_col_10_square-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Snøhetta",
+      "Dezeen Agenda"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T18:00:29.000Z",
+    "ingested_at": "2026-07-09T20:50:14.325Z"
   }
 ]
