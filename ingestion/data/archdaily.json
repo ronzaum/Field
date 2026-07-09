@@ -18661,5 +18661,107 @@
     "material": [],
     "published_at": "2026-07-08T06:30:24.000Z",
     "ingested_at": "2026-07-09T03:47:35.980Z"
+  },
+  {
+    "id": "1272430e-b472-490c-ad79-b53e7b6aec64",
+    "title": "Clerestory Garden at Naka-Ikebukuro Park",
+    "creator": "KEY OPERATION INC. / ARCHITECTS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092330/clerestory-garden-at-naka-ikebukuro-park-key-operation-inc-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/6a39/66eb/7b48/7e9f/b398/newsletter/clerestory-garden-at-naka-ikebukuro-park-key-operation-inc-architects_3.jpg?1783523935",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T02:00:00.000Z",
+    "ingested_at": "2026-07-09T07:41:36.180Z"
+  },
+  {
+    "id": "525095f5-d56c-441d-85b4-5f91f56a64d7",
+    "title": "Art Museum of AHUA",
+    "creator": "TJAD + DCA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054066/art-museum-of-ahua-tjad-plus-dca",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/51b9/25a9/f501/8a94/bd7a/newsletter/art-museum-of-ahua-tjad-plus-dca_14.jpg?1783452109",
+    "typology": [
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T00:00:00.000Z",
+    "ingested_at": "2026-07-09T07:41:36.180Z"
+  },
+  {
+    "id": "a9c967b3-9d64-4db5-919e-40aad811d183",
+    "title": "Park in Market",
+    "creator": "Office Canopy of Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042581/park-in-market-office-canopy-of-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a38/c468/6c38/4816/a744/1cfa/newsletter/park-in-market-office-canopy-of-architecture_26.jpg?1782105226",
+    "typology": [
+      "Market"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T07:41:36.183Z"
+  },
+  {
+    "id": "3afed80b-bdd0-4e8f-b705-616a542e49e4",
+    "title": "J House",
+    "creator": "Hulot",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054981/j-house-hulot",
+    "image_url": "https://images.adsttc.com/media/images/6a31/3965/712c/db00/01fb/e50d/newsletter/01_Unifamiliar_en_Gandi_a__Milena_Villalba_2021.jpg?1781610959",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T07:41:36.183Z"
+  },
+  {
+    "id": "c0681f62-57d4-4b1c-8702-70dd79487bce",
+    "title": "Comprehensive Renovation in Sagasta II",
+    "creator": "Ábaton",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042476/comprehensive-renovation-in-sagasta-ii-abaton",
+    "image_url": "https://images.adsttc.com/media/images/6a30/e3e5/712c/db00/01fb/e4bf/newsletter/_A7B1430_copia_1.jpg?1781588981",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T07:41:36.184Z"
+  },
+  {
+    "id": "411cfe27-7e29-4550-bd83-c38acce9bdb7",
+    "title": "Piso Oliva",
+    "creator": "More&Co",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042760/piso-oliva-more-and-co",
+    "image_url": "https://images.adsttc.com/media/images/6a3c/f4f4/8385/1500/01fa/e2e5/newsletter/EstGallardo_PaulaRosales_PisoC86-132-HDR.jpg?1782379803",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-08T06:30:24.000Z",
+    "ingested_at": "2026-07-09T07:41:36.184Z"
   }
 ]
