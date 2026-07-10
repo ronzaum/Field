@@ -18848,5 +18848,22 @@
     "material": [],
     "published_at": "2026-07-09T17:00:00.000Z",
     "ingested_at": "2026-07-10T00:09:46.525Z"
+  },
+  {
+    "id": "33cb0573-be8c-49cc-80e3-304c48299956",
+    "title": "Casa TG",
+    "creator": "LOTE STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092233/casa-tg-lote-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/0dd9/56cb/6000/01e1/b624/newsletter/00_LoteStudio_DSCF6803.jpg?1783500310",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T19:00:00.000Z",
+    "ingested_at": "2026-07-10T04:56:10.389Z"
   }
 ]
