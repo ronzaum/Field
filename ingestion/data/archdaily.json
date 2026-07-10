@@ -18865,5 +18865,56 @@
     "material": [],
     "published_at": "2026-07-09T19:00:00.000Z",
     "ingested_at": "2026-07-10T04:56:10.389Z"
+  },
+  {
+    "id": "647ac322-c961-4c6c-a705-cafa5ac4f15d",
+    "title": "The Art House",
+    "creator": "Spaces Architects@ka",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092365/the-art-house-spaces-architects-at-ka",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/99cf/8c51/7e01/8cc5/c3a5/newsletter/the-art-house-spaces-architects-at-ka_2.jpg?1783601655",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T03:00:00.000Z",
+    "ingested_at": "2026-07-10T08:28:17.963Z"
+  },
+  {
+    "id": "87c4c344-a92b-4bdd-bc63-a13f1e24d436",
+    "title": "The Gentle House",
+    "creator": "the Stylesmiths",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092361/the-gentle-house-the-stylesmiths",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/8b7c/49a5/ed00/0187/3fbb/newsletter/The-Stylesmiths-Brunswick-11--2880px.jpg?1783597967",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T02:00:00.000Z",
+    "ingested_at": "2026-07-10T08:28:17.963Z"
+  },
+  {
+    "id": "ef66eb02-4488-4fe3-8249-e4ac10bae9ca",
+    "title": "House Awasi",
+    "creator": "Caceres + Tous",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092360/house-awasi-caceres-plus-tous",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/83a5/3e7a/3201/8af9/c700/newsletter/house-awasi-caceres-plus-tous_6.jpg?1783595976",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T00:00:00.000Z",
+    "ingested_at": "2026-07-10T08:28:17.963Z"
   }
 ]
