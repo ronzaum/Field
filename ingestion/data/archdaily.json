@@ -18831,5 +18831,22 @@
     "material": [],
     "published_at": "2026-07-09T03:00:00.000Z",
     "ingested_at": "2026-07-09T18:00:46.886Z"
+  },
+  {
+    "id": "391a38e3-c616-45a1-b148-a77c6814a977",
+    "title": "Alva House",
+    "creator": "Felipe Caboclo Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092334/alva-house-felipe-caboclo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/bc9a/56cb/6000/01e1/6ece/newsletter/9.jpg?1783479592",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-09T17:00:00.000Z",
+    "ingested_at": "2026-07-10T00:09:46.525Z"
   }
 ]
