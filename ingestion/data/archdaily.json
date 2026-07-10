@@ -18967,5 +18967,39 @@
     "material": [],
     "published_at": "2026-07-10T10:00:00.000Z",
     "ingested_at": "2026-07-10T14:45:58.366Z"
+  },
+  {
+    "id": "153fca93-fde4-4503-9470-bc6c0fe862a5",
+    "title": "Ascendente House",
+    "creator": "TETRO Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041707/ascendente-house-tetro-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a0d/e7ef/35eb/2400/01f0/400e/newsletter/001_-_CASA_ASCENDENTE_-_TETRO_copiar.jpg?1779296283",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T13:00:00.000Z",
+    "ingested_at": "2026-07-10T19:39:31.850Z"
+  },
+  {
+    "id": "c90fff96-1bdd-4aa4-a9e1-6ed4671eff2f",
+    "title": "Zdar Wooden Housing",
+    "creator": "Kuba & Pilař architekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054030/zdar-wooden-housing-kuba-and-pilar-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/d378/73b8/d401/8935/689c/newsletter/zdar-wooden-housing-kuba-and-pilar-architekti_8.jpg?1783354287",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T12:00:00.000Z",
+    "ingested_at": "2026-07-10T19:39:31.850Z"
   }
 ]
