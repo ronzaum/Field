@@ -18916,5 +18916,39 @@
     "material": [],
     "published_at": "2026-07-10T00:00:00.000Z",
     "ingested_at": "2026-07-10T08:28:17.963Z"
+  },
+  {
+    "id": "df804e5f-43c5-46c4-afe0-a2d282090766",
+    "title": "Villa CROCODILE",
+    "creator": "LOCALARCHITECTURE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054065/villa-crocodile-localarchitecture",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/4a45/25af/6b00/019d/0906/newsletter/LOCAL_ABIDJAN_CROCODILE_LD_11_daaily.jpg?1783450227",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T07:00:00.000Z",
+    "ingested_at": "2026-07-10T11:56:24.021Z"
+  },
+  {
+    "id": "847cb112-66a3-4062-8486-51fed11cccc3",
+    "title": "Design Hotels HQ",
+    "creator": "RHO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092349/design-hotels-hq-rho",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/6b5a/49a5/ed00/0187/3f51/newsletter/RHO_DH_Office_-103-2.jpg?1783589759",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T06:00:00.000Z",
+    "ingested_at": "2026-07-10T11:56:24.021Z"
   }
 ]
