@@ -18950,5 +18950,22 @@
     "material": [],
     "published_at": "2026-07-10T06:00:00.000Z",
     "ingested_at": "2026-07-10T11:56:24.021Z"
+  },
+  {
+    "id": "40d2cd7c-fa47-4551-adb7-a8d17201112c",
+    "title": "Panoší Újezd Summer House",
+    "creator": "Lenka Milerová architektka",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054031/panosi-ujezd-summer-house-lenka-milerova-architektka",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/d5c8/bd37/c901/7ebd/b0d7/newsletter/panosi-ujezd-summer-house-lenka-milerova-architektka_14.jpg?1783354885",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T10:00:00.000Z",
+    "ingested_at": "2026-07-10T14:45:58.366Z"
   }
 ]
