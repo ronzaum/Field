@@ -19103,5 +19103,22 @@
     "material": [],
     "published_at": "2026-07-11T09:00:00.000Z",
     "ingested_at": "2026-07-11T16:03:04.936Z"
+  },
+  {
+    "id": "9a78a0d6-87fd-4e82-ac6a-7a966f927cad",
+    "title": "Muxarabi House",
+    "creator": "Ana Sawaia Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042712/muxarabi-house-ana-sawaia-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a3b/3019/54d7/6a00/01cc/6b2b/newsletter/NelsonKon_11-web.jpg?1782263940",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-11T13:00:00.000Z",
+    "ingested_at": "2026-07-11T19:18:15.228Z"
   }
 ]
