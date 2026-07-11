@@ -19069,5 +19069,39 @@
     "material": [],
     "published_at": "2026-07-11T02:00:00.000Z",
     "ingested_at": "2026-07-11T08:50:22.065Z"
+  },
+  {
+    "id": "ca688ce5-c19a-410d-ba96-cba1fa815b37",
+    "title": "BBB House",
+    "creator": "Beczak / Beczak / Architekci",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092471/bbb-house-beczak-beczak-architekci",
+    "image_url": "https://images.adsttc.com/media/images/6a50/b839/61ff/5300/01d2/e862/newsletter/BBB_17.jpg?1783674993",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-11T11:00:00.000Z",
+    "ingested_at": "2026-07-11T16:03:04.935Z"
+  },
+  {
+    "id": "c607b25a-863b-42b4-bba8-23394cc4e350",
+    "title": "Ciutat Vella Apartment",
+    "creator": "Balzar Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092214/ciutat-vella-apartment-balzar-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a4d/feaf/56cb/6000/01e1/a818/newsletter/CIUTAT-VELLA-APARTMENT-BALZAR-ARCHITECTS-_1_.jpg?1783496386",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-11T09:00:00.000Z",
+    "ingested_at": "2026-07-11T16:03:04.936Z"
   }
 ]
