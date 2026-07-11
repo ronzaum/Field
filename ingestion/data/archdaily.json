@@ -19154,5 +19154,22 @@
     "material": [],
     "published_at": "2026-07-11T15:00:00.000Z",
     "ingested_at": "2026-07-11T20:56:10.988Z"
+  },
+  {
+    "id": "cbfc6a82-8b26-489d-a203-0403b5111a27",
+    "title": "Nachan the Antique Courtyard Hotel",
+    "creator": "PAVA architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092379/nachan-the-antique-courtyard-hotel-pava-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/c2df/ec97/ec01/885c/1244/newsletter/nachan-the-antique-courtyard-hotel-pava-architects_53.jpg?1783612178",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-07-11T17:00:00.000Z",
+    "ingested_at": "2026-07-11T22:58:14.536Z"
   }
 ]
