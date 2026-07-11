@@ -19120,5 +19120,39 @@
     "material": [],
     "published_at": "2026-07-11T13:00:00.000Z",
     "ingested_at": "2026-07-11T19:18:15.228Z"
+  },
+  {
+    "id": "c0584fad-0d37-4de9-9e4c-e974c4e85a85",
+    "title": "Leloir Studio Pavilion",
+    "creator": "FIR Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092464/leloir-studio-pavilion-fir-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/1018/56cb/6000/01e1/b831/newsletter/Pabellon_Huala_FIR__36_.jpg?1783500874",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-11T16:00:00.000Z",
+    "ingested_at": "2026-07-11T20:56:10.988Z"
+  },
+  {
+    "id": "60a7a140-e20e-4e31-944d-b4aa613571e5",
+    "title": "Matita-Perê House",
+    "creator": "Matéria Base",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041951/matita-pere-house-materia-base",
+    "image_url": "https://images.adsttc.com/media/images/6a10/495a/35eb/2400/01f0/43cc/newsletter/_08A7941_copyright_manuel_sa.jpg?1779452350",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-11T15:00:00.000Z",
+    "ingested_at": "2026-07-11T20:56:10.988Z"
   }
 ]
