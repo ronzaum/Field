@@ -19001,5 +19001,56 @@
     "material": [],
     "published_at": "2026-07-10T12:00:00.000Z",
     "ingested_at": "2026-07-10T19:39:31.850Z"
+  },
+  {
+    "id": "2374cf30-c520-405c-87a0-5d918fffdb71",
+    "title": "Arriaga Linear Park",
+    "creator": "Laboratorio Regional de Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092461/arriaga-linear-park-laboratorio-regional-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/b245/062b/6500/019a/ab4b/newsletter/12_PARQUE_LINEAL_ARRIAGA__ANDR_S_CEDILLO.jpg?1783345782",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T19:00:00.000Z",
+    "ingested_at": "2026-07-11T03:15:28.481Z"
+  },
+  {
+    "id": "e6c68d10-db0c-4b77-9931-69a604aac0cb",
+    "title": "DRP House",
+    "creator": "Jacobsen Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034321/drp-house-jacobsen-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/68d0/4366/67a7/a401/899d/992a/newsletter/residencia-drp-jacobsen-arquitetura_24.jpg?1758479216",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T17:00:00.000Z",
+    "ingested_at": "2026-07-11T03:15:28.481Z"
+  },
+  {
+    "id": "b8112026-b07d-47b1-be4d-245db5928a25",
+    "title": "CCE House",
+    "creator": "ONA - Oficina Nómada de Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092458/cce-house-ona-oficina-nomada-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/a9bc/49a5/ed00/0187/4000/newsletter/26_05_ONA__CCE___Luis_Abba-37.jpg?1783605748",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-10T15:00:00.000Z",
+    "ingested_at": "2026-07-11T03:15:28.482Z"
   }
 ]
