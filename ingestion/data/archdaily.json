@@ -19239,5 +19239,22 @@
     "material": [],
     "published_at": "2026-07-12T09:00:00.000Z",
     "ingested_at": "2026-07-12T15:01:09.269Z"
+  },
+  {
+    "id": "fbb68db0-e6c8-4c1d-a6c1-33b2422f8024",
+    "title": "Stable",
+    "creator": "Carmen Maurice Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092495/stable-carmen-maurice-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a50/e6e5/61ff/5300/01d2/e90c/newsletter/_CMA_et_Guillaume_Amat_Pignon_est.jpg?1783686910",
+    "typology": [
+      "Stable"
+    ],
+    "material": [],
+    "published_at": "2026-07-12T11:00:00.000Z",
+    "ingested_at": "2026-07-12T17:04:16.989Z"
   }
 ]
