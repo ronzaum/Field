@@ -19205,5 +19205,22 @@
     "material": [],
     "published_at": "2026-07-12T02:00:00.000Z",
     "ingested_at": "2026-07-12T07:30:30.491Z"
+  },
+  {
+    "id": "8bbc6943-9dd6-4ee4-9285-2ff24c90b47c",
+    "title": "La Milagrosa Altarpiece",
+    "creator": "Alberto Campo Baeza",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1031681/la-milagrosa-altarpiece-alberto-campo-baeza",
+    "image_url": "https://images.adsttc.com/media/images/6862/c819/fa62/9531/dc6f/6dd3/newsletter/retablo-de-la-basilica-la-milagrosa-alberto-campo-baeza_9.jpg?1751304261",
+    "typology": [
+      "Arts & Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-12T06:00:00.000Z",
+    "ingested_at": "2026-07-12T13:37:55.696Z"
   }
 ]
