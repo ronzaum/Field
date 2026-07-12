@@ -19256,5 +19256,22 @@
     "material": [],
     "published_at": "2026-07-12T11:00:00.000Z",
     "ingested_at": "2026-07-12T17:04:16.989Z"
+  },
+  {
+    "id": "f94af808-c4ed-472d-aba0-a359bc27252e",
+    "title": "Condominium 4 Houses in Cascais",
+    "creator": "Humberto Conde Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092513/condominium-4-houses-in-cascais-humberto-conde-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a50/feee/e05c/0800/010e/1394/newsletter/arquiteto-moradia-residencia-abuxarda-031.jpg?1783693071",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-07-12T13:00:00.000Z",
+    "ingested_at": "2026-07-12T19:12:04.813Z"
   }
 ]
