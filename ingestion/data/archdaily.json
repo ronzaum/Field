@@ -19222,5 +19222,22 @@
     "material": [],
     "published_at": "2026-07-12T06:00:00.000Z",
     "ingested_at": "2026-07-12T13:37:55.696Z"
+  },
+  {
+    "id": "376d8b02-1414-4097-a0db-d1bd539b8fe8",
+    "title": "Montreuil Housing",
+    "creator": "minuit architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054054/montreuil-housing-minuit-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a4c/ecfa/062b/6500/019a/ac47/newsletter/2026_Minuit_Montreuil_02.jpg?1783426374",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-12T09:00:00.000Z",
+    "ingested_at": "2026-07-12T15:01:09.269Z"
   }
 ]
