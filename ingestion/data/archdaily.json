@@ -19171,5 +19171,22 @@
     "material": [],
     "published_at": "2026-07-11T17:00:00.000Z",
     "ingested_at": "2026-07-11T22:58:14.536Z"
+  },
+  {
+    "id": "d0864f0b-d3ce-4e4c-9271-59b5734418a8",
+    "title": "We House",
+    "creator": "longwave studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092483/projcet-we-longwave-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a50/d898/61ff/5300/01d2/e8d1/newsletter/HouseWE_3_.jpg?1783683255",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-11T21:00:00.000Z",
+    "ingested_at": "2026-07-12T04:27:29.798Z"
   }
 ]
