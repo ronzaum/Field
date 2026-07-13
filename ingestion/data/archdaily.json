@@ -19324,5 +19324,39 @@
     "material": [],
     "published_at": "2026-07-12T21:00:00.000Z",
     "ingested_at": "2026-07-13T04:33:02.897Z"
+  },
+  {
+    "id": "6da7f17f-7c14-41aa-9dcb-cd9b96edd696",
+    "title": "Antara Residence",
+    "creator": "Ark Architecture Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092491/antara-residence-ark-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a50/e3b2/61ff/5300/01d2/e8e9/newsletter/1.jpg?1783686107",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T02:00:00.000Z",
+    "ingested_at": "2026-07-13T08:19:34.010Z"
+  },
+  {
+    "id": "0fb0d43a-3151-472e-ba45-490aa124ee74",
+    "title": "The Ecological Kaleidoscope of East Nanjing Road: Century Square Reborn",
+    "creator": "EMBT + TJAD",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad",
+    "image_url": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9207/909d/2383/newsletter/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_13.jpg?1779750108",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T00:00:00.000Z",
+    "ingested_at": "2026-07-13T08:19:34.010Z"
   }
 ]
