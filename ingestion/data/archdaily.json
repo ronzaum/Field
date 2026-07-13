@@ -19392,5 +19392,22 @@
     "material": [],
     "published_at": "2026-07-13T03:00:00.000Z",
     "ingested_at": "2026-07-13T12:10:30.978Z"
+  },
+  {
+    "id": "a53da100-e550-42e4-8c3f-52caf505f72a",
+    "title": "Restaurant Huset Svalbard",
+    "creator": "Snøhetta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054035/restaurant-huset-svalbard-snohetta",
+    "image_url": "https://images.adsttc.com/media/images/6a4c/1290/254f/2c01/7ce8/ef4e/newsletter/restaurant-huset-svalbard-snohetta_18.jpg?1783370419",
+    "typology": [
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T07:00:00.000Z",
+    "ingested_at": "2026-07-13T15:43:57.585Z"
   }
 ]
