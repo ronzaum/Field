@@ -19409,5 +19409,39 @@
     "material": [],
     "published_at": "2026-07-13T07:00:00.000Z",
     "ingested_at": "2026-07-13T15:43:57.585Z"
+  },
+  {
+    "id": "19b1fcaf-5e4c-468c-875c-9a6c7e47996b",
+    "title": "Dyes Inlet House",
+    "creator": "SHED Architecture & Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092504/dyes-inlet-house-shed-architecture-and-design",
+    "image_url": "https://images.adsttc.com/media/images/6a50/f3bb/61ff/5300/01d2/e925/newsletter/SHED-Dyes_Inlet_II-05.jpg?1783690257",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T12:00:00.000Z",
+    "ingested_at": "2026-07-13T17:58:31.658Z"
+  },
+  {
+    "id": "7d71bd9b-932c-4065-9c98-be4747313a67",
+    "title": "Viktoria House",
+    "creator": "Architekt Andreas Gruber",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054053/viktoria-house-architekt-andreas-gruber",
+    "image_url": "https://images.adsttc.com/media/images/6a4c/ea72/062b/6500/019a/ac2c/newsletter/55_Andreas-Gruber_Arch_VALS_LV_I.jpg?1783425710",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T10:00:00.000Z",
+    "ingested_at": "2026-07-13T17:58:31.658Z"
   }
 ]

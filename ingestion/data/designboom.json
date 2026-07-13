@@ -6625,5 +6625,23 @@
     "material": [],
     "published_at": "2026-07-13T14:00:16.000Z",
     "ingested_at": "2026-07-13T15:43:58.703Z"
+  },
+  {
+    "id": "e157a0a2-26cf-4b51-8c49-d26f02a01600",
+    "title": "david chipperfield revives historic waterfront landmark as new museum in spain",
+    "creator": "David Chipperfield Architects",
+    "location": "Edificio Pereda",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain-04-500x400-22b08q85r160.jpg",
+    "typology": [
+      "architecture",
+      "david chipperfield architects"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T17:00:24.000Z",
+    "ingested_at": "2026-07-13T17:58:34.498Z"
   }
 ]
