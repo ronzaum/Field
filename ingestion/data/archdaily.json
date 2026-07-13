@@ -19443,5 +19443,22 @@
     "material": [],
     "published_at": "2026-07-13T10:00:00.000Z",
     "ingested_at": "2026-07-13T17:58:31.658Z"
+  },
+  {
+    "id": "a9daa645-29cc-4a70-8ed7-63be89990666",
+    "title": "Jacarezinho II House",
+    "creator": "Felipe Hess Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092509/jacarezinho-ii-house-felipe-hess-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/ee28/0e77/3c1a/4ccf/cd3c/newsletter/casa-jacarezinho-ii-felipe-hess-arquitetos_30.jpg?1783557725",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T13:00:00.000Z",
+    "ingested_at": "2026-07-13T19:41:21.562Z"
   }
 ]
