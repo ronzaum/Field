@@ -19460,5 +19460,39 @@
     "material": [],
     "published_at": "2026-07-13T13:00:00.000Z",
     "ingested_at": "2026-07-13T19:41:21.562Z"
+  },
+  {
+    "id": "51795773-ef76-4e88-b03c-4885f3c0eab0",
+    "title": "AMS House",
+    "creator": "Jacobsen Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034312/ams-house-jacobsen-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/68cf/3c51/67a7/a401/899d/97f9/newsletter/residencia-ams-jacobsen-arquitetura_20.jpg?1758411871",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T17:00:00.000Z",
+    "ingested_at": "2026-07-13T22:59:04.399Z"
+  },
+  {
+    "id": "9622fd12-ef85-49d8-9420-8f5e5dde4a38",
+    "title": "Larivière Foundation",
+    "creator": "Clusellas Ades + Machado-Silvetti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148568/lariviere-foundation-clusellas-ades-plus-machado-silvetti",
+    "image_url": "https://images.adsttc.com/media/images/6a54/c852/a6cc/5601/89e4/e265/newsletter/fundacion-lariviere-clusellas-ades-plus-machado-silvetti_2.jpg?1783941234",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T15:00:00.000Z",
+    "ingested_at": "2026-07-13T22:59:04.399Z"
   }
 ]
