@@ -19358,5 +19358,39 @@
     "material": [],
     "published_at": "2026-07-13T00:00:00.000Z",
     "ingested_at": "2026-07-13T08:19:34.010Z"
+  },
+  {
+    "id": "7fad9c2d-551d-42d2-a06d-9e9d5a5d7da0",
+    "title": "Remise Rosa Complex",
+    "creator": "Hello Wood",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092359/remise-rosa-hello-wood",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/7e8c/49a5/ed00/0187/3f8c/newsletter/02_Remise_Rosa_by_Gy_rgy_Palk_.jpg?1783594703",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T06:00:00.000Z",
+    "ingested_at": "2026-07-13T12:10:30.977Z"
+  },
+  {
+    "id": "5c35459c-fd6d-4a32-bc89-9776ccfb6c5b",
+    "title": "Sants Social Center",
+    "creator": "LAOS (Xavier Botet + Albert Saboya)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043023/sants-social-center-laos-xavier-botet-plus-albert-saboya",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/1658/2be1/1205/b990/11be/newsletter/sants-social-center-laos-xavier-botet-plus-albert-saboya_19.jpg?1783502446",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T03:00:00.000Z",
+    "ingested_at": "2026-07-13T12:10:30.978Z"
   }
 ]
