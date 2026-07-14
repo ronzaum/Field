@@ -19664,5 +19664,39 @@
     "material": [],
     "published_at": "2026-07-14T12:00:00.000Z",
     "ingested_at": "2026-07-14T20:16:21.887Z"
+  },
+  {
+    "id": "d7480061-4585-43ae-b84a-41060c4156ed",
+    "title": "Xangri-Lá Residence",
+    "creator": "Yan Kruchin_",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148685/xangri-la-residence-yan-kruchin",
+    "image_url": "https://images.adsttc.com/media/images/6a1f/3cbb/6c5d/d101/8c5c/4513/newsletter/residencia-em-xangri-la-yan-kruchin_19.jpg?1780432073",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T17:00:00.000Z",
+    "ingested_at": "2026-07-14T22:02:14.778Z"
+  },
+  {
+    "id": "015ffa24-1a33-4f0a-afd6-7d2b8427dfdf",
+    "title": "Naab House",
+    "creator": "Di Frenna Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148651/naab-house-di-frenna-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a54/b246/22ee/0e00/0134/c677/newsletter/DFA-NAAB-3067.jpg?1783935666",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T15:00:00.000Z",
+    "ingested_at": "2026-07-14T22:02:14.779Z"
   }
 ]
