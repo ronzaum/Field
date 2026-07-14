@@ -19630,5 +19630,39 @@
     "material": [],
     "published_at": "2026-07-14T10:00:00.000Z",
     "ingested_at": "2026-07-14T16:21:29.410Z"
+  },
+  {
+    "id": "c2c80155-d18e-4b2d-aa55-a7da8edab748",
+    "title": "Roots House",
+    "creator": "Studio Gontijo Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148616/roots-house-studio-gontijo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a55/1a63/22ee/0e00/0134/ca1e/newsletter/Casa_Ra_zes_-_Andr__Klotz__3_.jpg?1783962310",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T13:00:00.000Z",
+    "ingested_at": "2026-07-14T20:16:21.887Z"
+  },
+  {
+    "id": "b2c7e17a-955d-4d15-9331-186a68772f66",
+    "title": "Wabamun Lake Cabin",
+    "creator": "Josh Kjenner",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148619/wabamun-lake-cabin-josh-kjenner",
+    "image_url": "https://images.adsttc.com/media/images/6a55/3562/294b/f801/88a4/88eb/newsletter/wabamun-lake-cabin-josh-kjenner_18.jpg?1783969137",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T12:00:00.000Z",
+    "ingested_at": "2026-07-14T20:16:21.887Z"
   }
 ]

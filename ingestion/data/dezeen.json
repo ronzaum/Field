@@ -928,5 +928,29 @@
     "material": [],
     "published_at": "2026-07-09T18:00:29.000Z",
     "ingested_at": "2026-07-09T20:50:14.325Z"
+  },
+  {
+    "id": "4fb416dc-c08c-4664-b1bf-80de3054569b",
+    "title": "Colorado house",
+    "creator": "Studio B and Studio Brother John appears to \"hover over the land\"",
+    "location": "Mountains",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/14/9631-mountain-ridge-place-studio-b-studio-brother-john-boulder-colorado/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/9631-mountain-ridge-place-boulder-colorado-studio-b-studio-brother-john-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Skylights",
+      "Pyramids",
+      "Wooden architecture",
+      "Colorado",
+      "Wildfires",
+      "Residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T19:14:37.000Z",
+    "ingested_at": "2026-07-14T20:16:22.239Z"
   }
 ]
