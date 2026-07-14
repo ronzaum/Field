@@ -19613,5 +19613,22 @@
     "material": [],
     "published_at": "2026-07-14T07:00:00.000Z",
     "ingested_at": "2026-07-14T14:56:55.967Z"
+  },
+  {
+    "id": "86623f12-6f56-4469-8aae-b0fbc000c993",
+    "title": "EcoNeo Summerhouse",
+    "creator": "SAGA Space Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092472/econeo-summerhouse-saga-space-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a50/b8e0/61ff/5300/01d2/e890/newsletter/SAGA_Space_Architects_-_EcoNeo_1.jpg?1783675676",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T10:00:00.000Z",
+    "ingested_at": "2026-07-14T16:21:29.410Z"
   }
 ]
