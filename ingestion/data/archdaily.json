@@ -19528,5 +19528,22 @@
     "material": [],
     "published_at": "2026-07-13T19:00:00.000Z",
     "ingested_at": "2026-07-14T00:00:29.881Z"
+  },
+  {
+    "id": "839db74d-2f9f-4d3a-a914-3a680b4b0bd3",
+    "title": "West Bund Dream Center BLDG1+BLDG3",
+    "creator": "HCCH Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033606/west-bund-dream-center-bldg1-plus-bldg3-hcch-studio",
+    "image_url": "https://images.adsttc.com/media/images/68b2/1b28/bfa2/0d12/2dc0/e11a/newsletter/west-bund-dream-center-bldg1-plus-bldg3-hcch-studio_8.jpg?1756502862",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T00:00:00.000Z",
+    "ingested_at": "2026-07-14T07:11:46.787Z"
   }
 ]
