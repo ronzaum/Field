@@ -6664,5 +6664,24 @@
     "material": [],
     "published_at": "2026-07-14T06:30:38.000Z",
     "ingested_at": "2026-07-14T07:11:48.119Z"
+  },
+  {
+    "id": "0414ccb4-67bc-48aa-94e3-16d1161023cf",
+    "title": "realizing the dream: crafting a new design language from a confluence of cultures",
+    "creator": "tim spears",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/realizing-the-dream-crafting-from-confluence-culture-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/indx-woodwiser-room-for-dreams-episode-7-designboom-700-1-500x400-22b08q85r500.jpg",
+    "typology": [
+      "architecture",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T09:30:40.000Z",
+    "ingested_at": "2026-07-14T10:02:51.623Z"
   }
 ]

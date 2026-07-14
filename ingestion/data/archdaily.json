@@ -19545,5 +19545,39 @@
     "material": [],
     "published_at": "2026-07-14T00:00:00.000Z",
     "ingested_at": "2026-07-14T07:11:46.787Z"
+  },
+  {
+    "id": "4b13efc5-7b4c-44b1-b16d-fc764dffe68c",
+    "title": "Denj Lane House",
+    "creator": "Carter Williamson Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148603/denj-lane-carter-williamson-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a55/05dd/a6cc/5601/89e4/e462/newsletter/denj-lane-carter-williamson-architects_6.jpg?1783956983",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T03:01:00.000Z",
+    "ingested_at": "2026-07-14T10:02:50.690Z"
+  },
+  {
+    "id": "fc18006a-5c2a-4a2d-8d00-5f104962c829",
+    "title": "NB01 House",
+    "creator": "TNT Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148557/nb01-house-tnt-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a54/b907/22ee/0e00/0134/c6d6/newsletter/03-ZONE_2-NB01_HOUSE-TNT_ARCHITECTURE__1_.jpg?1783937343",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T02:00:00.000Z",
+    "ingested_at": "2026-07-14T10:02:50.691Z"
   }
 ]
