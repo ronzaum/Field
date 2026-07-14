@@ -19494,5 +19494,39 @@
     "material": [],
     "published_at": "2026-07-13T15:00:00.000Z",
     "ingested_at": "2026-07-13T22:59:04.399Z"
+  },
+  {
+    "id": "5c49d16e-2a86-46e3-b0f5-6c21b2641e02",
+    "title": "Casa Luna",
+    "creator": "Nommo Arquitetos + Coti Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1031502/casa-luna-nommo-arquitetos-plus-coti-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/685b/4622/1089/1b2e/ef6f/e193/newsletter/casa-luna-nommo-arquitetos_2.jpg?1750812223",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T19:14:00.000Z",
+    "ingested_at": "2026-07-14T00:00:29.881Z"
+  },
+  {
+    "id": "22e0e3eb-53c1-4cbd-b9e5-c79361b268ee",
+    "title": "PR House",
+    "creator": "0studio Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148552/pr-house-0studio-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a54/b143/22ee/0e00/0134/c650/newsletter/0S-PR-5311.jpg?1783935412",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-13T19:00:00.000Z",
+    "ingested_at": "2026-07-14T00:00:29.881Z"
   }
 ]
