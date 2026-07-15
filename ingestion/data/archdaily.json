@@ -19851,5 +19851,22 @@
     "material": [],
     "published_at": "2026-07-15T12:00:00.000Z",
     "ingested_at": "2026-07-15T19:18:43.060Z"
+  },
+  {
+    "id": "d6f111ba-bc8b-4325-be9a-015b3a977b27",
+    "title": "Jardim House Renovation",
+    "creator": "Baixo Impacto Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148763/jardim-house-renovation-baixo-impacto-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a57/dbe1/d425/1a00/01c4/b7a3/newsletter/Casa_Jardim_18_Foto_Fernanda_Enredo.jpg.jpg?1784142916",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T17:00:00.000Z",
+    "ingested_at": "2026-07-15T23:00:44.691Z"
   }
 ]
