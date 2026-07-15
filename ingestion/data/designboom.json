@@ -6705,5 +6705,24 @@
     "material": [],
     "published_at": "2026-07-14T14:00:00.000Z",
     "ingested_at": "2026-07-14T14:56:56.777Z"
+  },
+  {
+    "id": "6e33c25c-f3bc-4f4f-8102-7a1660895f9c",
+    "title": "five intersecting cylinders shape fran silvestre arquitectos’ house in madrid",
+    "creator": "claire brodka",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/five-intersecting-cylinders-fran-silvestre-arquitectos-house-madrid/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/five-intersecting-cylinders-fran-silvestre-arquitectos-house-madrid-designboom-700-500x400-22b08q85r909.jpg",
+    "typology": [
+      "architecture",
+      "architecture in spain",
+      "fran silvestre arquitectos"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T17:00:22.000Z",
+    "ingested_at": "2026-07-15T06:19:24.775Z"
   }
 ]
