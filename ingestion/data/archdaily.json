@@ -19715,5 +19715,56 @@
     "material": [],
     "published_at": "2026-07-14T19:00:00.000Z",
     "ingested_at": "2026-07-15T03:15:37.746Z"
+  },
+  {
+    "id": "964989d1-e342-4f04-8627-706e1393afc8",
+    "title": "Casa Jar",
+    "creator": "Estudio Nada",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092355/casa-jar-crux-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a4f/7fb5/3e7a/321a/0f1e/d6bd/newsletter/casa-jar-crux-arquitectos_24.jpg?1783594959",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T03:00:00.000Z",
+    "ingested_at": "2026-07-15T09:11:38.042Z"
+  },
+  {
+    "id": "2c5651ff-3b23-45d1-ae7f-0ebc0d569097",
+    "title": "Drifting - Fusuma-e House and Studio",
+    "creator": "knof",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148602/drifting-fusuma-e-house-and-studio-knof",
+    "image_url": "https://images.adsttc.com/media/images/6a55/0077/22ee/0e00/0134/c9a0/newsletter/DRIFTING_001_Akiya_Maekawa.jpg?1783955611",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T02:00:00.000Z",
+    "ingested_at": "2026-07-15T09:11:38.042Z"
+  },
+  {
+    "id": "04099f09-34ab-4b79-838a-305c13bed5c0",
+    "title": "Shanghai Qiyuan Experimental Primary School",
+    "creator": "Atelier Archmixing",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039555/shanghai-qiyuan-experimental-primary-school-atelier-archmixing",
+    "image_url": "https://images.adsttc.com/media/images/69b1/c3e2/314f/6601/8902/c780/newsletter/shanghai-qiyuan-experimental-primary-school-atelier-archmixing_8.jpg?1773257730",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T00:00:00.000Z",
+    "ingested_at": "2026-07-15T09:11:38.043Z"
   }
 ]
