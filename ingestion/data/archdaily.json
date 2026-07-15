@@ -19698,5 +19698,22 @@
     "material": [],
     "published_at": "2026-07-14T15:00:00.000Z",
     "ingested_at": "2026-07-14T22:02:14.779Z"
+  },
+  {
+    "id": "c13162c6-85f8-4c59-ba53-4d5a7273eed5",
+    "title": "L.A. House",
+    "creator": "Emedos Proyectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148677/la-house-emedos-proyectos",
+    "image_url": "https://images.adsttc.com/media/images/6a56/5ea0/6336/c000/010f/bbee/newsletter/DSC_0546.jpg?1784045243",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-14T19:00:00.000Z",
+    "ingested_at": "2026-07-15T03:15:37.746Z"
   }
 ]
