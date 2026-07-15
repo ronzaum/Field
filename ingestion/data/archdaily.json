@@ -19766,5 +19766,39 @@
     "material": [],
     "published_at": "2026-07-15T00:00:00.000Z",
     "ingested_at": "2026-07-15T09:11:38.043Z"
+  },
+  {
+    "id": "054aa800-0ffe-4a1d-9157-a629344a2bee",
+    "title": "Cathedral House",
+    "creator": "JAK Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092490/cathedral-house-jak-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a50/e80c/9997/a86f/f617/12ef/newsletter/cathedral-house-jak-architecture_3.jpg?1783687199",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T07:00:00.000Z",
+    "ingested_at": "2026-07-15T13:52:08.543Z"
+  },
+  {
+    "id": "ef89a314-7092-4580-bd0f-427863679b38",
+    "title": "Rebecca Cheptegei Sports Hall, Pantin",
+    "creator": "Atelier Ramdam",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092524/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam",
+    "image_url": "https://images.adsttc.com/media/images/6a54/b999/a6cc/5601/89e4/e225/newsletter/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam_18.jpg?1783937448",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T06:00:00.000Z",
+    "ingested_at": "2026-07-15T13:52:08.544Z"
   }
 ]
