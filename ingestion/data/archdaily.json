@@ -19800,5 +19800,22 @@
     "material": [],
     "published_at": "2026-07-15T06:00:00.000Z",
     "ingested_at": "2026-07-15T13:52:08.544Z"
+  },
+  {
+    "id": "231e540b-20e6-4634-bba9-ee28abf51404",
+    "title": "Primary School Wiesental",
+    "creator": "PENZISBETTINI Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092517/primary-school-wiesental-penzisbettini-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a51/0908/e05c/0800/010e/13c7/newsletter/FEDERICOFARINATTI_PBA_WIESENTAL_16.jpg?1783695699",
+    "typology": [
+      "Educational Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T10:00:00.000Z",
+    "ingested_at": "2026-07-15T17:21:36.423Z"
   }
 ]
