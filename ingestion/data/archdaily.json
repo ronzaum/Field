@@ -19817,5 +19817,39 @@
     "material": [],
     "published_at": "2026-07-15T10:00:00.000Z",
     "ingested_at": "2026-07-15T17:21:36.423Z"
+  },
+  {
+    "id": "89a05565-6c74-4e06-9f76-9b3cbd3adfbd",
+    "title": "Vila Talha",
+    "creator": "Contacto Atlântico",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148745/vila-talha-contacto-atlantico",
+    "image_url": "https://images.adsttc.com/media/images/6a56/6d39/6336/c000/010f/bc2b/newsletter/CT66-2.jpg?1784048970",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T13:00:00.000Z",
+    "ingested_at": "2026-07-15T19:18:43.060Z"
+  },
+  {
+    "id": "a43d6b68-8c0e-445f-8e12-2362ef2590c4",
+    "title": "Apartment in the Heart of Jeżyce in Poznań",
+    "creator": "LBWA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148665/apartment-in-the-heart-of-jezyce-in-poznan-lbwa",
+    "image_url": "https://images.adsttc.com/media/images/6a56/3e6b/6336/c000/010f/bb60/newsletter/ZASOBY-0015-Z1004147-V1_kopia.jpg?1784037016",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-15T12:00:00.000Z",
+    "ingested_at": "2026-07-15T19:18:43.060Z"
   }
 ]
