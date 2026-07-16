@@ -6827,5 +6827,24 @@
     "material": [],
     "published_at": "2026-07-16T14:00:51.000Z",
     "ingested_at": "2026-07-16T14:04:18.378Z"
+  },
+  {
+    "id": "1e6129cb-c764-43c1-8661-58e64b343142",
+    "title": "michele de lucchi appointed creative director of the triennale milano",
+    "creator": "kat barandy",
+    "location": "Palazzo dell’Arte",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/triennale-milano-michele-de-lucchi-creative-director-designboom-700-500x400-22b08q85r282.jpg",
+    "typology": [
+      "architecture",
+      "michele de lucchi",
+      "milan triennale"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T14:33:06.000Z",
+    "ingested_at": "2026-07-16T16:20:13.869Z"
   }
 ]
