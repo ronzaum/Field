@@ -19987,5 +19987,39 @@
     "material": [],
     "published_at": "2026-07-16T10:00:00.000Z",
     "ingested_at": "2026-07-16T16:20:12.922Z"
+  },
+  {
+    "id": "cf439dd2-7ac8-42e6-be54-ed3224d9ffdd",
+    "title": "Blue House",
+    "creator": "extrastudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148769/blue-house-extrastudio",
+    "image_url": "https://images.adsttc.com/media/images/6a57/f60a/d58c/e001/8884/fdb8/newsletter/blue-house-extrastudio_1.jpg?1784149526",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T13:00:00.000Z",
+    "ingested_at": "2026-07-16T18:08:51.985Z"
+  },
+  {
+    "id": "828d8dc0-0e5b-4019-9733-766c48f99861",
+    "title": "Westlake 66 Mixed Use Complex",
+    "creator": "KPF",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148690/westlake-66-kpf",
+    "image_url": "https://images.adsttc.com/media/images/6a56/d6f7/7c22/c800/01aa/6351/newsletter/01_Westlake_66_Credit_StudioSZ_Justin_Szeremeta_Courtesy_KPF.jpg?1784076063",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T12:00:00.000Z",
+    "ingested_at": "2026-07-16T18:08:51.985Z"
   }
 ]
