@@ -6787,5 +6787,24 @@
     "material": [],
     "published_at": "2026-07-16T05:58:54.000Z",
     "ingested_at": "2026-07-16T06:22:38.856Z"
+  },
+  {
+    "id": "fa9e08d8-3e80-4716-a308-f34104435a60",
+    "title": "urban soul project hospitality design translates local narratives into spatial experiences",
+    "creator": "Urban Soul Project",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/urban-soul-project-hospitality-design-spatial-experience/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/usp_designboom_700-500x400-22b08q85r248.png",
+    "typology": [
+      "architecture",
+      "hotel architecture and design",
+      "urban soul project"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T10:30:47.000Z",
+    "ingested_at": "2026-07-16T11:43:33.947Z"
   }
 ]
