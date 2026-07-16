@@ -6767,5 +6767,25 @@
     "material": [],
     "published_at": "2026-07-15T06:30:23.000Z",
     "ingested_at": "2026-07-15T09:11:39.101Z"
+  },
+  {
+    "id": "8a892f30-ab1f-4250-a7f0-8c880860e614",
+    "title": "rooftop garden crowns concrete house shaped by spiraling patios",
+    "creator": "AtelierM",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/concrete-rooftop-garden-house-spiraling-patios/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/concrete-rooftop-garden-house-spiraling-patios-designboom-02-500x400-22b08q85r333.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "landscape architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T05:58:54.000Z",
+    "ingested_at": "2026-07-16T06:22:38.856Z"
   }
 ]
