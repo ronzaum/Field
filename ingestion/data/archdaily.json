@@ -20055,5 +20055,56 @@
     "material": [],
     "published_at": "2026-07-15T15:00:00.000Z",
     "ingested_at": "2026-07-16T22:06:21.863Z"
+  },
+  {
+    "id": "fb975f3b-6b51-4501-9f0d-9a856406cadc",
+    "title": "Refurbishment Popocatépetl 35",
+    "creator": "Studio Font",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148830/refurbishment-popocatepetl-35-studio-font",
+    "image_url": "https://images.adsttc.com/media/images/6a59/230a/d58c/e001/8885/02de/newsletter/remodelacion-popocatepetl-35-studio-font_20.jpg?1784226592",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T19:00:00.000Z",
+    "ingested_at": "2026-07-17T00:01:44.743Z"
+  },
+  {
+    "id": "a101ec15-1019-45ce-b620-7915ff1b749a",
+    "title": "MA House – Atibaia",
+    "creator": "Estúdio Rossi Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148839/ma-house-atibaia-estudio-rossi-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/newsletter/DJI_20251112180757_0932_D.jpg?1784140068",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T17:00:00.000Z",
+    "ingested_at": "2026-07-17T00:01:44.744Z"
+  },
+  {
+    "id": "3aaa5084-2553-46a9-97b0-b0e45983e04e",
+    "title": "Residência MA – Atibaia",
+    "creator": "Estúdio Rossi Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148758/residencia-ma-atibaia-estudio-rossi-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/newsletter/DJI_20251112180757_0932_D.jpg?1784140068",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-16T17:00:00.000Z",
+    "ingested_at": "2026-07-17T00:01:44.744Z"
   }
 ]
