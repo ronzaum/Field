@@ -20191,5 +20191,22 @@
     "material": [],
     "published_at": "2026-07-17T06:00:00.000Z",
     "ingested_at": "2026-07-17T14:46:47.820Z"
+  },
+  {
+    "id": "cdc729a6-f0db-405e-936c-774977ba1bf6",
+    "title": "Ferro Offices",
+    "creator": "GROUP A",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
+    "image_url": "https://images.adsttc.com/media/images/6a58/c6ae/d58c/e001/8884/ffdb/newsletter/ferro-offices-group-a_17.jpg?1784202955",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T10:00:00.000Z",
+    "ingested_at": "2026-07-17T16:18:46.312Z"
   }
 ]
