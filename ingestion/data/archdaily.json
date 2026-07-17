@@ -20208,5 +20208,39 @@
     "material": [],
     "published_at": "2026-07-17T10:00:00.000Z",
     "ingested_at": "2026-07-17T16:18:46.312Z"
+  },
+  {
+    "id": "813f90ac-abab-4bce-b238-82716ea448b2",
+    "title": "Marmotta Pasta Bar",
+    "creator": "Tadu Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148912/marmotta-pasta-bar-tadu-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a59/23d6/d425/1a00/01c4/bbfe/newsletter/adfoto_5003_M_REV00.jpg?1784226867",
+    "typology": [
+      "Restaurants & Bars"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T13:00:00.000Z",
+    "ingested_at": "2026-07-17T18:09:38.366Z"
+  },
+  {
+    "id": "1e1bc452-f7aa-4ea4-a4fb-47039bee275a",
+    "title": "9720 Wilshire Building",
+    "creator": "Montalba Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148628/9720-wilshire-building-montalba-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a55/86f2/1593/c101/8748/da36/newsletter/9720-wilshire-building-montalba-architects_4.jpg?1783990109",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T12:00:00.000Z",
+    "ingested_at": "2026-07-17T18:09:38.366Z"
   }
 ]
