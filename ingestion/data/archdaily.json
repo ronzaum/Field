@@ -20140,5 +20140,22 @@
     "material": [],
     "published_at": "2026-07-17T00:00:00.000Z",
     "ingested_at": "2026-07-17T07:20:27.953Z"
+  },
+  {
+    "id": "96a4dee8-2cb3-4894-a33d-dccdd2876a7d",
+    "title": "House Hotelito",
+    "creator": "FIVE OH FIVE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148554/house-hotelito",
+    "image_url": "https://images.adsttc.com/media/images/6a54/b444/22ee/0e00/0134/c695/newsletter/FIVEOHFIVE_CASA_HOTELITO_9.jpg?1783936088",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T03:00:00.000Z",
+    "ingested_at": "2026-07-17T10:02:57.253Z"
   }
 ]

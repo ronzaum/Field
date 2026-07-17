@@ -6867,5 +6867,24 @@
     "material": [],
     "published_at": "2026-07-17T01:30:23.000Z",
     "ingested_at": "2026-07-17T04:10:37.042Z"
+  },
+  {
+    "id": "b7223301-b5f1-447d-8b57-8c95dc66dc27",
+    "title": "three cemeteries emerge between stone walls and mountain horizons in the carnic alps",
+    "creator": "Arch. Federico Mentil",
+    "location": "Udine",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/three-cemeteries-stone-walls-mountain-horizons-carnic-alps-federico-mentil/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/federico-mentil-cremation-architecture-three-alpine-cemeteries-materiality-landscape-memory-italy-designboom-700-2-500x400-22b08q85r966.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in italy"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T09:30:47.000Z",
+    "ingested_at": "2026-07-17T10:03:00.793Z"
   }
 ]
