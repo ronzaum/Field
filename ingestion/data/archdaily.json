@@ -20259,5 +20259,22 @@
     "material": [],
     "published_at": "2026-07-17T15:00:00.000Z",
     "ingested_at": "2026-07-17T20:09:00.483Z"
+  },
+  {
+    "id": "10ae1235-4c23-42ba-ba79-bc49d1922a8a",
+    "title": "Curved House",
+    "creator": "efcarquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148934/curved-house-efcarquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a59/3a5e/c5a3/6400/0147/06c3/newsletter/EFC_ARQUITETURA_-_Foto_-_Carolina_Mossin_020.jpg?1784232659",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T17:00:00.000Z",
+    "ingested_at": "2026-07-17T21:57:21.794Z"
   }
 ]
