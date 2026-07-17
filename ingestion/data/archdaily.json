@@ -20242,5 +20242,22 @@
     "material": [],
     "published_at": "2026-07-17T12:00:00.000Z",
     "ingested_at": "2026-07-17T18:09:38.366Z"
+  },
+  {
+    "id": "5f345141-fde6-4a65-9697-bff792f3b38e",
+    "title": "Student Center Santa Marta",
+    "creator": "El Equipo Mazzanti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148923/student-center-santa-marta-el-equipo-mazzanti",
+    "image_url": "https://images.adsttc.com/media/images/6a59/f3b7/3d21/f701/89c9/299a/newsletter/student-center-santa-marta-el-equipo-mazzanti_22.jpg?1784280005",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T15:00:00.000Z",
+    "ingested_at": "2026-07-17T20:09:00.483Z"
   }
 ]
