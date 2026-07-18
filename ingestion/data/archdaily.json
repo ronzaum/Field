@@ -20361,5 +20361,22 @@
     "material": [],
     "published_at": "2026-07-18T09:00:00.000Z",
     "ingested_at": "2026-07-18T16:03:50.098Z"
+  },
+  {
+    "id": "ddf3726a-825f-451a-be91-a350cc748047",
+    "title": "Veredas Apartment",
+    "creator": "Novais Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148902/veredas-apartment-novais-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a56/9881/7c22/c800/01aa/6333/newsletter/Apartamento_em_Fortaleza_assinao_pelo_escrit_rio_NOVAIS_ARQUITETURA___foto_2.1.jpg?1784060106",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-18T13:00:00.000Z",
+    "ingested_at": "2026-07-18T17:58:39.905Z"
   }
 ]
