@@ -20378,5 +20378,39 @@
     "material": [],
     "published_at": "2026-07-18T13:00:00.000Z",
     "ingested_at": "2026-07-18T17:58:39.905Z"
+  },
+  {
+    "id": "9811e65c-cfcc-4213-b3a4-a3030fa8f6cf",
+    "title": "Umbral Floral Pavilion",
+    "creator": "Cerron Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a59/f5f3/895c/1800/0111/760e/newsletter/UF12.jpg?1784280705",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-18T16:00:00.000Z",
+    "ingested_at": "2026-07-18T21:56:04.111Z"
+  },
+  {
+    "id": "a9aeac6c-2242-404e-9114-8e73c645a7d3",
+    "title": "Laranjeiras House",
+    "creator": "Felipe Hess Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035230/laranjeiras-house-felipe-hess-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/68f6/d24b/9662/4135/afe7/d142/newsletter/casa-laranjeiras-felipe-hess-arquitetos_20.jpg?1761006173",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-18T15:00:00.000Z",
+    "ingested_at": "2026-07-18T21:56:04.112Z"
   }
 ]
