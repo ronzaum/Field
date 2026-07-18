@@ -20327,5 +20327,39 @@
     "material": [],
     "published_at": "2026-07-18T06:00:00.000Z",
     "ingested_at": "2026-07-18T10:21:37.096Z"
+  },
+  {
+    "id": "b989e36a-32d2-4274-9a2a-1dbea549bdda",
+    "title": "Halcom Offices",
+    "creator": "KIP arhitekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1042941/halcom-offices-kip",
+    "image_url": "https://images.adsttc.com/media/images/6a45/2a4e/0789/c600/018c/29f4/newsletter/Halcom_Horizontal.jpg?1782917724",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-18T11:00:00.000Z",
+    "ingested_at": "2026-07-18T16:03:50.097Z"
+  },
+  {
+    "id": "b05281f2-646b-4870-8bfd-3656a79329f8",
+    "title": "Former Printing Press Refurbishment",
+    "creator": "Bastidas Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148556/former-printing-press-refurbishment",
+    "image_url": "https://images.adsttc.com/media/images/6a54/b8b1/22ee/0e00/0134/c6ae/newsletter/1.jpg?1783937286",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-07-18T09:00:00.000Z",
+    "ingested_at": "2026-07-18T16:03:50.098Z"
   }
 ]
