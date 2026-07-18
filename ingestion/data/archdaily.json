@@ -20276,5 +20276,22 @@
     "material": [],
     "published_at": "2026-07-17T17:00:00.000Z",
     "ingested_at": "2026-07-17T21:57:21.794Z"
+  },
+  {
+    "id": "c0b96552-0283-49e9-a7f6-98f1f537aeae",
+    "title": "House in San Isidro",
+    "creator": "Ábode arq",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148825/house-in-san-isidro",
+    "image_url": "https://images.adsttc.com/media/images/6a59/1a60/d425/1a00/01c4/bbb6/newsletter/aerial_front_left_2.jpg?1784224377",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-17T19:00:00.000Z",
+    "ingested_at": "2026-07-17T23:58:32.404Z"
   }
 ]
