@@ -20565,5 +20565,22 @@
     "material": [],
     "published_at": "2026-07-19T15:00:00.000Z",
     "ingested_at": "2026-07-19T20:56:27.924Z"
+  },
+  {
+    "id": "68dcc977-2977-4d92-8e7a-28a4f1c6b428",
+    "title": "Thomas Residence",
+    "creator": "Embrace Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148742/thomas-residence-embrace-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a59/f5f0/e8f5/cb01/8987/a2b7/newsletter/thomas-residence-embrace-architects_21.jpg?1784280575",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T17:00:00.000Z",
+    "ingested_at": "2026-07-19T21:59:36.340Z"
   }
 ]
