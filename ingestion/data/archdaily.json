@@ -20429,5 +20429,22 @@
     "material": [],
     "published_at": "2026-07-18T17:00:00.000Z",
     "ingested_at": "2026-07-18T23:59:52.306Z"
+  },
+  {
+    "id": "83e9c8a7-acaf-4c67-806e-7e8c06233bd4",
+    "title": "Koenji Office Building",
+    "creator": "SO&CO.",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148721/koenji-office-building",
+    "image_url": "https://images.adsttc.com/media/images/6a57/6085/7c22/c800/01aa/64fa/newsletter/15_2F_The_surrounding_environment_and_various_elements_blend_together_to_create_a_diverse_space.jpg?1784111339",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-07-18T21:00:00.000Z",
+    "ingested_at": "2026-07-19T03:43:21.465Z"
   }
 ]
