@@ -20463,5 +20463,39 @@
     "material": [],
     "published_at": "2026-07-19T02:00:00.000Z",
     "ingested_at": "2026-07-19T09:07:43.413Z"
+  },
+  {
+    "id": "2defd875-1c71-4a2a-9cc5-3a14fab4b104",
+    "title": "Hotel Nobis Palma",
+    "creator": "Jordi Herrero Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1043020/hotel-nobis-palma-jordi-herrero-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6a47/e8b9/b477/e200/0107/aa28/newsletter/CAN_OLIVER_FINAL_067.jpg?1783097674",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T09:00:00.000Z",
+    "ingested_at": "2026-07-19T13:34:58.978Z"
+  },
+  {
+    "id": "3610115e-35f9-49d1-82ca-299d17577ac5",
+    "title": "The Pedestrian Bridge across the River Rinža",
+    "creator": "dans arhitekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1054009/the-pedestrian-bridge-across-the-river-rinza-dans-arhitekti",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/ab3e/062b/6500/019a/ab19/newsletter/01_dans_arhitekti_The_Pedestrian_Bridge_across_the_River_Rin_a.jpg?1783343950",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T06:00:00.000Z",
+    "ingested_at": "2026-07-19T13:34:58.978Z"
   }
 ]
