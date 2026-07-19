@@ -20497,5 +20497,22 @@
     "material": [],
     "published_at": "2026-07-19T06:00:00.000Z",
     "ingested_at": "2026-07-19T13:34:58.978Z"
+  },
+  {
+    "id": "7cd7294f-9429-4fb5-bfb9-d1ada24495b7",
+    "title": "Fire Station and Community Hall Mötz",
+    "creator": "Imgang Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148649/fire-station-and-community-hall-motz-imgang-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a56/1c2e/6336/c000/010f/b9dd/newsletter/HR-Feuerwehr-Moetz-ImGangArchitekten-Foto__GuenterRichardWETT-068c.jpg?1784028259",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T11:00:00.000Z",
+    "ingested_at": "2026-07-19T17:03:02.084Z"
   }
 ]
