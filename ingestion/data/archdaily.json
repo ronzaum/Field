@@ -20514,5 +20514,22 @@
     "material": [],
     "published_at": "2026-07-19T11:00:00.000Z",
     "ingested_at": "2026-07-19T17:03:02.084Z"
+  },
+  {
+    "id": "ef790178-11bb-46f2-8cbd-0d46de0e5ef7",
+    "title": "Humaitá Penthouse",
+    "creator": "Huma Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148904/humaita-penthouse-huma-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a58/32f4/d425/1a00/01c4/b83b/newsletter/Leila_Viegas_HUMA-7674.jpg?1784165300",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T13:00:00.000Z",
+    "ingested_at": "2026-07-19T19:12:24.890Z"
   }
 ]
