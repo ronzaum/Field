@@ -20412,5 +20412,22 @@
     "material": [],
     "published_at": "2026-07-18T15:00:00.000Z",
     "ingested_at": "2026-07-18T21:56:04.112Z"
+  },
+  {
+    "id": "a1794f0d-c02c-4a36-9846-dc883b8a0f58",
+    "title": "JNG House",
+    "creator": "BodinChapa Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148559/jng-house-bodinchapa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a54/bacf/22ee/0e00/0134/c71d/newsletter/001.jpg?1783937756",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-18T17:00:00.000Z",
+    "ingested_at": "2026-07-18T23:59:52.306Z"
   }
 ]
