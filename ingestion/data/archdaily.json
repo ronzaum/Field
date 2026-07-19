@@ -20531,5 +20531,39 @@
     "material": [],
     "published_at": "2026-07-19T13:00:00.000Z",
     "ingested_at": "2026-07-19T19:12:24.890Z"
+  },
+  {
+    "id": "de2cc357-3ba6-4d88-a7b7-9b05d6f21dd3",
+    "title": "Casa Libertad",
+    "creator": "Clusellas Ades",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148881/casa-libertad-clusellas-ades",
+    "image_url": "https://images.adsttc.com/media/images/6a5a/042b/e8f5/cb01/8987/a34d/newsletter/casa-libertad-clusellas-ades_3.jpg?1784284234",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T16:00:00.000Z",
+    "ingested_at": "2026-07-19T20:56:27.924Z"
+  },
+  {
+    "id": "1fbd7531-7447-4dc7-858c-06a4bce48819",
+    "title": "Illapangui del Peumo House",
+    "creator": "Vergara Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148926/illapangui-del-peumo-house-vergara-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a26/bb08/d2d3/6e00/0102/f3f8/newsletter/01-ignacio_infante.jpg?1780923174",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T15:00:00.000Z",
+    "ingested_at": "2026-07-19T20:56:27.924Z"
   }
 ]
