@@ -20616,5 +20616,56 @@
     "material": [],
     "published_at": "2026-07-20T00:00:00.000Z",
     "ingested_at": "2026-07-20T06:52:12.786Z"
+  },
+  {
+    "id": "28e448f7-5460-4f2d-a898-3612b2a3759a",
+    "title": "Hotel Aurora",
+    "creator": "feld72 Architekten ZT GmbH",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148864/hotel-aurora-feld72-architekten-zt-gmbh",
+    "image_url": "https://images.adsttc.com/media/images/6a5a/2887/3d21/f701/89c9/2c0e/newsletter/hotel-aurora-feld72-architekten-zt-gmbh_35.jpg?1784293544",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T06:00:00.000Z",
+    "ingested_at": "2026-07-20T10:16:04.381Z"
+  },
+  {
+    "id": "8ac293d7-dc2a-44fc-86a0-6da56421b65a",
+    "title": "A Courtyard House",
+    "creator": "Office MI—JI",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148815/a-courtyard-house-office-mi-ji",
+    "image_url": "https://images.adsttc.com/media/images/6a58/d38a/d58c/e001/8885/0061/newsletter/a-courtyard-house-office-mi-ji_30.jpg?1784206308",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T03:00:00.000Z",
+    "ingested_at": "2026-07-20T10:16:04.382Z"
+  },
+  {
+    "id": "e5995537-eab1-43f3-a5c2-cf83177ed5f3",
+    "title": "Splitscape Residence",
+    "creator": "SpaceDNA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148884/splitscape-residence-spacedna",
+    "image_url": "https://images.adsttc.com/media/images/6a5a/0fca/895c/1800/0111/76e9/newsletter/01_._Southern_Elevation.jpg?1784287267",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T02:00:00.000Z",
+    "ingested_at": "2026-07-20T10:16:04.382Z"
   }
 ]
