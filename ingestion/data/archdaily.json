@@ -20735,5 +20735,39 @@
     "material": [],
     "published_at": "2026-07-20T13:00:00.000Z",
     "ingested_at": "2026-07-20T20:24:41.811Z"
+  },
+  {
+    "id": "7a3e9437-8dd8-4172-a628-f2a65a546843",
+    "title": "Nana House",
+    "creator": "Daniel Fromer",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148951/nana-house-daniel-fromer",
+    "image_url": "https://images.adsttc.com/media/images/6a5a/880b/e8f5/cb7b/7a8b/faae/newsletter/casa-nana-daniel-fromer_3.jpg?1784317984",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T17:00:00.000Z",
+    "ingested_at": "2026-07-20T22:04:01.628Z"
+  },
+  {
+    "id": "8f3cc886-ebee-4c14-97bb-e34469eb4c36",
+    "title": "Kul-Nosara Residences",
+    "creator": "QBO3 Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181244/kul-nosara-qbo3-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a5d/dce7/895c/1800/0111/7b38/newsletter/KUL-DAILY___3_.jpg?1784536316",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T15:00:00.000Z",
+    "ingested_at": "2026-07-20T22:04:01.628Z"
   }
 ]
