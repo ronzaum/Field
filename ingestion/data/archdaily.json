@@ -20667,5 +20667,22 @@
     "material": [],
     "published_at": "2026-07-20T02:00:00.000Z",
     "ingested_at": "2026-07-20T10:16:04.382Z"
+  },
+  {
+    "id": "8755f673-51e6-4e55-b140-b9904ad2ee23",
+    "title": "Limmattal Cantonal School",
+    "creator": "PENZISBETTINI Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148744/limmattal-cantonal-school-penzisbettini-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a57/9274/2755/8a00/0164/ac24/newsletter/260427_PBA_Urdorf_027_federicofarinatti.jpg?1784124047",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T07:00:00.000Z",
+    "ingested_at": "2026-07-20T13:09:59.799Z"
   }
 ]
