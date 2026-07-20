@@ -20582,5 +20582,22 @@
     "material": [],
     "published_at": "2026-07-19T17:00:00.000Z",
     "ingested_at": "2026-07-19T21:59:36.340Z"
+  },
+  {
+    "id": "8b1d5123-129e-4957-b6da-499bcf2e1042",
+    "title": "Urban Egg Mixed Use Facility",
+    "creator": "U.GA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148897/urban-egg-mixed-use-facility-uga-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a5a/5ae8/3d21/f701/89c9/2d8d/newsletter/urban-egg-mixed-use-facility-uga-architects_20.jpg?1784306412",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-19T21:00:00.000Z",
+    "ingested_at": "2026-07-20T03:37:21.204Z"
   }
 ]
