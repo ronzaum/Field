@@ -20718,5 +20718,22 @@
     "material": [],
     "published_at": "2026-07-20T10:00:00.000Z",
     "ingested_at": "2026-07-20T18:08:57.098Z"
+  },
+  {
+    "id": "6819aba6-479f-4afc-aac5-193efa95f0f5",
+    "title": "Mercado Central",
+    "creator": "Tadu Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148943/mercado-central-tadu-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a59/23d7/d425/1a00/01c4/bc00/newsletter/Tadu_MercadoCentral_16.jpg?1784226816",
+    "typology": [
+      "Restaurants & Bars"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T13:00:00.000Z",
+    "ingested_at": "2026-07-20T20:24:41.811Z"
   }
 ]
