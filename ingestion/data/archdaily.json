@@ -20684,5 +20684,39 @@
     "material": [],
     "published_at": "2026-07-20T07:00:00.000Z",
     "ingested_at": "2026-07-20T13:09:59.799Z"
+  },
+  {
+    "id": "f3c7d14d-04e2-490b-977e-0443b503918d",
+    "title": "De Jonghe Residence Restoration",
+    "creator": "Michel Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181271/de-jonghe-residence-restoration-michel-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/1112/895c/1800/0111/7cf7/newsletter/SeanHazen_1.jpg?1784549690",
+    "typology": [
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T12:00:00.000Z",
+    "ingested_at": "2026-07-20T18:08:57.098Z"
+  },
+  {
+    "id": "b61b4aae-1c61-4552-ac34-5b9cebbf46a1",
+    "title": "Stadtforum in Dresden",
+    "creator": "Tchoban Voss Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148794/stadtforum-in-dresden-tchoban-voss-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a58/a38f/d425/1a00/01c4/b9df/newsletter/6867_Stadtforum_Dresden_125119_c_Klemens_Renner.jpg?1784194083",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T10:00:00.000Z",
+    "ingested_at": "2026-07-20T18:08:57.098Z"
   }
 ]
