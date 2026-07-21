@@ -20837,5 +20837,22 @@
     "material": [],
     "published_at": "2026-07-21T00:00:00.000Z",
     "ingested_at": "2026-07-21T07:34:14.156Z"
+  },
+  {
+    "id": "dd4db824-b8b9-4556-bbf4-1fad6d2d72d6",
+    "title": "Engawa Sports facility",
+    "creator": "FAKT – Office for Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148871/engawa-sports-facility-fakt-office-for-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a59/f541/895c/1800/0111/75f6/newsletter/25-10_Engawa_Ketzin-FAKT_Simon_Menges_01.jpg?1784280477",
+    "typology": [
+      "sports field"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T06:00:00.000Z",
+    "ingested_at": "2026-07-21T12:24:48.762Z"
   }
 ]

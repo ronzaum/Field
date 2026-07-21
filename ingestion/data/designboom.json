@@ -7100,5 +7100,27 @@
     "material": [],
     "published_at": "2026-07-21T07:00:41.000Z",
     "ingested_at": "2026-07-21T07:34:15.131Z"
+  },
+  {
+    "id": "1fdfd070-e2d0-4874-8342-4b28d0549bbe",
+    "title": "burr wraps madrid apartment in yellow storage walls with a suspended pink spiral staircase",
+    "creator": "Iñaki Laguardia",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase-designboom09-500x400-22b08q85r209.jpg",
+    "typology": [
+      "architecture",
+      "architecture in spain",
+      "interiors",
+      "residential architecture and interiors",
+      "spanish design",
+      "staircases"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T11:30:40.000Z",
+    "ingested_at": "2026-07-21T12:24:51.367Z"
   }
 ]
