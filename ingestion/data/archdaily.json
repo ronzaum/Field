@@ -20854,5 +20854,22 @@
     "material": [],
     "published_at": "2026-07-21T06:00:00.000Z",
     "ingested_at": "2026-07-21T12:24:48.762Z"
+  },
+  {
+    "id": "5a1dd3fb-d463-4e41-92e1-ad850145b33c",
+    "title": "Nereidas Homes",
+    "creator": "Studio Font",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181262/nereidas-homes-studio-font",
+    "image_url": "https://images.adsttc.com/media/images/6a5d/f63d/3d21/f701/89c9/30a7/newsletter/nereidas-homes-studio-font_34.jpg?1784542796",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T07:00:00.000Z",
+    "ingested_at": "2026-07-21T15:06:47.630Z"
   }
 ]
