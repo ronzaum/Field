@@ -20888,5 +20888,39 @@
     "material": [],
     "published_at": "2026-07-21T10:00:00.000Z",
     "ingested_at": "2026-07-21T17:25:45.470Z"
+  },
+  {
+    "id": "f238a4ce-6658-4e97-8e98-7350ef76479b",
+    "title": "Knowledge Arena",
+    "creator": "SENAC São Paulo + Estudio Guto Requena",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181313/knowledge-arena-senac-sao-paulo-plus-estudio-guto-requena",
+    "image_url": "https://images.adsttc.com/media/images/6a5a/27eb/895c/1800/0111/7843/newsletter/joaopauloprado_estudiogutorequena_casacor2026_finaisalta-6.jpg?1784293390",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T13:00:00.000Z",
+    "ingested_at": "2026-07-21T19:37:57.759Z"
+  },
+  {
+    "id": "c7e1df2a-15d0-4c88-928e-9338c78006ae",
+    "title": "Racine Carrée Social Housing",
+    "creator": "rue royale architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148879/racine-carree-social-housing-rue-royale-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a59/fbee/895c/1800/0111/76a0/newsletter/2026_0420-RRA-UNES-Racine_Carree-_francoisbaudry-4618-web.jpg?1784282113",
+    "typology": [
+      "Coliving"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T12:00:00.000Z",
+    "ingested_at": "2026-07-21T19:37:57.762Z"
   }
 ]
