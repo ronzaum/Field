@@ -20769,5 +20769,22 @@
     "material": [],
     "published_at": "2026-07-20T15:00:00.000Z",
     "ingested_at": "2026-07-20T22:04:01.628Z"
+  },
+  {
+    "id": "a266386e-5c4a-4f7b-9bee-2cd1caeba774",
+    "title": "Threshold House",
+    "creator": "David Macias",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181304/threshold-house-david-macias",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/4805/895c/1800/0111/7edc/newsletter/Casa_Umbral_10_-_David_Macias.jpg?1784563865",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-20T19:00:00.000Z",
+    "ingested_at": "2026-07-21T04:17:21.501Z"
   }
 ]
