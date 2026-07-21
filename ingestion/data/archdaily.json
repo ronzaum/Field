@@ -20786,5 +20786,56 @@
     "material": [],
     "published_at": "2026-07-20T19:00:00.000Z",
     "ingested_at": "2026-07-21T04:17:21.501Z"
+  },
+  {
+    "id": "39a25d92-0491-4c39-8997-7f5d68c07ce7",
+    "title": "Pamoja House",
+    "creator": "Project 51 A (h)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181250/pamoja-house-project-51-a-h",
+    "image_url": "https://images.adsttc.com/media/images/6a5d/e8b7/895c/1800/0111/7bb2/newsletter/01.jpg?1784539335",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T03:00:00.000Z",
+    "ingested_at": "2026-07-21T07:34:14.156Z"
+  },
+  {
+    "id": "b9da5e5c-7469-4a98-af99-bc48048bc67c",
+    "title": "Glade House",
+    "creator": "Ming Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181249/glade-house-ming-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a5d/e7c8/895c/1800/0111/7b96/newsletter/Ming_Architects_-_5_Jalan_Pasiran-1.jpg?1784539144",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T02:00:00.000Z",
+    "ingested_at": "2026-07-21T07:34:14.156Z"
+  },
+  {
+    "id": "393163cd-71e0-4411-b99f-dd88209ace33",
+    "title": "Sugar House +",
+    "creator": "Atelier Guo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148626/sugar-house-plus-atelier-guo",
+    "image_url": "https://images.adsttc.com/media/images/6a55/7cd8/294b/f801/88a4/89a3/newsletter/sugar-house-plus-atelier-guo_13.jpg?1783987434",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T00:00:00.000Z",
+    "ingested_at": "2026-07-21T07:34:14.156Z"
   }
 ]
