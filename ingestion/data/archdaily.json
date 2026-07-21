@@ -20922,5 +20922,22 @@
     "material": [],
     "published_at": "2026-07-21T12:00:00.000Z",
     "ingested_at": "2026-07-21T19:37:57.762Z"
+  },
+  {
+    "id": "293952b9-5d44-4990-8fd8-7573bd0e8893",
+    "title": "Casa Óculo",
+    "creator": "OHLAB",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148797/casa-culo-ohlab",
+    "image_url": "https://images.adsttc.com/media/images/6a58/adf1/d425/1a00/01c4/ba34/newsletter/OHLAB_Casa_Oculo_Turixant_Photo_Hevia_25_-_copia.jpg?1784196607",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T15:00:00.000Z",
+    "ingested_at": "2026-07-21T21:15:08.791Z"
   }
 ]
