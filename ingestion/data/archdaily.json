@@ -21024,5 +21024,39 @@
     "material": [],
     "published_at": "2026-07-22T02:00:00.000Z",
     "ingested_at": "2026-07-22T09:29:41.442Z"
+  },
+  {
+    "id": "9ac9fa84-00c0-4e3c-851d-dd6e973e7afb",
+    "title": "Santuario De La Salle",
+    "creator": "CAZA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1092506/santuario-de-la-salle-caza-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a50/f60c/e05c/0800/010e/136b/newsletter/26_RoryGardiner1584c.jpg?1783690811",
+    "typology": [
+      "Chapel"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T07:00:00.000Z",
+    "ingested_at": "2026-07-22T14:07:09.022Z"
+  },
+  {
+    "id": "6551acc5-2e04-4703-917a-a92959c67244",
+    "title": "Urban Revivo Sanlitun Flagship Store",
+    "creator": "MVRDV",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181284/urban-revivo-sanlitun-flagship-store-mvrdv",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/31cb/e8f5/cb01/8987/ac4e/newsletter/urban-revivo-sanlitun-flagship-store-mvrdv_1.jpg?1784558060",
+    "typology": [
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T06:00:00.000Z",
+    "ingested_at": "2026-07-22T14:07:09.022Z"
   }
 ]
