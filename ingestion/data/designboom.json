@@ -7190,5 +7190,45 @@
     "material": [],
     "published_at": "2026-07-22T05:18:43.000Z",
     "ingested_at": "2026-07-22T06:33:21.055Z"
+  },
+  {
+    "id": "045d23d5-e481-4c19-a95a-46391df82f5c",
+    "title": "carlo ratti lifts seoul tower on ‘high heels’ to make room for water, trees and public life",
+    "creator": "CRA-Carlo Ratti Associati",
+    "location": "Seoul",
+    "country": "South Korea",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc-designboom-700-500x400-22b08q85r044.jpg",
+    "typology": [
+      "architecture",
+      "architecture in korea",
+      "carlo ratti",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T07:59:09.000Z",
+    "ingested_at": "2026-07-22T09:29:42.615Z"
+  },
+  {
+    "id": "bc97c240-ba48-4541-be0f-2982135945be",
+    "title": "the architecture of optimism: treating friction as a catalyst for innovation",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/optimism-friction-catalyst-innovation-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/indx-room-for-dreams-podcast-09-designboom-700-500x400-22b08q85r546.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T07:30:42.000Z",
+    "ingested_at": "2026-07-22T09:29:42.622Z"
   }
 ]
