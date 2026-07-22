@@ -21126,5 +21126,22 @@
     "material": [],
     "published_at": "2026-07-22T12:00:00.000Z",
     "ingested_at": "2026-07-22T20:13:32.674Z"
+  },
+  {
+    "id": "9ca06186-644a-4ddc-82e9-2ae0f0e2becd",
+    "title": "Light of Amazonia Chapel",
+    "creator": "Rogoski Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181321/light-of-amazonia-chapel-rogoski-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/756a/895c/1800/0111/7fb3/newsletter/IMG_1534.jpg?1784575385",
+    "typology": [
+      "Chapel"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T17:00:00.000Z",
+    "ingested_at": "2026-07-22T22:08:26.403Z"
   }
 ]
