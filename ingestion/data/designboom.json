@@ -7144,5 +7144,51 @@
     "material": [],
     "published_at": "2026-07-21T20:30:24.000Z",
     "ingested_at": "2026-07-21T21:15:09.850Z"
+  },
+  {
+    "id": "79c4f15f-2e35-42ec-9911-45edb4c46f3d",
+    "title": "anna & eugeni bach reframes house in fonolleres with wood and ochre ceramics",
+    "creator": "Anna & Eugeni Bach – A&EB",
+    "location": "Carrer del riu Daró",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/anna-eugeni-bach-house-fonolleres-wood-ochre-ceramics/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/anna-eugeni-bach-house-fonolleres-wood-ochre-ceramics-designboom-700-1-500x400-22b08q85r556.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "anna and eugeni bach",
+      "architecture in spain",
+      "ceramic art and design",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T06:15:16.000Z",
+    "ingested_at": "2026-07-22T06:33:21.049Z"
+  },
+  {
+    "id": "8ab0bb37-9cc7-4231-8617-462d2b47250b",
+    "title": "soho house begins transforming milan’s former cinema arti into six-level members’ club",
+    "creator": "Mario Cereghini",
+    "location": "former Cinema Arti",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/soho-house-transforming-milans-cinema-arti-members-club/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/imgi_6_03_milan_34_1-copy-8-500x400-22b08q85r027.jpg",
+    "typology": [
+      "architecture",
+      "architecture in italy",
+      "brick architecture",
+      "concrete architecture and design",
+      "hotel architecture and design",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T05:18:43.000Z",
+    "ingested_at": "2026-07-22T06:33:21.055Z"
   }
 ]

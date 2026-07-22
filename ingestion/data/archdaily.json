@@ -20973,5 +20973,22 @@
     "material": [],
     "published_at": "2026-07-21T17:00:00.000Z",
     "ingested_at": "2026-07-22T03:15:55.441Z"
+  },
+  {
+    "id": "1f7bccd7-da46-48d1-9284-7688c50ddd1b",
+    "title": "REDGE Contemporary Art Center",
+    "creator": "Atelier Meadow",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148855/redge-contemporary-art-center-atelier-meadow",
+    "image_url": "https://images.adsttc.com/media/images/6a59/a3ee/895c/1800/0111/74b5/newsletter/05_-REDGE_-Contemporary-Art-Center-_Atelier-Meadow_-picture-_DONG____.jpg?1784259607",
+    "typology": [
+      "Cultural Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T00:00:00.000Z",
+    "ingested_at": "2026-07-22T06:33:17.375Z"
   }
 ]
