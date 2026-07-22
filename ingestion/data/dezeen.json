@@ -973,5 +973,25 @@
     "material": [],
     "published_at": "2026-07-20T14:30:27.000Z",
     "ingested_at": "2026-07-20T15:54:11.345Z"
+  },
+  {
+    "id": "7861f1cd-d345-4453-9c27-5a8b4236a707",
+    "title": "Breezy louvre walls enclose restaurant in Thailand",
+    "creator": "Studio Locomotive",
+    "location": "Louvres",
+    "country": "Thailand",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/22/waankarn-restaurant-thailand-studio-locomotive/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/waankarn-restaurant-thailand-studio-locomotive-sq_dezeen_2364_col_1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Restaurants",
+      "Studio Locomotive"
+    ],
+    "material": [],
+    "published_at": "2026-07-22T10:30:43.000Z",
+    "ingested_at": "2026-07-22T11:50:49.607Z"
   }
 ]
