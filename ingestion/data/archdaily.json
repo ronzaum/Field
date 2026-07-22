@@ -20939,5 +20939,39 @@
     "material": [],
     "published_at": "2026-07-21T15:00:00.000Z",
     "ingested_at": "2026-07-21T21:15:08.791Z"
+  },
+  {
+    "id": "032baa9b-b324-47a9-977a-56aecfd7b049",
+    "title": "Martha Beatriz House",
+    "creator": "Atempo Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181404/martha-beatriz-house-atempo-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/b715/e8f5/cb01/8987/b2e3/newsletter/casa-martha-beatriz-atempo-arquitectura_1.jpg?1784657706",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T19:00:00.000Z",
+    "ingested_at": "2026-07-22T03:15:55.441Z"
+  },
+  {
+    "id": "a612d668-0f11-43b0-9205-80a23905d864",
+    "title": "Ponta Fina House - Aiuruoca",
+    "creator": "Gil Mello Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181317/casa-ponta-fina-aiuruoca-gil-mello-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/0e29/895c/1800/0111/7cd1/newsletter/DJI_0929_copyright_manuel_sa.jpg?1784549134",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-21T17:00:00.000Z",
+    "ingested_at": "2026-07-22T03:15:55.441Z"
   }
 ]
