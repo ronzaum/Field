@@ -7300,5 +7300,27 @@
     "material": [],
     "published_at": "2026-07-23T06:15:01.000Z",
     "ingested_at": "2026-07-23T07:35:18.932Z"
+  },
+  {
+    "id": "ec518faa-4a32-42cc-86fe-c65217a62fd7",
+    "title": "world’s tallest timber tower reaches full height in sydney with design by SHoP",
+    "creator": "kat barandy",
+    "location": "Sydney",
+    "country": "Australia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/worlds-tallest-timber-tower-reaches-full-height-sydney-shop-bvn-australia/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/atlassian-shop-worlds-tallest-timber-tower-sydney-australia-topping-out-designboom-700-500x400-22b08q85r077.jpg",
+    "typology": [
+      "architecture",
+      "architecture in australia",
+      "BVN",
+      "SHoP architects",
+      "skyscraper architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T14:52:16.000Z",
+    "ingested_at": "2026-07-23T15:12:54.250Z"
   }
 ]

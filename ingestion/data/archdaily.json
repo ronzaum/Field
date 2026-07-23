@@ -21228,5 +21228,22 @@
     "material": [],
     "published_at": "2026-07-23T06:00:00.000Z",
     "ingested_at": "2026-07-23T12:25:55.542Z"
+  },
+  {
+    "id": "0df7e7e5-1028-4633-b3f8-946f9908d330",
+    "title": "Natural History Museum Abu Dhabi",
+    "creator": "Mecanoo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/8bb4/3d21/f701/89c9/3585/newsletter/natural-history-museum-abu-dhabi-mecanoo_2.jpg?1784581086",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T07:00:00.000Z",
+    "ingested_at": "2026-07-23T15:12:53.248Z"
   }
 ]
