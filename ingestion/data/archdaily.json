@@ -21211,5 +21211,22 @@
     "material": [],
     "published_at": "2026-07-23T03:00:00.000Z",
     "ingested_at": "2026-07-23T10:27:36.091Z"
+  },
+  {
+    "id": "377113d4-91e1-4cda-b387-91d432978886",
+    "title": "Green Lodge",
+    "creator": "Stylus Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148866/green-lodge-stylus-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a60/b7e2/d7be/a801/8b1f/cb4e/newsletter/green-lodge-stylus-architects_28.jpg?1784723442",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T06:00:00.000Z",
+    "ingested_at": "2026-07-23T12:25:55.542Z"
   }
 ]
