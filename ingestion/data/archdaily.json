@@ -21245,5 +21245,22 @@
     "material": [],
     "published_at": "2026-07-23T07:00:00.000Z",
     "ingested_at": "2026-07-23T15:12:53.248Z"
+  },
+  {
+    "id": "bbebc8f4-f2fe-48da-9775-052292529189",
+    "title": "DAK coffee roasters",
+    "creator": "Barde + vanVoltt",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181349/dak-coffee-roasters-barde-plus-vanvoltt",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/4168/895c/1800/0111/8115/newsletter/15._Barde_vanVoltt_DAK_coffeeroasters_Sarah_Wijzenbeek.jpg?1784627631",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T10:00:00.000Z",
+    "ingested_at": "2026-07-23T17:34:33.431Z"
   }
 ]
