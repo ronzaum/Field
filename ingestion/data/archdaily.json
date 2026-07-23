@@ -21194,5 +21194,22 @@
     "material": [],
     "published_at": "2026-07-23T00:00:00.000Z",
     "ingested_at": "2026-07-23T07:35:16.741Z"
+  },
+  {
+    "id": "abbfe181-3b75-4948-9e1e-b62f599c6111",
+    "title": "Apartment in Uehara",
+    "creator": "ULTRA STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181423/apartment-in-uehara-ultra-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a60/550f/d7be/a879/b7b0/d07f/newsletter/apartment-in-uehara-ultra-studio_4.jpg?1784698163",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T03:00:00.000Z",
+    "ingested_at": "2026-07-23T10:27:36.091Z"
   }
 ]
