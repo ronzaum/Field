@@ -21262,5 +21262,39 @@
     "material": [],
     "published_at": "2026-07-23T10:00:00.000Z",
     "ingested_at": "2026-07-23T17:34:33.431Z"
+  },
+  {
+    "id": "e0b2b20d-3083-4b64-9ba2-b0b8ebc62148",
+    "title": "Casa Arbo Residential Building",
+    "creator": "Perkins&Will",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/6012/895c/1800/0111/8236/newsletter/DJI_20260526171246_0883_D_copiar.jpg?1784635531",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T13:00:00.000Z",
+    "ingested_at": "2026-07-23T19:24:58.235Z"
+  },
+  {
+    "id": "78423231-b603-461d-8338-8597de63a8b0",
+    "title": "Carla Ridge House",
+    "creator": "Montalba Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181419/carla-ridge-house-montalba-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/d2f5/d7be/a801/8b1f/c7d7/newsletter/carla-ridge-house-montalba-architects_6.jpg?1784664854",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T12:00:00.000Z",
+    "ingested_at": "2026-07-23T19:24:58.235Z"
   }
 ]
