@@ -21296,5 +21296,22 @@
     "material": [],
     "published_at": "2026-07-23T12:00:00.000Z",
     "ingested_at": "2026-07-23T19:24:58.235Z"
+  },
+  {
+    "id": "fe6bc0c5-c162-4df0-a01a-91fd6b44992c",
+    "title": "Casa Diez Pies",
+    "creator": "Studio Font",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181260/casa-diez-pies-studio-font",
+    "image_url": "https://images.adsttc.com/media/images/6a5d/ec8c/e8f5/cb01/8987/a9b2/newsletter/casa-diez-pies-studio-font_3.jpg?1784540320",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T15:00:00.000Z",
+    "ingested_at": "2026-07-23T21:09:35.575Z"
   }
 ]
