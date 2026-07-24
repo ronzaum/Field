@@ -21483,5 +21483,22 @@
     "material": [],
     "published_at": "2026-07-24T12:00:00.000Z",
     "ingested_at": "2026-07-24T19:36:01.545Z"
+  },
+  {
+    "id": "b2be7099-d4a3-41c6-b759-0df4b0db1c22",
+    "title": "23 Living",
+    "creator": "Plan:b arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a60/6779/d7be/a801/8b1f/c93b/newsletter/23-living-plan-b-arquitectos_17.jpg?1784702859",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T15:00:00.000Z",
+    "ingested_at": "2026-07-24T21:09:10.995Z"
   }
 ]
