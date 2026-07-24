@@ -21313,5 +21313,39 @@
     "material": [],
     "published_at": "2026-07-23T15:00:00.000Z",
     "ingested_at": "2026-07-23T21:09:35.575Z"
+  },
+  {
+    "id": "9dfbd31e-887e-4495-a573-645e5910f951",
+    "title": "René Schneider Park",
+    "creator": "CAW Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a61/e7c2/32e0/e900/0119/c772/newsletter/13_CAW_SCHNEIDER_Fotograf_a.jpg?1784801284",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T19:00:00.000Z",
+    "ingested_at": "2026-07-24T03:16:30.273Z"
+  },
+  {
+    "id": "b615b6fa-5251-4ab5-8c37-83b8be6ae5a1",
+    "title": "Cinco House",
+    "creator": "Memola Estúdio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181357/cinco-house-memola-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/5bce/895c/1800/0111/818c/newsletter/_DSF1639.jpg?1784634410",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-23T17:00:00.000Z",
+    "ingested_at": "2026-07-24T03:16:30.273Z"
   }
 ]

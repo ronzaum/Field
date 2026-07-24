@@ -7344,5 +7344,26 @@
     "material": [],
     "published_at": "2026-07-23T21:45:31.000Z",
     "ingested_at": "2026-07-23T23:00:39.857Z"
+  },
+  {
+    "id": "e1aec706-8361-4beb-a48c-b954a9025a21",
+    "title": "kinzo proposes 100-meter swimming lane through heart of berlin",
+    "creator": "Kinzo Architekten",
+    "location": "Tilla-Durieux-Park",
+    "country": "Germany",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kinzo-architekten-100-meter-swimming-pool-berlin-tilla-durieux-park/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/kinzo-architekten-tilla-durieux-park-swimming-pool-berlin-germany-designboom-700-500x400-22b08q85r229.jpg",
+    "typology": [
+      "architecture",
+      "architecture in berlin",
+      "architecture in germany",
+      "kinzo",
+      "pools"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T01:30:14.000Z",
+    "ingested_at": "2026-07-24T03:16:31.252Z"
   }
 ]
