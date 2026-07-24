@@ -21398,5 +21398,39 @@
     "material": [],
     "published_at": "2026-07-24T03:00:00.000Z",
     "ingested_at": "2026-07-24T11:44:40.374Z"
+  },
+  {
+    "id": "0dd0eab3-2996-4f19-bb2f-cc3536b24485",
+    "title": "Production and Office Building Dubrovčan",
+    "creator": "MVA Mikelić Vreš Arhitekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148922/production-and-office-building-dubrovcan-mva-mikelic-vres-arhitekti",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/7a5b/e8f5/cb01/8987/b18d/newsletter/production-and-office-building-dubrovcan-mva-mikelic-vres-arhitekti_20.jpg?1784642198",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T07:00:00.000Z",
+    "ingested_at": "2026-07-24T13:55:08.753Z"
+  },
+  {
+    "id": "81c83ec2-b4be-4c80-90cc-1b8091168b02",
+    "title": "House Malija",
+    "creator": "Raketa + Tria Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148743/house-malija-raketa-plus-tria-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a57/907c/2755/8a00/0164/ac09/newsletter/9-HOUSE_MALIJA_RAKETA.jpg?1784124139",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T06:00:00.000Z",
+    "ingested_at": "2026-07-24T13:55:08.754Z"
   }
 ]
