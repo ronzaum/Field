@@ -21432,5 +21432,22 @@
     "material": [],
     "published_at": "2026-07-24T06:00:00.000Z",
     "ingested_at": "2026-07-24T13:55:08.754Z"
+  },
+  {
+    "id": "1cb5bc02-6255-47e2-8968-30062e7b0ebd",
+    "title": "Pavillon of the Sliding Doors",
+    "creator": "Piertzovanis Toews",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews",
+    "image_url": "https://images.adsttc.com/media/images/6a59/efc7/895c/1800/0111/75b7/newsletter/PiertzovanisToews_Nuglar_003_federicofarinatti.jpg?1784279038",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T10:00:00.000Z",
+    "ingested_at": "2026-07-24T17:41:32.025Z"
   }
 ]
