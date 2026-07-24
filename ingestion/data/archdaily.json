@@ -21381,5 +21381,22 @@
     "material": [],
     "published_at": "2026-07-24T00:00:00.000Z",
     "ingested_at": "2026-07-24T06:29:59.520Z"
+  },
+  {
+    "id": "f3295cbf-2b13-471b-816b-e28b2682ac11",
+    "title": "Casa Tramuntana",
+    "creator": "OHLAB",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148654/casa-tramuntana",
+    "image_url": "https://images.adsttc.com/media/images/6a56/2448/6336/c000/010f/ba36/newsletter/27_-_Casa-MJ_PS.jpg?1784030300",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T03:00:00.000Z",
+    "ingested_at": "2026-07-24T11:44:40.374Z"
   }
 ]
