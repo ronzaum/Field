@@ -7365,5 +7365,25 @@
     "material": [],
     "published_at": "2026-07-24T01:30:14.000Z",
     "ingested_at": "2026-07-24T03:16:31.252Z"
+  },
+  {
+    "id": "71c300e7-72e5-4599-b121-e211d67f944b",
+    "title": "blue, red, and orange interiors bring seoul’s visual energy to the kimchi restaurant in prague",
+    "creator": "SOA architekti",
+    "location": "Havlíčkova 1682/15",
+    "country": "Czech Republic",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/blue-red-orange-interiors-seoul-visual-energy-the-kimchi-restaurant-prague-soa-architekti/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/blue-red-orange-interiors-seoul-prague-the-kimchi-restaurant-soa-architekti-designboom-700-500x400-22b08q85r116.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the czech republic",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T06:15:50.000Z",
+    "ingested_at": "2026-07-24T06:30:00.670Z"
   }
 ]
