@@ -21449,5 +21449,39 @@
     "material": [],
     "published_at": "2026-07-24T10:00:00.000Z",
     "ingested_at": "2026-07-24T17:41:32.025Z"
+  },
+  {
+    "id": "f3eaa91f-5a25-44b8-9387-35205f0e2811",
+    "title": "Santo Antonio Apartment",
+    "creator": "Balaio Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181362/santo-antonio-apartment-balaio-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a59/3d93/c5a3/6400/0147/070c/newsletter/Leila_Viegas_Balaio-7317.jpg?1784233433",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T13:00:00.000Z",
+    "ingested_at": "2026-07-24T19:36:01.544Z"
+  },
+  {
+    "id": "301f0aed-198d-41c3-8620-9a500a5436fb",
+    "title": "Curtain House",
+    "creator": "Johnsen Schmaling Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181278/curtain-house-johnsen-schmaling-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/1434/895c/1800/0111/7d47/newsletter/CurtainHouse_001.jpg?1784550475",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T12:00:00.000Z",
+    "ingested_at": "2026-07-24T19:36:01.545Z"
   }
 ]
