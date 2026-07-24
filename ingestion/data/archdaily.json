@@ -21500,5 +21500,22 @@
     "material": [],
     "published_at": "2026-07-24T15:00:00.000Z",
     "ingested_at": "2026-07-24T21:09:10.995Z"
+  },
+  {
+    "id": "0395b33c-1681-4ce7-a96b-317a3033810a",
+    "title": "Mel House",
+    "creator": "Francisco Lang Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181620/mel-house-francisco-lang-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a62/54fe/d4d6/cf00/0113/97df/newsletter/27_CasaDaMel_externo_4_Maur_cioAra_jo.jpg?1784829202",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T17:00:00.000Z",
+    "ingested_at": "2026-07-24T23:05:05.267Z"
   }
 ]
