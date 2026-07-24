@@ -993,5 +993,26 @@
     "material": [],
     "published_at": "2026-07-22T10:30:43.000Z",
     "ingested_at": "2026-07-22T11:50:49.607Z"
+  },
+  {
+    "id": "83d99fdc-ba73-4f47-abc9-c98a93ab2ca6",
+    "title": "Tiered skyscraper",
+    "creator": "SOM tops out on Chicago lakefront",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/24/north-tower-skyscraper-400-lake-shore-drive-chicago-som/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/north-tower-skyscraper-chicago-som-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Glass",
+      "Chicago",
+      "Skyscrapers",
+      "Skidmore Owings & Merrill"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T15:00:38.000Z",
+    "ingested_at": "2026-07-24T15:34:00.589Z"
   }
 ]

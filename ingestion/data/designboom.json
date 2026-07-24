@@ -7385,5 +7385,26 @@
     "material": [],
     "published_at": "2026-07-24T06:15:50.000Z",
     "ingested_at": "2026-07-24T06:30:00.670Z"
+  },
+  {
+    "id": "e4b1a31b-6d77-4c6d-a2a2-e181993fd855",
+    "title": "who has a right to play?",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/the-right-to-play/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/playground-play-right-place-designboom-700-500x400-22b08q85r053.jpg",
+    "typology": [
+      "architecture",
+      "video",
+      "PLAY",
+      "playgrounds",
+      "school architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T14:15:42.000Z",
+    "ingested_at": "2026-07-24T15:34:01.556Z"
   }
 ]
