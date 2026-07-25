@@ -21636,5 +21636,22 @@
     "material": [],
     "published_at": "2026-07-25T15:00:00.000Z",
     "ingested_at": "2026-07-25T20:58:05.576Z"
+  },
+  {
+    "id": "76276eb2-8cf8-4ea5-bee5-514969de0b7d",
+    "title": "O House",
+    "creator": "YES! Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181636/o-house-yes-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a63/8fdf/d865/3d00/014d/04d0/newsletter/casa_O_0139_B.jpg?1784909854",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-25T16:00:00.000Z",
+    "ingested_at": "2026-07-25T22:02:22.303Z"
   }
 ]
