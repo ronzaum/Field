@@ -21517,5 +21517,22 @@
     "material": [],
     "published_at": "2026-07-24T17:00:00.000Z",
     "ingested_at": "2026-07-24T23:05:05.267Z"
+  },
+  {
+    "id": "e4901154-0c6b-4b5c-980d-8e3c3dce4d36",
+    "title": "Lomadas House",
+    "creator": "Grizzo Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181572/lomadas-house-grizzo-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a63/268a/d4d6/cf00/0113/9828/newsletter/GRIZZO_STUDIO-FOTOS_LOMADAS_PARA_DOSSIER-PH_FEDERICO_KULEKDJIAN-06-CIELO_2-2.jpg?1784882984",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-24T19:00:00.000Z",
+    "ingested_at": "2026-07-25T03:14:58.261Z"
   }
 ]
