@@ -7453,5 +7453,25 @@
     "material": [],
     "published_at": "2026-07-25T00:35:12.000Z",
     "ingested_at": "2026-07-25T03:14:59.350Z"
+  },
+  {
+    "id": "8bf8711d-00a2-43ca-a9c4-99bba1f48aac",
+    "title": "grid of arches wraps ODA’s newly completed POST tower in rotterdam",
+    "creator": "ODA",
+    "location": "Rotterdam",
+    "country": "The Netherlands",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/arches-oda-completed-post-tower-rotterdam-netherlands/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/ODA-post-rotterdam-tower-designboom-700-500x400-22b08q85r534.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the netherlands",
+      "ODA new york architecture",
+      "skyscraper architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-07-25T06:45:40.000Z",
+    "ingested_at": "2026-07-25T09:02:42.229Z"
   }
 ]
