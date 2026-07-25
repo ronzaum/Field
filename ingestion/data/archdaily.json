@@ -21585,5 +21585,39 @@
     "material": [],
     "published_at": "2026-07-25T09:00:00.000Z",
     "ingested_at": "2026-07-25T15:07:50.605Z"
+  },
+  {
+    "id": "189ea64d-f372-4cb6-bfff-fbe068ed049b",
+    "title": "Sanduteca – Sandwich Library",
+    "creator": "Estúdio Cajalima",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181310/sanduteca-sandwich-library-estudio-cajalima",
+    "image_url": "https://images.adsttc.com/media/images/6a5a/674f/895c/1800/0111/7a00/newsletter/_08A4231-Pano_copyright_manuel_sa.jpg?1784309709",
+    "typology": [
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-25T13:00:00.000Z",
+    "ingested_at": "2026-07-25T19:15:03.366Z"
+  },
+  {
+    "id": "626a91d5-a5bf-4f3b-bfa1-fb49d45c2e7a",
+    "title": "Full Renovation LVL",
+    "creator": "Ábaton",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148795/full-renovation-lvl-abaton",
+    "image_url": "https://images.adsttc.com/media/images/6a58/a851/d425/1a00/01c4/b9ee/newsletter/ABATON-reforma-lvl.jpg?1784195171",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-25T11:00:00.000Z",
+    "ingested_at": "2026-07-25T19:15:03.366Z"
   }
 ]
