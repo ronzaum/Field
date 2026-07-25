@@ -21568,5 +21568,22 @@
     "material": [],
     "published_at": "2026-07-25T06:00:00.000Z",
     "ingested_at": "2026-07-25T11:14:59.915Z"
+  },
+  {
+    "id": "d5c82fe1-b965-4a0f-86ec-0a93b03e432d",
+    "title": "Reggia di Rivalta",
+    "creator": "Openfabric + caarpa + FM Ingegneria",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148724/reggia-di-rivalta-openfabric-plus-caarpa-plus-fm-ingegneria",
+    "image_url": "https://images.adsttc.com/media/images/6a57/69fd/7c22/c800/01aa/6564/newsletter/22_Ph._Jacopo_Gennari_Feslikenian_83_150dpi.jpg?1784113680",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-07-25T09:00:00.000Z",
+    "ingested_at": "2026-07-25T15:07:50.605Z"
   }
 ]
