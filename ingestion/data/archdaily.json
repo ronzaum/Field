@@ -21619,5 +21619,22 @@
     "material": [],
     "published_at": "2026-07-25T11:00:00.000Z",
     "ingested_at": "2026-07-25T19:15:03.366Z"
+  },
+  {
+    "id": "117a324b-0f5b-4cd1-8aaa-231ebf644e7e",
+    "title": "Casa Baruk Restaurant",
+    "creator": "Memola Estúdio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181641/casa-baruk-restaurant-memola-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/5bf4/895c/1800/0111/81ac/newsletter/Leila_Viegas_Memola_Baruk-0733.jpg?1784634409",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-25T15:00:00.000Z",
+    "ingested_at": "2026-07-25T20:58:05.576Z"
   }
 ]
