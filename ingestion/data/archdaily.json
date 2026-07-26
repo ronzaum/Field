@@ -21738,5 +21738,22 @@
     "material": [],
     "published_at": "2026-07-26T09:00:00.000Z",
     "ingested_at": "2026-07-26T14:39:24.536Z"
+  },
+  {
+    "id": "314ca677-e8b9-4d8a-8244-132378a9c4c4",
+    "title": "Cença Pizza Bar",
+    "creator": "IN arq+design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181328/cenca-pizza-bar-in-arq-plus-design",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/7a26/895c/1800/0111/7fe2/newsletter/IMG_0892-HDR_copiar.jpg?1784576618",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-07-26T13:00:00.000Z",
+    "ingested_at": "2026-07-26T20:12:32.687Z"
   }
 ]
