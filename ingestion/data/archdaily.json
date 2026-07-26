@@ -21721,5 +21721,22 @@
     "material": [],
     "published_at": "2026-07-26T06:00:00.000Z",
     "ingested_at": "2026-07-26T12:07:16.051Z"
+  },
+  {
+    "id": "d2646686-3b18-4c8f-af4e-837d06804e73",
+    "title": "Apartment Interior within Poznań's Łazarz District",
+    "creator": "LBWA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148723/a-play-of-color-in-an-apartment-interior-within-poznans-lazarz-district-lbwa",
+    "image_url": "https://images.adsttc.com/media/images/6a57/69f0/7c22/c800/01aa/654e/newsletter/ZASOBY-0022-Z1004606-V1.jpg?1784113829",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-26T09:00:00.000Z",
+    "ingested_at": "2026-07-26T14:39:24.536Z"
   }
 ]
