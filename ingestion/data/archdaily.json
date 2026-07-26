@@ -21670,5 +21670,22 @@
     "material": [],
     "published_at": "2026-07-25T17:00:00.000Z",
     "ingested_at": "2026-07-26T00:03:36.634Z"
+  },
+  {
+    "id": "dd823d97-a267-40fa-91bb-71e19fc81e1b",
+    "title": "Ochre Residence",
+    "creator": "Thought Parallels",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181279/ochre-residence-thought-parallels",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/27f1/3d21/f756/1291/f753/newsletter/ochre-residence-thought-parallels_2.jpg?1784555517",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-25T21:00:00.000Z",
+    "ingested_at": "2026-07-26T04:29:41.449Z"
   }
 ]
