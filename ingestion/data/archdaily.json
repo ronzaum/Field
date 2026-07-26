@@ -21704,5 +21704,22 @@
     "material": [],
     "published_at": "2026-07-26T02:00:00.000Z",
     "ingested_at": "2026-07-26T07:38:16.621Z"
+  },
+  {
+    "id": "cc418676-beb6-4ff6-a472-5697a307b65f",
+    "title": "Macchiato Pocket Park",
+    "creator": "OUT Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a60/abe7/237b/e900/01c8/738c/newsletter/174_260608_OUT_MAC_02_FEDERICOFARINATTI_archdaily.jpg?1784720379",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-07-26T06:00:00.000Z",
+    "ingested_at": "2026-07-26T12:07:16.051Z"
   }
 ]
