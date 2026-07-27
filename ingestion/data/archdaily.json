@@ -21908,5 +21908,56 @@
     "material": [],
     "published_at": "2026-07-27T10:00:00.000Z",
     "ingested_at": "2026-07-27T17:46:13.533Z"
+  },
+  {
+    "id": "afd5d4e1-ca49-417f-81cc-e5c16a08ea12",
+    "title": "Radikal Klassisk",
+    "creator": "PUNTOFILIPINO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/999576/radikal-klassisk-puntofilipino",
+    "image_url": "https://images.adsttc.com/media/images/643b/7033/4d5c/4615/e3ac/cff4/newsletter/radikal-klassisk-puntofilipino_17.jpg?1681616982",
+    "typology": [
+      "Detail"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T15:00:00.000Z",
+    "ingested_at": "2026-07-27T19:41:41.999Z"
+  },
+  {
+    "id": "0721d93f-354b-4f19-8b3b-be9fefe55224",
+    "title": "Colors Apartment",
+    "creator": "Lucas Jimeno Dualde",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181509/colors-apartment-lucas-jimeno-dualde",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/fd05/237b/e900/01c8/7179/newsletter/lucasjdualde.higienopolis_0103.jpg?1784675622",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T13:00:00.000Z",
+    "ingested_at": "2026-07-27T19:41:41.999Z"
+  },
+  {
+    "id": "2c066672-9144-4ef4-9dcd-8b09487870da",
+    "title": "C+C House",
+    "creator": "Studio Maignan Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181365/c-plus-c-house-studio-maignan-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/5f19/895c/1800/0111/820d/newsletter/Humewood-09-Kitchen_Garden_-_MaximeBrouillet.jpg?1784635191",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T12:00:00.000Z",
+    "ingested_at": "2026-07-27T19:41:41.999Z"
   }
 ]
