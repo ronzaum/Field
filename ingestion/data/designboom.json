@@ -7473,5 +7473,45 @@
     "material": [],
     "published_at": "2026-07-25T06:45:40.000Z",
     "ingested_at": "2026-07-25T09:02:42.229Z"
+  },
+  {
+    "id": "2bcc9df3-71d1-4ad6-9fa4-b35aa0cfe1ad",
+    "title": "the fun palace: cedric price’s 1960s visionary project that (kind of) never came to be",
+    "creator": "Cedric Price",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/fun-palace-cedric-price-visionary-project-laboratory-never-came-to-be/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/fun-palace-cedric-price-1960s-visionary-project-designboom-1200-500x400-22b08q85r448.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the UK",
+      "PLAY",
+      "theaters"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T10:50:07.000Z",
+    "ingested_at": "2026-07-27T12:29:06.569Z"
+  },
+  {
+    "id": "bc61bf2a-3d28-42f9-8fa4-0ee891c82363",
+    "title": "beyond the blueprint: breaking rigid structures to embrace fluid spatial evolution",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/fluid-spatial-evolution-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/indx-room-for-dreams-podcast-10-designboom-700-500x400-22b08q85r293.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T10:00:32.000Z",
+    "ingested_at": "2026-07-27T12:29:06.575Z"
   }
 ]

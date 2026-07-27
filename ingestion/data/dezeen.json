@@ -1014,5 +1014,28 @@
     "material": [],
     "published_at": "2026-07-24T15:00:38.000Z",
     "ingested_at": "2026-07-24T15:34:00.589Z"
+  },
+  {
+    "id": "94ea81db-d676-48f0-be72-a8d05c05cb33",
+    "title": "RSHP unveils tripartite Shanghai skyscraper informed",
+    "creator": "historical laneways",
+    "location": "RSHP",
+    "country": "China",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/27/rshps-one-shanghai-tower/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/rshp-one-shanghai-mixed-use-tower-china_dezeen_2364_col_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Towers",
+      "Skyscrapers",
+      "Facades",
+      "Mixed-use",
+      "Shanghai",
+      "Office architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T09:03:20.000Z",
+    "ingested_at": "2026-07-27T12:29:05.521Z"
   }
 ]
