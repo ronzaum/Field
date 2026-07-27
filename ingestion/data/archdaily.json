@@ -21806,5 +21806,56 @@
     "material": [],
     "published_at": "2026-07-26T21:00:00.000Z",
     "ingested_at": "2026-07-27T04:39:52.085Z"
+  },
+  {
+    "id": "56ee4acf-373b-4b85-9099-572c9fe3241b",
+    "title": "Gabonsa Pavilion",
+    "creator": "Hochschule Kaiserslautern University of Applied Sciences",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148793/gabonsa-pavilion-hochschule-kaiserslautern-university-of-applied-sciences",
+    "image_url": "https://images.adsttc.com/media/images/6a58/a28f/d425/1a00/01c4/b9a8/newsletter/Horizontal_image_Toni_Schade.jpg?1784193731",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T03:00:00.000Z",
+    "ingested_at": "2026-07-27T08:35:09.683Z"
+  },
+  {
+    "id": "54c9ab9e-83e1-4f0c-b2e9-ba6d9fa55d28",
+    "title": "The House of Green Court",
+    "creator": "andblack design studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181504/the-house-of-green-court-andblack-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a60/f41c/16b1/5001/8833/da81/newsletter/the-house-of-green-court-andblack-design-studio_33.jpg?1784738913",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T02:00:00.000Z",
+    "ingested_at": "2026-07-27T08:35:09.684Z"
+  },
+  {
+    "id": "98d8f15d-68e2-4ce8-8e0b-6785d24b18fc",
+    "title": "Luohu Library and Youth Activity Center",
+    "creator": "Shenzhen Huahui Design + iDEA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181518/luohu-library-and-youth-activity-center-shenzhen-huahui-design-plus-idea",
+    "image_url": "https://images.adsttc.com/media/images/6a61/5d06/184b/c647/bf10/4936/newsletter/luohu-library-and-youth-activity-center-shenzhen-huahui-design_3.jpg?1784765786",
+    "typology": [
+      "youth center"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T00:00:00.000Z",
+    "ingested_at": "2026-07-27T08:35:09.684Z"
   }
 ]
