@@ -21755,5 +21755,39 @@
     "material": [],
     "published_at": "2026-07-26T13:00:00.000Z",
     "ingested_at": "2026-07-26T20:12:32.687Z"
+  },
+  {
+    "id": "54f06295-a953-4568-8bad-06018d1ffae1",
+    "title": "Mami Dan Temple of Toligbé Cultural Center",
+    "creator": "Maison Bignon Sossou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181253/mami-dan-temple-of-toligbe-cultural-center-maison-bignon-sossou",
+    "image_url": "https://images.adsttc.com/media/images/6a5f/b330/3d21/f756/bc3b/d03b/newsletter/the-mami-dan-temple-of-toligbe-maison-bignon-sossou_17.jpg?1784656733",
+    "typology": [
+      "Gallery"
+    ],
+    "material": [],
+    "published_at": "2026-07-26T17:00:00.000Z",
+    "ingested_at": "2026-07-27T00:04:00.923Z"
+  },
+  {
+    "id": "1f7d3651-16aa-4336-a14a-76bb5b2f5a42",
+    "title": "Mimado Restaurant",
+    "creator": "García de Alba + Ponce Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181627/mimado-restaurant-garcia-de-alba-plus-ponce-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a63/8452/d865/3d00/014d/0457/newsletter/MIMADO_GAP_STUDIO_010.jpg?1784906978",
+    "typology": [
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-07-26T16:00:00.000Z",
+    "ingested_at": "2026-07-27T00:04:00.923Z"
   }
 ]
