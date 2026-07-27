@@ -21789,5 +21789,22 @@
     "material": [],
     "published_at": "2026-07-26T16:00:00.000Z",
     "ingested_at": "2026-07-27T00:04:00.923Z"
+  },
+  {
+    "id": "3e3b3788-60f0-41b2-9edc-7830829bd746",
+    "title": "Blue Bottle Coffee Harajuku Cafe",
+    "creator": "TEKI Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181503/blue-bottle-coffee-harajuku-cafe-teki-design",
+    "image_url": "https://images.adsttc.com/media/images/6a60/e60c/d7be/a80e/e610/49cd/newsletter/blue-bottle-coffee-harajuku-teki-design_2.jpg?1784735262",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-26T21:00:00.000Z",
+    "ingested_at": "2026-07-27T04:39:52.085Z"
   }
 ]
