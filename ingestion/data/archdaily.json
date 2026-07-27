@@ -21959,5 +21959,22 @@
     "material": [],
     "published_at": "2026-07-27T12:00:00.000Z",
     "ingested_at": "2026-07-27T19:41:41.999Z"
+  },
+  {
+    "id": "b869f77d-773f-4bce-8391-201ef1a7f105",
+    "title": "Muda L11 House",
+    "creator": "Pereira Miguel Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181645/muda-l11-pereira-miguel-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a63/d66e/d865/3d00/014d/0561/newsletter/MudaL11_PMArq_foto_Fernando_Guerra_FG_SG_87.jpg?1784927879",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T17:00:00.000Z",
+    "ingested_at": "2026-07-27T23:07:51.709Z"
   }
 ]
