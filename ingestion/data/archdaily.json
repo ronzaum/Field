@@ -22112,5 +22112,39 @@
     "material": [],
     "published_at": "2026-07-28T12:00:00.000Z",
     "ingested_at": "2026-07-28T18:18:17.498Z"
+  },
+  {
+    "id": "598e3ed4-7e62-4ad3-90a8-e286a5b1e6f6",
+    "title": "La Negrilla House",
+    "creator": "Croxatto y Opazo Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181581/la-negrilla-house-croxatto-y-opazo-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a63/317c/c073/3201/89bc/5e10/newsletter/casa-la-negrilla-croxatto-y-opazo-arquitectos_10.jpg?1784885669",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T15:00:00.000Z",
+    "ingested_at": "2026-07-28T20:18:40.256Z"
+  },
+  {
+    "id": "a7dad0ab-94de-4501-9b1b-94c8921d9288",
+    "title": "Territory-Park",
+    "creator": "MACh Architects + Connatural",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1151371/territory-park-mach-architects-plus-connatural",
+    "image_url": "https://images.adsttc.com/media/images/686f/f27e/9445/0103/24aa/574b/newsletter/territorio-parque-mach-arquitetos-plus-connatural_5.jpg?1752167058",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T13:00:00.000Z",
+    "ingested_at": "2026-07-28T20:18:40.256Z"
   }
 ]
