@@ -22010,5 +22010,39 @@
     "material": [],
     "published_at": "2026-07-28T00:00:00.000Z",
     "ingested_at": "2026-07-28T05:51:52.990Z"
+  },
+  {
+    "id": "6d49305f-4ac6-45ec-bb6a-0710e96cb6e9",
+    "title": "The Orb House",
+    "creator": "Chiasmus Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181690/the-orb-house-chiasmus-partners",
+    "image_url": "https://images.adsttc.com/media/images/6a67/6e82/ae3a/0b01/8910/aece/newsletter/the-orb-house-chiasmus-partners_30.jpg?1785163429",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T03:00:00.000Z",
+    "ingested_at": "2026-07-28T08:42:15.848Z"
+  },
+  {
+    "id": "704cd9fd-70a6-4cd2-b7e6-9604e219328f",
+    "title": "The Melody House",
+    "creator": "MODO Designs",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148661/the-melody-house-modo-designs",
+    "image_url": "https://images.adsttc.com/media/images/6a56/42c3/25a7/5001/8825/b158/newsletter/the-melody-house-modo-designs_30.jpg?1784038148",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T02:00:00.000Z",
+    "ingested_at": "2026-07-28T08:42:15.848Z"
   }
 ]
