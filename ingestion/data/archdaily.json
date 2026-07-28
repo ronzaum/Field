@@ -22146,5 +22146,22 @@
     "material": [],
     "published_at": "2026-07-28T13:00:00.000Z",
     "ingested_at": "2026-07-28T20:18:40.256Z"
+  },
+  {
+    "id": "811c23d8-f100-45ab-897b-78867bc2d1a8",
+    "title": "Tear House",
+    "creator": "Felipe Caboclo Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181705/tear-house-felipe-caboclo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a67/af49/d865/3d00/014d/0923/newsletter/1.1.jpg?1785180083",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T17:00:00.000Z",
+    "ingested_at": "2026-07-28T22:09:32.331Z"
   }
 ]
