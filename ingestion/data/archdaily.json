@@ -22078,5 +22078,22 @@
     "material": [],
     "published_at": "2026-07-28T07:00:00.000Z",
     "ingested_at": "2026-07-28T14:21:08.627Z"
+  },
+  {
+    "id": "a348ac0b-453d-44bf-9664-217bfa5c46b5",
+    "title": "Enfants Rouges Apartment",
+    "creator": "Studio Carré",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181717/enfants-rouges-apartment-studio-carre",
+    "image_url": "https://images.adsttc.com/media/images/6a67/dfac/ae3a/0b39/b59b/f2f9/newsletter/enfants-rouges-apartment-studio-carre_48.jpg?1785192404",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T10:00:00.000Z",
+    "ingested_at": "2026-07-28T16:43:27.858Z"
   }
 ]
