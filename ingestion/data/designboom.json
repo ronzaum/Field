@@ -7596,5 +7596,26 @@
     "material": [],
     "published_at": "2026-07-28T07:49:40.000Z",
     "ingested_at": "2026-07-28T08:42:16.827Z"
+  },
+  {
+    "id": "b2228f1f-8d88-453d-b044-bbf2460deb6c",
+    "title": "first look: shenzhen natural history museum opens to the public",
+    "creator": "Iñaki Laguardia",
+    "location": "Pingshan District",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/shenzhen-natural-history-museum-3xn-bh-architects-zhubo-design-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/shenzhen-natural-history-museum-china-granite-terrain-3xn-designboom-08-copy-500x400-22b08q85r050.jpg",
+    "typology": [
+      "architecture",
+      "3XN",
+      "architecture in china",
+      "museum",
+      "museums and gallerie"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T07:49:40.000Z",
+    "ingested_at": "2026-07-28T11:22:11.901Z"
   }
 ]
