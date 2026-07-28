@@ -22095,5 +22095,22 @@
     "material": [],
     "published_at": "2026-07-28T10:00:00.000Z",
     "ingested_at": "2026-07-28T16:43:27.858Z"
+  },
+  {
+    "id": "19575181-9255-4b15-ad73-393b6e4ea634",
+    "title": "Ridge Residence",
+    "creator": "Hsu McCullough",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181644/ridge-residence-hsu-mccullough",
+    "image_url": "https://images.adsttc.com/media/images/6a63/9bd3/d865/3d00/014d/054a/newsletter/Ridge_Residence_HSU_MCCULLOUGH-08-street_facade-DAN_ARNOLD.jpg?1784912868",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T12:00:00.000Z",
+    "ingested_at": "2026-07-28T18:18:17.498Z"
   }
 ]
