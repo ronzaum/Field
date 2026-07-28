@@ -21976,5 +21976,22 @@
     "material": [],
     "published_at": "2026-07-27T17:00:00.000Z",
     "ingested_at": "2026-07-27T23:07:51.709Z"
+  },
+  {
+    "id": "23516c97-1492-4822-acff-86b403c4ed01",
+    "title": "Sabina I House",
+    "creator": "Atempo Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181713/sabina-i-house-atempo-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a67/b35c/d865/3d00/014d/0975/newsletter/13_CASA_SABINA.jpg?1785181276",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-07-27T19:00:00.000Z",
+    "ingested_at": "2026-07-28T02:53:29.340Z"
   }
 ]
