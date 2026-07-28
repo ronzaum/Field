@@ -22061,5 +22061,22 @@
     "material": [],
     "published_at": "2026-07-28T06:00:00.000Z",
     "ingested_at": "2026-07-28T11:22:10.835Z"
+  },
+  {
+    "id": "9206cf2f-825e-481c-8464-62f5361212cf",
+    "title": "MOM House",
+    "creator": "Supra-Simplicities",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181648/mom-house-supra-simplicities",
+    "image_url": "https://images.adsttc.com/media/images/6a67/21fb/d865/3d00/014d/05aa/newsletter/Exterior_View_night.jpg?1785143861",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T07:00:00.000Z",
+    "ingested_at": "2026-07-28T14:21:08.627Z"
   }
 ]
