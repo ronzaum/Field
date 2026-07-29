@@ -7662,5 +7662,27 @@
     "material": [],
     "published_at": "2026-07-28T23:55:47.000Z",
     "ingested_at": "2026-07-29T00:01:19.251Z"
+  },
+  {
+    "id": "4b9ac0aa-1264-4b7f-9da5-b0f005f925ce",
+    "title": "three monolithic volumes by not a number architects reinterpret greek stone house typology",
+    "creator": "NaNA",
+    "location": "Chalkidiki",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/three-monolithic-volumes-not-a-number-architects-greek-stone-house-typology-treelithon/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/treelithon-three-monolithic-volumes-not-a-number-architects-greek-stone-house-designboom-700-500x400-22b08q85r067.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in greece",
+      "marble and stone design",
+      "not a number architects",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T07:45:48.000Z",
+    "ingested_at": "2026-07-29T07:46:10.432Z"
   }
 ]

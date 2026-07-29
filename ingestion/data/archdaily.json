@@ -22180,5 +22180,56 @@
     "material": [],
     "published_at": "2026-07-28T19:00:00.000Z",
     "ingested_at": "2026-07-29T04:15:25.219Z"
+  },
+  {
+    "id": "a1d10dce-8ebd-4d1b-916e-10ba0d4f9db2",
+    "title": "Tokyo Ballet House",
+    "creator": "Kenta SANO & Associates, Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181727/tokyo-ballet-house-kenta-sano-and-associates-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a68/7c1e/d865/3d00/014d/0b67/newsletter/12_Tokyo_Ballet_House_credit_Motoharu_Yagi.jpg?1785232609",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T03:00:00.000Z",
+    "ingested_at": "2026-07-29T07:46:08.511Z"
+  },
+  {
+    "id": "9b085a70-0385-4781-86d5-9a5a5070245f",
+    "title": "Vĩnh Long House",
+    "creator": "NAQ Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181718/vinh-long-house-naq-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a68/3e02/d865/3d00/014d/09d0/newsletter/Paul_Phan_-_Building_facade_1.jpg?1785216580",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T02:00:00.000Z",
+    "ingested_at": "2026-07-29T07:46:08.511Z"
+  },
+  {
+    "id": "5b53c0ff-1e74-47c5-a1c2-3cc1b5ccb1cc",
+    "title": "Rangunia Residence",
+    "creator": "Moofer Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181719/rangunia-residence-moofer-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a68/41a6/d865/3d00/014d/0a18/newsletter/Rangunia_Residence-Prantography47.jpg?1785217713",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T00:00:00.000Z",
+    "ingested_at": "2026-07-29T07:46:08.512Z"
   }
 ]
