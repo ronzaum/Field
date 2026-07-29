@@ -22265,5 +22265,39 @@
     "material": [],
     "published_at": "2026-07-29T06:00:00.000Z",
     "ingested_at": "2026-07-29T13:03:28.033Z"
+  },
+  {
+    "id": "bd7c7d46-b34c-4549-b245-82a36af7d611",
+    "title": "SONO House",
+    "creator": "Atelier Carle",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181702/sono-atelier-carle",
+    "image_url": "https://images.adsttc.com/media/images/6a67/ae9a/d865/3d00/014d/08fd/newsletter/SONO_by_Atelier_Carle__Felix_Michaud_02.jpg?1785179828",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T12:00:00.000Z",
+    "ingested_at": "2026-07-29T17:19:20.848Z"
+  },
+  {
+    "id": "b4513293-05d3-481a-8d93-f6168e246dad",
+    "title": "WPP Headquarters Mizal",
+    "creator": "Eller + Eller Architekten GmbH",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181666/wpp-headquarters-mizal-eller-plus-eller-architekten-gmbh",
+    "image_url": "https://images.adsttc.com/media/images/6a67/4a1e/d865/3d00/014d/0704/newsletter/1.Eller-Eller-Architekten_WPP_MIZAL_drone_view_Photo_MarcelKusch.jpg?1785154165",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T10:00:00.000Z",
+    "ingested_at": "2026-07-29T17:19:20.848Z"
   }
 ]
