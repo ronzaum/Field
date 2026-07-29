@@ -22231,5 +22231,39 @@
     "material": [],
     "published_at": "2026-07-29T00:00:00.000Z",
     "ingested_at": "2026-07-29T07:46:08.512Z"
+  },
+  {
+    "id": "b2700250-f885-4054-a497-515cbe5ec726",
+    "title": "Redhill Early Learning Centre",
+    "creator": "Hubo Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181686/redhill-early-learning-centre-hubo-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a68/b0c2/f4d2/6d01/88b1/6fc6/newsletter/redhill-early-learning-centre-hubo-studio_5.jpg?1785245900",
+    "typology": [
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T07:00:00.000Z",
+    "ingested_at": "2026-07-29T13:03:28.032Z"
+  },
+  {
+    "id": "a3c1f7ba-d150-499b-933e-452975ba0b39",
+    "title": "CNC & Active Offices",
+    "creator": "Studio Reaktor",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181716/cnc-and-active-offices-studio-reaktor",
+    "image_url": "https://images.adsttc.com/media/images/6a67/d62e/f4d2/6d01/88b1/6d7d/newsletter/cnc-and-active-offices-studio-reaktor_5.jpg?1785189956",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T06:00:00.000Z",
+    "ingested_at": "2026-07-29T13:03:28.033Z"
   }
 ]
