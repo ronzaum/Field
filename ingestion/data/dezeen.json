@@ -1037,5 +1037,25 @@
     "material": [],
     "published_at": "2026-07-27T09:03:20.000Z",
     "ingested_at": "2026-07-27T12:29:05.521Z"
+  },
+  {
+    "id": "39f26d46-a1ff-4be3-9ad2-4e6b78f4cc52",
+    "title": "Bio-based community garden",
+    "creator": "Jan Kattein Architects opens in London",
+    "location": "London",
+    "country": "UK",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/29/jan-kattein-architects-global-generation-community-garden-london/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/jan-kattein-architects-global-generation-community-garden-london-sturrock-sq2_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Gardens",
+      "Public space",
+      "Jan Kattein Architects"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T08:30:55.000Z",
+    "ingested_at": "2026-07-29T10:43:35.105Z"
   }
 ]
