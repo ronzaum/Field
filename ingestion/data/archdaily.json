@@ -22299,5 +22299,22 @@
     "material": [],
     "published_at": "2026-07-29T10:00:00.000Z",
     "ingested_at": "2026-07-29T17:19:20.848Z"
+  },
+  {
+    "id": "90c730a3-847e-4008-be03-40b7d651a046",
+    "title": "Mooca House",
+    "creator": "André Guerra Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181767/mooca-house-andre-guerra-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a68/d74e/d865/3d00/014d/0d51/newsletter/03_Vista_posterior__manuel_sa.jpg?1785255802",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T13:00:00.000Z",
+    "ingested_at": "2026-07-29T19:23:40.467Z"
   }
 ]
