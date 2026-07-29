@@ -22316,5 +22316,39 @@
     "material": [],
     "published_at": "2026-07-29T13:00:00.000Z",
     "ingested_at": "2026-07-29T19:23:40.467Z"
+  },
+  {
+    "id": "fdf36758-4eff-4970-9fe1-8c9f0cd9f469",
+    "title": "Caju Apartment",
+    "creator": "CODA Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181847/caju-apartment-coda-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a68/de73/d865/3d00/014d/0e1b/newsletter/5I0A6480-corrigida.jpg?1785257610",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T17:00:00.000Z",
+    "ingested_at": "2026-07-29T23:01:26.632Z"
+  },
+  {
+    "id": "43d64f6f-940e-44e4-b711-2fd06771e6cb",
+    "title": "RB Tapalpa Cabin",
+    "creator": "ALMA de Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181843/rb-tapalpa-cabin-alma-de-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a67/b3cf/d865/3d00/014d/099a/newsletter/CESAR_BELIO_13.jpg?1785181181",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-07-29T15:00:00.000Z",
+    "ingested_at": "2026-07-29T23:01:26.632Z"
   }
 ]
