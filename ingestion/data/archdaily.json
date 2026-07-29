@@ -22163,5 +22163,22 @@
     "material": [],
     "published_at": "2026-07-28T17:00:00.000Z",
     "ingested_at": "2026-07-28T22:09:32.331Z"
+  },
+  {
+    "id": "6857ec97-6c3a-4cd2-8cf1-42a0f1fac995",
+    "title": "La Pecera Studios",
+    "creator": "Massív Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181564/la-pecera-massiv-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a62/4fca/d4d6/cf00/0113/97ac/newsletter/La_Pecera-16.Courtney_Chlouber_jpg.jpg?1784827919",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-28T19:00:00.000Z",
+    "ingested_at": "2026-07-29T04:15:25.219Z"
   }
 ]
