@@ -22367,5 +22367,22 @@
     "material": [],
     "published_at": "2026-07-29T19:00:00.000Z",
     "ingested_at": "2026-07-30T02:45:14.339Z"
+  },
+  {
+    "id": "16528e52-b343-44e4-8c3c-243712f492ea",
+    "title": "Mueonga House",
+    "creator": "Snow AIDe",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181835/mueonga-house-snow-aide",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/1dd6/f4d2/6d01/88b1/7662/newsletter/mueonga-house-snow-aide_18.jpg?1785339359",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T02:00:00.000Z",
+    "ingested_at": "2026-07-30T08:34:55.861Z"
   }
 ]
