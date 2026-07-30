@@ -1057,5 +1057,30 @@
     "material": [],
     "published_at": "2026-07-29T08:30:55.000Z",
     "ingested_at": "2026-07-29T10:43:35.105Z"
+  },
+  {
+    "id": "a3431933-8078-4de1-a1e7-21e8c7edd007",
+    "title": "Rearrangeable cedar logs fill walls of Nanhai Buddha Pavilion in China",
+    "creator": "DoDesign",
+    "location": "Metal",
+    "country": "China",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/30/nanhai-buddha-pavilion-dodesign/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/nanhai-buddha-pavilion-dodesign-china-sq_dezeen_2364_col_1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Steel",
+      "Cedar",
+      "Pavilions",
+      "Chongqing",
+      "Worship",
+      "Shelters",
+      "Chinese architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T10:30:24.000Z",
+    "ingested_at": "2026-07-30T11:11:35.829Z"
   }
 ]

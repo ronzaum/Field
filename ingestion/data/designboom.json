@@ -7787,5 +7787,25 @@
     "material": [],
     "published_at": "2026-07-30T02:55:48.000Z",
     "ingested_at": "2026-07-30T05:46:16.210Z"
+  },
+  {
+    "id": "66585bdd-1e3c-422c-9f5a-386a9da0b077",
+    "title": "subconscious spaces: tracking the invisible energy that gives architecture its soul",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/subconscious-spaces-invisible-energy-room-for-dreams-podcast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/indx-room-for-dreams-podcast-11-designboom-700-500x400-22b08q85r109.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "Milan Design Week 2026",
+      "podcast: room for dreams"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T10:00:16.000Z",
+    "ingested_at": "2026-07-30T11:11:36.759Z"
   }
 ]

@@ -22384,5 +22384,39 @@
     "material": [],
     "published_at": "2026-07-30T02:00:00.000Z",
     "ingested_at": "2026-07-30T08:34:55.861Z"
+  },
+  {
+    "id": "ab76cfa6-1f28-4ff8-8baf-0b40acacf031",
+    "title": "Sawtooth House",
+    "creator": "Francesco Pierazzi Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181754/sawtooth-house-francesco-pierazzi-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a68/ba69/d865/3d00/014d/0d0a/newsletter/_DSF5688.jpg?1785248420",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T06:00:00.000Z",
+    "ingested_at": "2026-07-30T11:11:35.605Z"
+  },
+  {
+    "id": "3423ca1f-2362-4cb4-9ac9-ff57dab33c3d",
+    "title": "Bring Up Midori Children’s Development Center",
+    "creator": "OOOarchitecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181781/bring-up-midori-childrens-development-center-oooarchitecture",
+    "image_url": "https://images.adsttc.com/media/images/6a69/83f9/d865/3d00/014d/0ef7/newsletter/Midori-CDC_01.jpg?1785300000",
+    "typology": [
+      "Day Care"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T03:00:00.000Z",
+    "ingested_at": "2026-07-30T11:11:35.605Z"
   }
 ]
