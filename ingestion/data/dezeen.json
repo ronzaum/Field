@@ -1082,5 +1082,25 @@
     "material": [],
     "published_at": "2026-07-30T10:30:24.000Z",
     "ingested_at": "2026-07-30T11:11:35.829Z"
+  },
+  {
+    "id": "4dd98643-4779-48fb-9a43-141ee6865618",
+    "title": "Saarinen's Dulles terminal set to be enveloped",
+    "creator": "Trump-backed airport",
+    "location": "News",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/07/30/dulles-revamp-trump-united-airlines-concept-rendering/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/united-airlines-trump-dulles-concept-renderings_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Airports",
+      "Washington DC",
+      "Donald Trump"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T15:54:16.000Z",
+    "ingested_at": "2026-07-30T16:38:55.847Z"
   }
 ]

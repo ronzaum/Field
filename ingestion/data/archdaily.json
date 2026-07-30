@@ -22435,5 +22435,22 @@
     "material": [],
     "published_at": "2026-07-30T07:00:00.000Z",
     "ingested_at": "2026-07-30T14:14:05.986Z"
+  },
+  {
+    "id": "47a0abae-f1dc-4a47-a01d-beb461815884",
+    "title": "NYMA Water Tower",
+    "creator": "Eek en Dekkers",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181656/nyma-water-tower-eek-en-dekkers",
+    "image_url": "https://images.adsttc.com/media/images/6a67/2c22/d865/3d00/014d/0639/newsletter/260605_Eek_Dekkers_Nyma-7.jpg?1785146529",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T10:00:00.000Z",
+    "ingested_at": "2026-07-30T16:38:55.485Z"
   }
 ]
