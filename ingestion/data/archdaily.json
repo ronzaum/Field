@@ -22418,5 +22418,22 @@
     "material": [],
     "published_at": "2026-07-30T03:00:00.000Z",
     "ingested_at": "2026-07-30T11:11:35.605Z"
+  },
+  {
+    "id": "a80f2ed3-ff50-436f-8384-8780271f3f67",
+    "title": "Maida Hill Public Toilet",
+    "creator": "Studio Weave",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181775/maida-hill-public-toilet-studio-weave",
+    "image_url": "https://images.adsttc.com/media/images/6a69/42a2/f4d2/6d01/88b1/71c3/newsletter/maida-hill-public-toilet-studio-weave_2.jpg?1785283262",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T07:00:00.000Z",
+    "ingested_at": "2026-07-30T14:14:05.986Z"
   }
 ]
