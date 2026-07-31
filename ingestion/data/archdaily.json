@@ -22452,5 +22452,175 @@
     "material": [],
     "published_at": "2026-07-30T10:00:00.000Z",
     "ingested_at": "2026-07-30T16:38:55.485Z"
+  },
+  {
+    "id": "ea5fc4d8-0ec3-4884-8f33-4fa3ef4ceaf9",
+    "title": "TreeBOX Cabin",
+    "creator": "Studio Officina82",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181796/treebox",
+    "image_url": "https://images.adsttc.com/media/images/6a69/e1d1/d865/3d00/014d/1058/newsletter/TreeBOX_-_Officina82_-_1.jpg?1785324122",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T10:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.357Z"
+  },
+  {
+    "id": "b4677745-e8fd-42f3-84e3-93e459eb9568",
+    "title": "Sotheby’s Global Headquarters at the Breuer",
+    "creator": "Herzog & de Meuron + PBDW Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181780/sothebys-global-headquarters-at-the-breuer-herzog-and-de-meuron-plus-pbdw-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a69/69a7/f4d2/6d01/88b1/721c/newsletter/sothebys-global-headquarter-herzog-and-de-meuron_1.jpg?1785293320",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T07:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.357Z"
+  },
+  {
+    "id": "70aeb52f-ca01-4e1b-bf3c-424482681cb7",
+    "title": "The Avlí Houses",
+    "creator": "Ona i Ona Architecture and Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181483/the-avli-houses-ona-i-ona-architecture-and-design",
+    "image_url": "https://images.adsttc.com/media/images/6a60/c5cf/237b/e900/01c8/74de/newsletter/2_Creative_Photo_Room.jpg?1784727016",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T06:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.358Z"
+  },
+  {
+    "id": "e9e000f5-2345-4260-8f52-058eebcf95c8",
+    "title": "Mac Casa",
+    "creator": "CTA | Creative Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181872/mac-casa-cta-creative-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/43d0/0364/d206/2013/f3d8/newsletter/mac-casa-cta-creative-architects_9.jpg?1785414681",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T03:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.358Z"
+  },
+  {
+    "id": "88ebf03b-37a2-4966-a337-31fab5d6db2f",
+    "title": "House Between Walls",
+    "creator": "Studio UF+O",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181863/house-between-walls-studio-uf-plus-o",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/27c5/4ea2/e401/8926/6193/newsletter/house-between-walls-studio-uf-plus-o_16.jpg?1785407456",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T02:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.358Z"
+  },
+  {
+    "id": "61caab1c-d59a-4a65-8600-8caedb7927aa",
+    "title": "Stool Tower",
+    "creator": "1Y Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181427/stool-tower-1y-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a60/605c/237b/e900/01c8/7211/newsletter/02_Front_view.jpg?1784701052",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T00:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.359Z"
+  },
+  {
+    "id": "ec192498-1ec8-42b9-a9d5-56c778ba75ca",
+    "title": "Agua de la Culebra Quincho",
+    "creator": "Alvarez Railton Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181913/agua-de-la-culebra-quincho-alvarez-railton-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/737c/1801/ca00/0176/e2cc/newsletter/Q4_LOW.jpg?1785426835",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T19:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.359Z"
+  },
+  {
+    "id": "202bf0bc-c295-4d29-9f00-abf25e4ba013",
+    "title": "Refuge House",
+    "creator": "Taller Segovia Molina",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181866/refuge-house-taller-segovia-molina",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/1bc8/1801/ca00/0176/dfb7/newsletter/10_Casa_Refugio_Taller_Segovia_Molina_Photo_by_Zaickz.jpg?1785405223",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T15:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.359Z"
+  },
+  {
+    "id": "865f95e5-9162-4d0d-b076-bfad33047b38",
+    "title": "Flow House",
+    "creator": "Felipe Caboclo Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181910/flow-house-felipe-caboclo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a63/9903/d865/3d00/014d/0516/newsletter/20.jpg?1784912162",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T13:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.360Z"
+  },
+  {
+    "id": "c3212c70-12bc-4315-b67f-a4bbd355ca6f",
+    "title": "Live Oak Farm Pavilion",
+    "creator": "Austin Sandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181896/live-oak-farm-pavilion-austin-sandy-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/5e1e/1801/ca00/0176/e1c5/newsletter/Mahya-Salehi_Live-Oak-Farm_1.jpg?1785421371",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-07-30T12:00:00.000Z",
+    "ingested_at": "2026-07-31T15:25:30.360Z"
   }
 ]

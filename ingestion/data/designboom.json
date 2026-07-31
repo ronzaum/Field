@@ -7850,5 +7850,26 @@
     "material": [],
     "published_at": "2026-07-31T02:10:21.000Z",
     "ingested_at": "2026-07-31T04:25:58.768Z"
+  },
+  {
+    "id": "29c745f7-ca30-465f-8b32-452c2b22ab7a",
+    "title": "reclaimed materials and handcrafted finishes reshape historic townhouse in czech republic",
+    "creator": "ORA",
+    "location": "Oblouková 171",
+    "country": "Czech Republic",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/reclaimed-materials-handcrafted-finishes-historic-townhouse-czech-republic-obloukova-171-ora/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/obloukova-171-ora-zatec-czech-republicrenovation-townhouse-designboom-700-500x400-22b08q85r707.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the czech republic",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T14:15:56.000Z",
+    "ingested_at": "2026-07-31T15:25:31.322Z"
   }
 ]
