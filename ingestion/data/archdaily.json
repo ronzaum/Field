@@ -22690,5 +22690,22 @@
     "material": [],
     "published_at": "2026-07-31T17:00:00.000Z",
     "ingested_at": "2026-07-31T23:06:30.310Z"
+  },
+  {
+    "id": "86ba95a1-cac4-4081-8656-7567ccb20574",
+    "title": "Casa Mezcal",
+    "creator": "Barde + vanVoltt",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181746/casa-mezcal-barde-plus-vanvoltt",
+    "image_url": "https://images.adsttc.com/media/images/6a68/b499/d865/3d00/014d/0c6d/newsletter/13_CasaMezcal_BardevanVoltt_AlejandroRamirezOrozco.jpg?1785246950",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-07-31T19:00:00.000Z",
+    "ingested_at": "2026-08-01T03:27:07.214Z"
   }
 ]
