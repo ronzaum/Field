@@ -22894,5 +22894,22 @@
     "material": [],
     "published_at": "2026-08-02T11:00:00.000Z",
     "ingested_at": "2026-08-02T18:01:54.721Z"
+  },
+  {
+    "id": "08a73bfb-a65e-4170-af7a-2a6d3a8bbd9a",
+    "title": "Pisçude House",
+    "creator": "Revvero Arq + Mariana Bet Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182049/piscude-house-revvero-arq-plus-mariana-bet-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/8b7d/1801/ca00/0176/e7ca/newsletter/Revvero_Arq___Obra_-_5.jpg?1785498512",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T13:00:00.000Z",
+    "ingested_at": "2026-08-02T20:12:18.673Z"
   }
 ]
