@@ -22843,5 +22843,39 @@
     "material": [],
     "published_at": "2026-08-02T06:00:00.000Z",
     "ingested_at": "2026-08-02T12:05:59.545Z"
+  },
+  {
+    "id": "97d93ae2-71b0-4bee-b080-0bb1413ed734",
+    "title": "The Gígur Visitor Center in Iceland",
+    "creator": "SP(R)INT STUDIO + Nissen Richards Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181834/the-gigur-visitor-center-in-iceland-sp-r-int-studio-plus-nissen-richards-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/0e65/d865/3d00/014d/12d2/newsletter/1_-_The_G_gur_Visitor_Centre__Iceland.jpg?1785335549",
+    "typology": [
+      "Museum & Exhibition Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T10:00:00.000Z",
+    "ingested_at": "2026-08-02T16:03:27.705Z"
+  },
+  {
+    "id": "5a568d69-a1c4-477e-a549-d6ed82129572",
+    "title": "Panō Garcia Store",
+    "creator": "AIA Estúdio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182054/pano-garcia-store-aia-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a6f/2afe/1801/ca00/0176/eba0/newsletter/PANO_GARCIA_-_Aia_Estudio-1_MairaAcayaba.jpg?1785670422",
+    "typology": [
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-08-01T13:00:00.000Z",
+    "ingested_at": "2026-08-02T16:03:27.707Z"
   }
 ]
