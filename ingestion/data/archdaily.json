@@ -22911,5 +22911,56 @@
     "material": [],
     "published_at": "2026-08-02T13:00:00.000Z",
     "ingested_at": "2026-08-02T20:12:18.673Z"
+  },
+  {
+    "id": "43d2e976-fe0e-4360-93c5-21ee7e5a2281",
+    "title": "Marivan Medical Building",
+    "creator": "AsNow Design & Construct",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181953/marivan-medical-building-asnow-design-and-construct",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/7269/1801/ca00/0176/e625/newsletter/D__1_.jpg?1785492105",
+    "typology": [
+      "hospital"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T17:00:00.000Z",
+    "ingested_at": "2026-08-02T21:59:09.054Z"
+  },
+  {
+    "id": "87f79ed7-02fd-40f6-b5e5-9cb41d2b304c",
+    "title": "Bell House",
+    "creator": "BILBAO | LOPEZ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182005/bell-house-bilbao-lopez",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/8eac/1801/ca00/0176/e875/newsletter/058A7639.jpg?1785499407",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T16:00:00.000Z",
+    "ingested_at": "2026-08-02T21:59:09.055Z"
+  },
+  {
+    "id": "e6e620af-21e7-4fec-9b3c-13f1f7efdd0d",
+    "title": "Resonancia Installation",
+    "creator": "PPAA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181998/resonancia-ppaa",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/a787/0364/d201/89e9/7811/newsletter/resonancia-ppaa_14.jpg?1785505760",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T15:00:00.000Z",
+    "ingested_at": "2026-08-02T21:59:09.055Z"
   }
 ]
