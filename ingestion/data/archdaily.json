@@ -22826,5 +22826,22 @@
     "material": [],
     "published_at": "2026-08-01T21:00:00.000Z",
     "ingested_at": "2026-08-02T04:26:03.618Z"
+  },
+  {
+    "id": "e1036e47-ff45-4a93-9f98-4e97f3629be9",
+    "title": "041BÖT Apartment",
+    "creator": "Christopher Sitzler",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181753/041bot-apartment-christopher-sitzler",
+    "image_url": "https://images.adsttc.com/media/images/6a68/b766/d865/3d00/014d/0ceb/newsletter/250428_christopher-sitzler_lhs33_0017_1_Kopie.jpg?1785247670",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T06:00:00.000Z",
+    "ingested_at": "2026-08-02T12:05:59.545Z"
   }
 ]
