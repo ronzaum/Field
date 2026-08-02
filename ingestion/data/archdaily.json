@@ -22809,5 +22809,22 @@
     "material": [],
     "published_at": "2026-08-01T16:00:00.000Z",
     "ingested_at": "2026-08-02T00:02:29.898Z"
+  },
+  {
+    "id": "107f5f36-19cd-40b3-baad-ae6c0750da07",
+    "title": "EA House",
+    "creator": "Bokey Grant",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182004/ea-house-bokey-grant",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/ae24/4ea2/e401/8926/69bb/newsletter/ea-house-bokey-grant_17.jpg?1785507446",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-01T21:00:00.000Z",
+    "ingested_at": "2026-08-02T04:26:03.618Z"
   }
 ]
