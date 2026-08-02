@@ -22877,5 +22877,22 @@
     "material": [],
     "published_at": "2026-08-01T13:00:00.000Z",
     "ingested_at": "2026-08-02T16:03:27.707Z"
+  },
+  {
+    "id": "4d972183-a885-4ae3-b5f6-ce3e656928a0",
+    "title": "Casa Nido",
+    "creator": "Iterare arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181865/casa-nido-nesting-within-heritage-iterare-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/313c/1801/ca00/0176/e062/newsletter/ITERARE_ARQUITECTOS_NESTED_HOUSE_1.jpg?1785409887",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T11:00:00.000Z",
+    "ingested_at": "2026-08-02T18:01:54.721Z"
   }
 ]
