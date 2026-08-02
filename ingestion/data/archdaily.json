@@ -22775,5 +22775,39 @@
     "material": [],
     "published_at": "2026-08-01T10:00:00.000Z",
     "ingested_at": "2026-08-01T17:05:13.065Z"
+  },
+  {
+    "id": "116f7c32-6b41-4fcf-8f29-9c9998182ed2",
+    "title": "Cafe N+",
+    "creator": "Horibe Associates",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181882/cafe-n-plus-horibe-associates",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/53a0/0364/d201/89e9/717e/newsletter/cafe-n-plus-horibe-associates_2.jpg?1785418734",
+    "typology": [
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-08-01T17:00:00.000Z",
+    "ingested_at": "2026-08-02T00:02:29.898Z"
+  },
+  {
+    "id": "59503f70-f824-47b4-ae2a-b2ee664ab968",
+    "title": "Looking South House",
+    "creator": "PLUG arquitectura modular",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182021/looking-south-house-plug-arquitectura-modular",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/bc8c/1801/ca00/0176/e9d0/newsletter/PLUG_-16_RET.jpg?1785511081",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-01T16:00:00.000Z",
+    "ingested_at": "2026-08-02T00:02:29.898Z"
   }
 ]
