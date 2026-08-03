@@ -23064,5 +23064,22 @@
     "material": [],
     "published_at": "2026-08-03T10:00:00.000Z",
     "ingested_at": "2026-08-03T14:49:44.970Z"
+  },
+  {
+    "id": "ac4af6d5-e2cf-434a-84f9-b26e2071fde3",
+    "title": "Snider House",
+    "creator": "Giannone Petricone Associates Inc. Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181851/snider-house-giannone-petricone-associates-inc-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/71b0/1801/ca00/0176/df05/newsletter/04_GPA_Snider_House_credit_Scott_Norsworthy.jpg?1785360991",
+    "typology": [
+      "Heritage"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T12:00:00.000Z",
+    "ingested_at": "2026-08-03T17:11:29.627Z"
   }
 ]
