@@ -23081,5 +23081,39 @@
     "material": [],
     "published_at": "2026-08-03T12:00:00.000Z",
     "ingested_at": "2026-08-03T17:11:29.627Z"
+  },
+  {
+    "id": "3ba1807c-36cd-4ae4-a1fb-e0828c68c17e",
+    "title": "Aroeira House",
+    "creator": "FGMF",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182130/aroeira-house-fgmf",
+    "image_url": "https://images.adsttc.com/media/images/6a70/bd53/1801/ca00/0176/f0a3/newsletter/_DSF1570-Pano.jpg?1785773412",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T17:00:00.000Z",
+    "ingested_at": "2026-08-03T23:06:54.780Z"
+  },
+  {
+    "id": "b351ffc9-c62a-45e3-a688-ad098ef7b536",
+    "title": "Casa Akíga",
+    "creator": "Studio Saxe",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182002/casa-akiga-studio-saxe",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/aeb9/0364/d201/89e9/78a8/newsletter/casa-akiga-studio-saxe_3.jpg?1785507529",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T15:00:00.000Z",
+    "ingested_at": "2026-08-03T23:06:54.781Z"
   }
 ]
