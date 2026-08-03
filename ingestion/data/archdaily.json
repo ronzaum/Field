@@ -22979,5 +22979,73 @@
     "material": [],
     "published_at": "2026-08-02T21:00:00.000Z",
     "ingested_at": "2026-08-03T03:28:48.470Z"
+  },
+  {
+    "id": "88537def-4997-4481-8409-54a2b8b3d6ce",
+    "title": "The Martin Residential Building",
+    "creator": "OMA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181924/the-martin-residential-building-oma",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/c809/0364/d201/89e9/7459/newsletter/the-martin-oma_15.jpg?1785448690",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T07:00:00.000Z",
+    "ingested_at": "2026-08-03T11:30:53.119Z"
+  },
+  {
+    "id": "23bd9159-18bd-4151-9b58-47c2f94e9bb3",
+    "title": "The Fun House",
+    "creator": "alto design studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181839/the-fun-house-alto-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/228f/1801/ca00/0176/de6e/newsletter/1_Ana_Skobe.jpg?1785340670",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T06:00:00.000Z",
+    "ingested_at": "2026-08-03T11:30:53.120Z"
+  },
+  {
+    "id": "34706656-766f-4495-8506-3945937d3e7d",
+    "title": "Machida Station Area Community Hub “Hatmachida”",
+    "creator": "Nikken Sekkei",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181947/machida-station-area-community-hub-hatmachida-nikken-sekkei",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/713b/1801/ca00/0176/e584/newsletter/hatmachida_03_nikken_Photo_by_Shota_Hiyoshi.jpg?1785491797",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T03:00:00.000Z",
+    "ingested_at": "2026-08-03T11:30:53.120Z"
+  },
+  {
+    "id": "f675e785-608e-4e78-a9f1-4cae9147cb3f",
+    "title": "Reborn House",
+    "creator": "DARE – Design Arena + Research",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181954/reborn-house-dare-design-arena-plus-research",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/ce5a/4ea2/e401/8926/6c75/newsletter/reborn-house-dare-design-arena-plus-research_20.jpg?1785515615",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T02:00:00.000Z",
+    "ingested_at": "2026-08-03T11:30:53.120Z"
   }
 ]

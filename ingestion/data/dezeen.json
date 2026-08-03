@@ -1122,5 +1122,26 @@
     "material": [],
     "published_at": "2026-07-31T14:03:38.000Z",
     "ingested_at": "2026-07-31T15:25:30.554Z"
+  },
+  {
+    "id": "c28c66f8-62f6-4a3b-8243-cb6f94253071",
+    "title": "Plug-in solar panels to be available in UK",
+    "creator": "end of summer",
+    "location": "News",
+    "country": "UK",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/08/03/plug-in-solar-panels-available-uk-end-summer/",
+    "image_url": "http://static.dezeen.com/uploads/2026/07/plug-in-solar-panels-uk-news-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Solar power",
+      "Politics",
+      "Renewable energy",
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T05:00:37.000Z",
+    "ingested_at": "2026-08-03T11:30:53.523Z"
   }
 ]

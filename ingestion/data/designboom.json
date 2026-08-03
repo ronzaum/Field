@@ -7940,5 +7940,48 @@
     "material": [],
     "published_at": "2026-08-02T20:45:50.000Z",
     "ingested_at": "2026-08-02T23:03:33.273Z"
+  },
+  {
+    "id": "0b84a308-9090-4ad2-b28d-b4ad43e2845e",
+    "title": "franck bohbot captures the vienna state opera before the curtain rises",
+    "creator": "thomai tsimpou",
+    "location": "Vienna",
+    "country": "Austria",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/franck-bohbot-vienna-state-opera-curtain-rises-designboom-700-500x400-22b08q85r878.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architectural photography",
+      "architecture in austria",
+      "franck bohbot"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T09:25:02.000Z",
+    "ingested_at": "2026-08-03T11:30:54.734Z"
+  },
+  {
+    "id": "48013e01-573d-4cb5-8572-e3bf0dafa543",
+    "title": "atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof",
+    "creator": "Iñaki Laguardia",
+    "location": "Yangshuo",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/atelier-guo-stream-restaurant-sweeping-concrete-roof-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/atelier-guo-stream-restaurant-gion-von-albertini-05-copy-500x400-22b08q85r923.jpg",
+    "typology": [
+      "architecture",
+      "category banner",
+      "architecture in china",
+      "concrete architecture and design",
+      "restaurant and café design",
+      "rooftop architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T07:49:14.000Z",
+    "ingested_at": "2026-08-03T11:30:54.740Z"
   }
 ]
