@@ -22962,5 +22962,22 @@
     "material": [],
     "published_at": "2026-08-02T15:00:00.000Z",
     "ingested_at": "2026-08-02T21:59:09.055Z"
+  },
+  {
+    "id": "b7ec4d70-4387-40a7-af3b-56b99b5d6c99",
+    "title": "The Saffron Verandah House",
+    "creator": "HabitArt Architecture Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181979/the-saffron-verandah-house-habitart-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/87c7/1801/ca00/0176/e7b7/newsletter/DSC_8918.jpg?1785497641",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-02T21:00:00.000Z",
+    "ingested_at": "2026-08-03T03:28:48.470Z"
   }
 ]
