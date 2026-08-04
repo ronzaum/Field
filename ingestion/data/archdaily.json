@@ -23183,5 +23183,39 @@
     "material": [],
     "published_at": "2026-08-04T02:00:00.000Z",
     "ingested_at": "2026-08-04T08:45:52.169Z"
+  },
+  {
+    "id": "9bfcfbbc-679c-4960-9eb0-2b05f9baebfd",
+    "title": "Shenzhen Natural History Museum",
+    "creator": "3XN + B+H Architects + ZHUBO Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181841/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/cae3/0364/d201/89e9/6efa/newsletter/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design_6.jpg?1785383691",
+    "typology": [
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T07:00:00.000Z",
+    "ingested_at": "2026-08-04T14:27:02.507Z"
+  },
+  {
+    "id": "fb8d499b-cb50-4641-92f4-7970cbb37c69",
+    "title": "The Vertical Playgarden",
+    "creator": "Studio KRAFT",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181840/the-vertical-playgarden-studio-kraft",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/22bb/1801/ca00/0176/de91/newsletter/08_Bajza_Vertical_Playgarden_-_The_Whole_Schoole_Yard.jpg?1785340641",
+    "typology": [
+      "Other facilities"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T06:00:00.000Z",
+    "ingested_at": "2026-08-04T14:27:02.507Z"
   }
 ]
