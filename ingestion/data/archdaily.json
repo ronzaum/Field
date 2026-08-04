@@ -23115,5 +23115,22 @@
     "material": [],
     "published_at": "2026-08-03T15:00:00.000Z",
     "ingested_at": "2026-08-03T23:06:54.781Z"
+  },
+  {
+    "id": "2e114982-d6cb-4d9f-824f-24eacf37272f",
+    "title": "Alamos House",
+    "creator": "En Obra Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182111/alamos-house-en-obra-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a70/68a0/1801/ca00/0176/edff/newsletter/imperialfotografia.jpg?1785751732",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-03T19:00:00.000Z",
+    "ingested_at": "2026-08-04T02:56:55.480Z"
   }
 ]
