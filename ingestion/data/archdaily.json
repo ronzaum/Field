@@ -23268,5 +23268,22 @@
     "material": [],
     "published_at": "2026-08-04T13:00:00.000Z",
     "ingested_at": "2026-08-04T18:42:55.374Z"
+  },
+  {
+    "id": "ad65b05e-8028-4e81-a4da-035543e285ef",
+    "title": "Casa Tertulia",
+    "creator": "Marcela Carranza Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182176/casa-tertulia-marcela-carranza-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a70/50f7/1801/ca00/0176/ec99/newsletter/01.jpg?1785745690",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T15:00:00.000Z",
+    "ingested_at": "2026-08-04T20:36:39.694Z"
   }
 ]
