@@ -23251,5 +23251,22 @@
     "material": [],
     "published_at": "2026-08-04T10:00:00.000Z",
     "ingested_at": "2026-08-04T16:56:20.908Z"
+  },
+  {
+    "id": "3cbb62f6-e4a3-412d-bfe7-9ca0114ba564",
+    "title": "Tamarindo Apartment",
+    "creator": "Estúdio Minke",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
+    "image_url": "https://images.adsttc.com/media/images/6a71/e37d/4460/0501/896d/017a/newsletter/apartamento-tamarindo-estudio-minke_9.jpg?1785848779",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T13:00:00.000Z",
+    "ingested_at": "2026-08-04T18:42:55.374Z"
   }
 ]
