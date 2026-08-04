@@ -8024,5 +8024,26 @@
     "material": [],
     "published_at": "2026-08-03T23:45:54.000Z",
     "ingested_at": "2026-08-04T08:45:53.112Z"
+  },
+  {
+    "id": "031fd888-fa8a-4ce3-bea8-ae17063af7bb",
+    "title": "from the classroom to the dream architecture practice: yacademy’s placement at chipperfield, BIG & snøhetta",
+    "creator": "mariana rodrigues",
+    "location": "Bologna",
+    "country": "Italy (In-person & Online)",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/yacademy-placement-program/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/07/yac_designboom_700-500x400-22b08q85r713.jpg",
+    "typology": [
+      "architecture",
+      "architecture: bjarke ingels group / BIG | @big_builds",
+      "david chipperfield architects",
+      "school architecture and design",
+      "snohetta"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T10:00:30.000Z",
+    "ingested_at": "2026-08-04T11:28:16.745Z"
   }
 ]
