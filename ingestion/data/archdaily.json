@@ -23217,5 +23217,39 @@
     "material": [],
     "published_at": "2026-08-04T06:00:00.000Z",
     "ingested_at": "2026-08-04T14:27:02.507Z"
+  },
+  {
+    "id": "5811e430-f62a-48c5-908f-6fe279b9eba8",
+    "title": "Granada Echo Park House",
+    "creator": "Granada Form",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181928/granada-echo-park-granada-form",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/f567/1801/ca00/0176/e44f/newsletter/Living_Room_2243_HR.jpg?1785460178",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T12:00:00.000Z",
+    "ingested_at": "2026-08-04T16:56:20.907Z"
+  },
+  {
+    "id": "514b6593-6338-431f-8fa8-3f95eaa70d4c",
+    "title": "Cultural Center La Tuilerie in Limoux",
+    "creator": "Ferrier Marchetti Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/5f1e/0364/d201/89e9/6e9e/newsletter/cultural-centre-la-tuilerie-in-limoux-ferrier-marchetti-studio_17.jpg?1785356105",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T10:00:00.000Z",
+    "ingested_at": "2026-08-04T16:56:20.908Z"
   }
 ]
