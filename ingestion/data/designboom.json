@@ -8045,5 +8045,26 @@
     "material": [],
     "published_at": "2026-08-04T10:00:30.000Z",
     "ingested_at": "2026-08-04T11:28:16.745Z"
+  },
+  {
+    "id": "f0f8a2c7-a1d4-4231-9f52-888c1bf8e490",
+    "title": "japan’s fruit-shaped bus stops offer travelers a sweeter shelter",
+    "creator": "Yoshitsugu Industries and Time Design Office",
+    "location": "Konagai",
+    "country": "Japan",
+    "year": 1989,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/japan-fruit-shaped-bus-stops-play-konagai-nagasaki/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/fruit-bus-stops-konagai-nagasaki-japan-designboom-700-500x400-22b08q85r390.jpg",
+    "typology": [
+      "architecture",
+      "architecture in japan",
+      "food art",
+      "PLAY",
+      "public transportation"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T20:45:10.000Z",
+    "ingested_at": "2026-08-04T22:16:58.915Z"
   }
 ]
