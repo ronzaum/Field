@@ -23132,5 +23132,22 @@
     "material": [],
     "published_at": "2026-08-03T19:00:00.000Z",
     "ingested_at": "2026-08-04T02:56:55.480Z"
+  },
+  {
+    "id": "4b6b8b82-8a72-4746-a860-84ebfad9ec3c",
+    "title": "Dynaudio Lounge",
+    "creator": "cold lab",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182062/dynaudio-lounge-cold-lab",
+    "image_url": "https://images.adsttc.com/media/images/6a70/3333/1801/ca00/0176/ec53/newsletter/09_02___04___.jpg?1785738124",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T00:00:00.000Z",
+    "ingested_at": "2026-08-04T05:54:55.079Z"
   }
 ]
