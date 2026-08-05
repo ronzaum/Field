@@ -8087,5 +8087,25 @@
     "material": [],
     "published_at": "2026-08-05T02:10:21.000Z",
     "ingested_at": "2026-08-05T04:14:25.653Z"
+  },
+  {
+    "id": "2fb781d1-0a9b-44e2-bedc-a655d9b3245a",
+    "title": "MVRDV brings its vertical village concept to shenzhen with mixed-use cultural hub",
+    "creator": "MVRDV",
+    "location": "Shenzhen",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub-designboom-700-500x400-22b08q85r131.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "architecture in shenzhen",
+      "MVRDV"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T10:35:32.000Z",
+    "ingested_at": "2026-08-05T10:40:55.579Z"
   }
 ]
