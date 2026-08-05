@@ -23387,5 +23387,22 @@
     "material": [],
     "published_at": "2026-08-05T06:00:00.000Z",
     "ingested_at": "2026-08-05T12:57:34.347Z"
+  },
+  {
+    "id": "af5ca4d2-a33b-497a-aa93-324d927bad1d",
+    "title": "UCAD Dakar Student Housing",
+    "creator": "Hardel Le Bihan Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181926/ucad-dakar-student-housing-hardel-le-bihan-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/e6ed/0364/d201/89e9/74a4/newsletter/ucad-dakar-student-housing-hardel-le-bihan-architectes_1.jpg?1785456387",
+    "typology": [
+      "Dorms"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T07:00:00.000Z",
+    "ingested_at": "2026-08-05T15:21:55.455Z"
   }
 ]
