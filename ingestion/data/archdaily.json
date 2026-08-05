@@ -23404,5 +23404,39 @@
     "material": [],
     "published_at": "2026-08-05T07:00:00.000Z",
     "ingested_at": "2026-08-05T15:21:55.455Z"
+  },
+  {
+    "id": "d0b37bea-43b0-4fa5-abd1-42c5c316c591",
+    "title": "Paraiso Remodel",
+    "creator": "Austin Sandy Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181897/paraiso-remodel-austin-sandy-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/5e23/1801/ca00/0176/e1f1/newsletter/Mahya-Salehi_Paraiso_16.jpg?1785421578",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T12:00:00.000Z",
+    "ingested_at": "2026-08-05T17:45:22.649Z"
+  },
+  {
+    "id": "88b970e2-32eb-4528-9e55-1afa3141cfd8",
+    "title": "RDH House",
+    "creator": "Čechvala Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181952/rdh-house-cechvala-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/71e0/1801/ca00/0176/e611/newsletter/C_ECHVALA_ARCHITECTS_RDH_-_photo_by_alex_shoots_buildings__7_of_20_.jpg?1785491953",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T10:00:00.000Z",
+    "ingested_at": "2026-08-05T17:45:22.650Z"
   }
 ]
