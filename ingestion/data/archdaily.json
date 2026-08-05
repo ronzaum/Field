@@ -23438,5 +23438,22 @@
     "material": [],
     "published_at": "2026-08-05T10:00:00.000Z",
     "ingested_at": "2026-08-05T17:45:22.650Z"
+  },
+  {
+    "id": "3efe2c16-e835-4aa5-87bf-542c98a3e25d",
+    "title": "PH Juana",
+    "creator": "Estudio NU",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182277/ph-juana-estudio-nu",
+    "image_url": "https://images.adsttc.com/media/images/6a71/c198/5b21/b900/0199/29b8/newsletter/PH-21.jpg?1785840596",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T15:00:00.000Z",
+    "ingested_at": "2026-08-05T23:04:54.270Z"
   }
 ]
