@@ -23285,5 +23285,39 @@
     "material": [],
     "published_at": "2026-08-04T15:00:00.000Z",
     "ingested_at": "2026-08-04T20:36:39.694Z"
+  },
+  {
+    "id": "a78cd94f-0f06-41cf-8784-281447f48a0b",
+    "title": "Atalaya House",
+    "creator": "Refugio Outdoor",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182202/atalaya-house-refugio-outdoor",
+    "image_url": "https://images.adsttc.com/media/images/6a71/c2f7/5b21/b900/0199/29c8/newsletter/Copia_de_Exterior__9-2_.jpg?1785840409",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T19:00:00.000Z",
+    "ingested_at": "2026-08-05T04:14:24.591Z"
+  },
+  {
+    "id": "3ee89fdb-e320-4f8e-a2bf-999062df6ebf",
+    "title": "Architecture Studio in Vila do Conde",
+    "creator": "Raulino Silva Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182124/architecture-studio-in-vila-do-conde-raulino-silva-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6a70/bdda/1801/ca00/0176/f0c0/newsletter/Atelier_Raulino_Silva_-_photo_Jos__Campos__35_.jpg?1785773596",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-04T17:00:00.000Z",
+    "ingested_at": "2026-08-05T04:14:24.591Z"
   }
 ]

@@ -8066,5 +8066,26 @@
     "material": [],
     "published_at": "2026-08-04T20:45:10.000Z",
     "ingested_at": "2026-08-04T22:16:58.915Z"
+  },
+  {
+    "id": "0d5e8294-d8a5-41a4-a14c-1a67b179e6ac",
+    "title": "bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood",
+    "creator": "Zoltan E. Pali, FAIA",
+    "location": "West Hollywood",
+    "country": "California",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-harper-avenue-apartments/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-designboom-700-500x400-22b08q85r792.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in california",
+      "residential architecture and interiors",
+      "SPF architects"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T02:10:21.000Z",
+    "ingested_at": "2026-08-05T04:14:25.653Z"
   }
 ]
