@@ -23370,5 +23370,22 @@
     "material": [],
     "published_at": "2026-08-05T00:00:00.000Z",
     "ingested_at": "2026-08-05T07:43:22.664Z"
+  },
+  {
+    "id": "9e4bd87e-6df3-4873-acf3-2ccd95870672",
+    "title": "Treelithon - A countryside retreat",
+    "creator": "Not a Number Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181856/treelithon-a-countryside-retreat-not-a-number-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6b/1007/1801/ca00/0176/df94/newsletter/Stone_houses_-_Not_a_number_architects_-_photo_alex_shoots_buildings__27_.jpg?1785401371",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T06:00:00.000Z",
+    "ingested_at": "2026-08-05T12:57:34.347Z"
   }
 ]
