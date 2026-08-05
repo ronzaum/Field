@@ -23319,5 +23319,56 @@
     "material": [],
     "published_at": "2026-08-04T17:00:00.000Z",
     "ingested_at": "2026-08-05T04:14:24.591Z"
+  },
+  {
+    "id": "6d692221-2d52-488f-9848-253469411cc0",
+    "title": "CMM (H)Office",
+    "creator": "Gets Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182108/cmm-h-office-gets-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a70/9790/1801/ca00/0176/ef40/newsletter/CMM__2_.jpg?1785763742",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T03:00:00.000Z",
+    "ingested_at": "2026-08-05T07:43:22.664Z"
+  },
+  {
+    "id": "8fd9c5cc-6966-4e9c-919a-64b805354d2c",
+    "title": "Exalt Mausoleum",
+    "creator": "Jim Caumeron Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182074/exalt-mausoleum-jim-caumeron-design",
+    "image_url": "https://images.adsttc.com/media/images/6a70/8410/4ea2/e401/8926/6f6f/newsletter/exalt-mausoleum-jim-caumeron-design_19.jpg?1785758846",
+    "typology": [
+      "Crypts & Mausoleums"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T02:00:00.000Z",
+    "ingested_at": "2026-08-05T07:43:22.664Z"
+  },
+  {
+    "id": "c7e59600-5e82-4831-ade6-d43a2e9496c1",
+    "title": "Minzu Lane Coffee",
+    "creator": "Modum Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182067/minzu-lane-coffee-modum-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6a70/3c13/1801/ca00/0176/ec88/newsletter/11Second_Floor___Liu_Guowei.jpg?1785740441",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T00:00:00.000Z",
+    "ingested_at": "2026-08-05T07:43:22.664Z"
   }
 ]
