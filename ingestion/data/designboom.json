@@ -8212,5 +8212,51 @@
     "material": [],
     "published_at": "2026-08-06T06:15:55.000Z",
     "ingested_at": "2026-08-06T08:47:55.068Z"
+  },
+  {
+    "id": "2c856125-960e-4e43-b54b-cf7d123a6d61",
+    "title": "SIDELINED asks what happens when sport stops producing winners and losers",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sidelined-sport-winners-losers-gabriel-fontana-amanda-pinatih-nieuwe-instituut/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/sidelined-sport-winners-losers-gabriel-fontana-amanda-pinatih-nieuwe-instituut-designboom-700-500x400-22b08q85r676.jpg",
+    "typology": [
+      "architecture",
+      "concéntrico",
+      "nieuwe instituut",
+      "PLAY",
+      "sports",
+      "venice architecture biennale 2025"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T10:50:44.000Z",
+    "ingested_at": "2026-08-06T11:27:26.278Z"
+  },
+  {
+    "id": "a30dc02b-e26d-4715-8581-6c6d66f1025f",
+    "title": "studio KRAFT reclaims limited schoolyard space with vertical play garden in budapest",
+    "creator": "Studio KRAFT",
+    "location": "Budapest",
+    "country": "Hungary",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest-designboom-700-500x400-22b08q85r990.jpg",
+    "typology": [
+      "architecture",
+      "video",
+      "architecture in hungary",
+      "children's spaces",
+      "PLAY",
+      "playgrounds",
+      "school architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T07:45:23.000Z",
+    "ingested_at": "2026-08-06T11:27:26.286Z"
   }
 ]

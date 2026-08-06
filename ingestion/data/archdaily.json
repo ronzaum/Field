@@ -23540,5 +23540,56 @@
     "material": [],
     "published_at": "2026-08-06T00:00:00.000Z",
     "ingested_at": "2026-08-06T08:47:54.178Z"
+  },
+  {
+    "id": "d6035971-0586-4ce9-9b23-9762c80d6ff0",
+    "title": "Chengdu Pavilion",
+    "creator": "IwamotoScott Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182047/chengdu-pavilion-iwamotoscott-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/db95/1801/ca00/0176/eb50/newsletter/Chengdu_Pavilion_1a_DSC1591m_2880p.jpg?1785519021",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T07:00:00.000Z",
+    "ingested_at": "2026-08-06T11:27:24.344Z"
+  },
+  {
+    "id": "4829adf7-586f-4aa5-a28b-bcf397aa9156",
+    "title": "Masseria Ficazzella",
+    "creator": "Valari Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181918/masseria-ficazzella-valari-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a71/ce58/4460/0501/896d/00c6/newsletter/masseria-ficazzella-valari-studio_15.jpg?1785843432",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T06:00:00.000Z",
+    "ingested_at": "2026-08-06T11:27:24.345Z"
+  },
+  {
+    "id": "ec28627a-c8e8-4928-9551-c8220b07414c",
+    "title": "The Plinth House",
+    "creator": "Cambra Buró",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181864/the-plinth-house-cambra-buro",
+    "image_url": "https://images.adsttc.com/media/images/6a73/05f7/eb02/9f01/882a/2334/newsletter/the-plinth-house-cambra-buro_18.jpg?1785923080",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T03:00:00.000Z",
+    "ingested_at": "2026-08-06T11:27:24.345Z"
   }
 ]
