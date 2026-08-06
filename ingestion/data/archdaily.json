@@ -23472,5 +23472,39 @@
     "material": [],
     "published_at": "2026-08-05T19:00:00.000Z",
     "ingested_at": "2026-08-06T02:56:44.782Z"
+  },
+  {
+    "id": "69cc60dc-3434-4891-8ac0-7b448a17004f",
+    "title": "Praça House",
+    "creator": "Felipe Hess Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033066/praca-house-felipe-hess-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6899/e204/a805/bb5c/ec3d/f4e3/newsletter/casa-praca-felipe-hess-arquitetos_29.jpg?1754915345",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T17:00:00.000Z",
+    "ingested_at": "2026-08-06T05:56:01.266Z"
+  },
+  {
+    "id": "49a5751f-47ff-499f-852c-4b505ea9977b",
+    "title": "HD House",
+    "creator": "Desvão Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1032288/hd-house-desvao-atelier",
+    "image_url": "https://images.adsttc.com/media/images/687a/7b78/30ea/9701/57f7/09be/newsletter/casa-hd-desvao-atelier_1.jpg?1752857491",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T13:00:00.000Z",
+    "ingested_at": "2026-08-06T05:56:01.267Z"
   }
 ]
