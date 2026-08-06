@@ -23455,5 +23455,22 @@
     "material": [],
     "published_at": "2026-08-05T15:00:00.000Z",
     "ingested_at": "2026-08-05T23:04:54.270Z"
+  },
+  {
+    "id": "d7bee8a4-1ba1-490e-82ad-ea12d27e4267",
+    "title": "Brutalist Penthouse",
+    "creator": "Barde + vanVoltt",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181747/brutalist-penthouse-barde-plus-vanvoltt",
+    "image_url": "https://images.adsttc.com/media/images/6a68/b547/d865/3d00/014d/0c87/newsletter/3_WebResolution_EscandonPH_BardeVanVoltt_PhotoByAlejandroRamirezOrozco.jpg?1785247160",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-05T19:00:00.000Z",
+    "ingested_at": "2026-08-06T02:56:44.782Z"
   }
 ]
