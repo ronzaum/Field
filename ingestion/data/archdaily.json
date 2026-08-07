@@ -23710,5 +23710,22 @@
     "material": [],
     "published_at": "2026-08-06T19:00:00.000Z",
     "ingested_at": "2026-08-07T03:52:26.685Z"
+  },
+  {
+    "id": "e8045d38-f1e7-4886-8345-80352152762f",
+    "title": "School of Mathematical Sciences, Peking University",
+    "creator": "FEI Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182205/school-of-mathematical-sciences-peking-university-fei-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a72/4e98/eb02/9f01/882a/216f/newsletter/school-of-mathematical-sciences-peking-university-fei-architects_5.jpg?1785876235",
+    "typology": [
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T00:00:00.000Z",
+    "ingested_at": "2026-08-07T05:43:42.008Z"
   }
 ]
