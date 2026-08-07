@@ -23829,5 +23829,39 @@
     "material": [],
     "published_at": "2026-08-07T12:00:00.000Z",
     "ingested_at": "2026-08-07T19:03:11.634Z"
+  },
+  {
+    "id": "6458a3dc-c2a9-43ec-a285-e35240e912dd",
+    "title": "Collective Housing in Vila do Conde",
+    "creator": "Raulino Silva Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182435/collective-housing-in-vila-do-conde-raulino-silva-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6a76/06c7/3cf9/6c00/0177/ff82/newsletter/V.Conde_-_Raulino_Arch_-_photo_Santos-D_ez_01.jpg?1786119933",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T17:00:00.000Z",
+    "ingested_at": "2026-08-07T22:41:09.973Z"
+  },
+  {
+    "id": "486a07ba-4e79-4df2-ab26-141dd2fc558f",
+    "title": "Weekend House in Krámy",
+    "creator": "Anna Koukolová architekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6a75/a36b/ab59/ca01/8994/3a8e/newsletter/weekend-house-in-kramy-anna-koukolova-architekti_28.jpg?1786094513",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T15:00:00.000Z",
+    "ingested_at": "2026-08-07T22:41:09.973Z"
   }
 ]
