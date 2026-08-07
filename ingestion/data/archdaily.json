@@ -23693,5 +23693,22 @@
     "material": [],
     "published_at": "2026-08-06T10:00:00.000Z",
     "ingested_at": "2026-08-07T00:42:23.163Z"
+  },
+  {
+    "id": "84a2c1be-bf8e-4297-8bf3-baf64e7481ff",
+    "title": "Esh Hotel and Spa",
+    "creator": "FAMM Arquitectura + Sulkin Askenazi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182302/esh-hotel-and-spa-famm-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a74/40f1/eee6/f800/0125/f627/newsletter/FAMM-Esh_Hotel_34.jpg?1786003979",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T19:00:00.000Z",
+    "ingested_at": "2026-08-07T03:52:26.685Z"
   }
 ]
