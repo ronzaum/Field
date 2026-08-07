@@ -23778,5 +23778,22 @@
     "material": [],
     "published_at": "2026-08-07T06:00:00.000Z",
     "ingested_at": "2026-08-07T11:50:50.566Z"
+  },
+  {
+    "id": "a70b787d-3138-40cf-bbd3-f413c176d315",
+    "title": "Casa Eva",
+    "creator": "S-AR",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182293/casa-eva-s-ar",
+    "image_url": "https://images.adsttc.com/media/images/6a73/8fab/eb02/9f01/882a/2666/newsletter/casa-eva-s-ar_3.jpg?1785958329",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T07:00:00.000Z",
+    "ingested_at": "2026-08-07T13:14:18.752Z"
   }
 ]
