@@ -23591,5 +23591,107 @@
     "material": [],
     "published_at": "2026-08-06T03:00:00.000Z",
     "ingested_at": "2026-08-06T11:27:24.345Z"
+  },
+  {
+    "id": "bacbc673-d229-48ac-8a71-2ce8438a03f5",
+    "title": "Paquetá House",
+    "creator": "Zebulun Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182295/paqueta-house-zebulun-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a73/9b84/eb02/9f01/882a/269d/newsletter/casa-paqueta-zebulun-arquitetura_1.jpg?1785961376",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T17:00:00.000Z",
+    "ingested_at": "2026-08-07T00:42:23.161Z"
+  },
+  {
+    "id": "bfbdb6de-2afd-4232-8c1a-3121fc02e90f",
+    "title": "Feliza Bursztyn School",
+    "creator": "AR-AR (Martínez Arquitectura)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182339/feliza-bursztyn-school-ar-ar-martinez-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a74/6cb1/eee6/f800/0125/f755/newsletter/5._Aeral_view_of_the_staircase_Teodoro_Posada.jpg?1786014940",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T15:00:00.000Z",
+    "ingested_at": "2026-08-07T00:42:23.162Z"
+  },
+  {
+    "id": "24aa43a5-0989-47a9-a340-99c7094ddbd0",
+    "title": "Coral Barn Alvorada House",
+    "creator": "Nildo José Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a73/7d31/5b21/b900/0199/3083/newsletter/_B0A5691-1__com_filtro_-alta.jpg?1785953622",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T13:00:00.000Z",
+    "ingested_at": "2026-08-07T00:42:23.162Z"
+  },
+  {
+    "id": "b06ad697-a159-4512-bcfa-a6912b9db74c",
+    "title": "Helix Residence",
+    "creator": "SAOTA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041737/helix-residence-saota",
+    "image_url": "https://images.adsttc.com/media/images/6a0f/0884/35eb/2400/01f0/419e/newsletter/R17099_N16_lr.jpg?1779370155",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T13:00:00.000Z",
+    "ingested_at": "2026-08-07T00:42:23.162Z"
+  },
+  {
+    "id": "147cf4c3-80ef-4ccf-a6b5-7bcccb6cba65",
+    "title": "Tiger Track Ecolodge",
+    "creator": "Building Bureau",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182211/tiger-track-ecolodge-building-bureau",
+    "image_url": "https://images.adsttc.com/media/images/6a72/8e19/5b21/b900/0199/2c6d/newsletter/BB_-_Tiger_Track_Office.jpg?1785892608",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T12:00:00.000Z",
+    "ingested_at": "2026-08-07T00:42:23.162Z"
+  },
+  {
+    "id": "5487af81-c393-4e96-af0b-02fd495189c9",
+    "title": "Val d'Oust Cultural Center",
+    "creator": "Atelier 56S",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182109/val-doust-cultural-center-atelier-56s",
+    "image_url": "https://images.adsttc.com/media/images/6a70/98ac/1801/ca00/0176/ef6d/newsletter/CULTURAL_CENTER_Atelier56S_01___Charly_Broyez__WEB.jpg?1785764041",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T10:00:00.000Z",
+    "ingested_at": "2026-08-07T00:42:23.163Z"
   }
 ]

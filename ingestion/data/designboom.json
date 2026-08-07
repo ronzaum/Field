@@ -8258,5 +8258,68 @@
     "material": [],
     "published_at": "2026-08-06T07:45:23.000Z",
     "ingested_at": "2026-08-06T11:27:26.286Z"
+  },
+  {
+    "id": "84d65929-7142-40d5-a70c-825118da40b7",
+    "title": "triangulated steel lattice redefines new gateway to barcelona’s logistics park",
+    "creator": "MIAS Architects",
+    "location": "Barcelona",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/triangulated-steel-lattice-gateway-barcelona-logistics-park-mias-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/mias-architects-new-access-gateway-zona-franca-logistics-park-barcelona-designboom-700-1-500x400-22b08q85r068.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in barcelona",
+      "renovation and restoration architecture and design",
+      "steel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T20:35:05.000Z",
+    "ingested_at": "2026-08-07T00:42:23.987Z"
+  },
+  {
+    "id": "ce733c17-41ab-44ac-b174-52dfff18d641",
+    "title": "bamboo pier brings a new public waterfront to the fishermen of pattani, thailand",
+    "creator": "HAS Design and Research",
+    "location": "Pattani",
+    "country": "Thailand",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bamboo-pier-pattani-fishermen-community-hub-thailand-has/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/HAS-pattani-fishermen-community-hub-thailand-designboom-700-500x400-22b08q85r485.jpg",
+    "typology": [
+      "architecture",
+      "architecture in thailand",
+      "bamboo architecture and design",
+      "HAS design and research"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T16:18:37.000Z",
+    "ingested_at": "2026-08-07T00:42:24.000Z"
+  },
+  {
+    "id": "476988ea-90f5-403f-b5fa-9d75c6f6c0ec",
+    "title": "three conical timber roofs crown open community cabin in south london",
+    "creator": "Burgess Architects",
+    "location": "Feltham",
+    "country": "London",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/three-conical-timber-roofs-open-community-cabin-south-london-burgess-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/burgess-architects-feltham-green-cabin-london-designboom-700-500x400-22b08q85r288.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in london",
+      "cabin architecture and design",
+      "rooftop architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-06T14:35:08.000Z",
+    "ingested_at": "2026-08-07T00:42:24.006Z"
   }
 ]
