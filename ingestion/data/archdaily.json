@@ -23812,5 +23812,22 @@
     "material": [],
     "published_at": "2026-08-07T10:00:00.000Z",
     "ingested_at": "2026-08-07T16:01:49.897Z"
+  },
+  {
+    "id": "3adb49fe-0da7-4c6b-9639-498cbd0d1f7e",
+    "title": "Four Roof House",
+    "creator": "TW Ryan Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182099/four-roof-house-tw-ryan-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a70/7fa0/1801/ca00/0176/ee97/newsletter/TWRYAN_MONTANA_50S0676.jpg?1785757672",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T12:00:00.000Z",
+    "ingested_at": "2026-08-07T19:03:11.634Z"
   }
 ]

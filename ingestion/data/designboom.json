@@ -8321,5 +8321,26 @@
     "material": [],
     "published_at": "2026-08-06T14:35:08.000Z",
     "ingested_at": "2026-08-07T00:42:24.006Z"
+  },
+  {
+    "id": "fbb640ce-aa73-4271-8c23-07f8db8985d4",
+    "title": "planted terraces outline vertically organized house by anonym studio in bangkok",
+    "creator": "anonym studio",
+    "location": "Bangkok",
+    "country": "Thailand",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/planted-terraces-vertically-organized-house-anonym-studio-bangkok/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/anonym-studio-pridi41-house-bangkok-thailand-designboom-700-500x400-22b08q85r659.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "anonym studio",
+      "architecture in thailand",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T18:10:04.000Z",
+    "ingested_at": "2026-08-07T19:03:12.719Z"
   }
 ]
