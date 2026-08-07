@@ -23727,5 +23727,39 @@
     "material": [],
     "published_at": "2026-08-07T00:00:00.000Z",
     "ingested_at": "2026-08-07T05:43:42.008Z"
+  },
+  {
+    "id": "4d5d1641-67e4-4733-bbe5-ebbc121dc505",
+    "title": "CN House",
+    "creator": "IDIN Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182241/cn-house-idin-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a73/13f6/5b21/b900/0199/2ddf/newsletter/CNKY_RESIZE-217.jpg?1785926727",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T03:00:00.000Z",
+    "ingested_at": "2026-08-07T09:04:45.969Z"
+  },
+  {
+    "id": "97ecbd46-5a39-4dc0-82d7-0eaf2b1996b0",
+    "title": "Novolife Headquarters Office",
+    "creator": "Studio Krubka",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182246/novolife-headquarters-office-studio-krubka",
+    "image_url": "https://images.adsttc.com/media/images/6a73/1553/5b21/b900/0199/2e30/newsletter/02_NOVOLIFE-001.jpg?1785927029",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T02:00:00.000Z",
+    "ingested_at": "2026-08-07T09:04:45.969Z"
   }
 ]
