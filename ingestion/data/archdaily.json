@@ -23795,5 +23795,22 @@
     "material": [],
     "published_at": "2026-08-07T07:00:00.000Z",
     "ingested_at": "2026-08-07T13:14:18.752Z"
+  },
+  {
+    "id": "7e9df305-333a-4086-8334-6026e83fb533",
+    "title": "Rue Pavée, renovation project for a complex of historic buildings in Paris",
+    "creator": "MARS Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182106/rue-pavee-renovation-project-for-a-complex-of-historic-buildings-in-paris-mars-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a70/9669/1801/ca00/0176/ef0c/newsletter/21---MARS-Architectes--Rue-Pav_e-_-Maris-Mezulis.jpg?1785763653",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T10:00:00.000Z",
+    "ingested_at": "2026-08-07T16:01:49.897Z"
   }
 ]
