@@ -23863,5 +23863,22 @@
     "material": [],
     "published_at": "2026-08-07T15:00:00.000Z",
     "ingested_at": "2026-08-07T22:41:09.973Z"
+  },
+  {
+    "id": "1d327662-d295-4cf6-a509-a2519e386a66",
+    "title": "La Vigilia Winery",
+    "creator": "González Olsina & Vega Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182367/la-vigilia-winery-gonzalez-olsina-and-vega-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a71/c32c/5b21/b900/0199/29ec/newsletter/GO_V_Vigilia__seleccion_BAJA___Luis_Abba__4_.jpg?1785840503",
+    "typology": [
+      "Warehouse"
+    ],
+    "material": [],
+    "published_at": "2026-08-07T19:00:00.000Z",
+    "ingested_at": "2026-08-08T01:56:56.391Z"
   }
 ]
