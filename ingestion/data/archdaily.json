@@ -23914,5 +23914,22 @@
     "material": [],
     "published_at": "2026-08-08T06:00:00.000Z",
     "ingested_at": "2026-08-08T11:33:17.804Z"
+  },
+  {
+    "id": "4729c28e-cd0b-4492-824c-072b8c1ff544",
+    "title": "UBC Biodiversity Centre Addition",
+    "creator": "Public Architecture + Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182128/ubc-biodiversity-centre-addition-public-architecture-plus-design",
+    "image_url": "https://images.adsttc.com/media/images/6a70/d1ff/5b21/b900/0199/27c5/newsletter/_1_UBC-Beaty-Biodiversity-Centre-Addition_AndrewLatreille.jpg?1785778781",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-08T11:00:00.000Z",
+    "ingested_at": "2026-08-08T16:39:03.556Z"
   }
 ]
