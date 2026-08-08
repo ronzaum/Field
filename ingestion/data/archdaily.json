@@ -23897,5 +23897,22 @@
     "material": [],
     "published_at": "2026-08-08T02:00:00.000Z",
     "ingested_at": "2026-08-08T07:00:26.024Z"
+  },
+  {
+    "id": "3103990c-bc03-40c9-9030-75b661f1b085",
+    "title": "House with Reflective Furniture",
+    "creator": "Set Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181657/house-with-reflective-furniture-set-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6a/00e8/f4d2/6d01/88b1/7507/newsletter/house-with-reflective-furniture-set-architects_16.jpg?1785331971",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-08T06:00:00.000Z",
+    "ingested_at": "2026-08-08T11:33:17.804Z"
   }
 ]
