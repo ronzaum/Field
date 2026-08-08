@@ -23948,5 +23948,39 @@
     "material": [],
     "published_at": "2026-08-08T15:00:00.000Z",
     "ingested_at": "2026-08-08T20:35:08.724Z"
+  },
+  {
+    "id": "aba105d2-4e0a-4b89-90e8-09409a51c926",
+    "title": "Shin Nakano Residence",
+    "creator": "Ryuichi Sasaki + Sasaki Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182167/shin-nakano-residence-ryuichi-sasaki-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a71/b9fc/eb02/9f01/882a/1ef4/newsletter/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture_1.jpg?1785838097",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-08T17:00:00.000Z",
+    "ingested_at": "2026-08-08T21:34:33.782Z"
+  },
+  {
+    "id": "6a809f55-bdce-4904-9ce4-491eaddd4664",
+    "title": "Restaurant Nectar Oum",
+    "creator": "Madarq studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182070/restaurant-madarq-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a70/5275/1801/ca00/0176/ecc8/newsletter/A2.jpg?1785746053",
+    "typology": [
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-08T16:00:00.000Z",
+    "ingested_at": "2026-08-08T21:34:33.783Z"
   }
 ]
