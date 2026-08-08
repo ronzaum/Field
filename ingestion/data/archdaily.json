@@ -23880,5 +23880,22 @@
     "material": [],
     "published_at": "2026-08-07T19:00:00.000Z",
     "ingested_at": "2026-08-08T01:56:56.391Z"
+  },
+  {
+    "id": "dfa69a1c-2ea2-4b61-8e6e-705d68fb5fb8",
+    "title": "THE SEED Pavilion",
+    "creator": "REAL Architects + Challenge Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182160/the-seed-pavilion-real-architects-plus-challenge-design",
+    "image_url": "https://images.adsttc.com/media/images/6a71/8df7/5b21/b900/0199/28f6/newsletter/Day_View_5_XIRU_IMAGERY.jpg?1785826826",
+    "typology": [
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-08-08T02:00:00.000Z",
+    "ingested_at": "2026-08-08T07:00:26.024Z"
   }
 ]
