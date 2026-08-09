@@ -24084,5 +24084,39 @@
     "material": [],
     "published_at": "2026-08-09T15:00:00.000Z",
     "ingested_at": "2026-08-09T20:37:38.427Z"
+  },
+  {
+    "id": "fb15ce2b-72dd-4172-96d1-46257fb58eaa",
+    "title": "Moment Residence",
+    "creator": "APOLLO Architects & Associates",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182183/moment-residence-apollo-architects-and-associates",
+    "image_url": "https://images.adsttc.com/media/images/6a74/66ce/ff86/6b01/8bf0/e05e/newsletter/moment-residence-apollo-architects-and-associates_13.jpg?1786013444",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-09T17:00:00.000Z",
+    "ingested_at": "2026-08-09T22:35:30.352Z"
+  },
+  {
+    "id": "36f0294e-43f6-4ad0-aadb-49086b468e16",
+    "title": "Rayón 376 Terrace",
+    "creator": "Eduardo Garretti studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182280/rayon-376-terrace-eduardo-garretti-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a73/48d8/5b21/b900/0199/2f62/newsletter/Copia_de_0E9A8147.jpg?1785940257",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-09T16:00:00.000Z",
+    "ingested_at": "2026-08-09T22:35:30.352Z"
   }
 ]
