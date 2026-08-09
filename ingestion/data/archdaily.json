@@ -23982,5 +23982,22 @@
     "material": [],
     "published_at": "2026-08-08T16:00:00.000Z",
     "ingested_at": "2026-08-08T21:34:33.783Z"
+  },
+  {
+    "id": "1367fe98-215f-4b49-880b-2a7b9c277881",
+    "title": "HOURS Commercial Building",
+    "creator": "See Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182396/hours-commercial-building-see-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a75/bde8/3cf9/6c00/0177/fcfd/newsletter/______967-12_-17.jpg?1786101286",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-08T21:00:00.000Z",
+    "ingested_at": "2026-08-09T02:04:26.833Z"
   }
 ]
