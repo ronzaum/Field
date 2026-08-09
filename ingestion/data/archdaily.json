@@ -24016,5 +24016,22 @@
     "material": [],
     "published_at": "2026-08-09T02:00:00.000Z",
     "ingested_at": "2026-08-09T07:03:11.175Z"
+  },
+  {
+    "id": "2d448bf7-276c-49e7-b7b4-63c759a38a78",
+    "title": "Wade House",
+    "creator": "Wadhal",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182272/wade-house-wadhal",
+    "image_url": "https://images.adsttc.com/media/images/6a73/3be8/eb02/9f01/882a/2500/newsletter/wade-house-wadhal_2.jpg?1785936910",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-09T06:00:00.000Z",
+    "ingested_at": "2026-08-09T13:00:06.551Z"
   }
 ]
