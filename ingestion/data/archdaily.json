@@ -24033,5 +24033,39 @@
     "material": [],
     "published_at": "2026-08-09T06:00:00.000Z",
     "ingested_at": "2026-08-09T13:00:06.551Z"
+  },
+  {
+    "id": "f76dcc01-1668-4290-a312-76f249c73ee9",
+    "title": "POST Rotterdam Tower",
+    "creator": "ODA New York",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
+    "image_url": "https://images.adsttc.com/media/images/6a69/57f6/d865/3d00/014d/0ecc/newsletter/2755_Post_Rotterdam__Ossip.jpg?1785288761",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-08-09T11:00:00.000Z",
+    "ingested_at": "2026-08-09T16:41:12.850Z"
+  },
+  {
+    "id": "e2c9b125-9098-4601-9161-2590508a9ff2",
+    "title": "H001CH-Hass loft",
+    "creator": "estudio Hass",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182335/h001ch-hass-loft-estudio-hass",
+    "image_url": "https://images.adsttc.com/media/images/6a4b/b865/062b/6500/019a/ab65/newsletter/_N8A7870_resultado.jpg?1783347431",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-09T10:00:00.000Z",
+    "ingested_at": "2026-08-09T16:41:12.851Z"
   }
 ]
