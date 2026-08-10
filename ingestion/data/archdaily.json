@@ -24186,5 +24186,39 @@
     "material": [],
     "published_at": "2026-08-10T02:00:00.000Z",
     "ingested_at": "2026-08-10T08:42:20.604Z"
+  },
+  {
+    "id": "72087906-c483-4ad2-b5f1-fde5b83a097f",
+    "title": "Shenzhen Bay Culture Square",
+    "creator": "MAD Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182220/shenzhen-bay-culture-square-mad-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a72/c492/eb02/9f01/882a/2226/newsletter/shenzhen-bay-culture-square-mad-architects_26.jpg?1785906348",
+    "typology": [
+      "Museums & Exhibit"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T07:00:00.000Z",
+    "ingested_at": "2026-08-10T11:51:21.780Z"
+  },
+  {
+    "id": "4c2ce12f-21f8-449b-b42a-de303d7ef082",
+    "title": "Mösli School Ostermundigen",
+    "creator": "Fiechter Salzmann",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182305/mosli-school-ostermundigen-fiechter-salzmann",
+    "image_url": "https://images.adsttc.com/media/images/6a74/4f73/eee6/f800/0125/f639/newsletter/fiechtersalzmann_aussen1.jpg?1786007438",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T06:00:00.000Z",
+    "ingested_at": "2026-08-10T11:51:21.780Z"
   }
 ]
