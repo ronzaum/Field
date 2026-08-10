@@ -24135,5 +24135,22 @@
     "material": [],
     "published_at": "2026-08-09T21:00:00.000Z",
     "ingested_at": "2026-08-10T02:09:07.207Z"
+  },
+  {
+    "id": "84f3ff7f-4ffc-4e9e-9416-108b7728ddc0",
+    "title": "BANSHAN1994 Commune",
+    "creator": "Office Canopy of Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1041835/banshan1994-commune-office-canopy-of-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a14/59bb/fd52/9201/89f2/241c/newsletter/banshan1994-commune-office-canopy-of-architecture_10.jpg?1779718647",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T00:00:00.000Z",
+    "ingested_at": "2026-08-10T06:13:08.681Z"
   }
 ]
