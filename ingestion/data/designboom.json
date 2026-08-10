@@ -8382,5 +8382,47 @@
     "material": [],
     "published_at": "2026-08-09T14:15:48.000Z",
     "ingested_at": "2026-08-09T14:39:09.054Z"
+  },
+  {
+    "id": "033706af-186a-456f-a844-c4e1f0191de9",
+    "title": "from pixels to planning approval: how lumion pro materializes unbuilt architecture",
+    "creator": "mariana rodrigues",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lumion-pro-architectural-concepts/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/06/lumion_designboom_700-500x400-22b08q85r753.jpg",
+    "typology": [
+      "architecture",
+      "fictional architecture",
+      "lumion"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T07:00:58.000Z",
+    "ingested_at": "2026-08-10T08:42:23.863Z"
+  },
+  {
+    "id": "134cdb0d-2f4f-4ec9-8568-cd0c56c2d73a",
+    "title": "saint of athens reimagines byzantine iconography with black-and-white frescoes in mykonos",
+    "creator": "K-Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel-designboom-700-500x400-22b08q85r151.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in greece",
+      "church architecture and design",
+      "k-studio",
+      "saint of athens",
+      "studio bonarchi"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T06:15:22.000Z",
+    "ingested_at": "2026-08-10T08:42:23.874Z"
   }
 ]
