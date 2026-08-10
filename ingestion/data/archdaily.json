@@ -24118,5 +24118,22 @@
     "material": [],
     "published_at": "2026-08-09T16:00:00.000Z",
     "ingested_at": "2026-08-09T22:35:30.352Z"
+  },
+  {
+    "id": "c12ef100-631d-4496-8c8f-d24dfdb9b3c2",
+    "title": "CASAVIVA Residence",
+    "creator": "SHROFFLEóN",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182418/casaviva-residence-shroffleon",
+    "image_url": "https://images.adsttc.com/media/images/6a75/dc7e/3cf9/6c00/0177/fe6c/newsletter/Shroff_Leon_Alibag-3.jpg?1786110544",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-09T21:00:00.000Z",
+    "ingested_at": "2026-08-10T02:09:07.207Z"
   }
 ]
