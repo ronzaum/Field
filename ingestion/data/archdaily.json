@@ -24288,5 +24288,22 @@
     "material": [],
     "published_at": "2026-08-10T14:00:00.000Z",
     "ingested_at": "2026-08-10T20:49:07.077Z"
+  },
+  {
+    "id": "25829767-7a77-4ede-bd70-3316d18b014d",
+    "title": "Patrimonium Headquarters",
+    "creator": "Gustavo Penna Arquiteto e Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182428/patrimonium-headquarters-gustavo-penna-arquiteto-e-associados",
+    "image_url": "https://images.adsttc.com/media/images/6a75/eb25/3cf9/6c00/0177/ff01/newsletter/GPAA_Patrimonium_16_Jomar_Braganca.jpg?1786112845",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T17:00:00.000Z",
+    "ingested_at": "2026-08-10T22:42:09.220Z"
   }
 ]
