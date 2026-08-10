@@ -24220,5 +24220,22 @@
     "material": [],
     "published_at": "2026-08-10T06:00:00.000Z",
     "ingested_at": "2026-08-10T11:51:21.780Z"
+  },
+  {
+    "id": "a77039ad-3149-4688-b466-7e0805425eb2",
+    "title": "HAIN Vineyard Facilities",
+    "creator": "undjurekbrüggen + AFEA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
+    "image_url": "https://images.adsttc.com/media/images/6a74/a886/3cf9/6c00/0177/bf69/newsletter/HTM_303300-3593_fine_A4.jpg?1786030240",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T10:00:00.000Z",
+    "ingested_at": "2026-08-10T15:03:03.722Z"
   }
 ]
