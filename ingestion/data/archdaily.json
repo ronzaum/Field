@@ -24254,5 +24254,39 @@
     "material": [],
     "published_at": "2026-08-10T12:00:00.000Z",
     "ingested_at": "2026-08-10T16:57:42.506Z"
+  },
+  {
+    "id": "59f6ceec-640a-4a21-8d5d-e051f5b249ac",
+    "title": "Casa Limoneros",
+    "creator": "Quaterna Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182410/casa-limoneros",
+    "image_url": "https://images.adsttc.com/media/images/6a75/d4bb/ab59/ca01/8994/3c9e/newsletter/casa-limoneros_4.jpg?1786107167",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T15:00:00.000Z",
+    "ingested_at": "2026-08-10T20:49:07.077Z"
+  },
+  {
+    "id": "fca7d30c-1672-47c5-b6cc-86cd26fc4e90",
+    "title": "V+M House",
+    "creator": "Solange Cálio Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182486/v-plus-m-house-solange-calio-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a76/17e1/ac8b/af01/892c/b553/newsletter/casa-v-plus-m-solange-calio-arquitetos_22.jpg?1786124320",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T14:00:00.000Z",
+    "ingested_at": "2026-08-10T20:49:07.077Z"
   }
 ]
