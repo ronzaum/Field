@@ -24475,5 +24475,22 @@
     "material": [],
     "published_at": "2026-08-11T13:00:00.000Z",
     "ingested_at": "2026-08-11T20:51:44.234Z"
+  },
+  {
+    "id": "1a14de1a-0804-4586-bace-6f29643d325c",
+    "title": "House Over the Hills",
+    "creator": "Diogo Aguiar Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182436/house-over-the-hills-diogo-aguiar-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a76/106a/3cf9/6c00/0177/ffb1/newsletter/03___Fernando_Guerra.jpg?1786122550",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T17:00:00.000Z",
+    "ingested_at": "2026-08-11T22:49:15.113Z"
   }
 ]
