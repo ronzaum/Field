@@ -8491,5 +8491,46 @@
     "material": [],
     "published_at": "2026-08-11T08:55:18.000Z",
     "ingested_at": "2026-08-11T09:03:10.430Z"
+  },
+  {
+    "id": "6a7571b3-b540-43a1-a677-97ad038e9217",
+    "title": "could an uncomfortable home extend life? arakawa + gins put architecture to the test",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/uncomfortable-home-extend-life-arakawa-gins-site-reversible-destiny/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/arakawa-madeline-gins-architecture-live-forever-reversible-destiny-japan-designboom-500x400-22b08q85r983.jpg",
+    "typology": [
+      "architecture",
+      "architecture in japan",
+      "MODES OF HABITATION",
+      "radical so",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T10:48:40.000Z",
+    "ingested_at": "2026-08-11T10:53:37.566Z"
+  },
+  {
+    "id": "0eb2ff33-0118-446f-99c9-4b52cc8a9417",
+    "title": "deroche projects turns accra community garden into a productive public landscape",
+    "creator": "Iñaki Laguardia",
+    "location": "Accra",
+    "country": "Ghana",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/deroche-projects-accra-community-garden-productive-public-landscape/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/deroche-projects-accra-community-garden-productive-public-landscape-DESIGNBOOM-1-500x400-22b08q85r575.jpg",
+    "typology": [
+      "architecture",
+      "architecture in ghana",
+      "landscape architecture and design",
+      "urban gardening"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T09:12:44.000Z",
+    "ingested_at": "2026-08-11T10:53:37.579Z"
   }
 ]
