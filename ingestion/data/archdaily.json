@@ -24305,5 +24305,22 @@
     "material": [],
     "published_at": "2026-08-10T17:00:00.000Z",
     "ingested_at": "2026-08-10T22:42:09.220Z"
+  },
+  {
+    "id": "e8e68800-3063-48b0-a83a-2c59b6034b8a",
+    "title": "Cali Foothills Integral Corridor",
+    "creator": "Edward Conde Serna Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182509/cali-foothills-integral-corridor-edward-conde-serna-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a75/ab40/3cf9/6c00/0177/fb9b/newsletter/000-PORTADA-CARLOS_VALENCIA_MAYA.jpg?1786096466",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-08-10T19:00:00.000Z",
+    "ingested_at": "2026-08-11T04:23:06.473Z"
   }
 ]
