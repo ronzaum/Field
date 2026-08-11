@@ -24322,5 +24322,39 @@
     "material": [],
     "published_at": "2026-08-10T19:00:00.000Z",
     "ingested_at": "2026-08-11T04:23:06.473Z"
+  },
+  {
+    "id": "0e03af8a-519f-40e7-bc34-728dcb5fb7e5",
+    "title": "House in Kinuta",
+    "creator": "KENTA HIRAYAMA ARCHITECT & ASSOCIATES",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182330/house-in-kinuta-kenta-hirayama-architect-and-associates",
+    "image_url": "https://images.adsttc.com/media/images/6a74/8f70/ff86/6b01/8bf0/e10f/newsletter/house-in-kinuta-kenta-hirayama-architect-and-associates_26.jpg?1786023859",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T02:00:00.000Z",
+    "ingested_at": "2026-08-11T07:16:12.240Z"
+  },
+  {
+    "id": "bec6746d-654f-47df-bd1c-1814fdd3df38",
+    "title": "Koma Commercial Facility",
+    "creator": "U.GA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182395/koma-commercial-facility-uga-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a75/bb4e/3cf9/6c00/0177/fcd7/newsletter/koma__3_.jpg?1786100615",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T00:00:00.000Z",
+    "ingested_at": "2026-08-11T07:16:12.240Z"
   }
 ]
