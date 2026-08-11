@@ -24441,5 +24441,39 @@
     "material": [],
     "published_at": "2026-08-11T10:00:00.000Z",
     "ingested_at": "2026-08-11T17:01:23.356Z"
+  },
+  {
+    "id": "7cdc686f-813c-4403-9c94-6e30c1fb9ae6",
+    "title": "Water Stories",
+    "creator": "AR-AR Martínez Arquitectura y Paisaje",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183136/water-stories-ar-ar-martinez-arquitectura-y-paisaje",
+    "image_url": "https://images.adsttc.com/media/images/6a75/a196/3cf9/6c00/0177/fb4f/newsletter/0_Caba_a_Aves_exterior_Teodoro_Posada_72.jpg?1786094008",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T15:00:00.000Z",
+    "ingested_at": "2026-08-11T20:51:44.234Z"
+  },
+  {
+    "id": "7684c1dd-8809-4b32-b30f-ea59d2539609",
+    "title": "Txai Bungalow",
+    "creator": "TETRO Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183121/txai-bungalow-tetro-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a7a/1eea/3cf9/6c00/0178/042b/newsletter/IMG_7327_8_9_copiar.jpg?1786388219",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T13:00:00.000Z",
+    "ingested_at": "2026-08-11T20:51:44.234Z"
   }
 ]
