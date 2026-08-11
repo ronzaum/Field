@@ -24407,5 +24407,39 @@
     "material": [],
     "published_at": "2026-08-11T06:00:00.000Z",
     "ingested_at": "2026-08-11T11:48:24.336Z"
+  },
+  {
+    "id": "5df30d84-f708-40f5-8427-69a5aa699439",
+    "title": "TCC DAKA Renewable Resource Recycling Center (RRRC)",
+    "creator": "KPF",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182433/tcc-daka-renewable-resource-recycling-center-rrrc-kpf",
+    "image_url": "https://images.adsttc.com/media/images/6a76/0395/3cf9/6c00/0177/ff3f/newsletter/05_TCC_DAKA_RRRC_Credit_StudioSZ_Photo__Justin_Szeremeta_Courtesy_KPF.jpg?1786119150",
+    "typology": [
+      "Energy Plant"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T12:00:00.000Z",
+    "ingested_at": "2026-08-11T17:01:23.355Z"
+  },
+  {
+    "id": "873bbe2d-769c-4db3-82d4-da5d3e5b7f0a",
+    "title": "BPROM House",
+    "creator": "OAD",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182192/bprom-oad",
+    "image_url": "https://images.adsttc.com/media/images/6a71/f8b1/5b21/b900/0199/2aa4/newsletter/Alis_Rozenbergs_BPROM_OAD-1.jpg?1785854155",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T10:00:00.000Z",
+    "ingested_at": "2026-08-11T17:01:23.356Z"
   }
 ]
