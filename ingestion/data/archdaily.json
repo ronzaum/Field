@@ -24373,5 +24373,39 @@
     "material": [],
     "published_at": "2026-08-11T03:00:00.000Z",
     "ingested_at": "2026-08-11T09:03:09.673Z"
+  },
+  {
+    "id": "69230201-ae4d-4385-91a4-920457f7e51f",
+    "title": "100 Windows House",
+    "creator": "Inrestudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182312/100-windows-house-inrestudio",
+    "image_url": "https://images.adsttc.com/media/images/6a74/58f1/eee6/f800/0125/f6ba/newsletter/Ph04_Exterior__Trieu_Chien.jpg?1786009865",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T07:00:00.000Z",
+    "ingested_at": "2026-08-11T11:48:24.336Z"
+  },
+  {
+    "id": "1be1ea4a-3925-4086-a29c-0cc480eff7f5",
+    "title": "National Archives of Sweden",
+    "creator": "Tengbom",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182379/national-archives-of-sweden-tengbom",
+    "image_url": "https://images.adsttc.com/media/images/6a75/accb/3cf9/6c00/0177/fbdf/newsletter/Riksarkivet_H_rn_sand_-_1.jpg?1786096868",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T06:00:00.000Z",
+    "ingested_at": "2026-08-11T11:48:24.336Z"
   }
 ]
