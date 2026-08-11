@@ -8469,5 +8469,27 @@
     "material": [],
     "published_at": "2026-08-10T21:55:06.000Z",
     "ingested_at": "2026-08-10T22:42:10.052Z"
+  },
+  {
+    "id": "dab6e461-d793-4b47-9cd5-0cd47d36bd63",
+    "title": "how jerzy became jorge: the polish-born architect who became a brazilian icon",
+    "creator": "Jorge Zalszupin",
+    "location": "Torre Velasca",
+    "country": "Milan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/how-jerzy-became-jorge-the-polish-born-architect-who-became-a-brazilian-icon/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/jorge-zalszupin-designboom-700-500x400-22b08q85r727.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in brazil",
+      "architecture in poland",
+      "furniture design",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-08-11T08:55:18.000Z",
+    "ingested_at": "2026-08-11T09:03:10.430Z"
   }
 ]
