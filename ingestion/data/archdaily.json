@@ -24509,5 +24509,56 @@
     "material": [],
     "published_at": "2026-08-11T19:00:00.000Z",
     "ingested_at": "2026-08-12T02:21:11.318Z"
+  },
+  {
+    "id": "acc348a9-cef4-4999-b204-6fa022e775ae",
+    "title": "Lotus Shala Wellness Facility",
+    "creator": "Pablo Luna Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183112/lotus-shala-wellness-facility-pablo-luna-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/2fc3/ab59/ca34/fba8/6600/newsletter/lotus-shala-wellness-facility-pablo-luna-studio_10.jpg?1786458122",
+    "typology": [
+      "Wellbeing"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T03:00:00.000Z",
+    "ingested_at": "2026-08-12T08:21:26.653Z"
+  },
+  {
+    "id": "341d1a64-af7a-413b-a4f4-88e16e49d543",
+    "title": "Lily Block Residence",
+    "creator": "3fconcept",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182477/lily-block-residence-3fconcept",
+    "image_url": "https://images.adsttc.com/media/images/6a79/bfb1/3cf9/6c00/0178/0232/newsletter/01.jpg?1786363858",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T02:00:00.000Z",
+    "ingested_at": "2026-08-12T08:21:26.654Z"
+  },
+  {
+    "id": "41e92e88-bd70-4478-ab50-26baafbc2bba",
+    "title": "House WoQuanShanFang",
+    "creator": "Yinyuan Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182505/house-woquanshanfang-yinyuan-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a79/fb06/ac8b/af01/892c/b9c3/newsletter/house-woquanshanfang-yinyuan-studio_10.jpg?1786379035",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T00:00:00.000Z",
+    "ingested_at": "2026-08-12T08:21:26.654Z"
   }
 ]
