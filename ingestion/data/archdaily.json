@@ -24577,5 +24577,22 @@
     "material": [],
     "published_at": "2026-08-12T06:00:00.000Z",
     "ingested_at": "2026-08-12T11:51:31.522Z"
+  },
+  {
+    "id": "adb51b46-c8f6-4323-ba60-64b90ac5e7de",
+    "title": "Mori House",
+    "creator": "Aires Mateus + MA+Co",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182467/mori-house-aires-mateus-plus-ma-plus-co",
+    "image_url": "https://images.adsttc.com/media/images/6a79/b015/3cf9/6c00/0178/018c/newsletter/MoriHouse_BrookJames_LowRes_18.jpg?1786359863",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T07:00:00.000Z",
+    "ingested_at": "2026-08-12T15:01:40.460Z"
   }
 ]
