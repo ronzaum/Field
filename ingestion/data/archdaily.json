@@ -24628,5 +24628,39 @@
     "material": [],
     "published_at": "2026-08-12T12:00:00.000Z",
     "ingested_at": "2026-08-12T18:02:08.131Z"
+  },
+  {
+    "id": "525c52fd-328b-484e-8cd8-5eb43c818a69",
+    "title": "Apartment Matisse",
+    "creator": "Gurgel D’Alfonso Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183215/apartment-matisse-gurgel-dalfonso-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/308b/3cf9/6c00/0178/06a1/newsletter/adfoto_7953.jpg?1786458279",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T17:00:00.000Z",
+    "ingested_at": "2026-08-12T21:51:38.969Z"
+  },
+  {
+    "id": "23706576-96e2-487c-86ba-ba3d1cc30280",
+    "title": "Sodzil House",
+    "creator": "Esencial Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183133/sodzil-house-esencial-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/6464/ac8b/af01/892c/bde8/newsletter/casa-sodzil-esencial-studio_3.jpg?1786471541",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T15:00:00.000Z",
+    "ingested_at": "2026-08-12T21:51:38.969Z"
   }
 ]
