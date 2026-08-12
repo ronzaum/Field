@@ -8643,5 +8643,22 @@
     "material": [],
     "published_at": "2026-08-12T15:15:28.000Z",
     "ingested_at": "2026-08-12T17:00:13.188Z"
+  },
+  {
+    "id": "8a4d2ebf-f631-400d-9b4c-b7637bae4386",
+    "title": "what if housing was designed around changing relationships rather than nuclear families?",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/housing-designed-around-changing-relationships-nuclear-families/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/housing-beyond-nuclear-family-changing-relationships-designboom-700-500x400-22b08q85r007.jpg",
+    "typology": [
+      "architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T18:30:05.000Z",
+    "ingested_at": "2026-08-12T20:01:42.999Z"
   }
 ]
