@@ -24560,5 +24560,22 @@
     "material": [],
     "published_at": "2026-08-12T00:00:00.000Z",
     "ingested_at": "2026-08-12T08:21:26.654Z"
+  },
+  {
+    "id": "a3a8edc6-6a9d-4c2d-a8fa-7a6c9fe85782",
+    "title": "Villa Österlen",
+    "creator": "Note Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182512/villa-osterlen-note-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a7a/1e1c/ab59/ca3b/6f31/93a6/newsletter/villa-osterlen-note-design-studio_28.jpg?1786388085",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T06:00:00.000Z",
+    "ingested_at": "2026-08-12T11:51:31.522Z"
   }
 ]
