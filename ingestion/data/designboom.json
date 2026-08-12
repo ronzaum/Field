@@ -8598,5 +8598,27 @@
     "material": [],
     "published_at": "2026-08-12T06:10:02.000Z",
     "ingested_at": "2026-08-12T08:21:27.505Z"
+  },
+  {
+    "id": "bba5522b-e5ac-426d-bcbb-7406686988b2",
+    "title": "HANGHAR wants hierarchical homes to stop telling us how to live",
+    "creator": "HANGHAR",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/hanghar-hierarchical-house-to-stop-telling-us-how-to-live/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/hanghar-designboom-500x400-22b08q85r243.jpeg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in spain",
+      "HANGHAR",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T09:03:24.000Z",
+    "ingested_at": "2026-08-12T10:11:09.341Z"
   }
 ]
