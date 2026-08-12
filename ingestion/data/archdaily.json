@@ -24594,5 +24594,39 @@
     "material": [],
     "published_at": "2026-08-12T07:00:00.000Z",
     "ingested_at": "2026-08-12T15:01:40.460Z"
+  },
+  {
+    "id": "5d9ff312-b013-4704-9e15-7e1401df540b",
+    "title": "Praia Preta II Residence",
+    "creator": "Luis Canepa Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183125/praia-preta-ii-residence-luis-canepa-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a76/04cc/3cf9/6c00/0177/ff78/newsletter/web_luiscanepa_praiapreta_mortattistudio-5.jpg?1786119401",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T13:00:00.000Z",
+    "ingested_at": "2026-08-12T18:02:08.130Z"
+  },
+  {
+    "id": "5548f6d5-ad2f-429c-8a96-9818f83e10de",
+    "title": "Frame 122",
+    "creator": "Brent Buck Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183114/frame-122-brent-buck-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/319b/3cf9/6c00/0178/06bc/newsletter/BrentBuckArchitects-Frame122-FacadeDusk-ChristopherSturman.jpg?1786458557",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T12:00:00.000Z",
+    "ingested_at": "2026-08-12T18:02:08.131Z"
   }
 ]
