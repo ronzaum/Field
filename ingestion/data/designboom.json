@@ -8703,5 +8703,45 @@
     "material": [],
     "published_at": "2026-08-13T07:20:27.000Z",
     "ingested_at": "2026-08-13T08:24:24.691Z"
+  },
+  {
+    "id": "680f2eed-66e1-441c-9d05-f2bf066e1dd8",
+    "title": "studio ellsinger shapes a compact coastal home on sweden’s west coast",
+    "creator": "Studio Ellsinger",
+    "location": "Hee",
+    "country": "Sweden",
+    "year": 2024,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/studio-ellsinger-compact-coastal-home-sweden-west-coast/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2025/07/hee-house-studio-ellsinger-sweden-designboom-600-1-500x400-22b08q85r184.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in sweden",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T09:01:58.000Z",
+    "ingested_at": "2026-08-13T11:51:59.018Z"
+  },
+  {
+    "id": "42e92af2-ea9a-46ac-8fb4-dacaf15700a3",
+    "title": "vietnam architects fill a narrow plot with stacked volumes to shape ‘titi’s house’",
+    "creator": "NAQI & Partners",
+    "location": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/vietnam-narrow-plot-stacked-volumes-titis-house-07-03-2025/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2025/07/titis-house-naqi-partners-ho-chi-minh-city-vietnam-designboom-700-500x400-22b08q85r358.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in vietnam",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T04:01:03.000Z",
+    "ingested_at": "2026-08-13T11:51:59.040Z"
   }
 ]
