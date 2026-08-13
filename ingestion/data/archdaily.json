@@ -24696,5 +24696,22 @@
     "material": [],
     "published_at": "2026-08-13T00:00:00.000Z",
     "ingested_at": "2026-08-13T06:19:50.235Z"
+  },
+  {
+    "id": "b289a878-3e57-4095-96dd-54b69fa66784",
+    "title": "Green Sandwich House",
+    "creator": "HYAN",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183108/green-sandwich-house-hyan",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/2b31/3cf9/6c00/0178/060f/newsletter/000_living_featured_.jpg?1786456909",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T03:00:00.000Z",
+    "ingested_at": "2026-08-13T08:24:23.829Z"
   }
 ]

@@ -8660,5 +8660,48 @@
     "material": [],
     "published_at": "2026-08-12T18:30:05.000Z",
     "ingested_at": "2026-08-12T20:01:42.999Z"
+  },
+  {
+    "id": "a985e05b-727c-4feb-bd8e-a92d8eb545db",
+    "title": "OFFICEUNTITLED turns vacant santa monica office floor into school after the palisades fire",
+    "creator": "OFFICEUNTITLED",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/readers/officeuntitled-turns-a-vacant-santa-monica-office-floor-into-a-school-after-the-palisades-fire/",
+    "image_url": "https://www.designboom.com/wp-content/dbsub/467176/2026-08-04/bringing-back-village-school-700-6a71442818780-500x400-22b08q85r621.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "adaptive architecture",
+      "architecture in the US",
+      "renovation and restoration architecture and design",
+      "social impact"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T07:58:51.000Z",
+    "ingested_at": "2026-08-13T08:24:24.676Z"
+  },
+  {
+    "id": "ef6ab96b-cc00-44a9-8ba0-23aa5bdc5e0b",
+    "title": "island records and emi turn their king’s cross headquarters into a spatial mixtape",
+    "creator": "Interesting Projects",
+    "location": "King’s Cross",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/island-records-and-emi-turn-their-kings-cross-headquarters-into-a-spatial-mixtape/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/island-records-emi-kings-cross-headquarters-spatial-mixtape-interesting-projects-studio-eye-designboom-2-500x400-22b08q85r488.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in the UK",
+      "renovation and restoration architecture and design",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T07:20:27.000Z",
+    "ingested_at": "2026-08-13T08:24:24.691Z"
   }
 ]
