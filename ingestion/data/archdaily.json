@@ -24798,5 +24798,22 @@
     "material": [],
     "published_at": "2026-08-13T12:00:00.000Z",
     "ingested_at": "2026-08-13T19:56:55.708Z"
+  },
+  {
+    "id": "e5a27e09-09b5-4892-80ac-aa22009c5fd2",
+    "title": "SJC House",
+    "creator": "Felipe Hess Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183294/sjc-house-felipe-hess-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a4e/b53c/3890/a32c/d2ab/3fce/newsletter/casa-sjc-felipe-hess-arquitetos_9.jpg?1783543121",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T17:00:00.000Z",
+    "ingested_at": "2026-08-13T21:51:42.479Z"
   }
 ]
