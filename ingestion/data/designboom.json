@@ -8743,5 +8743,25 @@
     "material": [],
     "published_at": "2026-08-13T04:01:03.000Z",
     "ingested_at": "2026-08-13T11:51:59.040Z"
+  },
+  {
+    "id": "019d4f4e-3d7f-40d9-8954-0ac5f0308042",
+    "title": "falwa restaurant transforms arabian equestrian heritage into fluid architectural interior",
+    "creator": "4SPACE",
+    "location": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/falwa-restaurant-arabian-equestrian-heritage-fluid-architectural-interior-4space/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/4space-falwa-restaurant-arabian-equestrian-heritage-fluid-interior-abu-dhabi-designboom-700-500x400-22b08q85r184.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "art and architecture in the united arab emirates",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T15:30:05.000Z",
+    "ingested_at": "2026-08-13T17:00:00.446Z"
   }
 ]
