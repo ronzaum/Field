@@ -24713,5 +24713,22 @@
     "material": [],
     "published_at": "2026-08-13T03:00:00.000Z",
     "ingested_at": "2026-08-13T08:24:23.829Z"
+  },
+  {
+    "id": "69f84f14-8d42-4705-98c6-44a27b5df8f5",
+    "title": "Matchbox",
+    "creator": "KAAN Architecten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182473/matchbox-kaan-architecten",
+    "image_url": "https://images.adsttc.com/media/images/6a79/bb3f/3cf9/6c00/0178/01dc/newsletter/00_KAAN_Architecten_Matchbox__Sebastian_van_Damme.jpg?1786362723",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T06:00:00.000Z",
+    "ingested_at": "2026-08-13T10:12:18.358Z"
   }
 ]
