@@ -24730,5 +24730,22 @@
     "material": [],
     "published_at": "2026-08-13T06:00:00.000Z",
     "ingested_at": "2026-08-13T10:12:18.358Z"
+  },
+  {
+    "id": "f76d094b-2ca6-4e33-8e43-0dfa4adcdf02",
+    "title": "LJ House",
+    "creator": "Studio Saransh + IKSOI",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182506/lj-house-studio-saransh-plus-iksoi",
+    "image_url": "https://images.adsttc.com/media/images/6a7a/f51a/ab59/ca01/8994/4568/newsletter/lj-house-studio-saransh-plus-iksoi_37.jpg?1786443055",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T07:00:00.000Z",
+    "ingested_at": "2026-08-13T15:01:49.884Z"
   }
 ]
