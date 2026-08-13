@@ -24662,5 +24662,22 @@
     "material": [],
     "published_at": "2026-08-12T15:00:00.000Z",
     "ingested_at": "2026-08-12T21:51:38.969Z"
+  },
+  {
+    "id": "c5e42fe6-2b7d-448f-9a35-5def15d7e6c3",
+    "title": "Hospital del Mar Phase 2 Expansion",
+    "creator": "PINEARQ + Brullet-De Luna Arquitectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183207/hospital-del-mar-phase-2-expansion-pinearq-plus-brullet-de-luna-arquitectes",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/7d19/1801/ca00/0176/e6a1/newsletter/01_Hospital_del_Mar_Simon_Garcia.jpg?1785494826",
+    "typology": [
+      "hospital"
+    ],
+    "material": [],
+    "published_at": "2026-08-12T19:00:00.000Z",
+    "ingested_at": "2026-08-13T02:23:02.302Z"
   }
 ]
