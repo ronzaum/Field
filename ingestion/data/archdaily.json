@@ -24747,5 +24747,56 @@
     "material": [],
     "published_at": "2026-08-13T07:00:00.000Z",
     "ingested_at": "2026-08-13T15:01:49.884Z"
+  },
+  {
+    "id": "b22e160f-b4f9-4c47-b037-313734e4b86d",
+    "title": "New Headquarters Office Building for IAPSER",
+    "creator": "Sebastian Stechina + Carlos Di Napoli + Andres Francesconi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183285/new-headquarters-office-building-for-iapser-sebastian-stechina-plus-carlos-di-napoli-plus-andres-francesconi",
+    "image_url": "https://images.adsttc.com/media/images/6a7e/027c/3cf9/6c00/0178/2910/newsletter/05_Mirador_TEC_Di_Napoli__Francesconi__Stechina_-___Federico_Cairoli-_webHD.jpg?1786643084",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T15:00:00.000Z",
+    "ingested_at": "2026-08-13T19:56:55.707Z"
+  },
+  {
+    "id": "50427a35-bb8b-4641-8166-b95350306ee1",
+    "title": "Quetzal House",
+    "creator": "Sertão Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183268/quetzal-house-sertao-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a7c/ae61/3cf9/6c00/0178/0c45/newsletter/4-IMG_1755-HDR.jpg?1786556045",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T13:00:00.000Z",
+    "ingested_at": "2026-08-13T19:56:55.707Z"
+  },
+  {
+    "id": "bb96f95c-8489-422a-ae76-776d1f793012",
+    "title": "Emeco House",
+    "creator": "david saik studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1181309/emeco-house-david-saik-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a5e/5277/895c/1800/0111/7f2d/newsletter/9_interior_upper_level_kitchen_sitting_emeco_house_david_saik_architect.jpg?1784566490",
+    "typology": [
+      "Cultural Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T12:00:00.000Z",
+    "ingested_at": "2026-08-13T19:56:55.708Z"
   }
 ]
