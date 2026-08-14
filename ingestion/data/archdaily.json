@@ -24917,5 +24917,39 @@
     "material": [],
     "published_at": "2026-08-14T06:00:00.000Z",
     "ingested_at": "2026-08-14T13:16:12.634Z"
+  },
+  {
+    "id": "cc737b6a-e757-4a20-b8e8-353656dd3e2f",
+    "title": "In Campo, Solo Exhibition by Hick Duarte",
+    "creator": "Clube",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/f662/3cf9/6c00/0178/27c8/newsletter/MARINA_LIMA__EM_CAMPO_HICK_DUARTE_CLUBE_38_2880PX.jpg?1786640073",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T13:00:00.000Z",
+    "ingested_at": "2026-08-14T18:59:55.957Z"
+  },
+  {
+    "id": "8c51891d-96a3-445a-8555-1d1d3c6b2dce",
+    "title": "Locust Grove Pavilion",
+    "creator": "de Leon & Primmer Architecture Workshop",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183203/locust-grove-pavilion-de-leon-and-primmer-architecture-workshop",
+    "image_url": "https://images.adsttc.com/media/images/6a7c/afa2/3cf9/6c00/0178/0c63/newsletter/Locust_Grove_Pavilion_1665.jpg?1786556367",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T12:00:00.000Z",
+    "ingested_at": "2026-08-14T18:59:55.957Z"
   }
 ]
