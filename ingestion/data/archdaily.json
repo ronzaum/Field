@@ -24951,5 +24951,22 @@
     "material": [],
     "published_at": "2026-08-14T12:00:00.000Z",
     "ingested_at": "2026-08-14T18:59:55.957Z"
+  },
+  {
+    "id": "c5dea7e4-c239-49f6-8bf0-eeee97e70977",
+    "title": "Linea House",
+    "creator": "Instinto Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183378/linea-house-instinto-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/4a49/3cf9/6c00/0178/2e49/newsletter/03_linea_house_facade.jpg?1786727061",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T15:00:00.000Z",
+    "ingested_at": "2026-08-14T19:51:30.486Z"
   }
 ]
