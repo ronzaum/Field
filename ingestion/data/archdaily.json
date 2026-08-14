@@ -24849,5 +24849,39 @@
     "material": [],
     "published_at": "2026-08-14T00:00:00.000Z",
     "ingested_at": "2026-08-14T04:51:57.879Z"
+  },
+  {
+    "id": "f439f0d1-16cf-4cb0-983c-8b05ddf8f4e1",
+    "title": "The Tale of Bricks House",
+    "creator": "Earthscape Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183260/the-tale-of-bricks-house-earthscape-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/d5bd/3cf9/6c00/0178/26ff/newsletter/01.jpg?1786634153",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T03:00:00.000Z",
+    "ingested_at": "2026-08-14T08:19:30.121Z"
+  },
+  {
+    "id": "b1e57c9a-7e96-427c-9f4d-55c8f3c04599",
+    "title": "Kyoto Minami Kaikan Movie Theater",
+    "creator": "Tato Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183107/kyoto-minami-kaikan-movie-theater-tato-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/b946/ac8b/af01/892c/c435/newsletter/kyoto-minami-kaikan-movie-theater-tato-architects_28.jpg?1786624335",
+    "typology": [
+      "cinema"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T02:00:00.000Z",
+    "ingested_at": "2026-08-14T08:19:30.122Z"
   }
 ]
