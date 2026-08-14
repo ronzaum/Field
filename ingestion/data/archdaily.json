@@ -24815,5 +24815,22 @@
     "material": [],
     "published_at": "2026-08-13T17:00:00.000Z",
     "ingested_at": "2026-08-13T21:51:42.479Z"
+  },
+  {
+    "id": "a8b8cae7-483c-41fd-aa18-de4b77d78ce3",
+    "title": "SUUEL Living",
+    "creator": "CAAM Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183288/suuel-living-caam-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a7e/0734/3cf9/6c00/0178/2964/newsletter/_S__CAAM_SUUEL_LIVING_ZAICKZ_MOZ_14.jpg?1786644338",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-13T19:00:00.000Z",
+    "ingested_at": "2026-08-14T02:21:26.549Z"
   }
 ]
