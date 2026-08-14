@@ -1143,5 +1143,25 @@
     "material": [],
     "published_at": "2026-08-03T05:00:37.000Z",
     "ingested_at": "2026-08-03T11:30:53.523Z"
+  },
+  {
+    "id": "63aca2d3-9c9d-40a8-8564-93d4f917f38f",
+    "title": "Research finds Star Homes housing reduces malaria in children",
+    "creator": "44 per cent",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/08/14/star-homes-malaria-study-tanzania/",
+    "image_url": "http://static.dezeen.com/uploads/2026/08/star-homes-malaria-study-tanzania_dezeen_2364_sq_1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Houses",
+      "Housing",
+      "Tanzania"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T08:00:28.000Z",
+    "ingested_at": "2026-08-14T10:08:00.240Z"
   }
 ]
