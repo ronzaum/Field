@@ -25053,5 +25053,22 @@
     "material": [],
     "published_at": "2026-08-15T11:00:00.000Z",
     "ingested_at": "2026-08-15T16:29:37.722Z"
+  },
+  {
+    "id": "0dcd3bca-8235-41ef-a546-251697de066f",
+    "title": "Castelo House",
+    "creator": "Gonçalo Grácio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183349/castelo-house-goncalo-gracio",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/f1f6/3cf9/6c00/0178/2794/newsletter/01.jpg?1786638868",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-08-15T13:00:00.000Z",
+    "ingested_at": "2026-08-15T18:35:41.938Z"
   }
 ]
