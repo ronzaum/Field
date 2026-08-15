@@ -8832,5 +8832,23 @@
     "material": [],
     "published_at": "2026-08-14T10:05:50.000Z",
     "ingested_at": "2026-08-14T10:08:01.044Z"
+  },
+  {
+    "id": "87baa7b6-183b-4a3d-95b8-fecedb13ec1e",
+    "title": "who gets to live in the wall? architecture makes room for nonhuman residents",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/nonhuman-residents-multispecies-design-wildlife-biodiversity/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/multispecies-architecture-modes-habitation-designboom-700-500x400-22b08q85r020.jpg",
+    "typology": [
+      "architecture",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-08-15T20:35:31.000Z",
+    "ingested_at": "2026-08-15T21:24:58.107Z"
   }
 ]
