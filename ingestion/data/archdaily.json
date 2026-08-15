@@ -25019,5 +25019,22 @@
     "material": [],
     "published_at": "2026-08-15T02:00:00.000Z",
     "ingested_at": "2026-08-15T07:34:14.527Z"
+  },
+  {
+    "id": "5fda6235-5123-4e9d-a37f-ef844400af24",
+    "title": "Headquarters \"MANZ Bel Étage\"",
+    "creator": "Podrecca Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183235/headquarters-manz-bel-etage-podrecca-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/9139/3cf9/6c00/0178/2532/newsletter/04_a_manz_pod.jpg?1786614118",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-15T06:00:00.000Z",
+    "ingested_at": "2026-08-15T12:46:01.751Z"
   }
 ]
