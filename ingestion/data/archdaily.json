@@ -24968,5 +24968,39 @@
     "material": [],
     "published_at": "2026-08-14T15:00:00.000Z",
     "ingested_at": "2026-08-14T19:51:30.486Z"
+  },
+  {
+    "id": "433e6973-bba4-432c-8fb2-bee3f35fe3fe",
+    "title": "Shadows House",
+    "creator": "Seiro Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183384/shadows-house-seiro-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a7c/69cd/3cf9/6c00/0178/0b27/newsletter/SEIRO_SOMBRAS_CBSTD-10.jpg?1786538507",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T19:00:00.000Z",
+    "ingested_at": "2026-08-15T01:33:30.165Z"
+  },
+  {
+    "id": "5057248e-64b7-40f6-b612-338d15c5c65a",
+    "title": "Livraria da Vila Artes",
+    "creator": "ARCHITECTS OFFICE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183392/livraria-da-vila-artes-architects-office",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/1999/3cf9/6c00/0178/2c67/newsletter/FELCO_0326-3-2.jpg?1786714573",
+    "typology": [
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-08-14T17:00:00.000Z",
+    "ingested_at": "2026-08-15T01:33:30.165Z"
   }
 ]
