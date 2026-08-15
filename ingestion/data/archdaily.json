@@ -25036,5 +25036,22 @@
     "material": [],
     "published_at": "2026-08-15T06:00:00.000Z",
     "ingested_at": "2026-08-15T12:46:01.751Z"
+  },
+  {
+    "id": "3a8d44ff-6f99-4189-81d9-43dd1390bc15",
+    "title": "Villa Arena",
+    "creator": "Ábaton",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1148796/villa-arena-abaton",
+    "image_url": "https://images.adsttc.com/media/images/6a58/ab72/d425/1a00/01c4/ba13/newsletter/_T2A0890.jpg?1784195971",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-15T11:00:00.000Z",
+    "ingested_at": "2026-08-15T16:29:37.722Z"
   }
 ]
