@@ -25070,5 +25070,39 @@
     "material": [],
     "published_at": "2026-08-15T13:00:00.000Z",
     "ingested_at": "2026-08-15T18:35:41.938Z"
+  },
+  {
+    "id": "27f05935-4472-451c-a1e8-820855e246a9",
+    "title": "Sartoriale Offices",
+    "creator": "DOS - G arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183374/sartoriale-offices-dos-g-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a7e/f083/3cf9/6c00/0178/2ae2/newsletter/DOS-G_Sartoriale_01.jpg?1786704019",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-15T16:00:00.000Z",
+    "ingested_at": "2026-08-15T20:27:06.209Z"
+  },
+  {
+    "id": "7662e33f-c065-45bc-96be-79611df17bbd",
+    "title": "La Alhajuela House",
+    "creator": "Trópico Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183389/la-alhajuela-house-tropico-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/4e7e/3cf9/6c00/0178/2ec0/newsletter/4.jpg?1786728170",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-15T15:00:00.000Z",
+    "ingested_at": "2026-08-15T20:27:06.210Z"
   }
 ]
