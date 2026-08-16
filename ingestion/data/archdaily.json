@@ -25121,5 +25121,22 @@
     "material": [],
     "published_at": "2026-08-15T17:00:00.000Z",
     "ingested_at": "2026-08-15T22:26:24.358Z"
+  },
+  {
+    "id": "01d23356-d64f-4972-90a3-6ea1adf77115",
+    "title": "Common Days Cafe",
+    "creator": "INS Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183147/common-days-cafe-ins-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/cf1d/3cf9/6c00/0178/08b6/newsletter/13.jpg?1786498970",
+    "typology": [
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-08-15T21:00:00.000Z",
+    "ingested_at": "2026-08-16T03:04:13.887Z"
   }
 ]
