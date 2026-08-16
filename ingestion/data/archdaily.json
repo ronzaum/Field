@@ -25206,5 +25206,39 @@
     "material": [],
     "published_at": "2026-08-16T13:00:00.000Z",
     "ingested_at": "2026-08-16T19:24:07.882Z"
+  },
+  {
+    "id": "be5532e5-b751-4d16-ba83-284c2f7364da",
+    "title": "Jun Matcha Club Cafe",
+    "creator": "Matter of Something",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183148/jun-matcha-club-cafe-matter-of-something",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/d085/3cf9/6c00/0178/08ca/newsletter/MOS_PressRelease_JunMatcha_002_PhotobyKafinNoeman.jpg?1786499219",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-16T17:00:00.000Z",
+    "ingested_at": "2026-08-16T21:24:06.293Z"
+  },
+  {
+    "id": "1b0e1409-1fba-46e6-8aae-375fe8190b72",
+    "title": "Paso Nara",
+    "creator": "Instituto Superior de Arquitectura y Diseño",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183381/paso-nara-instituto-superior-de-arquitectura-y-diseno",
+    "image_url": "https://images.adsttc.com/media/images/6a74/68fe/eee6/f800/0125/f73c/newsletter/TDD26-12.jpg?1786014101",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-08-16T16:00:00.000Z",
+    "ingested_at": "2026-08-16T21:24:06.293Z"
   }
 ]
