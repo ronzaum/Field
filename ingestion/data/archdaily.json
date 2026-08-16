@@ -25189,5 +25189,22 @@
     "material": [],
     "published_at": "2026-08-16T11:00:00.000Z",
     "ingested_at": "2026-08-16T16:30:37.708Z"
+  },
+  {
+    "id": "532e67f0-c6f9-45a7-a8de-0027579b1c9c",
+    "title": "Refuge House",
+    "creator": "Elisa Porto Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183394/refuge-house-elisa-porto-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/1e13/3cf9/6c00/0178/2d03/newsletter/EM_260423_EPA_0016.jpg?1786715705",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-16T13:00:00.000Z",
+    "ingested_at": "2026-08-16T19:24:07.882Z"
   }
 ]
