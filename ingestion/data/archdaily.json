@@ -25172,5 +25172,22 @@
     "material": [],
     "published_at": "2026-08-16T06:00:00.000Z",
     "ingested_at": "2026-08-16T12:48:14.293Z"
+  },
+  {
+    "id": "40044bfe-58b8-4598-a9db-e47b4ed47c57",
+    "title": "Pavillon Monk",
+    "creator": "L. McComber",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/be41/3cf9/6c00/0178/26b9/newsletter/OBM-monk-logement-social-locatif-inclusif-personne-sortant-itin_rance-insertion-m_tro-brique-bleue-balcon-arche_A02_LMcComber-architecture.jpg?1786625624",
+    "typology": [
+      "Social Housing"
+    ],
+    "material": [],
+    "published_at": "2026-08-16T11:00:00.000Z",
+    "ingested_at": "2026-08-16T16:30:37.708Z"
   }
 ]
