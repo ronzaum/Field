@@ -25240,5 +25240,22 @@
     "material": [],
     "published_at": "2026-08-16T16:00:00.000Z",
     "ingested_at": "2026-08-16T21:24:06.293Z"
+  },
+  {
+    "id": "33b79739-352a-4feb-9d82-ad6833bc7133",
+    "title": "Deulkkotsoop \"Field · Flower · Forest\" Café",
+    "creator": "MTT",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183149/deulkkotsoop-field-star-flower-star-forest-cafe-mtt",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/d1b9/3cf9/6c00/0178/08f9/newsletter/DJI_0014-MTT__.jpg?1786499697",
+    "typology": [
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-08-16T21:00:00.000Z",
+    "ingested_at": "2026-08-17T03:03:50.503Z"
   }
 ]
