@@ -8915,5 +8915,28 @@
     "material": [],
     "published_at": "2026-08-17T13:56:52.000Z",
     "ingested_at": "2026-08-17T14:31:59.552Z"
+  },
+  {
+    "id": "a981c437-0d15-468f-ba7f-a82480c1ba53",
+    "title": "the frankfurt kitchen and margarete schütte-lihotzky’s vision of a ‘machine for living’",
+    "creator": "annalise kamegawa",
+    "location": "The New Frankfurt",
+    "country": "Germany",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/margarete-schutte-lihotzky-envisioned-frankfurt-kitchen-machine-for-living/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/frankfurt-kitchen-designboom-700-500x400-22b08q85r906.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in austria",
+      "architecture in germany",
+      "exhibition design",
+      "kitchen design",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T20:35:05.000Z",
+    "ingested_at": "2026-08-17T21:29:45.064Z"
   }
 ]
