@@ -25274,5 +25274,39 @@
     "material": [],
     "published_at": "2026-08-17T00:00:00.000Z",
     "ingested_at": "2026-08-17T05:38:19.190Z"
+  },
+  {
+    "id": "f96c1003-075c-48f5-a5bd-79738c194c60",
+    "title": "The Inner Court House",
+    "creator": "Plus Idea Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183332/the-inner-court-house-plus-idea-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/08e5/3cf9/6c00/0178/2be2/newsletter/Plus_Idea_-_The_Inner_Court__01.jpg?1786710289",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T03:00:00.000Z",
+    "ingested_at": "2026-08-17T08:49:23.117Z"
+  },
+  {
+    "id": "883d7444-c0f1-4a16-a8f0-2600e91b7084",
+    "title": "Cordmark Miyota Community Facility",
+    "creator": "Aida Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183239/cordmark-miyota-community-facility-aida-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/af51/3cf9/6c00/0178/25ac/newsletter/01_CORDMARK_MIYOTA_featured_Tatsuya_Noaki.jpg?1786621806",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T02:00:00.000Z",
+    "ingested_at": "2026-08-17T08:49:23.118Z"
   }
 ]
