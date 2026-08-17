@@ -25342,5 +25342,22 @@
     "material": [],
     "published_at": "2026-08-17T06:00:00.000Z",
     "ingested_at": "2026-08-17T12:52:27.560Z"
+  },
+  {
+    "id": "124bde87-8d1c-4a3a-8238-045168492604",
+    "title": "TP-LINK LXD Building",
+    "creator": "KPF",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183106/tp-link-lxd-kpf",
+    "image_url": "https://images.adsttc.com/media/images/6a7b/19ce/3cf9/6c00/0178/05cf/newsletter/01_TP-LINK_LXD_North_Facade_Credit_StudioSZ_Photo_Justin_Szeremeta_Courtesy_KPF.jpg?1786452477",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T12:00:00.000Z",
+    "ingested_at": "2026-08-17T17:30:47.948Z"
   }
 ]
