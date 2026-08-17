@@ -25359,5 +25359,39 @@
     "material": [],
     "published_at": "2026-08-17T12:00:00.000Z",
     "ingested_at": "2026-08-17T17:30:47.948Z"
+  },
+  {
+    "id": "97c8dd4f-262d-4bff-9d0a-cdfda08b25c5",
+    "title": "Serpentine Pavillion 2026",
+    "creator": "LANZA Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6a83/1a53/ac8b/af01/892c/ce0c/newsletter/serpentine-pavillion-lanza-atelier_13.jpg?1786976917",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T15:00:00.000Z",
+    "ingested_at": "2026-08-17T20:31:31.447Z"
+  },
+  {
+    "id": "a0da9d79-74e6-423c-bc33-bde221447c0a",
+    "title": "Linha House",
+    "creator": "Ricardo Azevedo Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183398/linha-house-ricardo-azevedo-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/76d9/ac8b/af01/4de7/6d66/newsletter/casa-da-linha-ricardo-azevedo-arquitecto_21.jpg?1786738466",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T13:00:00.000Z",
+    "ingested_at": "2026-08-17T20:31:31.447Z"
   }
 ]
