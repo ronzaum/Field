@@ -25308,5 +25308,39 @@
     "material": [],
     "published_at": "2026-08-17T02:00:00.000Z",
     "ingested_at": "2026-08-17T08:49:23.118Z"
+  },
+  {
+    "id": "ce7cc722-27ec-4b1a-8d0c-8da1301c0af7",
+    "title": "Sentry Bridge",
+    "creator": "Snøhetta + sbp",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183313/sentry-bridge-snohetta-plus-sbp",
+    "image_url": "https://images.adsttc.com/media/images/6a7e/f0fb/ab59/ca01/8994/51b1/newsletter/sentry-bridge-snohetta-plus-schlaich-bergermann-partner_3.jpg?1786704182",
+    "typology": [
+      "Pedestrian bridge"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T07:00:00.000Z",
+    "ingested_at": "2026-08-17T12:52:27.559Z"
+  },
+  {
+    "id": "0a329a5e-b61e-4510-902b-41c8cdc323e1",
+    "title": "Bossard School",
+    "creator": "Gut Deubelbeiss Nill Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183166/bossard-school-gut-deubelbeiss-nill-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a7c/36c5/3cf9/6c00/0178/09e9/newsletter/gd_bosshardschule_113137.jpg?1786525462",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T06:00:00.000Z",
+    "ingested_at": "2026-08-17T12:52:27.560Z"
   }
 ]
