@@ -25393,5 +25393,22 @@
     "material": [],
     "published_at": "2026-08-17T13:00:00.000Z",
     "ingested_at": "2026-08-17T20:31:31.447Z"
+  },
+  {
+    "id": "d8116e66-adb1-45f4-a910-d47ef7dbdd40",
+    "title": "Mirante de São Jorge",
+    "creator": "Alan Chu",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183468/mirante-de-sao-jorge-alan-chu",
+    "image_url": "https://images.adsttc.com/media/images/6a83/5186/3cf9/6c00/0178/33a2/newsletter/DJI_0032.jpg?1786991001",
+    "typology": [
+      "Tourism"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T17:00:00.000Z",
+    "ingested_at": "2026-08-17T23:26:49.661Z"
   }
 ]
