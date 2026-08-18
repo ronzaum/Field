@@ -25478,5 +25478,39 @@
     "material": [],
     "published_at": "2026-08-18T03:00:00.000Z",
     "ingested_at": "2026-08-18T08:41:57.752Z"
+  },
+  {
+    "id": "da78b566-6840-40cf-a29d-355f9a89fce8",
+    "title": "Hideout Leaf Villa",
+    "creator": "Pablo Luna Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/b70a/ab59/ca01/8994/4d4d/newsletter/hideout-leaf-villa-pablo-luna-studio_29.jpg?1786623772",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T07:00:00.000Z",
+    "ingested_at": "2026-08-18T12:54:45.856Z"
+  },
+  {
+    "id": "1da04d49-e9e4-4dcb-85c3-f8f8792ecfdc",
+    "title": "Campus Tensta Renovation",
+    "creator": "Tengbom",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183238/campus-tensta-tengbom",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/ab66/3cf9/6c00/0178/259d/newsletter/Campus_Tensta_7_-_original__1515492_.jpg?1786620880",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T06:00:00.000Z",
+    "ingested_at": "2026-08-18T12:54:45.857Z"
   }
 ]
