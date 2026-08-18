@@ -25461,5 +25461,22 @@
     "material": [],
     "published_at": "2026-08-18T00:00:00.000Z",
     "ingested_at": "2026-08-18T06:51:05.011Z"
+  },
+  {
+    "id": "73ab9a49-a473-446e-a52e-5d275463fb56",
+    "title": "The House of Thirds",
+    "creator": "Architects Collaborative",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183341/the-house-of-thirds-architects-collaborative",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/143d/ac8b/af01/892c/c94c/newsletter/the-house-of-thirds-architects-collaborative_3.jpg?1786713221",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T03:00:00.000Z",
+    "ingested_at": "2026-08-18T08:41:57.752Z"
   }
 ]
