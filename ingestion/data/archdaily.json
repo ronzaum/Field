@@ -25563,5 +25563,22 @@
     "material": [],
     "published_at": "2026-08-18T13:00:00.000Z",
     "ingested_at": "2026-08-18T17:31:21.052Z"
+  },
+  {
+    "id": "fb8e378b-1ff9-458d-8105-adcbfcec9677",
+    "title": "Porfirio Building",
+    "creator": "ViGa Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183519/porfirio-building-viga-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a84/25ac/3cf9/6c00/0178/3661/newsletter/6_PORFIRIO_VIGAARQ_DRON_100__Christian_Ortega_.jpg?1787045349",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T15:00:00.000Z",
+    "ingested_at": "2026-08-18T22:28:17.673Z"
   }
 ]
