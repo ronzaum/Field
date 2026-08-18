@@ -25410,5 +25410,22 @@
     "material": [],
     "published_at": "2026-08-17T17:00:00.000Z",
     "ingested_at": "2026-08-17T23:26:49.661Z"
+  },
+  {
+    "id": "4ecd2ff7-3588-49db-afb7-a42e35446461",
+    "title": "Oratory Chapel",
+    "creator": "S-AR",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183456/oratory-chapel-s-ar",
+    "image_url": "https://images.adsttc.com/media/images/6a83/2d5d/ac8b/af6c/434b/6104/newsletter/oratory-chapel-s-ar_1.jpg?1786981740",
+    "typology": [
+      "Chapel"
+    ],
+    "material": [],
+    "published_at": "2026-08-17T19:00:00.000Z",
+    "ingested_at": "2026-08-18T02:59:08.780Z"
   }
 ]
