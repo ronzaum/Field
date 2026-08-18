@@ -25546,5 +25546,22 @@
     "material": [],
     "published_at": "2026-08-18T12:00:00.000Z",
     "ingested_at": "2026-08-18T16:36:17.616Z"
+  },
+  {
+    "id": "070f36bc-c56b-48cb-81c9-58a850a8ca76",
+    "title": "Damata House",
+    "creator": "Melina Romano",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183504/damata-house-melina-romano",
+    "image_url": "https://images.adsttc.com/media/images/6a83/5092/3cf9/6c00/0178/3399/newsletter/0Z7A7804-1.jpg?1786990948",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T13:00:00.000Z",
+    "ingested_at": "2026-08-18T17:31:21.052Z"
   }
 ]
