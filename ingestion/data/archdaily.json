@@ -25427,5 +25427,39 @@
     "material": [],
     "published_at": "2026-08-17T19:00:00.000Z",
     "ingested_at": "2026-08-18T02:59:08.780Z"
+  },
+  {
+    "id": "8bdd3f12-a5bb-4f45-9642-112a254fa30c",
+    "title": "The Earth Crew Headquarters",
+    "creator": "pinto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183422/the-earth-crew-headquarters-pinto",
+    "image_url": "https://images.adsttc.com/media/images/6a82/e757/3cf9/6c00/0178/3115/newsletter/1.jpg?1786963841",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T02:00:00.000Z",
+    "ingested_at": "2026-08-18T06:51:05.010Z"
+  },
+  {
+    "id": "628bfe42-f869-4c36-abda-5e456f91a58a",
+    "title": "Echoes of Home : Adaptive Reuse of a Vernacular House",
+    "creator": "CM Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183405/echoes-of-home-adaptive-reuse-of-a-vernacular-house-cm-design",
+    "image_url": "https://images.adsttc.com/media/images/6a82/892b/3cf9/6c00/0178/2fa2/newsletter/04__________2.jpg?1786939712",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T00:00:00.000Z",
+    "ingested_at": "2026-08-18T06:51:05.011Z"
   }
 ]
