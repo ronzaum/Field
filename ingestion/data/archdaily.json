@@ -25699,5 +25699,22 @@
     "material": [],
     "published_at": "2026-08-19T07:00:00.000Z",
     "ingested_at": "2026-08-19T12:55:09.085Z"
+  },
+  {
+    "id": "6c305f58-927c-4ba5-9e2e-406602d07bb9",
+    "title": "Woonhuis Heenvliet",
+    "creator": "Studio Brandvries",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183423/woonhuis-heenvliet-studio-brandvries",
+    "image_url": "https://images.adsttc.com/media/images/6a83/03dc/3cf9/6c00/0178/3130/newsletter/MAEE3D_1.jpg?1786971117",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T10:00:00.000Z",
+    "ingested_at": "2026-08-19T15:35:48.100Z"
   }
 ]
