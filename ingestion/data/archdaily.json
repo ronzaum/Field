@@ -25733,5 +25733,22 @@
     "material": [],
     "published_at": "2026-08-19T12:00:00.000Z",
     "ingested_at": "2026-08-19T17:30:15.629Z"
+  },
+  {
+    "id": "affa96aa-b823-4be6-b96f-77a4635a82ec",
+    "title": "Chocó Pambil Refuge",
+    "creator": "Minqa Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183631/choco-pambil-refuge-minqa-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6a84/8093/4253/0500/01c9/ef48/newsletter/Exterior_2.jpg?1787068604",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T15:00:00.000Z",
+    "ingested_at": "2026-08-19T20:33:05.314Z"
   }
 ]
