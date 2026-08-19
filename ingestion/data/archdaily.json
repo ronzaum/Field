@@ -25682,5 +25682,22 @@
     "material": [],
     "published_at": "2026-08-19T02:00:00.000Z",
     "ingested_at": "2026-08-19T10:33:09.898Z"
+  },
+  {
+    "id": "3e8ca798-a116-4447-8a15-40b88dbf5bae",
+    "title": "House Gapfohl",
+    "creator": "Bernardo Bader Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183261/house-gapfohl-bernardo-bader-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/d90b/3cf9/6c00/0178/271a/newsletter/274_Haus_Gapfohl_Laterns_18_Gustav_Willeit.jpg?1786632517",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T07:00:00.000Z",
+    "ingested_at": "2026-08-19T12:55:09.085Z"
   }
 ]
