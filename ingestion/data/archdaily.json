@@ -25580,5 +25580,39 @@
     "material": [],
     "published_at": "2026-08-18T15:00:00.000Z",
     "ingested_at": "2026-08-18T22:28:17.673Z"
+  },
+  {
+    "id": "1722605c-8509-4707-b043-9e0834cad16a",
+    "title": "H1 House",
+    "creator": "Genovesi Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183525/h1-house-genovesi-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a84/6802/4253/0500/01c9/eecc/newsletter/Joaquin_Genovesi__Casa_H1__Low_Resolution____Luis_Abba__11_.jpg?1787062368",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T19:00:00.000Z",
+    "ingested_at": "2026-08-19T01:35:12.971Z"
+  },
+  {
+    "id": "1efcae3d-fb5d-4cff-a80a-0a45e84d85d3",
+    "title": "Caraçá Residence",
+    "creator": "23 SUL",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183539/caraca-residence-23-sul",
+    "image_url": "https://images.adsttc.com/media/images/6a83/5c09/3cf9/6c00/0178/33f0/newsletter/0354.23Sul.CasaCaraca-PKOK3501P.jpg?1786993894",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-18T17:00:00.000Z",
+    "ingested_at": "2026-08-19T01:35:12.971Z"
   }
 ]
