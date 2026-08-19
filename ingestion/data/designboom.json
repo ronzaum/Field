@@ -9069,5 +9069,26 @@
     "material": [],
     "published_at": "2026-08-19T10:50:49.000Z",
     "ingested_at": "2026-08-19T11:29:15.039Z"
+  },
+  {
+    "id": "190bda09-2b24-4f0d-a9d9-e0941ae908ca",
+    "title": "dp6 adds timber painter’s studio to renovated home in the netherlands",
+    "creator": "DP6 architectuurstudio",
+    "location": "Delft",
+    "country": "The Netherlands",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/timber-painters-studio-garden-dp6s-home-renovation-netherlands/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/timber-painters-studio-garden-dp6s-home-renovation-netherlands1-500x400-22b08q85r809.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "landscape architecture",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T15:53:23.000Z",
+    "ingested_at": "2026-08-19T16:36:05.896Z"
   }
 ]
