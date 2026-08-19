@@ -25631,5 +25631,56 @@
     "material": [],
     "published_at": "2026-08-19T00:00:00.000Z",
     "ingested_at": "2026-08-19T06:51:49.585Z"
+  },
+  {
+    "id": "d3910867-99db-405b-8afb-08adabac3945",
+    "title": "Private house in La Claye",
+    "creator": "atelier iso architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a7e/df79/3cf9/6c00/0178/2ac4/newsletter/La_Claye_SD-3_copie.jpg?1786699665",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T06:00:00.000Z",
+    "ingested_at": "2026-08-19T10:33:09.898Z"
+  },
+  {
+    "id": "d1e8d2ab-de54-4fae-a16b-5d635682f45a",
+    "title": "Waankarn Restaurant",
+    "creator": "Studio Locomotive",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183528/waankarn-restaurant-studio-locomotive",
+    "image_url": "https://images.adsttc.com/media/images/6a84/8c7d/ab59/ca01/8994/5cf6/newsletter/waankarn-restaurant-studio-locomotive_2.jpg?1787071631",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T03:00:00.000Z",
+    "ingested_at": "2026-08-19T10:33:09.898Z"
+  },
+  {
+    "id": "47f6e1d0-cda0-4ed0-84ea-b990a77ee748",
+    "title": "House for Camping",
+    "creator": "Patchwork Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183518/house-for-camping-patchwork-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a84/8993/ab59/ca01/8994/5cc7/newsletter/house-for-camping-patchwork-architecture_21.jpg?1787070883",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T02:00:00.000Z",
+    "ingested_at": "2026-08-19T10:33:09.898Z"
   }
 ]
