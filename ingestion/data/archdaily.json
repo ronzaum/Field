@@ -25614,5 +25614,22 @@
     "material": [],
     "published_at": "2026-08-18T17:00:00.000Z",
     "ingested_at": "2026-08-19T01:35:12.971Z"
+  },
+  {
+    "id": "d595ac26-2883-4a9b-a52a-8fbe4428d359",
+    "title": "House of  Rasing the Umbrella",
+    "creator": "Chaoffice",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183408/house-of-rasing-the-umbrella-chaoffice",
+    "image_url": "https://images.adsttc.com/media/images/6a82/bba7/3cf9/6c00/0178/2ffe/newsletter/Zhu_Yumeng-07-web.jpg?1786952636",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T00:00:00.000Z",
+    "ingested_at": "2026-08-19T06:51:49.585Z"
   }
 ]
