@@ -9090,5 +9090,24 @@
     "material": [],
     "published_at": "2026-08-19T15:53:23.000Z",
     "ingested_at": "2026-08-19T16:36:05.896Z"
+  },
+  {
+    "id": "5295a4f8-7d6b-45bc-a81a-9f81d523131c",
+    "title": "when the water rises, these amphibious homes rise and float with it",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/water-rises-amphibious-homes-float/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/amphibious-houses-modes-habitation-designboom-700-500x400-22b08q85r043.jpg",
+    "typology": [
+      "architecture",
+      "floating architecture",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T21:08:45.000Z",
+    "ingested_at": "2026-08-19T21:29:25.795Z"
   }
 ]
