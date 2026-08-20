@@ -25920,5 +25920,22 @@
     "material": [],
     "published_at": "2026-08-20T12:00:00.000Z",
     "ingested_at": "2026-08-20T18:46:47.682Z"
+  },
+  {
+    "id": "f5978f5d-af44-4a88-aa56-1aba8ae8c76c",
+    "title": "Casa Ínsula",
+    "creator": "TANAT + PEMO + Carlos García Noriega",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183721/casa-insula-tanat-plus-pemo-plus-carlos-garcia-noriega",
+    "image_url": "https://images.adsttc.com/media/images/6a86/bf64/4253/0500/01c9/f727/newsletter/0_Hero_img_3_07_WebRes_Tanat_Pemo_CarlosGarc_aNoriega_CasaMerida_PhotoByAlejandroRamirezOrozco.jpg?1787215741",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T15:00:00.000Z",
+    "ingested_at": "2026-08-20T21:31:57.055Z"
   }
 ]
