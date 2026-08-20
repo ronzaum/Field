@@ -25869,5 +25869,22 @@
     "material": [],
     "published_at": "2026-08-20T06:00:00.000Z",
     "ingested_at": "2026-08-20T12:57:18.830Z"
+  },
+  {
+    "id": "124f86ad-1656-403f-bce7-4523496896ad",
+    "title": "Underground Spa",
+    "creator": "KIP arhitekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183234/underground-spa-kip-arhitekti",
+    "image_url": "https://images.adsttc.com/media/images/6a7d/9111/3cf9/6c00/0178/251c/newsletter/traktor_resized.jpg?1786614175",
+    "typology": [
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T10:00:00.000Z",
+    "ingested_at": "2026-08-20T15:37:34.742Z"
   }
 ]
