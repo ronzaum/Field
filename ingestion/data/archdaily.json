@@ -25818,5 +25818,22 @@
     "material": [],
     "published_at": "2026-08-20T00:00:00.000Z",
     "ingested_at": "2026-08-20T06:53:44.573Z"
+  },
+  {
+    "id": "1fefe748-7083-40eb-a1c8-ebd8858a56b7",
+    "title": "Casa PR21",
+    "creator": "Alventosa Morell Arquitectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183443/casa-pr21-alventosa-morell-arquitectes",
+    "image_url": "https://images.adsttc.com/media/images/6a83/20a1/ac8b/af61/0825/41ff/newsletter/casa-pr21-alventosa-morell-arquitectes_2.jpg?1786978481",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T03:00:00.000Z",
+    "ingested_at": "2026-08-20T08:44:34.482Z"
   }
 ]
