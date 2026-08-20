@@ -25937,5 +25937,39 @@
     "material": [],
     "published_at": "2026-08-20T15:00:00.000Z",
     "ingested_at": "2026-08-20T21:31:57.055Z"
+  },
+  {
+    "id": "f4f03659-27ba-49d5-8a74-d9e4c509f79d",
+    "title": "Audiovisual Experimentation Center",
+    "creator": "Dirección General de Arquitectura + Secretaria de Planificación + Municipalidad de Avellaneda",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183724/audiovisual-experimentation-center-direccion-general-de-arquitectura-plus-secretaria-de-planificacion-plus-municipalidad-de-avellaneda",
+    "image_url": "https://images.adsttc.com/media/images/6a86/bfcb/4253/0500/01c9/f759/newsletter/CEA_Direccion_Gral._de_Arquitectura_-___Federico_Cairoli__23_.jpg?1787215854",
+    "typology": [
+      "Learning"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T19:00:00.000Z",
+    "ingested_at": "2026-08-20T23:29:35.146Z"
+  },
+  {
+    "id": "e33f929a-995e-4e5c-bdf8-3f517dcc367c",
+    "title": "Yoshi House",
+    "creator": "AR Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183686/yoshi-house-ar-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a84/b96e/4253/0500/01c9/f16e/newsletter/_DSF6988_ok.jpg?1787083824",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T17:00:00.000Z",
+    "ingested_at": "2026-08-20T23:29:35.146Z"
   }
 ]
