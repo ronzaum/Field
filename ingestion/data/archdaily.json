@@ -25750,5 +25750,39 @@
     "material": [],
     "published_at": "2026-08-19T15:00:00.000Z",
     "ingested_at": "2026-08-19T20:33:05.314Z"
+  },
+  {
+    "id": "b5713ab9-b59e-42af-8c57-26348b765189",
+    "title": "Topographies of Encounter - Concordia Square",
+    "creator": "AR-AR Martínez Arquitectura y Paisaje + María Paula González Bozzi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183634/topographies-of-encounter-concordia-square-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
+    "image_url": "https://images.adsttc.com/media/images/6a75/a425/3cf9/6c00/0177/fb68/newsletter/2_Vista_general_Juan_Pi_eros_72.jpg?1786094732",
+    "typology": [
+      "Public Space"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T19:00:00.000Z",
+    "ingested_at": "2026-08-20T01:34:12.983Z"
+  },
+  {
+    "id": "ef895399-b7a7-4763-ac05-ee4692fe1087",
+    "title": "House in São Paulo",
+    "creator": "André Vainer Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183558/house-in-sao-paulo-andre-vainer-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a85/023f/ac8b/af01/892c/d492/newsletter/casa-em-sao-paulo-andre-vainer-arquitetos_16.jpg?1787101779",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-19T17:00:00.000Z",
+    "ingested_at": "2026-08-20T01:34:12.983Z"
   }
 ]
