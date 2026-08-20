@@ -25784,5 +25784,39 @@
     "material": [],
     "published_at": "2026-08-19T17:00:00.000Z",
     "ingested_at": "2026-08-20T01:34:12.983Z"
+  },
+  {
+    "id": "af39f855-7c5f-4fea-923e-ce98b034332f",
+    "title": "Strathmore Courtyard House",
+    "creator": "Studio Ceravolo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183587/strathmore-courtyard-house-studio-ceravolo",
+    "image_url": "https://images.adsttc.com/media/images/6a85/b505/ab59/ca01/8994/6141/newsletter/strathmore-courtyard-house-studio-ceravolo_23.jpg?1787147555",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T02:00:00.000Z",
+    "ingested_at": "2026-08-20T06:53:44.573Z"
+  },
+  {
+    "id": "201a5114-1cf3-4f60-852e-ac84982711ce",
+    "title": "Canopy Design at Starfire Discovery Camp",
+    "creator": "CM Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183494/canopy-design-at-starfire-discovery-camp-cm-design",
+    "image_url": "https://images.adsttc.com/media/images/6a84/27e4/3cf9/6c00/0178/36cb/newsletter/21__________.jpg?1787046000",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T00:00:00.000Z",
+    "ingested_at": "2026-08-20T06:53:44.573Z"
   }
 ]
