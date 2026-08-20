@@ -25835,5 +25835,39 @@
     "material": [],
     "published_at": "2026-08-20T03:00:00.000Z",
     "ingested_at": "2026-08-20T08:44:34.482Z"
+  },
+  {
+    "id": "94d1f078-c09f-4140-b49d-93bb9e884a6f",
+    "title": "Chenhu Migratory Bird Observation Tower",
+    "creator": "Xiang Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183561/chenhu-migratory-bird-observation-tower-xiang-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a85/29e9/ab59/ca01/8994/5e85/newsletter/chenhu-migratory-bird-observation-tower-xiang-architects_5.jpg?1787111921",
+    "typology": [
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T07:00:00.000Z",
+    "ingested_at": "2026-08-20T12:57:18.829Z"
+  },
+  {
+    "id": "55cece5b-dfa7-42dc-9f43-1afdabfe85e7",
+    "title": "Centro Piacentiniano",
+    "creator": "CN10 architetti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183569/centro-piacentiniano-cn10-architetti",
+    "image_url": "https://images.adsttc.com/media/images/6a85/7e40/4253/0500/01c9/f201/newsletter/CPBG_Albo-42.jpg?1787133562",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T06:00:00.000Z",
+    "ingested_at": "2026-08-20T12:57:18.830Z"
   }
 ]
