@@ -25886,5 +25886,39 @@
     "material": [],
     "published_at": "2026-08-20T10:00:00.000Z",
     "ingested_at": "2026-08-20T15:37:34.742Z"
+  },
+  {
+    "id": "d54868bc-e1d6-4217-8082-a49ed64de79e",
+    "title": "Fradique Building",
+    "creator": "GRUPOSP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183638/fradique-building-gruposp",
+    "image_url": "https://images.adsttc.com/media/images/6a84/ab9f/4253/0500/01c9/f0e8/newsletter/GSP_PFC_NelsonKon_02.jpg?1787079698",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T13:00:00.000Z",
+    "ingested_at": "2026-08-20T18:46:47.681Z"
+  },
+  {
+    "id": "92b2c6eb-ef71-482a-b800-cf5add85172c",
+    "title": "Trilogy House",
+    "creator": "Waechter Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183670/trilogy-house-waechter-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a86/eac7/4253/0500/01c9/f836/newsletter/Trilogy-House-Pablo-Enriquez-ArchDaily-_1_.jpg?1787226860",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T12:00:00.000Z",
+    "ingested_at": "2026-08-20T18:46:47.682Z"
   }
 ]
