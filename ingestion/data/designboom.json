@@ -9109,5 +9109,25 @@
     "material": [],
     "published_at": "2026-08-19T21:08:45.000Z",
     "ingested_at": "2026-08-19T21:29:25.795Z"
+  },
+  {
+    "id": "d6e1d333-77c7-43c8-b97a-ec06f8ec3242",
+    "title": "who gets to stay when cities become digital nomad destinations?",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali-designboom-700-500x400-22b08q85r828.jpg",
+    "typology": [
+      "architecture",
+      "MODES OF HABITATION",
+      "residential architecture and interiors",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T10:50:35.000Z",
+    "ingested_at": "2026-08-20T11:30:51.166Z"
   }
 ]
