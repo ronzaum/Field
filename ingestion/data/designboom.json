@@ -9129,5 +9129,49 @@
     "material": [],
     "published_at": "2026-08-20T10:50:35.000Z",
     "ingested_at": "2026-08-20T11:30:51.166Z"
+  },
+  {
+    "id": "3b74afab-e7f9-42ca-bb91-d42d7ddd7003",
+    "title": "atrium architekti transforms 1960s workers’ dormitory into 507 homes in slovakia",
+    "creator": "LINKA News",
+    "location": "Košice",
+    "country": "Slovakia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/atrium-architekti-workers-dormitory-homes-slovakia/",
+    "image_url": "https://www.designboom.com/wp-content/dbsub/449140/2026-08-19/from-socialist-dormitory-to-urban-housing-700-6a85b51167e19-500x400-22b08q85r661.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in slovakia",
+      "facades",
+      "interiors",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T16:01:00.000Z",
+    "ingested_at": "2026-08-20T16:39:23.993Z"
+  },
+  {
+    "id": "52b9eab5-95b1-4be4-9ec0-0140504d4294",
+    "title": "aulets stacks natural stone beneath a recycled pallet roof in mallorca",
+    "creator": "Aulets Architectes",
+    "location": "Pollença",
+    "country": "Spain",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/aulets-architectes-natural-stone-recycled-pallet-roof-mallorca-futur-habitable-pavilion-pollenca/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/aulets-architectes-futur-habitable-pavilion-mallorca-designboom-700-500x400-22b08q85r669.jpg",
+    "typology": [
+      "architecture",
+      "architecture in spain",
+      "marble and stone design",
+      "temporary pavilions",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-20T15:45:21.000Z",
+    "ingested_at": "2026-08-20T16:39:24.002Z"
   }
 ]
