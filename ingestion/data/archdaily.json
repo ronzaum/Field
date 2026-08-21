@@ -26107,5 +26107,39 @@
     "material": [],
     "published_at": "2026-08-21T12:00:00.000Z",
     "ingested_at": "2026-08-21T18:42:13.025Z"
+  },
+  {
+    "id": "73414499-e479-4b02-9210-550918aabd98",
+    "title": "MFA House",
+    "creator": "Simone Jazbik Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183798/mfa-house-simone-jazbik-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a87/3ec3/4253/0500/01c9/fbef/newsletter/Casa_de_praia_com_348m2_em_B_zios_projetada_do_zero_pelo_escrit_rio_Simone_Jazbik_Arquitetura___foto_2.jpg?1787248363",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-21T17:00:00.000Z",
+    "ingested_at": "2026-08-21T21:28:58.525Z"
+  },
+  {
+    "id": "5a7b792a-5f8b-4d60-9964-2762560fd0bd",
+    "title": "Casa Pura Vida",
+    "creator": "Zozaya Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183767/casa-pura-vida-zozaya-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a88/1b13/4253/0500/01c9/fe11/newsletter/ZAR_PURAVIDA_CesarBelio-2.jpg?1787304797",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-21T15:00:00.000Z",
+    "ingested_at": "2026-08-21T21:28:58.525Z"
   }
 ]
