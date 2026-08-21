@@ -26073,5 +26073,39 @@
     "material": [],
     "published_at": "2026-08-21T10:00:00.000Z",
     "ingested_at": "2026-08-21T15:37:46.412Z"
+  },
+  {
+    "id": "764e8e6d-c9f4-4b59-b19a-ffb1027d533f",
+    "title": "Epitácio 3714 Building",
+    "creator": "Cité Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183785/epitacio-3714-building-cite-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a87/423b/4253/0500/01c9/fc4f/newsletter/Cit_-Fotos-arquitetura-Epit_cio-0754-copy-2.jpg?1787249457",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-21T13:00:00.000Z",
+    "ingested_at": "2026-08-21T18:42:13.025Z"
+  },
+  {
+    "id": "35a9137b-53bc-42d3-a29e-cf99d3349270",
+    "title": "HUT-SPOT Pavilion",
+    "creator": "m²ft architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183413/hut-spot-pavilion-m2ft-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a6c/7f20/1801/ca00/0176/e6bf/newsletter/4.jpg?1785495370",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-21T12:00:00.000Z",
+    "ingested_at": "2026-08-21T18:42:13.025Z"
   }
 ]
