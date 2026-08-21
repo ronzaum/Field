@@ -26039,5 +26039,22 @@
     "material": [],
     "published_at": "2026-08-21T06:00:00.000Z",
     "ingested_at": "2026-08-21T10:34:25.643Z"
+  },
+  {
+    "id": "6e1e7bdf-210b-4293-b004-12c51a7e36e5",
+    "title": "Ocean Stories Museum",
+    "creator": "Transborder Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183510/ocean-stories-museum-transborder-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a84/5488/3cf9/6c00/0178/3815/newsletter/01r_Transborder_OceanStories___Johan_Dehlin_251008.jpg?1787057317",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-08-21T07:00:00.000Z",
+    "ingested_at": "2026-08-21T12:56:27.662Z"
   }
 ]
