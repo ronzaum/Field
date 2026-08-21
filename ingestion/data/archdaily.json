@@ -25988,5 +25988,39 @@
     "material": [],
     "published_at": "2026-08-21T00:00:00.000Z",
     "ingested_at": "2026-08-21T04:43:10.649Z"
+  },
+  {
+    "id": "413e61c6-69b5-4a09-bf9c-b9c12fcc437f",
+    "title": "Screened Space Office Building",
+    "creator": "Studio UF+O",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183677/screened-space-office-building-studio-uf-plus-o",
+    "image_url": "https://images.adsttc.com/media/images/6a87/0d41/ac8b/af01/892c/dc35/newsletter/screened-space-office-building-studio-uf-plus-o_5.jpg?1787235682",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-21T03:00:00.000Z",
+    "ingested_at": "2026-08-21T07:47:40.879Z"
+  },
+  {
+    "id": "d38ad9b2-47f5-4718-95a3-4187a6307a2e",
+    "title": "B Nesta Residence",
+    "creator": "UOS Architecture Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183579/bnesta-residence-uos-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a85/933e/4253/0500/01c9/f2bc/newsletter/B-NESTA-4.jpg?1787138944",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-21T02:00:00.000Z",
+    "ingested_at": "2026-08-21T07:47:40.879Z"
   }
 ]
