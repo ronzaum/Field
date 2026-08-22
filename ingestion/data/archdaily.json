@@ -26243,5 +26243,39 @@
     "material": [],
     "published_at": "2026-08-22T15:00:00.000Z",
     "ingested_at": "2026-08-22T20:27:46.475Z"
+  },
+  {
+    "id": "673507cd-8f99-46e5-9bcc-e73222b645b2",
+    "title": "Achime Bagel Store",
+    "creator": "JOJOWORKSHOP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
+    "image_url": "https://images.adsttc.com/media/images/6a83/3107/ab59/ca01/8994/5913/newsletter/achime-bagel-store-jojoworkshop_21.jpg?1786982682",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-22T17:00:00.000Z",
+    "ingested_at": "2026-08-22T23:25:07.397Z"
+  },
+  {
+    "id": "c0ec5415-4a8f-4bb4-82a7-4fa01abd226c",
+    "title": "Hermitage House C70",
+    "creator": "ASMD Taller Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183774/hermitage-house-c70-asmd-taller-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a86/c02c/4253/0500/01c9/f795/newsletter/Manolo_R_Solis_00.jpg?1787216029",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-22T16:00:00.000Z",
+    "ingested_at": "2026-08-22T23:25:07.397Z"
   }
 ]
