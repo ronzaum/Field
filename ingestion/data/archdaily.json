@@ -26158,5 +26158,39 @@
     "material": [],
     "published_at": "2026-08-21T19:00:00.000Z",
     "ingested_at": "2026-08-22T01:27:45.447Z"
+  },
+  {
+    "id": "36449d59-32f6-4f6b-991f-77cf5b632161",
+    "title": "Antiquity exhibition at Wawel castle",
+    "creator": "NArchitekTURA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183570/antiquity-exhibition-at-wawel-castle-narchitektura",
+    "image_url": "https://images.adsttc.com/media/images/6a85/7e56/4253/0500/01c9/f216/newsletter/004_2.jpg?1787133543",
+    "typology": [
+      "Museum & Exhibition Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-22T06:00:00.000Z",
+    "ingested_at": "2026-08-22T12:47:53.519Z"
+  },
+  {
+    "id": "a10731b4-0da3-45ac-91a2-4315564a30c2",
+    "title": "Shanghai Guohua Heyuejia International Senior Living Centre, Continuing Care Retirement Community",
+    "creator": "GN Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183406/shanghai-guohua-heyuejia-international-senior-living-centre-continuing-care-retirement-community-gn-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a82/a1ce/3cf9/6c00/0178/2fcb/newsletter/1.Shanghai_Guohua_Heyuejia_International_Senior_Living_Community.jpg?1786946054",
+    "typology": [
+      "Healthcare Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-22T02:00:00.000Z",
+    "ingested_at": "2026-08-22T12:47:53.519Z"
   }
 ]
