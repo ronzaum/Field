@@ -26226,5 +26226,22 @@
     "material": [],
     "published_at": "2026-08-22T11:00:00.000Z",
     "ingested_at": "2026-08-22T17:24:42.172Z"
+  },
+  {
+    "id": "86b5bc9c-ad6b-4362-a1ba-7a2fb35b95d4",
+    "title": "C.E. House",
+    "creator": "Dall'Ovo Magalhães Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183808/ce-house-dallovo-magalhaes-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a87/3da0/4253/0500/01c9/fbd3/newsletter/DMSFX_-_11s_M.jpg?1787248078",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-22T15:00:00.000Z",
+    "ingested_at": "2026-08-22T20:27:46.475Z"
   }
 ]
