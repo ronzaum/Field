@@ -26345,5 +26345,39 @@
     "material": [],
     "published_at": "2026-08-23T11:00:00.000Z",
     "ingested_at": "2026-08-23T17:23:59.644Z"
+  },
+  {
+    "id": "15083d97-4bba-4ef9-8cbf-b945984920c1",
+    "title": "Zimbro House",
+    "creator": "Stemmer Rodrigues Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a84/9753/4253/0500/01c9/f03f/newsletter/GK_20251110_STEMMER-RODRIGUES_CASA-ZIMBRO_0388-EE.jpg?1787074456",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T15:00:00.000Z",
+    "ingested_at": "2026-08-23T20:27:58.556Z"
+  },
+  {
+    "id": "9b969014-e93c-469f-871d-8f653c6fc536",
+    "title": "Nooba Building",
+    "creator": "Saraiva + Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183796/nooba-building-saraiva-plus-associados",
+    "image_url": "https://images.adsttc.com/media/images/6a87/1524/4253/0500/01c9/fa2a/newsletter/20251118-Nooba_SA-2678.jpg?1787237765",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T13:00:00.000Z",
+    "ingested_at": "2026-08-23T20:27:58.557Z"
   }
 ]
