@@ -26328,5 +26328,22 @@
     "material": [],
     "published_at": "2026-08-23T06:00:00.000Z",
     "ingested_at": "2026-08-23T12:49:07.707Z"
+  },
+  {
+    "id": "8a4bcb54-a80b-4653-a43d-a199d46b29ca",
+    "title": "Zamalanda Park on the Nervión Riverbanks",
+    "creator": "Burgos & Garrido arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183419/zamalanda-park-on-the-nervion-riverbanks-burgos-and-garrido-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a70/6827/1801/ca00/0176/ede5/newsletter/6-RH3267-0108.jpg?1785751646",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T11:00:00.000Z",
+    "ingested_at": "2026-08-23T17:23:59.644Z"
   }
 ]
