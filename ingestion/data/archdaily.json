@@ -26294,5 +26294,22 @@
     "material": [],
     "published_at": "2026-08-22T21:00:00.000Z",
     "ingested_at": "2026-08-23T03:07:05.684Z"
+  },
+  {
+    "id": "6081b20f-432a-4ed7-b5a3-bf920869ba2f",
+    "title": "WeDoctor Green Valley",
+    "creator": "gad",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183411/wedoctor-green-valley-gad",
+    "image_url": "https://images.adsttc.com/media/images/6a82/d66b/ac8b/af01/892c/ccf9/newsletter/wedoctor-green-valley-gad_15.jpg?1786959488",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T02:00:00.000Z",
+    "ingested_at": "2026-08-23T07:36:45.801Z"
   }
 ]
