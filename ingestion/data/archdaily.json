@@ -26277,5 +26277,22 @@
     "material": [],
     "published_at": "2026-08-22T16:00:00.000Z",
     "ingested_at": "2026-08-22T23:25:07.397Z"
+  },
+  {
+    "id": "f73b7d72-551d-4748-9d28-f3f8d841d5fe",
+    "title": "Maribyrnong I House",
+    "creator": "Studio Ceravolo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183578/maribyrnong-i-house-studio-ceravolo",
+    "image_url": "https://images.adsttc.com/media/images/6a85/9351/ab59/ca01/8994/5fb3/newsletter/maribyrnong-i-house-studio-ceravolo_1.jpg?1787138915",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-22T21:00:00.000Z",
+    "ingested_at": "2026-08-23T03:07:05.684Z"
   }
 ]
