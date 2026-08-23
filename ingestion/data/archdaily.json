@@ -26311,5 +26311,22 @@
     "material": [],
     "published_at": "2026-08-23T02:00:00.000Z",
     "ingested_at": "2026-08-23T07:36:45.801Z"
+  },
+  {
+    "id": "f6d42185-4d5e-4cb4-aef2-6512f311085b",
+    "title": "Housing on top of the petrol station",
+    "creator": "Gut Deubelbeiss Nill Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183167/housing-on-top-of-the-petrol-station-gut-deubelbeiss-nill-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a7c/36fe/3cf9/6c00/0178/09f3/newsletter/12_gd_central_s_d_73922_1.jpg?1786525468",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T06:00:00.000Z",
+    "ingested_at": "2026-08-23T12:49:07.707Z"
   }
 ]
