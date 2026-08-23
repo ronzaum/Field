@@ -1163,5 +1163,27 @@
     "material": [],
     "published_at": "2026-08-14T08:00:28.000Z",
     "ingested_at": "2026-08-14T10:08:00.240Z"
+  },
+  {
+    "id": "19b00627-4a69-4b47-b16c-8cde4b2c6b6c",
+    "title": "Rough drystone walls frame sunken home on Greek island",
+    "creator": "Alexandre Pavlidis",
+    "location": "Terraces",
+    "country": "Greece",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/08/23/within-the-earth-alexandre-pavlidis/",
+    "image_url": "http://static.dezeen.com/uploads/2026/08/beneath-the-earth-alexanre-pavlidis-architecture-house-residential-greece_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Stone",
+      "Houses",
+      "Underground architecture",
+      "Greek houses",
+      "Residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T10:00:25.000Z",
+    "ingested_at": "2026-08-23T10:28:15.015Z"
   }
 ]
