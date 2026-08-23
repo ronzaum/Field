@@ -26379,5 +26379,39 @@
     "material": [],
     "published_at": "2026-08-23T13:00:00.000Z",
     "ingested_at": "2026-08-23T20:27:58.557Z"
+  },
+  {
+    "id": "6996449e-c9b6-4971-ac0a-491a69bfe18d",
+    "title": "The Threshold House",
+    "creator": "Madras Spaces",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183740/the-threshold-house-madras-spaces",
+    "image_url": "https://images.adsttc.com/media/images/6a88/1045/ac8b/af01/892c/e082/newsletter/the-threshold-house_8.jpg?1787302042",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T17:00:00.000Z",
+    "ingested_at": "2026-08-23T23:25:46.366Z"
+  },
+  {
+    "id": "1a3cd99d-1520-4392-98d0-95677925e233",
+    "title": "Cuattro Casa de Café",
+    "creator": "Faci Leboreiro",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183776/cuattro-casa-de-cafe-faci-leboreiro",
+    "image_url": "https://images.adsttc.com/media/images/6a86/bffc/4253/0500/01c9/f786/newsletter/11._Cuattro_x_Faci_Leboreiro_-__Rafael_Gamo.jpg?1787216336",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T16:00:00.000Z",
+    "ingested_at": "2026-08-23T23:25:46.366Z"
   }
 ]
