@@ -26413,5 +26413,39 @@
     "material": [],
     "published_at": "2026-08-23T16:00:00.000Z",
     "ingested_at": "2026-08-23T23:25:46.366Z"
+  },
+  {
+    "id": "18baeb41-4d0b-41ba-bb90-fe279e913f40",
+    "title": "Ouse Fashion Lobby",
+    "creator": "say architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183656/ouse-fashion-lobby-say-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a86/a306/ac8b/af01/892c/dadf/newsletter/ouse-fashion-lobby-say-architects_21.jpg?1787208482",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T00:00:00.000Z",
+    "ingested_at": "2026-08-24T04:50:54.461Z"
+  },
+  {
+    "id": "e849364b-28e1-495c-aac0-28972b2f13b9",
+    "title": "Raw & Warm Residence",
+    "creator": "Habitat Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183580/raw-and-warm-residence-habitat-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a85/bb35/ac8b/af01/892c/d7ed/newsletter/raw-and-warm-residence-habitat-architects_28.jpg?1787149223",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-23T21:00:00.000Z",
+    "ingested_at": "2026-08-24T04:50:54.462Z"
   }
 ]
