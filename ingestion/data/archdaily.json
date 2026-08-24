@@ -26549,5 +26549,73 @@
     "material": [],
     "published_at": "2026-08-24T10:00:00.000Z",
     "ingested_at": "2026-08-24T16:42:46.472Z"
+  },
+  {
+    "id": "b73a9da3-6c37-4150-8447-006936aeffc4",
+    "title": "Abejas Sports and Recreation Center",
+    "creator": "border arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183606/abejas-sports-and-recreation-center-border-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a85/b57e/4253/0500/01c9/f405/newsletter/3.jpg?1787147726",
+    "typology": [
+      "sports field"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T19:00:00.000Z",
+    "ingested_at": "2026-08-24T23:25:51.962Z"
+  },
+  {
+    "id": "905a6505-cb97-4fb7-8177-041bc3a4d1ca",
+    "title": "House in Santana do Parnaíba",
+    "creator": "GRUPOSP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183716/house-in-santana-do-parnaiba-gruposp",
+    "image_url": "https://images.adsttc.com/media/images/6a84/aff8/4253/0500/01c9/f10a/newsletter/javier_agustin_rojas_gruposp_04.jpg?1787080723",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T17:00:00.000Z",
+    "ingested_at": "2026-08-24T23:25:51.962Z"
+  },
+  {
+    "id": "0263c17d-6713-410f-8f2c-a977251b0e36",
+    "title": "HUB UCC. Universidad Católica de Córdoba Innovation Space",
+    "creator": "BLT Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183877/hub-ucc-universidad-catolica-de-cordoba-innovation-space-blt-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a88/743b/4253/0500/01c9/ffd1/newsletter/014_-_08-2026__-__UCC_HUB_BLT_ph_g_viramonte-4996-HDR-Editar.jpg?1787327594",
+    "typology": [
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T15:00:00.000Z",
+    "ingested_at": "2026-08-24T23:25:51.963Z"
+  },
+  {
+    "id": "132bb569-61b4-4c36-ba7e-6aa45a31a091",
+    "title": "House on the Northern Coast of Sao Paulo",
+    "creator": "André Vainer Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a84/5b11/ac8b/af01/892c/d230/newsletter/casa-no-litoral-norte-de-sao-paulo-andre-vainer-arquitetos_3.jpg?1787058978",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T13:00:00.000Z",
+    "ingested_at": "2026-08-24T23:25:51.963Z"
   }
 ]
