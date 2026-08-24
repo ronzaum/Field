@@ -26515,5 +26515,39 @@
     "material": [],
     "published_at": "2026-08-24T06:00:00.000Z",
     "ingested_at": "2026-08-24T11:33:04.761Z"
+  },
+  {
+    "id": "677d1110-bd26-4c1e-9f70-fd79eb2dc4e8",
+    "title": "90/100 Mixed Use Project",
+    "creator": "5468796 Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1182206/90-100-mixed-use-project-5468796-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a72/489f/5b21/b900/0199/2bc7/newsletter/08_90_100_James_Brittain.jpg?1785874611",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T12:00:00.000Z",
+    "ingested_at": "2026-08-24T16:42:46.472Z"
+  },
+  {
+    "id": "ef7f5b07-8505-4e2e-977c-f467868eaf6e",
+    "title": "Pavilion in Brolo Park",
+    "creator": "CN10 architetti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183571/pavilion-in-brolo-park-cn10-architetti",
+    "image_url": "https://images.adsttc.com/media/images/6a85/7ebd/4253/0500/01c9/f234/newsletter/PARCO_BROLO_Albo-15.jpg?1787133646",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T10:00:00.000Z",
+    "ingested_at": "2026-08-24T16:42:46.472Z"
   }
 ]
