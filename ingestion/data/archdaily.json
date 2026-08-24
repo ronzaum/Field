@@ -26447,5 +26447,22 @@
     "material": [],
     "published_at": "2026-08-23T21:00:00.000Z",
     "ingested_at": "2026-08-24T04:50:54.462Z"
+  },
+  {
+    "id": "dc94c35e-af7a-43ab-8b6a-d317aa8e4caf",
+    "title": "DR House",
+    "creator": "ARC Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183689/dr-house-arc-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a87/157c/ac8b/af01/892c/dcbb/newsletter/01-12-1.jpg?1787237772",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T02:00:00.000Z",
+    "ingested_at": "2026-08-24T07:07:06.414Z"
   }
 ]
