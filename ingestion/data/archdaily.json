@@ -26464,5 +26464,22 @@
     "material": [],
     "published_at": "2026-08-24T02:00:00.000Z",
     "ingested_at": "2026-08-24T07:07:06.414Z"
+  },
+  {
+    "id": "c506928c-7a4d-4196-9dd0-4c6ac29e0afc",
+    "title": "Tomi House",
+    "creator": "The Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183672/tomi-house-the-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a87/048f/ab59/ca01/8994/6571/newsletter/tomi-house-the-studio_2.jpg?1787233447",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T03:00:00.000Z",
+    "ingested_at": "2026-08-24T08:53:17.476Z"
   }
 ]
