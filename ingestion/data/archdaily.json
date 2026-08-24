@@ -26481,5 +26481,39 @@
     "material": [],
     "published_at": "2026-08-24T03:00:00.000Z",
     "ingested_at": "2026-08-24T08:53:17.476Z"
+  },
+  {
+    "id": "6709af18-3557-4f59-be6d-e519c84088d5",
+    "title": "The House of Memories",
+    "creator": "Studio Lagom",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183766/the-house-of-memories-studio-lagom",
+    "image_url": "https://images.adsttc.com/media/images/6a88/658a/ac8b/af01/892c/e21b/newsletter/the-house-of-memories-studio-lagom_33.jpg?1787323814",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T07:00:00.000Z",
+    "ingested_at": "2026-08-24T11:33:04.761Z"
+  },
+  {
+    "id": "1b996233-b73a-415b-8455-c94965fcc016",
+    "title": "Salle de médiation culturelle",
+    "creator": "atelier iso architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183311/salle-de-mediation-culturelle-atelier-iso-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a7e/df6f/3cf9/6c00/0178/2ab0/newsletter/Saint-R_v_rend_SD-1_copie.jpg?1786699671",
+    "typology": [
+      "visual arts center"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T06:00:00.000Z",
+    "ingested_at": "2026-08-24T11:33:04.761Z"
   }
 ]
