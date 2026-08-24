@@ -9348,5 +9348,24 @@
     "material": [],
     "published_at": "2026-08-24T18:10:48.000Z",
     "ingested_at": "2026-08-24T18:47:17.850Z"
+  },
+  {
+    "id": "79a61ebd-e326-4ee4-94f2-24268ecd563c",
+    "title": "biosphere 2: what happens when humans try to recreate earth?",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/biosphere-2-humans-earth/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/biosphere-2-humans-earth-designboom-700-500x400-22b08q85r165.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T20:35:19.000Z",
+    "ingested_at": "2026-08-24T20:35:20.996Z"
   }
 ]

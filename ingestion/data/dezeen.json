@@ -1185,5 +1185,28 @@
     "material": [],
     "published_at": "2026-08-23T10:00:25.000Z",
     "ingested_at": "2026-08-23T10:28:15.015Z"
+  },
+  {
+    "id": "f650b794-0d1c-4c8a-a2de-88f5d17e5a68",
+    "title": "Peaked volumes top Los Angeles house",
+    "creator": "Allprace",
+    "location": "Los Angeles",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/08/24/all-prace-hargis-culver-city-house/",
+    "image_url": "http://static.dezeen.com/uploads/2026/08/allprace-hargis-los-angeles-gabled_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "American houses",
+      "Californian houses",
+      "California",
+      "Bricks",
+      "Gables"
+    ],
+    "material": [],
+    "published_at": "2026-08-24T19:17:00.000Z",
+    "ingested_at": "2026-08-24T20:35:19.363Z"
   }
 ]
