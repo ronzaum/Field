@@ -26702,5 +26702,22 @@
     "material": [],
     "published_at": "2026-08-25T06:00:00.000Z",
     "ingested_at": "2026-08-25T12:55:00.357Z"
+  },
+  {
+    "id": "b774e284-0c2b-4f42-aed5-566db0b23328",
+    "title": "Green House",
+    "creator": "M2 Senos Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183860/green-house-m2-senos-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/2e57/ab59/ca04/e746/cbf5/newsletter/casa-verde-m2-senos-arquitectos_2.jpg?1787571817",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T10:00:00.000Z",
+    "ingested_at": "2026-08-25T15:48:21.596Z"
   }
 ]
