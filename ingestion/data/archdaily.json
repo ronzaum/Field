@@ -26753,5 +26753,39 @@
     "material": [],
     "published_at": "2026-08-25T13:00:00.000Z",
     "ingested_at": "2026-08-25T19:35:27.914Z"
+  },
+  {
+    "id": "c20806e7-f497-4f26-853d-f2a0231d9f58",
+    "title": "Forest House",
+    "creator": "Lucas Gonçalves Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183946/forest-house-lucas-goncalves-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a85/fece/4253/0500/01c9/f61d/newsletter/casa_da_mata__2_.jpg?1787166458",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T17:00:00.000Z",
+    "ingested_at": "2026-08-25T22:31:45.034Z"
+  },
+  {
+    "id": "88d312ad-0885-4217-8ac8-0c1e1ec334ed",
+    "title": "Esquina Nativa Center",
+    "creator": "TACO taller de arquitectura contextual",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183840/esquina-nativa-center-taco-taller-de-arquitectura-contextual",
+    "image_url": "https://images.adsttc.com/media/images/6a88/1aeb/4253/0500/01c9/fdf4/newsletter/EN-MR-40.jpg?1787304765",
+    "typology": [
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T15:00:00.000Z",
+    "ingested_at": "2026-08-25T22:31:45.035Z"
   }
 ]
