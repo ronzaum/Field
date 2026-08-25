@@ -1208,5 +1208,26 @@
     "material": [],
     "published_at": "2026-08-24T19:17:00.000Z",
     "ingested_at": "2026-08-24T20:35:19.363Z"
+  },
+  {
+    "id": "3fe5dc58-866b-42dc-8e4f-5f5c3df93b1b",
+    "title": "Grass-topped Dutch office",
+    "creator": "Studio Massimo \"adds habitat rather than taking it\"",
+    "location": null,
+    "country": "Netherlands",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/08/25/studio-massimo-office-by-nature-netherlands/",
+    "image_url": "http://static.dezeen.com/uploads/2026/08/studio-massimo-office-by-nature-netherlands-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Wood",
+      "Office architecture",
+      "Green roofs"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T10:30:11.000Z",
+    "ingested_at": "2026-08-25T11:32:24.589Z"
   }
 ]
