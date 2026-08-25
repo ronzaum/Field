@@ -26668,5 +26668,39 @@
     "material": [],
     "published_at": "2026-08-25T02:00:00.000Z",
     "ingested_at": "2026-08-25T09:40:04.547Z"
+  },
+  {
+    "id": "4c521f70-432f-487d-a4ea-0857284b0672",
+    "title": "Bidi Bidi Performing Arts Centre",
+    "creator": "To​.org + Hassell + Localworks + Arup",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183881/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/6c06/ac8b/af01/892c/e7fd/newsletter/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup_5.jpg?1787587623",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T07:00:00.000Z",
+    "ingested_at": "2026-08-25T12:55:00.357Z"
+  },
+  {
+    "id": "350cebd2-88ba-417b-bf24-8cda839cffbd",
+    "title": "Cabin Sande",
+    "creator": "Helen & Hard architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183733/cabin-sande-helen-and-hard-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a87/d94c/4253/0500/01c9/fd2a/newsletter/Cabin_Sande_Helen___Hard_Architects_Photo_Sindre_Ellingsen_K8A1095.jpg?1787287913",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T06:00:00.000Z",
+    "ingested_at": "2026-08-25T12:55:00.357Z"
   }
 ]
