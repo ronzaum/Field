@@ -26617,5 +26617,22 @@
     "material": [],
     "published_at": "2026-08-24T13:00:00.000Z",
     "ingested_at": "2026-08-24T23:25:51.963Z"
+  },
+  {
+    "id": "6d55e2fb-5216-4519-856a-0118a0042f25",
+    "title": "A Leaf Canopy by the Sea",
+    "creator": "Studio 10",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183655/a-leaf-canopy-by-the-sea-studio-10",
+    "image_url": "https://images.adsttc.com/media/images/6a86/9c6b/4253/0500/01c9/f6f8/newsletter/1OUKVJ_F.jpg?1787206842",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T00:00:00.000Z",
+    "ingested_at": "2026-08-25T05:35:16.141Z"
   }
 ]
