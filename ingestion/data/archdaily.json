@@ -26736,5 +26736,22 @@
     "material": [],
     "published_at": "2026-08-25T12:00:00.000Z",
     "ingested_at": "2026-08-25T16:41:52.074Z"
+  },
+  {
+    "id": "689bbc0b-7f50-40d0-84e7-2e9b88f6d8f6",
+    "title": "Glass House",
+    "creator": "Charlene Koetz Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183928/glass-house-charlene-koetz-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a85/fc4d/4253/0500/01c9/f608/newsletter/Casa_de_Vidro_21.jpg?1787165807",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T13:00:00.000Z",
+    "ingested_at": "2026-08-25T19:35:27.914Z"
   }
 ]
