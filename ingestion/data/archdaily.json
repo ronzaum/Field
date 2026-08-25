@@ -26719,5 +26719,22 @@
     "material": [],
     "published_at": "2026-08-25T10:00:00.000Z",
     "ingested_at": "2026-08-25T15:48:21.596Z"
+  },
+  {
+    "id": "32a34e8a-05d8-4672-b0a3-66b1b4603d99",
+    "title": "Portola Valley Home",
+    "creator": "Schwartz and Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183498/portola-valley-home-schwartz-and-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a84/431b/3cf9/6c00/0178/3706/newsletter/BearGulch_PhotoByBruceDamonte_02.jpg?1787052844",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T12:00:00.000Z",
+    "ingested_at": "2026-08-25T16:41:52.074Z"
   }
 ]
