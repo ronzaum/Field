@@ -26855,5 +26855,22 @@
     "material": [],
     "published_at": "2026-08-26T00:00:00.000Z",
     "ingested_at": "2026-08-26T07:51:50.919Z"
+  },
+  {
+    "id": "b09eaf6e-fc64-4852-98a4-10827068d1af",
+    "title": "Caloz Bramois House",
+    "creator": "R2A Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183727/caloz-bramois-house-r2a-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/2604/ac8b/af01/892c/e6ec/newsletter/caloz-bramois-house-r2a-architectes_1.jpg?1787569701",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T06:00:00.000Z",
+    "ingested_at": "2026-08-26T10:38:58.444Z"
   }
 ]

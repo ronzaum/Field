@@ -9430,5 +9430,23 @@
     "material": [],
     "published_at": "2026-08-26T02:10:27.000Z",
     "ingested_at": "2026-08-26T03:09:43.609Z"
+  },
+  {
+    "id": "7222b8f6-cd00-4cff-b6d2-5f68db237e2f",
+    "title": "my archischool announces winners of international youth ARCHIDESIGN competition 2026",
+    "creator": "tim spears",
+    "location": "Hong Kong",
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/my-archischool-winners-international-youth-archidesign-competition-2026/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/my-archischool-designboom-700-500x400-22b08q85r485.jpg",
+    "typology": [
+      "architecture",
+      "my archischool"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T10:00:39.000Z",
+    "ingested_at": "2026-08-26T10:38:59.910Z"
   }
 ]
