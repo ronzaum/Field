@@ -26787,5 +26787,22 @@
     "material": [],
     "published_at": "2026-08-25T15:00:00.000Z",
     "ingested_at": "2026-08-25T22:31:45.035Z"
+  },
+  {
+    "id": "b862f563-3fc0-4f97-a454-7d5641398978",
+    "title": "Studio House",
+    "creator": "Estudio Dupuy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183949/studio-house-estudio-dupuy",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/11c5/4253/0500/01ca/0366/newsletter/2.jpg?1787564538",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-25T19:00:00.000Z",
+    "ingested_at": "2026-08-26T01:39:44.787Z"
   }
 ]
