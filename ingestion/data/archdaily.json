@@ -26804,5 +26804,56 @@
     "material": [],
     "published_at": "2026-08-25T19:00:00.000Z",
     "ingested_at": "2026-08-26T01:39:44.787Z"
+  },
+  {
+    "id": "cfa42f94-ba54-4ebb-b7fc-ca5bf30a8c60",
+    "title": "Fringe Dweller Residence",
+    "creator": "Mihaly Slocombe",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183784/fringe-dweller-residence-mihaly-slocombe",
+    "image_url": "https://images.adsttc.com/media/images/6a88/7a5a/4253/0500/01c9/fff9/newsletter/0089-02-street.jpg?1787329133",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T03:00:00.000Z",
+    "ingested_at": "2026-08-26T07:51:50.919Z"
+  },
+  {
+    "id": "856a3eb3-ccdf-4147-9837-ccab29d027a3",
+    "title": "OH HO Residence",
+    "creator": "Play Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183783/oh-ho-residence-play-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a88/80c6/ac8b/af01/892c/e3b4/newsletter/oh-ho-residence-play-architecture_16.jpg?1787330764",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T02:00:00.000Z",
+    "ingested_at": "2026-08-26T07:51:50.919Z"
+  },
+  {
+    "id": "a1d82294-a03d-4f88-ba5b-e9a99c9bd29f",
+    "title": "Ultra-small Infrastructure Buildings",
+    "creator": "NODE Achitecture & Urbanism",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183901/ultra-small-infrastructure-buildings-node-achitecture-and-urbanism",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/18a3/ab59/ca48/60a2/0890/newsletter/ultra-small-infrastructure-buildings-node-achitecture-and-urbanism_10.jpg?1787631795",
+    "typology": [
+      "Infrastructure"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T00:00:00.000Z",
+    "ingested_at": "2026-08-26T07:51:50.919Z"
   }
 ]
