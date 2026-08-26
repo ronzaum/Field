@@ -26940,5 +26940,56 @@
     "material": [],
     "published_at": "2026-08-26T12:00:00.000Z",
     "ingested_at": "2026-08-26T19:06:35.080Z"
+  },
+  {
+    "id": "4798a8ae-7ac7-4e90-895d-426ca099dc04",
+    "title": "Arte Abierto",
+    "creator": "Sordo Madaleno Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183853/arte-abierto-javier-sordo-madaleno-bringas",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/1c06/ab59/ca01/8994/6fb2/newsletter/arte-abierto-javier-sordo-madaleno-bringas_5.jpg?1787567204",
+    "typology": [
+      "Gallery"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T19:00:00.000Z",
+    "ingested_at": "2026-08-26T23:09:34.729Z"
+  },
+  {
+    "id": "a76f15bb-6192-4577-8683-b851127549cd",
+    "title": "Japú House",
+    "creator": "AIA Estúdio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183980/japu-house-aia-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a87/17b5/4253/0500/01c9/fa79/newsletter/0461.AIAEstudio.CasaJapu-PedroKok0227.jpg?1787238365",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T17:00:00.000Z",
+    "ingested_at": "2026-08-26T23:09:34.729Z"
+  },
+  {
+    "id": "541d13cb-3fad-4229-a27d-b4b1caa0ba02",
+    "title": "El Trebol House",
+    "creator": "Engelman Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184015/el-trebol-house-engelman-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/c016/ab59/ca01/8994/77c0/newsletter/casa-el-trebol-engelman-estudio_37.jpg?1787740200",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T15:00:00.000Z",
+    "ingested_at": "2026-08-26T23:09:34.730Z"
   }
 ]
