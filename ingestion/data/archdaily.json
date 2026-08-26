@@ -26889,5 +26889,22 @@
     "material": [],
     "published_at": "2026-08-26T07:00:00.000Z",
     "ingested_at": "2026-08-26T13:01:01.953Z"
+  },
+  {
+    "id": "6ae6fb40-8867-406b-bd00-c982538ac108",
+    "title": "Tróia 37 House",
+    "creator": "Fragmentos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183897/troia-37-house-fragmentos",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/bc6a/4253/0500/01ca/05e5/newsletter/Fragmentos_Tr_ia_37__Adalberto_Duarte_001.jpg?1787608228",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T10:00:00.000Z",
+    "ingested_at": "2026-08-26T16:21:40.157Z"
   }
 ]

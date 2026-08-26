@@ -9448,5 +9448,49 @@
     "material": [],
     "published_at": "2026-08-26T10:00:39.000Z",
     "ingested_at": "2026-08-26T10:38:59.910Z"
+  },
+  {
+    "id": "452156e4-1fe4-479c-af9a-3e9ef3d14704",
+    "title": "takaaki fuji + yuko fuji builds japanese home to be dismantled and moved with its residents",
+    "creator": "tyfa / Takaaki Fuji + Yuko Fuji Architecture",
+    "location": "Zushi",
+    "country": "Japan",
+    "year": 2023,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/takaaki-fuji-yuko-fuji-japanese-home-dismantled-circularity-cabin/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/circularity-cabin-takaaki-fuji-yuko-fuji-architecture-japan-designboom-700-500x400-22b08q85r063.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in japan",
+      "circular design",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T15:55:03.000Z",
+    "ingested_at": "2026-08-26T16:21:41.530Z"
+  },
+  {
+    "id": "abe634b3-3fd5-401d-8aa2-109d7bdcb8de",
+    "title": "luca fontana turns a timber factory into a walkable roofscape in vancouver",
+    "creator": "Luca Fontana",
+    "location": "Stanley Park",
+    "country": "Canada",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/luca-fontana-gives-vancouvers-timber-factory-a-roof-you-can-walk-on/",
+    "image_url": "https://www.designboom.com/wp-content/dbsub/467794/2026-08-22/luca-fontanas-mass-timber-plank-factory-choreographs-rainwater-in-vancouver-700-6a89fb9de3665-500x400-22b08q85r805.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in canada",
+      "social impact",
+      "where people work",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T15:33:56.000Z",
+    "ingested_at": "2026-08-26T16:21:41.537Z"
   }
 ]
