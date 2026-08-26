@@ -26906,5 +26906,39 @@
     "material": [],
     "published_at": "2026-08-26T10:00:00.000Z",
     "ingested_at": "2026-08-26T16:21:40.157Z"
+  },
+  {
+    "id": "2b84cac2-ac32-41b7-bdd9-dde46161a684",
+    "title": "Guaratuba House",
+    "creator": "Estúdio 41",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183983/guaratuba-house-estudio-41",
+    "image_url": "https://images.adsttc.com/media/images/6a86/0f76/4253/0500/01c9/f664/newsletter/.2_IMG_1511.jpg?1787170768",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T13:00:00.000Z",
+    "ingested_at": "2026-08-26T19:06:35.080Z"
+  },
+  {
+    "id": "6a8330f1-3c64-43f9-9e4d-30bb46256c8d",
+    "title": "House in Chérive",
+    "creator": "Paul Bernier Architecte",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183356/house-in-cherive-paul-bernier-architecte",
+    "image_url": "https://images.adsttc.com/media/images/6a7f/1f73/3cf9/6c00/0178/2d2c/newsletter/1._Cherive_01878_RThibodeau.jpg?1786716101",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-26T12:00:00.000Z",
+    "ingested_at": "2026-08-26T19:06:35.080Z"
   }
 ]
