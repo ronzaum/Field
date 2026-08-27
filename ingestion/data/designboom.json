@@ -9492,5 +9492,50 @@
     "material": [],
     "published_at": "2026-08-26T15:33:56.000Z",
     "ingested_at": "2026-08-26T16:21:41.537Z"
+  },
+  {
+    "id": "d873f376-1226-46a2-95eb-0754e0d052b0",
+    "title": "27-square-meter steel and timber pavilion in chiang mai is built for flood resilience",
+    "creator": "ROOF RAIN",
+    "location": "Chiang Mai",
+    "country": "Thailand",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/27-square-meter-steel-timber-pavilion-chiang-mai-thailand/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/27-square-meter-steel-timber-pavilion-chiang-mai-thailand-500x400-22b08q85r578.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in thailand",
+      "kitchen design",
+      "modular design",
+      "temporary pavilions",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T07:17:04.000Z",
+    "ingested_at": "2026-08-27T08:33:13.165Z"
+  },
+  {
+    "id": "79eb6908-a45d-4705-a254-63a10d148fc9",
+    "title": "what do we stop seeing at home? ULTRA studio reframes domestic perception in tokyo",
+    "creator": "ULTRA Studio",
+    "location": "Tokyo",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ultra-studio-domestic-perception-tokyo-after-image-apartment-uehara-japan/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/ultra-studio-uehara-apartment-after-image-tokyo-japan-designboom-700-500x400-22b08q85r854.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in japan",
+      "architecture in tokyo",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T04:04:27.000Z",
+    "ingested_at": "2026-08-27T08:33:13.177Z"
   }
 ]
