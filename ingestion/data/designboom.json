@@ -9537,5 +9537,64 @@
     "material": [],
     "published_at": "2026-08-27T04:04:27.000Z",
     "ingested_at": "2026-08-27T08:33:13.177Z"
+  },
+  {
+    "id": "09bbbcaa-d406-4dda-bcc5-b96a0cef780f",
+    "title": "lens installation uses rhythmic timber slats to frame island’s historic churches",
+    "creator": "Evgeny Makarenko",
+    "location": "Kizhi Island",
+    "country": "Russia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home-designboom-700-500x400-22b08q85r626.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in russia",
+      "interactive installation",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T18:10:01.000Z",
+    "ingested_at": "2026-08-27T19:42:11.913Z"
+  },
+  {
+    "id": "97f36e1c-bb23-4560-9122-dc2c6c48a0f4",
+    "title": "1968 seoul residence is reshaped with courtyard, annex and timber frame",
+    "creator": "Lee Jihyeong",
+    "location": "Seoul",
+    "country": "South Korea",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/1968-seoul-residence-is-reshaped-with-courtyard-annex-and-timber-frame/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/saekdong-house-2-6a8c0925954d0-500x400-22b08q85r787.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in korea"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T11:50:40.000Z",
+    "ingested_at": "2026-08-27T19:42:11.923Z"
+  },
+  {
+    "id": "16a9d0a3-8db5-4073-bbd5-caaaf44aec7e",
+    "title": "clarence perry’s ‘neighborhood unit’: the century-old idea behind today’s 15-minute city",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/clarence-perry-neighborhood-unit-15-minute-city/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/clarence-perry-neighborhood-unit-15-minute-city-designboom-700-500x400-22b08q85r545.jpg",
+    "typology": [
+      "architecture",
+      "masterplans and urban revitalization",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T10:50:51.000Z",
+    "ingested_at": "2026-08-27T19:42:11.937Z"
   }
 ]
