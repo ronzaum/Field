@@ -9596,5 +9596,71 @@
     "material": [],
     "published_at": "2026-08-27T10:50:51.000Z",
     "ingested_at": "2026-08-27T19:42:11.937Z"
+  },
+  {
+    "id": "7c00af27-c0d0-4cb8-b98d-29fb3cb363fa",
+    "title": "helen & hard revives viking boatbuilding with whole-tree cabin on norway’s atlantic coast",
+    "creator": "Helen & Hard Architects",
+    "location": "Randaberg",
+    "country": "Norway",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/helen-hard-viking-boatbuilding-cabin-sande-norway/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/cabin-sande-helen-hard-architects-norway-designboom-700-500x400-22b08q85r693.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in norway",
+      "cabin architecture and design",
+      "helen and hard",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T15:45:05.000Z",
+    "ingested_at": "2026-08-28T17:13:37.830Z"
+  },
+  {
+    "id": "97dfdb8d-5e9a-4367-bfd0-941cc75bbda8",
+    "title": "mamuli translates georgian culture and traditions into layered restaurant interior",
+    "creator": "SOIA Design",
+    "location": "Krasnodar",
+    "country": "Russia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mamuli-georgian-culture-traditions-layered-restaurant-interior-soia-design/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/mamuli-georgia-layered-restaurant-interior-soia-design-designboom-700-500x400-22b08q85r851.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in georgia",
+      "architecture in russia",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T14:30:48.000Z",
+    "ingested_at": "2026-08-28T17:13:37.837Z"
+  },
+  {
+    "id": "7282032d-37fb-41a7-aaa1-33941db4de1f",
+    "title": "neon signs and retro rooms: ellie seymour’s book maps mid-century motels across the US",
+    "creator": "doublebill.design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/neon-signs-retro-rooms-ellie-seymour-book-maps-mid-century-motels-us-11-06-2025/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2025/11/neon-signs-retro-rooms-ellie-seymour-book-maps-mid-century-motels-us-designboom-700-1-500x400-22b08q85r886.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "designboom book reports",
+      "designer boutique hotels",
+      "hotel architecture and design",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T10:50:44.000Z",
+    "ingested_at": "2026-08-28T17:13:37.843Z"
   }
 ]

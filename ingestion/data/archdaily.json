@@ -27178,5 +27178,124 @@
     "material": [],
     "published_at": "2026-08-27T15:00:00.000Z",
     "ingested_at": "2026-08-28T04:06:49.157Z"
+  },
+  {
+    "id": "a4e1f95f-23df-4207-b5c8-970e1549ee68",
+    "title": "Autocamp Sequoia",
+    "creator": "Waechter Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183669/autocamp-sequoia-waechter-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a86/eac4/4253/0500/01c9/f82e/newsletter/AutoCampSequoia-Matt_Kisiday-ArchDaily__1_.jpg?1787226857",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T12:00:00.000Z",
+    "ingested_at": "2026-08-28T17:13:36.933Z"
+  },
+  {
+    "id": "b568fc62-f8a7-42b3-a106-3ad3d4e9004a",
+    "title": "Casa PB16",
+    "creator": "ESPECIE arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183846/casa-pb16",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/0dce/4253/0500/01ca/0300/newsletter/6.jpg?1787563507",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T10:00:00.000Z",
+    "ingested_at": "2026-08-28T17:13:36.933Z"
+  },
+  {
+    "id": "4f18a632-5212-44a2-9282-c1b0881a7469",
+    "title": "Santa Cruz School Kindergarten",
+    "creator": "Andrade Morettin Arquitetos Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184097/santa-cruz-school-kindergarten-andrade-morettin-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/6a90/64bd/a25c/7b00/0125/f931/newsletter/Nelson_Kon_01K_9360_06.jpg?1787847906",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T07:00:00.000Z",
+    "ingested_at": "2026-08-28T17:13:36.934Z"
+  },
+  {
+    "id": "f1078207-ce31-44b3-8775-e0be2713eb17",
+    "title": "Katūvu Hut",
+    "creator": "HUT atelier d'architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183732/katuvu-hut-hut-atelier-darchitecture",
+    "image_url": "https://images.adsttc.com/media/images/6a87/d92e/4253/0500/01c9/fd12/newsletter/HUT-Katuvu-_David_Foessel-02.jpg?1787287894",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T06:00:00.000Z",
+    "ingested_at": "2026-08-28T17:13:36.934Z"
+  },
+  {
+    "id": "4a93d4b1-c97a-4127-a3fd-de8a49a3f475",
+    "title": "Hybrid Infrastructure  Doble Erre",
+    "creator": "Morphism",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183662/doble-erre-morphism",
+    "image_url": "https://images.adsttc.com/media/images/6a86/c0c0/4253/0500/01c9/f7b8/newsletter/Copy_of_09-DOBLE-ERRE.jpg?1787216078",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T03:00:00.000Z",
+    "ingested_at": "2026-08-28T17:13:36.934Z"
+  },
+  {
+    "id": "077afda2-31b6-4cfd-8234-af3049786914",
+    "title": "Country House in Boladala Village",
+    "creator": "ARC Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183707/country-house-in-boladala-village-arc-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a87/21fa/ab59/ca01/8994/672d/newsletter/country-house-in-boladala-village-arc-architects_11.jpg?1787241001",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T02:00:00.000Z",
+    "ingested_at": "2026-08-28T17:13:36.934Z"
+  },
+  {
+    "id": "14b70b9a-dc65-4e22-922f-3b69e67cbbf7",
+    "title": "Floral Pavilion",
+    "creator": "genarchitects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183973/floral-pavilion-genarchitects",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/f187/ac8b/af61/5221/18f0/newsletter/floral-pavilion-genarchitects_18.jpg?1787687340",
+    "typology": [
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T00:00:00.000Z",
+    "ingested_at": "2026-08-28T17:13:36.934Z"
   }
 ]
