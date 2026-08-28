@@ -27127,5 +27127,56 @@
     "material": [],
     "published_at": "2026-08-27T02:00:00.000Z",
     "ingested_at": "2026-08-27T19:42:11.107Z"
+  },
+  {
+    "id": "e6ba9b77-eeb7-4e59-80da-7602e3ba5597",
+    "title": "Cempasúchil Pavilion",
+    "creator": "COLAR Colectivo de Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184070/cempasuchil-pavilion-colar-colectivo-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/b0e3/4253/0500/01ca/0db6/newsletter/PABELLON_COLAR_RSOMF-EDIT_46.jpg?1787736410",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T19:00:00.000Z",
+    "ingested_at": "2026-08-28T04:06:49.157Z"
+  },
+  {
+    "id": "8be99624-68e1-4368-9c01-2741e50de03e",
+    "title": "FPW House",
+    "creator": "Obra Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184094/fpw-house-obra-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/9c8f/4253/0500/01ca/086f/newsletter/FPW_NELSONKON_01.jpg?1787665584",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T17:00:00.000Z",
+    "ingested_at": "2026-08-28T04:06:49.157Z"
+  },
+  {
+    "id": "072d1b55-1958-437c-b2f4-3616373c3051",
+    "title": "Casa Galería",
+    "creator": "Sommet",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184047/casa-galeria-sommet",
+    "image_url": "https://images.adsttc.com/media/images/6a8f/ed3c/a25c/7b00/0125/f594/newsletter/1T6A5558.jpg?1787817309",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-27T15:00:00.000Z",
+    "ingested_at": "2026-08-28T04:06:49.157Z"
   }
 ]
