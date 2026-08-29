@@ -27416,5 +27416,39 @@
     "material": [],
     "published_at": "2026-08-29T11:00:00.000Z",
     "ingested_at": "2026-08-29T18:14:27.553Z"
+  },
+  {
+    "id": "72365db2-55ec-4856-bf4b-70866ed6250a",
+    "title": "ADS House",
+    "creator": "VOA Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184157/ads-house-voa-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/9d70/4253/0500/01ca/08db/newsletter/VOA_ADS__RafaelRenzo__-222.jpg?1787665814",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T15:00:00.000Z",
+    "ingested_at": "2026-08-29T21:33:55.531Z"
+  },
+  {
+    "id": "475dc807-1e95-4b04-8519-f8b2222cc6eb",
+    "title": "Sergipe Apartment",
+    "creator": "Terra Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184143/sergipe-apartment-terra-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/101c/4253/0500/01ca/0be0/newsletter/365A0154.jpg?1787695210",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T13:00:00.000Z",
+    "ingested_at": "2026-08-29T21:33:55.532Z"
   }
 ]
