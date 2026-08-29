@@ -9662,5 +9662,27 @@
     "material": [],
     "published_at": "2026-08-28T10:50:44.000Z",
     "ingested_at": "2026-08-28T17:13:37.843Z"
+  },
+  {
+    "id": "7e2dd2b1-dfc1-4ac1-af49-b012acf98d41",
+    "title": "ICON uses one construction system to 3D-print radically different ideas of home",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/icon-construction-system-3d-print-home-modes-habitation/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/icon-modes-habitation-designboom-700-500x400-22b08q85r942.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "3D printing",
+      "ICON",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T07:45:24.000Z",
+    "ingested_at": "2026-08-29T08:48:37.608Z"
   }
 ]
