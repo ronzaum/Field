@@ -27297,5 +27297,73 @@
     "material": [],
     "published_at": "2026-08-28T00:00:00.000Z",
     "ingested_at": "2026-08-28T17:13:36.934Z"
+  },
+  {
+    "id": "cf9c8633-52fc-4f49-8144-c93115d5b55b",
+    "title": "Animà Village",
+    "creator": "Sordo Madaleno Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183857/anima-village-javier-sordo-madaleno-bringas",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/2310/ac8b/af01/892c/e6df/newsletter/anima-village-javier-sordo-madaleno-bringas_10.jpg?1787568967",
+    "typology": [
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T19:00:00.000Z",
+    "ingested_at": "2026-08-29T01:35:15.042Z"
+  },
+  {
+    "id": "f1baeb66-5087-4aa3-9aba-5ecfa9949078",
+    "title": "Bom Retiro House",
+    "creator": "Michel Macedo Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184138/bom-retiro-house-michel-macedo-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a8f/1a31/4253/0500/01ca/0f9b/newsletter/08_JO_O_VITOR_SARTURI.jpg?1787763315",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T17:00:00.000Z",
+    "ingested_at": "2026-08-29T01:35:15.043Z"
+  },
+  {
+    "id": "3d77575b-7ed4-40c1-8787-e4405b9860aa",
+    "title": "House in Estancia El Terrón",
+    "creator": "Santiago Bertotti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184087/house-in-estancia-el-terron-santiago-bertotti",
+    "image_url": "https://images.adsttc.com/media/images/6a8f/ee0d/a25c/7b00/0125/f5db/newsletter/255_-_08-2026__-__S_BERTOTTI_ET2_ph_g_viramonte-1537-HDR.jpg?1787817501",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T15:00:00.000Z",
+    "ingested_at": "2026-08-29T01:35:15.043Z"
+  },
+  {
+    "id": "1c95c885-5da1-4782-91a6-685ea1c93ce0",
+    "title": "Tomaz Building",
+    "creator": "IDEIA1",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184135/tomaz-building-ideia1",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/9af4/4253/0500/01ca/0835/newsletter/_08A2513-Pano_copyright_manuel_sa.jpg?1787665196",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-28T13:00:00.000Z",
+    "ingested_at": "2026-08-29T01:35:15.043Z"
   }
 ]
