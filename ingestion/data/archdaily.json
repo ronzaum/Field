@@ -27399,5 +27399,22 @@
     "material": [],
     "published_at": "2026-08-29T06:00:00.000Z",
     "ingested_at": "2026-08-29T14:16:54.265Z"
+  },
+  {
+    "id": "ec46f1fb-3923-4bf1-abe0-eae8eff78f3e",
+    "title": "Rehabilitation of the Orrios Exchange building",
+    "creator": "Oscar Escuder Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183852/rehabilitation-of-the-orrios-exchange-building",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/1204/4253/0500/01ca/038f/newsletter/Lonja-12.jpg?1787564585",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T11:00:00.000Z",
+    "ingested_at": "2026-08-29T18:14:27.553Z"
   }
 ]
