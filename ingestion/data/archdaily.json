@@ -27382,5 +27382,22 @@
     "material": [],
     "published_at": "2026-08-29T02:00:00.000Z",
     "ingested_at": "2026-08-29T08:48:35.985Z"
+  },
+  {
+    "id": "d6da5a97-d7a2-4fb4-919b-447b6587bf6e",
+    "title": "A12 Apartment",
+    "creator": "DKA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183511/a12-apartment-dka",
+    "image_url": "https://images.adsttc.com/media/images/6a84/5531/3cf9/6c00/0178/383d/newsletter/DKA_A12-living-_Serena-Eller-2.jpg?1787057528",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T06:00:00.000Z",
+    "ingested_at": "2026-08-29T14:16:54.265Z"
   }
 ]

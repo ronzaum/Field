@@ -1229,5 +1229,26 @@
     "material": [],
     "published_at": "2026-08-25T10:30:11.000Z",
     "ingested_at": "2026-08-25T11:32:24.589Z"
+  },
+  {
+    "id": "c12d291a-530c-478a-bb99-9247cac165f4",
+    "title": "Slanted facade encloses modular Czech home",
+    "creator": "Papundekl Architects",
+    "location": null,
+    "country": "Czech Republic",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/08/modular-home-with-sloping-facade-papundekl-architects-sq_dezeen_2364_col_3-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Residential architecture and interiors",
+      "Houses",
+      "Czech houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T10:00:42.000Z",
+    "ingested_at": "2026-08-29T14:16:54.486Z"
   }
 ]
