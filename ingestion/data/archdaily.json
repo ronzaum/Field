@@ -27450,5 +27450,39 @@
     "material": [],
     "published_at": "2026-08-29T13:00:00.000Z",
     "ingested_at": "2026-08-29T21:33:55.532Z"
+  },
+  {
+    "id": "f06f2b3f-9004-4ecb-843a-75bf3c552953",
+    "title": "LPP Rice Bran Oil Refinery",
+    "creator": "PHTAA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183945/lpp-rice-bran-oil-refinery-phtaa",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/d510/ab59/ca01/8994/7533/newsletter/lpp-rice-bran-oil-refinery-phtaa_16.jpg?1787680026",
+    "typology": [
+      "Industrial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T17:00:00.000Z",
+    "ingested_at": "2026-08-29T23:58:39.575Z"
+  },
+  {
+    "id": "0ad566fd-96ad-4cd5-bbcd-bbfa35112e22",
+    "title": "Casa Loto",
+    "creator": "Ezequiel Farca Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183850/casa-loto-ezequiel-farca-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/1174/4253/0500/01ca/0357/newsletter/13.-Casa-Loto.jpg?1787564434",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T16:00:00.000Z",
+    "ingested_at": "2026-08-29T23:58:39.576Z"
   }
 ]
