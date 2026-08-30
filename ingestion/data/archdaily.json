@@ -27484,5 +27484,22 @@
     "material": [],
     "published_at": "2026-08-29T16:00:00.000Z",
     "ingested_at": "2026-08-29T23:58:39.576Z"
+  },
+  {
+    "id": "fa73a7e3-5eca-4ff9-9eb4-16fb86f04abf",
+    "title": "The Round Whitehorse Centre",
+    "creator": "Kerstin Thompson Architects + BKK Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184112/the-round-whitehorse-centre-kerstin-thompson-architects-plus-bkk-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a91/c85a/b71a/0f01/89f1/b412/newsletter/the-round-whitehorse-centre-kerstin-thompson-architects-plus-bkk-architects_12.jpg?1787938913",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-08-29T21:00:00.000Z",
+    "ingested_at": "2026-08-30T05:13:04.586Z"
   }
 ]
