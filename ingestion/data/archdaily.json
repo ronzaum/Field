@@ -27569,5 +27569,39 @@
     "material": [],
     "published_at": "2026-08-30T11:00:00.000Z",
     "ingested_at": "2026-08-30T19:40:38.899Z"
+  },
+  {
+    "id": "1f11cecf-8617-4f7c-92d2-f7a4cbb43fb4",
+    "title": "Boroló",
+    "creator": "AR-AR Martínez Arquitectura y Paisaje + María Paula González Bozzi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
+    "image_url": "https://images.adsttc.com/media/images/6a8f/f06d/a25c/7b00/0125/f5fb/newsletter/0_Fachada_principal_Juan_Pi_eros_72.jpg?1787818202",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-08-30T16:00:00.000Z",
+    "ingested_at": "2026-08-30T22:34:04.424Z"
+  },
+  {
+    "id": "e78e8220-6f50-4042-b415-c1ea7908b455",
+    "title": "Etchegoyen House",
+    "creator": "wasingerbarletti arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184089/etchegoyen-house-wasingerbarletti-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a8f/edb7/a25c/7b00/0125/f5c0/newsletter/04_LUIS_BARANDARI_N.jpg?1787817414",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-30T15:00:00.000Z",
+    "ingested_at": "2026-08-30T22:34:04.424Z"
   }
 ]
