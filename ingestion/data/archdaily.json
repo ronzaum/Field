@@ -27535,5 +27535,39 @@
     "material": [],
     "published_at": "2026-08-30T06:00:00.000Z",
     "ingested_at": "2026-08-30T16:24:45.728Z"
+  },
+  {
+    "id": "4afab9f6-7a9a-4987-a738-f94e39c1b2a0",
+    "title": "Scarlet House",
+    "creator": "Frederico Zanelato | Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184146/scarlet-house-frederico-zanelato-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a91/902a/b71a/0f01/89f1/b2c3/newsletter/casa-escarlate-frederico-zanelato-arquitetos_13.jpg?1787924538",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-30T13:00:00.000Z",
+    "ingested_at": "2026-08-30T19:40:38.899Z"
+  },
+  {
+    "id": "aa4eb689-289c-4b9a-9ba3-0bf73b31efd2",
+    "title": "Garden Laneway House",
+    "creator": "Williamson Williamson",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183896/garden-laneway-house-williamson-williamson",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/bafb/4253/0500/01ca/05db/newsletter/22096-133B_sm.jpg?1787607831",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-30T11:00:00.000Z",
+    "ingested_at": "2026-08-30T19:40:38.899Z"
   }
 ]
