@@ -27603,5 +27603,73 @@
     "material": [],
     "published_at": "2026-08-30T15:00:00.000Z",
     "ingested_at": "2026-08-30T22:34:04.424Z"
+  },
+  {
+    "id": "f13704d1-afb2-4c5d-8b3d-432372de034b",
+    "title": "Otway Beach House",
+    "creator": "Kerstin Thompson Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184111/otway-beach-house-kerstin-thompson-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a90/f8ad/c615/2701/88ac/414e/newsletter/otway-beach-house-kerstin-thompson-architects_1.jpg?1787885752",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T03:00:00.000Z",
+    "ingested_at": "2026-08-31T08:26:28.381Z"
+  },
+  {
+    "id": "919e7ad1-41f4-47b6-8fa3-9fc41a3a42d9",
+    "title": "House in Hino",
+    "creator": "Shigeo Takizawa Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184110/house-in-hino-shigeo-takizawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a90/f5fb/b71a/0f01/89f1/b0ea/newsletter/house-in-hino-shigeo-takizawa-architects_4.jpg?1787885068",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T02:00:00.000Z",
+    "ingested_at": "2026-08-31T08:26:28.381Z"
+  },
+  {
+    "id": "3908a20c-857e-48bf-8245-06803f1c3af7",
+    "title": "Moganshan Liaoyuan Theater",
+    "creator": "INCLS (One Design)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184065/moganshan-liaoyuan-theater-incls-one-design",
+    "image_url": "https://images.adsttc.com/media/images/6a8f/fc27/a25c/7b00/0125/f6e7/newsletter/Zhu_Yumeng-27-web.jpg?1787821156",
+    "typology": [
+      "Theaters & Performance"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T00:00:00.000Z",
+    "ingested_at": "2026-08-31T08:26:28.381Z"
+  },
+  {
+    "id": "cdfc0f08-38f5-4124-a31d-1d930b603a36",
+    "title": "The Plinth House 2",
+    "creator": "Luke Stanley Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184208/the-plinth-house-2-luke-stanley-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a94/4ae1/a25c/7b00/0126/0052/newsletter/01_LSA_Plinth_House_2_17.jpg?1788103424",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-08-30T21:00:00.000Z",
+    "ingested_at": "2026-08-31T08:26:28.382Z"
   }
 ]
