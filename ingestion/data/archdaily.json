@@ -27722,5 +27722,73 @@
     "material": [],
     "published_at": "2026-08-31T06:00:00.000Z",
     "ingested_at": "2026-08-31T16:55:33.832Z"
+  },
+  {
+    "id": "fbb52e94-6f6e-4dbd-bb08-9204195f7055",
+    "title": "Rouxinol House",
+    "creator": "Sergio Sampaio Archi + Tectônica",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184262/rouxinol-house-sergio-sampaio-archi-plus-tectonica",
+    "image_url": "https://images.adsttc.com/media/images/6a92/f0a7/c615/2723/9259/e6b7/newsletter/casa-rouxinol-sergio-sampaio-archi-plus-tectonica_30.jpg?1788014841",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T17:00:00.000Z",
+    "ingested_at": "2026-08-31T21:50:24.034Z"
+  },
+  {
+    "id": "db2337ba-0f6d-4ca0-a9ef-9f3fee6adce3",
+    "title": "Akina House",
+    "creator": "Di Frenna Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184279/akina-house-di-frenna-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a95/c2cb/299e/1c00/01d2/d745/newsletter/DFA-AKINA-2569.jpg?1788199655",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T15:00:00.000Z",
+    "ingested_at": "2026-08-31T21:50:24.035Z"
+  },
+  {
+    "id": "51dd4331-7043-4d3e-b557-a0e791122dc7",
+    "title": "Pedra Azul House",
+    "creator": "Escala Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184182/pedra-azul-house-escala-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/9c0f/4253/0500/01ca/0857/newsletter/CASA_PEDRA_AZUL-16.jpg?1787665553",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T13:00:00.000Z",
+    "ingested_at": "2026-08-31T21:50:24.035Z"
+  },
+  {
+    "id": "f29bf233-9890-4722-ad1f-92fd80ffff9b",
+    "title": "House of Monitors",
+    "creator": "Williamson Williamson",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183895/house-of-monitors-williamson-williamson",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/baf4/4253/0500/01ca/05bd/newsletter/364-Williamson_Williamson_Fishleigh_Crop_sm.jpg?1787607831",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T12:00:00.000Z",
+    "ingested_at": "2026-08-31T21:50:24.035Z"
   }
 ]
