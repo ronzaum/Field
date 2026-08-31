@@ -27671,5 +27671,56 @@
     "material": [],
     "published_at": "2026-08-30T21:00:00.000Z",
     "ingested_at": "2026-08-31T08:26:28.382Z"
+  },
+  {
+    "id": "14fc93c0-9f6f-4ca4-ba74-8702d7125f12",
+    "title": "Upon Harbor",
+    "creator": "tip architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184037/upon-harbor-tip-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a8f/136f/4253/0500/01ca/0f5f/newsletter/007.jpg?1787761557",
+    "typology": [
+      "Lodging"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T10:00:00.000Z",
+    "ingested_at": "2026-08-31T16:55:33.832Z"
+  },
+  {
+    "id": "d704524a-6b7b-414a-b9ec-1cd413cc896a",
+    "title": "Weekend Villa",
+    "creator": "R+R Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184204/weekend-villa-r-plus-r-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a94/465a/a25c/7b00/0126/0020/newsletter/Nest_Residence_by_RplusR-7.jpg?1788102328",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T07:00:00.000Z",
+    "ingested_at": "2026-08-31T16:55:33.832Z"
+  },
+  {
+    "id": "ff89049d-dd29-4e8c-9f10-8925555fa150",
+    "title": "Maison Bellon Camprubi",
+    "creator": "R2A Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183899/maison-bellon-camprubi-r2a-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/54d2/ac8b/af01/892c/e989/newsletter/maison-bellon-camprubi-r2a-architectes_18.jpg?1787647222",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T06:00:00.000Z",
+    "ingested_at": "2026-08-31T16:55:33.832Z"
   }
 ]

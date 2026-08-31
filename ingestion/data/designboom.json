@@ -9725,5 +9725,48 @@
     "material": [],
     "published_at": "2026-08-30T14:15:20.000Z",
     "ingested_at": "2026-08-30T16:24:47.172Z"
+  },
+  {
+    "id": "a91824c9-8a09-4aeb-9c09-eb00e664798a",
+    "title": "double-helix stairs frame wetland views inside xiang architects’ wuhan observation tower",
+    "creator": "Xiang Nan",
+    "location": "Tonghu Town",
+    "country": "China",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/double-helix-stairs-wetland-xiang-architects-wuhan-observation-tower/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/a-tectonic-narrative-of-perception-700-500x400-22b08q85r482.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "observatory architecture and design",
+      "spiral staircases",
+      "steel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T15:55:05.000Z",
+    "ingested_at": "2026-08-31T16:55:34.874Z"
+  },
+  {
+    "id": "ea9ebfeb-8f9b-4ae7-9f08-fb5fa053cc7b",
+    "title": "mineral stone wall enclosure frames tectoniques’ cultural center in france",
+    "creator": "Tectoniques",
+    "location": "Vaison-la-Romaine",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine-700-500x400-22b08q85r980.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in france",
+      "marble and stone design",
+      "tectoniques architectes",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T14:45:05.000Z",
+    "ingested_at": "2026-08-31T16:55:34.882Z"
   }
 ]
