@@ -1250,5 +1250,24 @@
     "material": [],
     "published_at": "2026-08-29T10:00:42.000Z",
     "ingested_at": "2026-08-29T14:16:54.486Z"
+  },
+  {
+    "id": "c6d2b582-85ca-408f-a7d1-19916cb3c881",
+    "title": "Twelve installations designed",
+    "creator": "architects at Burning Man over the years",
+    "location": "Burning Man",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/08/31/burning-man-40-years-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/08/burning-man-40-year-anniversary-round-up_dezeen_2364_col_5-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Nevada",
+      "Roundups"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T21:14:27.000Z",
+    "ingested_at": "2026-09-01T01:07:52.304Z"
   }
 ]

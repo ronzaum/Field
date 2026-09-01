@@ -27790,5 +27790,56 @@
     "material": [],
     "published_at": "2026-08-31T12:00:00.000Z",
     "ingested_at": "2026-08-31T21:50:24.035Z"
+  },
+  {
+    "id": "8040d1a3-a524-4f1b-91f3-25df55a22e04",
+    "title": "Casa Attraverso il Patio",
+    "creator": "otro estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184281/casa-attraverso-il-patio-otro-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a95/c75f/a43c/3b00/01ea/0f3f/newsletter/Casa_Attraverso_il_patio___Ramiro_Sosa__14_.jpg?1788200872",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T19:00:00.000Z",
+    "ingested_at": "2026-09-01T01:07:52.061Z"
+  },
+  {
+    "id": "0c695650-9c4b-4fff-835b-5a470292ccdd",
+    "title": "Retirement Home",
+    "creator": "Ricardo Azevedo Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035548/retirement-home-ricardo-azevedo-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6902/8922/f582/e201/8911/c278/newsletter/moradia-do-retiro-ricardo-azevedo-arquitecto_15.jpg?1761773871",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T17:41:00.000Z",
+    "ingested_at": "2026-09-01T01:07:52.062Z"
+  },
+  {
+    "id": "ee7091db-79a9-4e4a-bee6-b1c2d1a5ad19",
+    "title": "Parque IV House",
+    "creator": "Ricardo Azevedo Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1030597/parque-iv-house-ricardo-azevedo-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6840/b2ed/3524/c657/f0b8/8c4e/newsletter/casa-do-parque-iv-ricardo-azevedo-arquitecto_102.jpg?1749070611",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-08-31T17:40:00.000Z",
+    "ingested_at": "2026-09-01T01:07:52.062Z"
   }
 ]
