@@ -27943,5 +27943,39 @@
     "material": [],
     "published_at": "2026-09-01T10:00:00.000Z",
     "ingested_at": "2026-09-01T17:44:01.680Z"
+  },
+  {
+    "id": "35490cad-7830-42a8-92c6-14762f1f7455",
+    "title": "Souvinha House",
+    "creator": "Parto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184152/souvinha-house-parto",
+    "image_url": "https://images.adsttc.com/media/images/6a91/9c1b/a25c/7b00/0125/fc60/newsletter/22.-Ph.-Francisco-Ascen__o.jpg?1787927698",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T13:00:00.000Z",
+    "ingested_at": "2026-09-01T20:50:40.439Z"
+  },
+  {
+    "id": "716c85b0-2eef-49a1-b5b0-7ac43bf13d3c",
+    "title": "Store With A Gap",
+    "creator": "Studio Cadena",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184188/store-with-a-gap-studio-cadena",
+    "image_url": "https://images.adsttc.com/media/images/6a91/d0e9/a25c/7b00/0125/feef/newsletter/05_StoreWithAGap_StudioCadena_Juan_Camilo_Roa.jpg?1787941123",
+    "typology": [
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T12:00:00.000Z",
+    "ingested_at": "2026-09-01T20:50:40.439Z"
   }
 ]
