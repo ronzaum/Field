@@ -27841,5 +27841,56 @@
     "material": [],
     "published_at": "2026-08-31T17:40:00.000Z",
     "ingested_at": "2026-09-01T01:07:52.062Z"
+  },
+  {
+    "id": "80e2eae0-a3fe-4e36-936a-1fb41fb25171",
+    "title": "House Klaus",
+    "creator": "Neo Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184212/house-klaus-neo-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a94/7554/b71a/0f01/89f1/b6df/newsletter/house-klaus-neo-architects_15.jpg?1788114319",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T03:00:00.000Z",
+    "ingested_at": "2026-09-01T07:33:53.532Z"
+  },
+  {
+    "id": "7a134b71-44c6-4efc-a96e-6188d4811aec",
+    "title": "The Yakisugi Cabin",
+    "creator": "Alki Architecture + Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a90/fdc6/b71a/0f01/89f1/b16a/newsletter/the-yakisugi-cabin-alki-architecture-plus-design-studio_31.jpg?1787887073",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T02:00:00.000Z",
+    "ingested_at": "2026-09-01T07:33:53.533Z"
+  },
+  {
+    "id": "285712c0-3ae3-49c9-9f6f-87cb08812959",
+    "title": "Wanhua Green Heart Food Market, Yunlang Canteen",
+    "creator": "XU Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184093/wanhua-green-heart-food-market-yunlang-canteen-xu-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a90/6da4/b71a/0f01/89f1/b03a/newsletter/wanhua-green-heart-food-market-yunlang-canteen-xu-studio_12.jpg?1787850159",
+    "typology": [
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T00:00:00.000Z",
+    "ingested_at": "2026-09-01T07:33:53.533Z"
   }
 ]
