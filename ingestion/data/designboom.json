@@ -9811,5 +9811,23 @@
     "material": [],
     "published_at": "2026-09-01T02:10:54.000Z",
     "ingested_at": "2026-09-01T07:33:54.393Z"
+  },
+  {
+    "id": "c1daf9bf-ee66-4134-b36c-ffb074dcbcc6",
+    "title": "kengo kuma honored with andrée putman lifetime achievement award 2027",
+    "creator": "thomai tsimpou",
+    "location": "Shangri-La Paris",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards-designboom-700-500x400-22b08q85r900.jpg",
+    "typology": [
+      "architecture",
+      "kengo kuma"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T07:00:14.000Z",
+    "ingested_at": "2026-09-01T13:19:57.852Z"
   }
 ]

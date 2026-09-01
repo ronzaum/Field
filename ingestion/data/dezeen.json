@@ -1269,5 +1269,24 @@
     "material": [],
     "published_at": "2026-08-31T21:14:27.000Z",
     "ingested_at": "2026-09-01T01:07:52.304Z"
+  },
+  {
+    "id": "2db5a382-b853-4f50-93fd-cbf27e4ab65d",
+    "title": "Kengo Kuma awarded Andrée Putman Lifetime Achievement Award",
+    "creator": "CDA",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/09/01/kengo-kuma-andree-putman-lifetime-achievement-award-cda/",
+    "image_url": "http://static.dezeen.com/uploads/2026/08/kengo-kuma-portrait-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Kengo Kuma",
+      "Créateurs Design Association & Awards"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T04:00:35.000Z",
+    "ingested_at": "2026-09-01T13:19:56.841Z"
   }
 ]

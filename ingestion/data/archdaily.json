@@ -27892,5 +27892,39 @@
     "material": [],
     "published_at": "2026-09-01T00:00:00.000Z",
     "ingested_at": "2026-09-01T07:33:53.533Z"
+  },
+  {
+    "id": "600c77a8-3e58-430f-b8d7-d3a3a9c5d351",
+    "title": "Kaymana Earth Villa",
+    "creator": "Pablo Luna Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184232/kaymana-earth-villa-pablo-luna-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a95/5bb3/a25c/7b00/0126/0170/newsletter/Drone_3.jpg?1788173257",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T07:00:00.000Z",
+    "ingested_at": "2026-09-01T13:19:56.605Z"
+  },
+  {
+    "id": "e3421cf9-d2a8-491b-aee8-8ab2b8c43aad",
+    "title": "House on Concrete Walls",
+    "creator": "dolmus Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183911/house-on-concrete-walls-dolmus-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/4e18/4253/0500/01ca/06c0/newsletter/24.04_Schuepfheim_Haus-auf-Scheiben_Dolmus-Architekten_Egemen-Karakaya_Aussenfoto_01pg.jpg?1787645486",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T06:00:00.000Z",
+    "ingested_at": "2026-09-01T13:19:56.605Z"
   }
 ]
