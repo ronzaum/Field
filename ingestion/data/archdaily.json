@@ -27926,5 +27926,22 @@
     "material": [],
     "published_at": "2026-09-01T06:00:00.000Z",
     "ingested_at": "2026-09-01T13:19:56.605Z"
+  },
+  {
+    "id": "27af9e6d-b6f0-4cd9-898b-d2f2e86ce3a7",
+    "title": "Junqueira 307 Apartments",
+    "creator": "Fragmentos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183898/junqueira-307-apartments-fragmentos",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/bc6d/4253/0500/01ca/0604/newsletter/Fragmentos_Junqueira_307__Tiago_Sales_010.jpg?1787608558",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T10:00:00.000Z",
+    "ingested_at": "2026-09-01T17:44:01.680Z"
   }
 ]
