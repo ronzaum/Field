@@ -28079,5 +28079,39 @@
     "material": [],
     "published_at": "2026-09-02T00:00:00.000Z",
     "ingested_at": "2026-09-02T08:38:48.237Z"
+  },
+  {
+    "id": "cfcfed92-f731-4be4-bd95-c1abf4b9ff07",
+    "title": "West Garden Florist",
+    "creator": "LUO studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184291/west-garden-florist-luo-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a96/3053/3847/8a01/8b33/7032/newsletter/west-garden-florist-luo-studio_46.jpg?1788227745",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T07:00:00.000Z",
+    "ingested_at": "2026-09-02T13:27:34.533Z"
+  },
+  {
+    "id": "0c7eeb1a-3b8c-4856-8b57-ad56b143921f",
+    "title": "Transformation of a farmhouse in Grandvillard",
+    "creator": "Bard Yersin Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183987/transformation-of-a-farmhouse-in-grandvillard-bard-yersin-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/766d/4253/0500/01ca/0c45/newsletter/BARD-YERSIN_GJR_1.jpg?1787721358",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T06:00:00.000Z",
+    "ingested_at": "2026-09-02T13:27:34.533Z"
   }
 ]

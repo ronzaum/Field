@@ -1288,5 +1288,27 @@
     "material": [],
     "published_at": "2026-09-01T04:00:35.000Z",
     "ingested_at": "2026-09-01T13:19:56.841Z"
+  },
+  {
+    "id": "03eba73d-4b81-49b9-a377-589008c36ff6",
+    "title": "Construction photos reveal progress on giant HS2 station",
+    "creator": "WilkinsonEyre",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/09/02/old-oak-common-hs2-station-wilkinsoneyre-construction/",
+    "image_url": "http://static.dezeen.com/uploads/2026/09/construction-photos-old-oak-common-hs2-station-wilkinsoneyre-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "WilkinsonEyre",
+      "WSP",
+      "High Speed Two (HS2)",
+      "London",
+      "Railway stations"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T10:00:10.000Z",
+    "ingested_at": "2026-09-02T13:27:34.729Z"
   }
 ]

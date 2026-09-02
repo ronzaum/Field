@@ -9897,5 +9897,69 @@
     "material": [],
     "published_at": "2026-09-01T23:45:08.000Z",
     "ingested_at": "2026-09-02T03:52:27.203Z"
+  },
+  {
+    "id": "25847ba1-fb41-468a-9432-1d73ec7913fc",
+    "title": "gary chang’s ‘domestic transformer’ makes 32 sqm of hong kong living space work 24 ways",
+    "creator": "⁠Gary Chang",
+    "location": "Hong Kong",
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways-designboom-700-500x400-22b08q85r703.jpg",
+    "typology": [
+      "architecture",
+      "architecture in hong kong",
+      "gary chang",
+      "MODES OF HABITATION",
+      "residential architecture and interiors",
+      "spaces under 50 sqm"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T10:50:06.000Z",
+    "ingested_at": "2026-09-02T13:27:35.632Z"
+  },
+  {
+    "id": "0bc427de-cc75-4d22-b545-7734f0cea3f6",
+    "title": "DLR Group on translating urban density into intimate neighborhoods in the middle east",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/interview-dlr-group-urban-density-intimate-neighborhoods-middle-east/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/DRL-group-middle-east-urbanism-designboom-interview-700-500x400-22b08q85r133.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture interviews",
+      "art and architecture in the united arab emirates",
+      "DLR Group",
+      "masterplans and urban revitalization"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T10:00:24.000Z",
+    "ingested_at": "2026-09-02T13:27:35.649Z"
+  },
+  {
+    "id": "881c71d1-efd0-4e55-a7a4-9991bdc73da8",
+    "title": "OMA’s taipei housing renewal lets residents shape an alternative to the standard tower",
+    "creator": "OMA @oma.eu,",
+    "location": "Taipei",
+    "country": "Taiwan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/oma-taipei-housing-renewal-residents-alternative-standard-tower/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/omas-taipei-housing-renewal-residents-alternative-standard-tower-designboom-700-500x400-22b08q85r177.jpg",
+    "typology": [
+      "architecture",
+      "architecture in taiwan",
+      "OMA / rem koolhaas",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T08:25:35.000Z",
+    "ingested_at": "2026-09-02T13:27:35.657Z"
   }
 ]
