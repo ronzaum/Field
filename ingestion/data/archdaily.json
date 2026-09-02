@@ -28164,5 +28164,22 @@
     "material": [],
     "published_at": "2026-09-02T13:00:00.000Z",
     "ingested_at": "2026-09-02T20:50:18.054Z"
+  },
+  {
+    "id": "565b6d44-a081-4d5b-8c3f-9637f410070d",
+    "title": "KAYA Building",
+    "creator": "Jeff Svitak",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184429/kaya-building-jeff-svitak",
+    "image_url": "https://images.adsttc.com/media/images/6a98/08d2/505a/cb00/0115/2582/newsletter/_S__JEFF_SVITAK_INC_KAYA_19.jpg?1788350187",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T15:00:00.000Z",
+    "ingested_at": "2026-09-02T23:10:12.128Z"
   }
 ]
