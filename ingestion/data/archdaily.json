@@ -28147,5 +28147,22 @@
     "material": [],
     "published_at": "2026-09-02T10:00:00.000Z",
     "ingested_at": "2026-09-02T17:46:41.072Z"
+  },
+  {
+    "id": "27922424-5d3d-4337-bf36-de9f28a68815",
+    "title": "Eco House",
+    "creator": "Mateus Castilho Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184431/eco-house-mateus-castilho-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a91/c4cb/a25c/7b00/0125/fdb4/newsletter/04_08A7840-Pano-Edit_copyright_manuel_sa_0.jpg?1787938163",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T13:00:00.000Z",
+    "ingested_at": "2026-09-02T20:50:18.054Z"
   }
 ]
