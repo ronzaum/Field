@@ -27977,5 +27977,56 @@
     "material": [],
     "published_at": "2026-09-01T12:00:00.000Z",
     "ingested_at": "2026-09-01T20:50:40.439Z"
+  },
+  {
+    "id": "14f409b0-934f-464b-8b38-638f2f6c66c0",
+    "title": "Vivienda E.ME",
+    "creator": "INDARQ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184391/vivienda-eme-indarq",
+    "image_url": "https://images.adsttc.com/media/images/6a96/fe49/bed1/7f00/014d/261d/newsletter/Vivienda_Elwin_Visconte__Arquitecto_Visconte___Renato_Duria__2_.jpg?1788280431",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T19:00:00.000Z",
+    "ingested_at": "2026-09-02T03:52:26.379Z"
+  },
+  {
+    "id": "654e755d-79d4-4e57-bf6a-047f3ce5e4db",
+    "title": "Vista House",
+    "creator": "Studio Gontijo Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184349/vista-house-studio-gontijo-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a91/d257/a25c/7b00/0125/ff10/newsletter/Studio_Gontijo_-_07_-_Joana_Fran_a.jpg?1787941492",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T17:00:00.000Z",
+    "ingested_at": "2026-09-02T03:52:26.379Z"
+  },
+  {
+    "id": "97ba8624-de4c-40f5-9b13-7990e14b0cf0",
+    "title": "Casa Tepoztlán",
+    "creator": "DOSA STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184371/casa-tepoztlan-dosa-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a96/fe33/bed1/7f00/014d/2606/newsletter/dosa-tepoz-fabianml-013.jpg?1788280541",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T15:00:00.000Z",
+    "ingested_at": "2026-09-02T03:52:26.379Z"
   }
 ]

@@ -9851,5 +9851,51 @@
     "material": [],
     "published_at": "2026-09-01T15:22:18.000Z",
     "ingested_at": "2026-09-01T17:44:02.870Z"
+  },
+  {
+    "id": "0b4e9e11-c2f2-474b-805a-30bce0f5e062",
+    "title": "3D printed concrete and cork shape 36 student homes in denmark",
+    "creator": "Kertu Tammjõe",
+    "location": "Holstebro",
+    "country": "Denmark",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter-designboom-700-500x400-22b08q85r567.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "3D printing",
+      "architecture in denmark",
+      "concrete architecture and design",
+      "cork",
+      "residential architecture and interiors",
+      "SAGA space architects"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T02:10:52.000Z",
+    "ingested_at": "2026-09-02T03:52:27.187Z"
+  },
+  {
+    "id": "1008c38d-4dff-4f0f-a6dc-499c7752e004",
+    "title": "MAD’s lucas museum floats above los angeles garden ahead of september opening",
+    "creator": "Studio-MLA (Mia Lehrer)",
+    "location": "Exposition Park",
+    "country": "California",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mad-lucas-museum-narrative-art-los-angeles-completion-2026-debut-07-16-2025/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/mad-lucas-museum-narrative-art-los-angeles-california-september-preview-2026-designboom-700-500x400-22b08q85r156.jpg",
+    "typology": [
+      "architecture",
+      "architecture in los angeles",
+      "architecture in the US",
+      "lucas museum of narrative art",
+      "MAD architects",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-09-01T23:45:08.000Z",
+    "ingested_at": "2026-09-02T03:52:27.203Z"
   }
 ]
