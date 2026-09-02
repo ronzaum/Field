@@ -9961,5 +9961,27 @@
     "material": [],
     "published_at": "2026-09-02T08:25:35.000Z",
     "ingested_at": "2026-09-02T13:27:35.657Z"
+  },
+  {
+    "id": "67486430-e169-4190-98a2-a11ed9eeee1b",
+    "title": "every apartment gets an atlantic view in carlo ratti’s zig-zag west palm beach tower",
+    "creator": "CRA-Carlo Ratti Associati",
+    "location": "West Palm Beach",
+    "country": "Florida",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/apartment-atlantic-view-cra-carlo-ratti-zig-zag-west-palm-beach-tower-mimar-florida/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/MI-MAR-CRA-carlo-ratti-associati-designboom-700-500x400-22b08q85r402.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "carlo ratti",
+      "facades",
+      "residential architecture and interiors",
+      "skyscraper architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T15:45:40.000Z",
+    "ingested_at": "2026-09-02T17:46:42.193Z"
   }
 ]
