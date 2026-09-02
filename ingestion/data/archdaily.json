@@ -28028,5 +28028,56 @@
     "material": [],
     "published_at": "2026-09-01T15:00:00.000Z",
     "ingested_at": "2026-09-02T03:52:26.379Z"
+  },
+  {
+    "id": "23c27333-9dbe-4baf-a6e1-6151b18d8f81",
+    "title": "Dạ Homestay",
+    "creator": "3fconcept",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184236/da-homestay-3fconcept",
+    "image_url": "https://images.adsttc.com/media/images/6a95/6007/a25c/7b00/0126/01b4/newsletter/04.jpg?1788174386",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T03:00:00.000Z",
+    "ingested_at": "2026-09-02T08:38:48.236Z"
+  },
+  {
+    "id": "b1995020-1441-407e-9ff0-3f175fe2d282",
+    "title": "Lighthouse Residence",
+    "creator": "Architecture Discipline",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
+    "image_url": "https://images.adsttc.com/media/images/6a95/0e72/b71a/0f01/89f1/b733/newsletter/lighthouse-residence-architecture-discipline_12.jpg?1788153491",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T02:00:00.000Z",
+    "ingested_at": "2026-09-02T08:38:48.236Z"
+  },
+  {
+    "id": "75819431-7901-4785-8718-92771e3ef674",
+    "title": "Chengdu Haiyang Road Middle School",
+    "creator": "Changwu Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184290/chengdu-haiyang-road-middle-school-changwu-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a96/0a07/72d9/ef01/89f1/0608/newsletter/chengdu-haiyang-road-middle-school-changwu-architects_9.jpg?1788217892",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T00:00:00.000Z",
+    "ingested_at": "2026-09-02T08:38:48.237Z"
   }
 ]
