@@ -28266,5 +28266,39 @@
     "material": [],
     "published_at": "2026-09-03T00:00:00.000Z",
     "ingested_at": "2026-09-03T08:47:17.795Z"
+  },
+  {
+    "id": "91ce9a74-f6ec-412c-89ab-955e75a19f28",
+    "title": "Tenjin Business Center II",
+    "creator": "OMA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184460/tenjin-business-center-ii-oma",
+    "image_url": "https://images.adsttc.com/media/images/6a98/8e87/4348/7022/5037/0b6c/newsletter/tenjin-business-center-ii-oma_1.jpg?1788382889",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T07:00:00.000Z",
+    "ingested_at": "2026-09-03T13:25:54.461Z"
+  },
+  {
+    "id": "00889ffd-7e61-4d29-b507-920dc81e24fc",
+    "title": "Crystal Sauna for Skellefteå",
+    "creator": "Bigert & Bergström",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183940/crystal-sauna-for-skelleftea-bigert-and-bergstrom",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/9d23/4253/0500/01ca/0893/newsletter/_BB_9300-2_Photo_Pa_r_Olofsson-low-res.jpg?1787665717",
+    "typology": [
+      "Installation"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T06:00:00.000Z",
+    "ingested_at": "2026-09-03T13:25:54.462Z"
   }
 ]

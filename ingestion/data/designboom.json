@@ -10047,5 +10047,48 @@
     "material": [],
     "published_at": "2026-09-03T07:15:48.000Z",
     "ingested_at": "2026-09-03T08:47:18.685Z"
+  },
+  {
+    "id": "45444ac8-2a45-4170-b116-9b18ce2f859d",
+    "title": "‘handmade utopia’ traces radical homes of northern california’s back-to-the-land movement",
+    "creator": "Teo Schifferli, Pascal Kaegi, Vivien Pöhls",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/handmade-utopia-radical-homes-northern-california-land-movement/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/08/handmade-utopia-radical-homes-northern-california-land-movement-designboom-700-500x400-22b08q85r722.jpg",
+    "typology": [
+      "architecture",
+      "architecture in california",
+      "designboom book reports",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T10:50:39.000Z",
+    "ingested_at": "2026-09-03T13:25:55.694Z"
+  },
+  {
+    "id": "155af2bf-d38e-47ed-ae7c-291fc6741329",
+    "title": "MAD’s lucas opens in LA this month: take an early look inside",
+    "creator": "Iñaki Laguardia",
+    "location": "Exposition Park",
+    "country": "California",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mad-lucas-museum-narrative-art-early-look-inside/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/mad-lucas-museum-narrative-art-early-look-inside-designboom-7-1-500x400-22b08q85r947.png",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "landscape architecture and design",
+      "lucas museum of narrative art",
+      "MAD architects",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T09:00:22.000Z",
+    "ingested_at": "2026-09-03T13:25:55.709Z"
   }
 ]
