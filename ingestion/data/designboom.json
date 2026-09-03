@@ -10005,5 +10005,26 @@
     "material": [],
     "published_at": "2026-09-02T01:55:31.000Z",
     "ingested_at": "2026-09-02T23:10:13.064Z"
+  },
+  {
+    "id": "d4b1f638-313c-483c-aecf-0e68ffdec5b3",
+    "title": "when home becomes life support: designing habitats for mars and the moon",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/home-becomes-life-support-habitats-mars-moon-big-icon-saga-nasa/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/habitats-beyond-earth-designboom-700-500x400-22b08q85r832.jpg",
+    "typology": [
+      "architecture",
+      "MODES OF HABITATION",
+      "NASA",
+      "residential architecture and interiors",
+      "SAGA space architects"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T23:35:46.000Z",
+    "ingested_at": "2026-09-03T03:51:19.254Z"
   }
 ]

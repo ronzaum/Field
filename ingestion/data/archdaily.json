@@ -28181,5 +28181,39 @@
     "material": [],
     "published_at": "2026-09-02T15:00:00.000Z",
     "ingested_at": "2026-09-02T23:10:12.128Z"
+  },
+  {
+    "id": "81922617-4e7e-49e2-96b9-75712c018f2f",
+    "title": "Casa Circular",
+    "creator": "Ignacio Muñoz",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184347/casa-circular-ignacio-munoz",
+    "image_url": "https://images.adsttc.com/media/images/6a96/f209/bed1/7f00/014d/256c/newsletter/CASA-CIRCULAR-IGNACIO-MUNOZ-JAG-9723web.jpg?1788277278",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T19:00:00.000Z",
+    "ingested_at": "2026-09-03T03:51:16.771Z"
+  },
+  {
+    "id": "946f64ca-dc2b-4b78-9797-7e47fb5139e8",
+    "title": "Adentro House",
+    "creator": "TETRO Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184190/adentro-house-tetro-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a91/e713/a25c/7b00/0125/ff49/newsletter/1.jpg?1787946810",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-02T17:00:00.000Z",
+    "ingested_at": "2026-09-03T03:51:16.772Z"
   }
 ]
