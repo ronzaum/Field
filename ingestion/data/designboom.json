@@ -10090,5 +10090,46 @@
     "material": [],
     "published_at": "2026-09-03T09:00:22.000Z",
     "ingested_at": "2026-09-03T13:25:55.709Z"
+  },
+  {
+    "id": "94ca5836-d3c0-4c38-bd92-3a4dfb014efc",
+    "title": "how japanese architects carve parking into tiny urban homes",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/japanese-carve-parking-tiny-urban-homes-tokyo/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/car-shaped-hole-japanese-houses-tokyo-parking-architecture-designboom-700-500x400-22b08q85r940.jpg",
+    "typology": [
+      "architecture",
+      "architecture in japan",
+      "architecture in tokyo",
+      "atelier bow-wow",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T20:35:30.000Z",
+    "ingested_at": "2026-09-03T20:47:37.783Z"
+  },
+  {
+    "id": "bbdcfe31-9b31-45d1-b41e-201749f7b3de",
+    "title": "MAD transforms 1923 art deco warehouse into rotterdam’s house for dance",
+    "creator": "MAD",
+    "location": "Rotterdam",
+    "country": "the Netherlands",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis-designboom-700-500x400-22b08q85r327.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the netherlands",
+      "MAD architects"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T18:15:15.000Z",
+    "ingested_at": "2026-09-03T20:47:37.794Z"
   }
 ]
