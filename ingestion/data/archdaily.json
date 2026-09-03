@@ -28215,5 +28215,56 @@
     "material": [],
     "published_at": "2026-09-02T17:00:00.000Z",
     "ingested_at": "2026-09-03T03:51:16.772Z"
+  },
+  {
+    "id": "6c025261-737c-4259-bef5-f0887b71e0d7",
+    "title": "House of Wall Forest",
+    "creator": "IGArchitects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184375/house-of-wall-forest-igarchitects",
+    "image_url": "https://images.adsttc.com/media/images/6a97/294e/5557/cb01/8894/ac6d/newsletter/house-of-wall-forest-igarchitects_6.jpg?1788291426",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T03:00:00.000Z",
+    "ingested_at": "2026-09-03T08:47:17.794Z"
+  },
+  {
+    "id": "3ec3c401-c9eb-45e6-b3f9-fb1c5199f91f",
+    "title": "PIN’N PAN House",
+    "creator": "ForX Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184382/pinn-pan-house-forx-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a97/2d05/5557/cb01/8894/aca6/newsletter/pan-hires-031-12.jpg?1788292398",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T02:00:00.000Z",
+    "ingested_at": "2026-09-03T08:47:17.794Z"
+  },
+  {
+    "id": "cd527ddb-a86b-4625-a044-44e2ed5c5775",
+    "title": "Greentown ThinkWorks",
+    "creator": "LYCS Architecture + GLA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184224/greentown-thinkworks-lycs-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a95/1d28/a25c/7b00/0126/00fd/newsletter/01___________North_elevation_of_podium_and_tower_______LYCS.jpg?1788157253",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T00:00:00.000Z",
+    "ingested_at": "2026-09-03T08:47:17.795Z"
   }
 ]
