@@ -28300,5 +28300,56 @@
     "material": [],
     "published_at": "2026-09-03T06:00:00.000Z",
     "ingested_at": "2026-09-03T13:25:54.462Z"
+  },
+  {
+    "id": "9d131faa-04eb-4525-a3bf-401ac191682f",
+    "title": "BF2 House",
+    "creator": "Peninsula Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a55/346c/7475/ba00/011c/a9b3/newsletter/365A1669.jpg?1783968981",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T13:00:00.000Z",
+    "ingested_at": "2026-09-03T17:42:26.061Z"
+  },
+  {
+    "id": "1f950c92-b0b1-41db-b1e6-607099e337d7",
+    "title": "Veil House",
+    "creator": "Turkel Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184160/veil-house-turkel-design",
+    "image_url": "https://images.adsttc.com/media/images/6a91/b74a/a25c/7b00/0125/fd24/newsletter/19_-_Veil_House_by_Turkel_Design_-_Draper_White.jpg?1787934557",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T12:00:00.000Z",
+    "ingested_at": "2026-09-03T17:42:26.062Z"
+  },
+  {
+    "id": "fcb1c9fb-b480-4d2a-aa88-5d069136d669",
+    "title": "House",
+    "creator": "José Adrião Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184481/house-jose-adriao-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a98/5d17/505a/cb00/0115/26df/newsletter/00__2_.jpg?1788370235",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T10:00:00.000Z",
+    "ingested_at": "2026-09-03T17:42:26.062Z"
   }
 ]
