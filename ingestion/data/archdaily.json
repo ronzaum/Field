@@ -28572,5 +28572,22 @@
     "material": [],
     "published_at": "2026-09-04T15:00:00.000Z",
     "ingested_at": "2026-09-04T20:34:40.279Z"
+  },
+  {
+    "id": "69507cc6-59f3-4c9e-b9b2-9b69fe6f7cba",
+    "title": "Doutor Leite Lopes State Airport",
+    "creator": "Bacco Arquitetos Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184574/doutor-leite-lopes-state-airport-bacco-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/6a99/e106/15d8/6f00/01a2/ed83/newsletter/AEROPORT_RIBEIRAO_PRET0_ANA_MELLO_10.jpg?1788469532",
+    "typology": [
+      "Airport"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T17:00:00.000Z",
+    "ingested_at": "2026-09-04T22:54:42.919Z"
   }
 ]
