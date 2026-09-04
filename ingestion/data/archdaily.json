@@ -28402,5 +28402,56 @@
     "material": [],
     "published_at": "2026-09-03T19:00:00.000Z",
     "ingested_at": "2026-09-04T03:55:51.000Z"
+  },
+  {
+    "id": "a5798894-3f26-439f-a13b-dc96866d947d",
+    "title": "Kaymana Wave Reception",
+    "creator": "Pablo Luna Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184237/kaymana-wave-reception-pablo-luna-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a95/6128/a25c/7b00/0126/01d4/newsletter/1.jpg?1788174651",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T03:00:00.000Z",
+    "ingested_at": "2026-09-04T08:50:02.184Z"
+  },
+  {
+    "id": "37d43c6f-c79d-44d5-8577-917052cc8640",
+    "title": "House in Kamiyasu",
+    "creator": "Yutaka Yoshida Architect & Associates",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184338/house-in-kamiyasu-yutaka-yoshida-architect-and-associates",
+    "image_url": "https://images.adsttc.com/media/images/6a96/dac3/d93e/3d00/01db/820e/newsletter/14.jpg?1788271354",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T02:00:00.000Z",
+    "ingested_at": "2026-09-04T08:50:02.185Z"
+  },
+  {
+    "id": "527f418c-c5ee-4e45-9428-f603a563d7f7",
+    "title": "Qingdeng Village Art Museum",
+    "creator": "atelier anonymous",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184302/qingdeng-village-art-museum-atelier-anonymous",
+    "image_url": "https://images.adsttc.com/media/images/6a96/6ed0/b853/2e01/895b/6a7d/newsletter/qingdeng-village-art-museum-atelier-anonymous_48.jpg?1788243725",
+    "typology": [
+      "Museums & Exhibit"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T00:00:00.000Z",
+    "ingested_at": "2026-09-04T08:50:02.185Z"
   }
 ]
