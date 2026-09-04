@@ -28504,5 +28504,56 @@
     "material": [],
     "published_at": "2026-09-03T10:00:00.000Z",
     "ingested_at": "2026-09-04T13:20:31.504Z"
+  },
+  {
+    "id": "b7586839-3039-4b8a-b555-dc612f8bc205",
+    "title": "Encontros Sculpture",
+    "creator": "Estudio Guto Requena",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184560/encontros-sculpture-estudio-guto-requena",
+    "image_url": "https://images.adsttc.com/media/images/6a97/3247/bed1/7f00/014d/27b3/newsletter/Design_sem_nome__10_.jpg?1788293881",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T13:00:00.000Z",
+    "ingested_at": "2026-09-04T17:29:36.769Z"
+  },
+  {
+    "id": "c576900c-3220-474f-bbde-c11144e6a229",
+    "title": "210 South 12th Building",
+    "creator": "RSHP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184462/210-south-12th-building-rshp",
+    "image_url": "https://images.adsttc.com/media/images/6a98/a5f5/2b2b/3f01/89f4/090e/newsletter/210-south-12th-building-rshp_6.jpg?1788388885",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T12:00:00.000Z",
+    "ingested_at": "2026-09-04T17:29:36.770Z"
+  },
+  {
+    "id": "f8cadf46-b2df-4b9a-b0f9-eb865f5dc13b",
+    "title": "Pracownia - The Workshop",
+    "creator": "ACOS (A Collection of Stories)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1030853/pracownia-workshop-acos-a-collection-of-stories",
+    "image_url": "https://images.adsttc.com/media/images/6840/595a/c36d/4c00/019e/5ade/newsletter/PS_ACOS_0_0016.jpg?1749047786",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T10:00:00.000Z",
+    "ingested_at": "2026-09-04T17:29:36.770Z"
   }
 ]
