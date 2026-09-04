@@ -28453,5 +28453,56 @@
     "material": [],
     "published_at": "2026-09-04T00:00:00.000Z",
     "ingested_at": "2026-09-04T08:50:02.185Z"
+  },
+  {
+    "id": "f0c53734-efa8-45ee-94ec-ce2178281290",
+    "title": "A Seaside Swing Installation",
+    "creator": "XBTW OFFICE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184407/a-seaside-swing-installation-xbtw-office",
+    "image_url": "https://images.adsttc.com/media/images/6a97/b887/8db7/ac01/89d5/4363/newsletter/a-seaside-swing-installation-xbtw-office_42.jpg?1788328095",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T07:00:00.000Z",
+    "ingested_at": "2026-09-04T13:20:31.501Z"
+  },
+  {
+    "id": "dc17f9e8-b941-4e95-83eb-af3b80208ce5",
+    "title": "House among the trees",
+    "creator": "Studio COSMO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183989/house-among-the-trees-studio-cosmo",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/76b4/4253/0500/01ca/0c83/newsletter/COSMO_House-among-trees_20.jpg?1787721775",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T06:00:00.000Z",
+    "ingested_at": "2026-09-04T13:20:31.501Z"
+  },
+  {
+    "id": "83002389-0e3f-48e1-99a9-6b541afa3d7b",
+    "title": "House Particular Dois",
+    "creator": "José Adrião Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184481/house-particular-dois-jose-adriao-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a98/5d17/505a/cb00/0115/26df/newsletter/00__2_.jpg?1788370235",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T10:00:00.000Z",
+    "ingested_at": "2026-09-04T13:20:31.504Z"
   }
 ]
