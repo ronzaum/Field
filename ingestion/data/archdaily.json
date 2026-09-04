@@ -28555,5 +28555,22 @@
     "material": [],
     "published_at": "2026-09-04T10:00:00.000Z",
     "ingested_at": "2026-09-04T17:29:36.770Z"
+  },
+  {
+    "id": "5481c25d-ecd0-47bd-9f84-b491fc6f6940",
+    "title": "Perichón House",
+    "creator": "ODB Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184583/perichon-house-odb-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a9a/cf0b/15d8/6f00/01a2/f014/newsletter/Perich_n_-_WEB___Ramiro_Sosa__46_.jpg?1788530520",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-04T15:00:00.000Z",
+    "ingested_at": "2026-09-04T20:34:40.279Z"
   }
 ]
