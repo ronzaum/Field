@@ -28385,5 +28385,22 @@
     "material": [],
     "published_at": "2026-09-03T17:00:00.000Z",
     "ingested_at": "2026-09-03T23:08:08.957Z"
+  },
+  {
+    "id": "83c96b82-9ca2-4364-81e1-1e1021b87138",
+    "title": "Casa Solis 21",
+    "creator": "iHouse estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184512/casa-solis-21-ihouse-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a96/f1d9/bed1/7f00/014d/2552/newsletter/03_-_Solis_21.jpg?1788277229",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-03T19:00:00.000Z",
+    "ingested_at": "2026-09-04T03:55:51.000Z"
   }
 ]
