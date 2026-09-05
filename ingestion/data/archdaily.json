@@ -28674,5 +28674,39 @@
     "material": [],
     "published_at": "2026-09-05T13:00:00.000Z",
     "ingested_at": "2026-09-05T18:54:33.079Z"
+  },
+  {
+    "id": "f98c164e-2e57-4f60-93b0-6e7af6c5e45d",
+    "title": "Yarumos Apartment",
+    "creator": "Trópico Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184609/yarumos-apartment-tropico-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a9a/f5b5/15d8/6f00/01a2/f0b1/newsletter/12.jpg?1788540457",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T16:00:00.000Z",
+    "ingested_at": "2026-09-05T23:40:30.059Z"
+  },
+  {
+    "id": "105e945e-1ba3-48a1-9a19-5454b0c6287b",
+    "title": "João Moura Apartment",
+    "creator": "Margem Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a98/5b39/505a/cb00/0115/26a5/newsletter/Leila_Viegas_Paulo_Petrucci-6409.jpg?1788369957",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T15:00:00.000Z",
+    "ingested_at": "2026-09-05T23:40:30.059Z"
   }
 ]
