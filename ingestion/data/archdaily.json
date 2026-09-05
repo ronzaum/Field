@@ -28657,5 +28657,22 @@
     "material": [],
     "published_at": "2026-09-05T11:00:00.000Z",
     "ingested_at": "2026-09-05T16:40:39.478Z"
+  },
+  {
+    "id": "3a3d4fcd-b445-49b8-8f3d-db3c03e12366",
+    "title": "Ocean House",
+    "creator": "Biazus Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184454/ocean-house-biazus-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a91/c1a4/a25c/7b00/0125/fd77/newsletter/Casa_Ocean_Side-3.jpg?1787937236",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T13:00:00.000Z",
+    "ingested_at": "2026-09-05T18:54:33.079Z"
   }
 ]
