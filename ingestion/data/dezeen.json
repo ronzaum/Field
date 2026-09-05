@@ -1333,5 +1333,27 @@
     "material": [],
     "published_at": "2026-09-02T14:00:06.000Z",
     "ingested_at": "2026-09-02T17:46:41.443Z"
+  },
+  {
+    "id": "dd0e8634-7ce5-41be-9e7d-507ddc172d01",
+    "title": "Cluster of rock-like volumes make up rural Irish house",
+    "creator": "McGonigle McGrath",
+    "location": "Northern Ireland",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
+    "image_url": "http://static.dezeen.com/uploads/2026/09/tollymore-house-mcgonigle-mcgrath-architecture-residential-northern-ireland_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "McGonigle McGrath",
+      "Residential architecture and interiors",
+      "Bricks",
+      "Houses",
+      "Irish houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T10:00:23.000Z",
+    "ingested_at": "2026-09-05T13:46:57.667Z"
   }
 ]

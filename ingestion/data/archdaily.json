@@ -28623,5 +28623,22 @@
     "material": [],
     "published_at": "2026-09-05T02:00:00.000Z",
     "ingested_at": "2026-09-05T10:18:52.453Z"
+  },
+  {
+    "id": "5d2ce721-fbcc-4e45-8ebe-d684c0169860",
+    "title": "Renovation of a Lock Keeper's house",
+    "creator": "Atelier APA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183931/renovation-of-a-lock-keepers-house-atelier-apa",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/94a0/4253/0500/01ca/07df/newsletter/ATELIERAPA_MAISONECLUSIERE_33.jpg?1787664036",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T06:00:00.000Z",
+    "ingested_at": "2026-09-05T13:46:57.501Z"
   }
 ]
