@@ -28640,5 +28640,22 @@
     "material": [],
     "published_at": "2026-09-05T06:00:00.000Z",
     "ingested_at": "2026-09-05T13:46:57.501Z"
+  },
+  {
+    "id": "bf87bd75-6bdd-443c-b551-e59ae03b00bb",
+    "title": "Mr. Fool Moves a Mountain",
+    "creator": "Schwartz and Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183499/mr-fool-moves-a-mountain-schwartz-and-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6a84/431d/3cf9/6c00/0178/370d/newsletter/1205BH_PhotoByBruceDamonte_02_edit.jpg?1787052902",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T11:00:00.000Z",
+    "ingested_at": "2026-09-05T16:40:39.478Z"
   }
 ]
