@@ -28606,5 +28606,22 @@
     "material": [],
     "published_at": "2026-09-04T19:00:00.000Z",
     "ingested_at": "2026-09-05T05:27:33.596Z"
+  },
+  {
+    "id": "7dba642c-ac90-4604-ab73-7edc4a46362e",
+    "title": "Housing CARNIVAL",
+    "creator": "Studio Profile",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184304/housing-carnival-studio-profile",
+    "image_url": "https://images.adsttc.com/media/images/6a96/727a/d93e/3d00/01db/8069/newsletter/Profile_CARNIVAL_PHOTO_11_WenStudio.jpg?1788244657",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T02:00:00.000Z",
+    "ingested_at": "2026-09-05T10:18:52.453Z"
   }
 ]

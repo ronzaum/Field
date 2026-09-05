@@ -10218,5 +10218,25 @@
     "material": [],
     "published_at": "2026-09-05T02:10:29.000Z",
     "ingested_at": "2026-09-05T05:27:36.407Z"
+  },
+  {
+    "id": "66cbcac3-7331-454e-9849-9d3a54d96379",
+    "title": "when the power goes out, how can the architecture keep a house cool?",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/power-goes-out-keep-house-cooling-passive-survivability/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/cooling-without-electricity-architecture-designboom-700-500x400-22b08q85r566.jpg",
+    "typology": [
+      "architecture",
+      "climate change",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-05T07:45:23.000Z",
+    "ingested_at": "2026-09-05T10:18:53.506Z"
   }
 ]
