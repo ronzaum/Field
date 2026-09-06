@@ -28725,5 +28725,22 @@
     "material": [],
     "published_at": "2026-09-06T02:00:00.000Z",
     "ingested_at": "2026-09-06T08:33:32.552Z"
+  },
+  {
+    "id": "1738cf10-fc74-4193-8f7a-4909eb671045",
+    "title": "Chleboteka \"Okrąglak\"",
+    "creator": "CUDO:",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/9d76/4253/0500/01ca/08ec/newsletter/migdal_cudo_chleboteka_9.jpg?1787665835",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-06T06:00:00.000Z",
+    "ingested_at": "2026-09-06T12:44:58.206Z"
   }
 ]
