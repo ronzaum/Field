@@ -28742,5 +28742,22 @@
     "material": [],
     "published_at": "2026-09-06T06:00:00.000Z",
     "ingested_at": "2026-09-06T12:44:58.206Z"
+  },
+  {
+    "id": "d57b4b40-cc03-4dfe-bf4e-d7a0b9db82ba",
+    "title": "Aguacate Space",
+    "creator": "ALE Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184615/aguacate-space-ale-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/0d7c/4253/0500/01ca/02eb/newsletter/ALE_Aguacate_05.jpg?1787563506",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-06T10:00:00.000Z",
+    "ingested_at": "2026-09-06T16:04:49.263Z"
   }
 ]
