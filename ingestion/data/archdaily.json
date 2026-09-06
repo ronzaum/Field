@@ -28759,5 +28759,39 @@
     "material": [],
     "published_at": "2026-09-06T10:00:00.000Z",
     "ingested_at": "2026-09-06T16:04:49.263Z"
+  },
+  {
+    "id": "a08d6d6c-d207-46c7-a0ed-5e38ef87ff72",
+    "title": "Plaza Corporate - North Tower",
+    "creator": "Biselli Katchborian Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184457/plaza-corporate-north-tower-biselli-katchborian-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a91/c331/a25c/7b00/0125/fd93/newsletter/_MG_1783-Editar_1.jpg?1787937607",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-09-06T13:00:00.000Z",
+    "ingested_at": "2026-09-06T18:57:56.286Z"
+  },
+  {
+    "id": "884800bd-45bb-491a-a31f-c175ae09f9c2",
+    "title": "The Overlook House",
+    "creator": "Migration Studios",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
+    "image_url": "https://images.adsttc.com/media/images/6a98/5b7f/505a/cb00/0115/26c1/newsletter/19.jpg?1788369853",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-06T11:00:00.000Z",
+    "ingested_at": "2026-09-06T18:57:56.287Z"
   }
 ]
