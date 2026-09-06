@@ -28793,5 +28793,39 @@
     "material": [],
     "published_at": "2026-09-06T11:00:00.000Z",
     "ingested_at": "2026-09-06T18:57:56.287Z"
+  },
+  {
+    "id": "e16939b1-5111-4884-bafe-a7fbf5d617f0",
+    "title": "Grava House",
+    "creator": "remyarchitects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184612/grava-house-remyarchitects",
+    "image_url": "https://images.adsttc.com/media/images/6a99/9483/15d8/6f00/01a2/ec93/newsletter/remyarchitects-arquitectura-pilar-buenos-aires-arquitectos-remy-andres-concreto-hormigon-visto-moderno-golf-casa-country-grava-archdaily__3_.jpg?1788449948",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-06T16:00:00.000Z",
+    "ingested_at": "2026-09-06T23:39:15.836Z"
+  },
+  {
+    "id": "920458d8-0963-4fd3-afe9-6fd00241733f",
+    "title": "Floresta Apartment",
+    "creator": "VAGA arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184597/floresta-apartment-vaga-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a9b/13d9/cc78/e301/8820/e479/newsletter/apartamento-floresta-vaga-arquitetura_45.jpg?1788548164",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-06T15:00:00.000Z",
+    "ingested_at": "2026-09-06T23:39:15.836Z"
   }
 ]
