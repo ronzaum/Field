@@ -28963,5 +28963,39 @@
     "material": [],
     "published_at": "2026-09-07T10:00:00.000Z",
     "ingested_at": "2026-09-07T19:44:18.404Z"
+  },
+  {
+    "id": "69fd6708-fb49-4d04-85ba-1a6b4801bd16",
+    "title": "Lapa Townhouse Renovation",
+    "creator": "Estudio Piloti Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184594/lapa-townhouse-renovation-estudio-piloti-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a97/0057/bed1/7f00/014d/2637/newsletter/Estudio-Piloti-Arquitetura-foto-Luiza-Florenzano-001.jpg?1788280961",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T17:00:00.000Z",
+    "ingested_at": "2026-09-07T22:40:19.894Z"
+  },
+  {
+    "id": "8a7a5012-fe00-4314-a2ed-ea24407e4ba9",
+    "title": "Casa MDL",
+    "creator": "Estudio Maria Strada",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184496/casa-mdl",
+    "image_url": "https://images.adsttc.com/media/images/6a99/944c/15d8/6f00/01a2/ec6f/newsletter/1._MS_Martindale_Frente_2.jpg?1788449913",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T15:00:00.000Z",
+    "ingested_at": "2026-09-07T22:40:19.894Z"
   }
 ]
