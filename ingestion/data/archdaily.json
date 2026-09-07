@@ -28912,5 +28912,56 @@
     "material": [],
     "published_at": "2026-09-07T06:00:00.000Z",
     "ingested_at": "2026-09-07T15:39:28.401Z"
+  },
+  {
+    "id": "c48d2124-ae48-4e02-939b-351ef244a45b",
+    "title": "House on David Melgueiro",
+    "creator": "Aurora Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a99/dfa6/15d8/6f00/01a2/ed6d/newsletter/29.jpg?1788470091",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T13:00:00.000Z",
+    "ingested_at": "2026-09-07T19:44:18.403Z"
+  },
+  {
+    "id": "66f5688e-de9f-4280-925b-ecd285d3430f",
+    "title": "Gradient House and Studio",
+    "creator": "Observation Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184379/gradient-house-and-studio-observation-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a97/2a02/bed1/7f00/014d/270a/newsletter/Gradient_07_ArchDaily.jpg?1788291675",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T12:00:00.000Z",
+    "ingested_at": "2026-09-07T19:44:18.403Z"
+  },
+  {
+    "id": "f0b7e20a-e0a9-46ca-bef1-2d20528ca2c7",
+    "title": "Curious House",
+    "creator": "FORVM",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183941/curious-house-forvm",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/9d2d/4253/0500/01ca/08a7/newsletter/06_FORVM_-_Curious_House_-_photo_Bosnic_Dorotic.jpg?1787665731",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T10:00:00.000Z",
+    "ingested_at": "2026-09-07T19:44:18.404Z"
   }
 ]
