@@ -28827,5 +28827,56 @@
     "material": [],
     "published_at": "2026-09-06T15:00:00.000Z",
     "ingested_at": "2026-09-06T23:39:15.836Z"
+  },
+  {
+    "id": "0bead54f-88d4-41c4-adb6-96274c56e402",
+    "title": "The Doctor’s House",
+    "creator": "Jose Costa",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184469/the-doctors-house-jose-costa",
+    "image_url": "https://images.adsttc.com/media/images/6a99/19fc/1fe7/3101/8863/01a4/newsletter/the-doctors-house-jose-costa_6.jpg?1788418653",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T03:00:00.000Z",
+    "ingested_at": "2026-09-07T09:10:35.682Z"
+  },
+  {
+    "id": "9c030bb0-2d88-4376-8c09-7139ecaf3b01",
+    "title": "Oneness School Nonthaburi",
+    "creator": "Imaginary Objects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184628/oneness-school-nonthaburi-imaginary-objects",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/3112/15d8/6f00/01a2/f4ca/newsletter/1.iO_Oneness_Nonthaburi.jpg?1788752164",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T02:00:00.000Z",
+    "ingested_at": "2026-09-07T09:10:35.682Z"
+  },
+  {
+    "id": "4dccdf0b-795f-4089-805e-e72cd42871cf",
+    "title": "PAGEONE Bookstore at Wuxi Park Station",
+    "creator": "llLab.",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184504/pageone-bookstore-at-wuxi-park-station-lllab",
+    "image_url": "https://images.adsttc.com/media/images/6a99/a48f/1fe7/3101/8863/031f/newsletter/pageone-bookstore-station-at-wuxi-park-lllab_4.jpg?1788454061",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T00:00:00.000Z",
+    "ingested_at": "2026-09-07T09:10:35.683Z"
   }
 ]
