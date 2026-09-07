@@ -10259,5 +10259,27 @@
     "material": [],
     "published_at": "2026-09-05T20:45:18.000Z",
     "ingested_at": "2026-09-05T21:01:56.335Z"
+  },
+  {
+    "id": "b9a6c225-75ed-4fb6-92bf-1a70587531b7",
+    "title": "what kind of life should housing make possible? 33 projects offer answers",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview-designboom-700-500x400-22b08q85r109.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture interviews",
+      "designboom book reports",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T10:50:09.000Z",
+    "ingested_at": "2026-09-07T15:39:29.520Z"
   }
 ]

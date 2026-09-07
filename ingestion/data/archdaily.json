@@ -28878,5 +28878,39 @@
     "material": [],
     "published_at": "2026-09-07T00:00:00.000Z",
     "ingested_at": "2026-09-07T09:10:35.683Z"
+  },
+  {
+    "id": "aa6a670b-05ec-4d8c-9c25-70af73a38830",
+    "title": "Jacques Prévert Public Services Center",
+    "creator": "HEMAA Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184553/jacques-prevert-public-services-center-hemaa-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6a9a/e3bb/1fe7/3101/8863/062b/newsletter/jacques-prevert-public-services-center-hemaa-architectes_10.jpg?1788535809",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T07:00:00.000Z",
+    "ingested_at": "2026-09-07T15:39:28.401Z"
+  },
+  {
+    "id": "c6351046-7816-4edd-866c-78d5cd25c212",
+    "title": "Health Centre Rosenthal",
+    "creator": "kit",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184619/health-centre-rosenthal-kit",
+    "image_url": "https://images.adsttc.com/media/images/6a9d/6b16/15d8/6f00/01a2/f3d2/newsletter/02_kit_Rosenthal_Fassade_Garten.jpg?1788701485",
+    "typology": [
+      "healthcare center"
+    ],
+    "material": [],
+    "published_at": "2026-09-07T06:00:00.000Z",
+    "ingested_at": "2026-09-07T15:39:28.401Z"
   }
 ]
