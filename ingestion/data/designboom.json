@@ -10324,5 +10324,70 @@
     "material": [],
     "published_at": "2026-09-07T20:35:58.000Z",
     "ingested_at": "2026-09-07T22:40:20.584Z"
+  },
+  {
+    "id": "81c9906a-c36b-45d2-8bd6-31605ca70c47",
+    "title": "BIG’s hanna johansson on designing ‘park rise’ as a vertical extension of athens’ landscape",
+    "creator": "⁠Bjarke Ingels Group (BIG)",
+    "location": "The Ellinikon | @the_ellinikon_official",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-designboom-700-500x400-22b08q85r529.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in greece",
+      "architecture interviews",
+      "bjarke ingels group / BIG",
+      "MODES OF HABITATION",
+      "the ellinikon"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T10:50:15.000Z",
+    "ingested_at": "2026-09-08T12:44:59.555Z"
+  },
+  {
+    "id": "7c129146-b832-45a0-8ab5-73a0fb61b540",
+    "title": "first single-family home in greece achieves LEED platinum certification for sustainable living",
+    "creator": "mariana rodrigues",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/eclede-sustainable-home-greece-leed-platinum-certification/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/eclede_designboom_700-2-500x400-22b08q85r936.jpg",
+    "typology": [
+      "architecture",
+      "architecture in greece",
+      "passive houses",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T10:00:02.000Z",
+    "ingested_at": "2026-09-08T12:44:59.567Z"
+  },
+  {
+    "id": "ce6464ce-a37b-4148-8490-8c12ce500589",
+    "title": "alaïa reopens shanghai boutique with perforated facade and curved interior",
+    "creator": "thomai tsimpou",
+    "location": "Plaza 66",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/alaia-shanghai-boutique-perforated-facade-curved-interior-plaza-66/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/alaia-shanghai-boutique-perforated-facade-curved-interior-plaza-66-designboom-700-500x400-22b08q85r175.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "alaïa",
+      "architecture in china",
+      "architecture in shanghai",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T07:45:09.000Z",
+    "ingested_at": "2026-09-08T12:44:59.571Z"
   }
 ]
