@@ -29116,5 +29116,56 @@
     "material": [],
     "published_at": "2026-09-08T07:00:00.000Z",
     "ingested_at": "2026-09-08T17:10:10.184Z"
+  },
+  {
+    "id": "33c8414c-004a-492d-92e4-51dd94ebfe76",
+    "title": "House 22",
+    "creator": "Loft7",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184746/house-22-loft7",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/bf94/15d8/6f00/01a2/f674/newsletter/CASA_22_04_FABI_N_ACU_A.jpg?1788788662",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T15:00:00.000Z",
+    "ingested_at": "2026-09-08T20:57:13.200Z"
+  },
+  {
+    "id": "7035673a-b1b8-4183-8071-0e7b73a91eac",
+    "title": "Bernoulli College Vale do Sereno",
+    "creator": "BCMF Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184774/bernoulli-college-vale-do-sereno-bcmf-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a9b/5ac5/1fe7/3101/8863/0837/newsletter/colegio-bernoulli-vale-do-sereno-bcmf-arquitetos_3.jpg?1788566249",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T13:00:00.000Z",
+    "ingested_at": "2026-09-08T20:57:13.200Z"
+  },
+  {
+    "id": "eceaebff-b18d-47e4-8e19-c342fab8bd86",
+    "title": "Woods Retreat",
+    "creator": "BE Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184760/woods-retreat-be-design",
+    "image_url": "https://images.adsttc.com/media/images/6aa0/1cae/5c4d/8601/88ab/7a08/newsletter/woods-retreat-be-design_1.jpg?1788878018",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T12:00:00.000Z",
+    "ingested_at": "2026-09-08T20:57:13.201Z"
   }
 ]

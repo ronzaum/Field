@@ -10427,5 +10427,27 @@
     "material": [],
     "published_at": "2026-09-08T14:15:38.000Z",
     "ingested_at": "2026-09-08T17:10:11.220Z"
+  },
+  {
+    "id": "8e99c118-5078-452e-b922-cc42aadcca33",
+    "title": "how do california architects design a house to live with wildfire?",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/california-design-house-live-wildfire-fire-resistant/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/designing-for-wildfires-houses-habitation-designboom-700-500x400-22b08q85r492.jpg",
+    "typology": [
+      "architecture",
+      "architecture in california",
+      "architecture in los angeles",
+      "climate change",
+      "MODES OF HABITATION",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T20:35:41.000Z",
+    "ingested_at": "2026-09-08T20:57:14.740Z"
   }
 ]
