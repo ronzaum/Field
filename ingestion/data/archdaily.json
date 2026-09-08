@@ -29167,5 +29167,22 @@
     "material": [],
     "published_at": "2026-09-08T12:00:00.000Z",
     "ingested_at": "2026-09-08T20:57:13.201Z"
+  },
+  {
+    "id": "6f83426e-4170-4126-8e4a-797776c55b59",
+    "title": "Espatódias House",
+    "creator": "Leo Romano",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184749/espatodias-house-leo-romano",
+    "image_url": "https://images.adsttc.com/media/images/6a9b/1dc6/15d8/6f00/01a2/f2e0/newsletter/250408_Casa_SL_0892-Editar.jpg?1788550634",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T17:00:00.000Z",
+    "ingested_at": "2026-09-08T23:18:08.151Z"
   }
 ]
