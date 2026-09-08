@@ -10389,5 +10389,43 @@
     "material": [],
     "published_at": "2026-09-08T07:45:09.000Z",
     "ingested_at": "2026-09-08T12:44:59.571Z"
+  },
+  {
+    "id": "29610791-e086-40e8-8820-222f2d04cba4",
+    "title": "’50 chairs at christie’s’ traces how designers keep reinventing the act of sitting",
+    "creator": "daily desk",
+    "location": "336 North Camden Drive",
+    "country": "California 90210",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/50-chairs-christies-exhibition-basic-space-beverly-hills/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/basic-space-50-chairs-christies-beverly-hills-designboom-700-500x400-22b08q85r549.jpg",
+    "typology": [
+      "architecture",
+      "chair design",
+      "exhibitions"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T16:38:52.000Z",
+    "ingested_at": "2026-09-08T17:10:11.206Z"
+  },
+  {
+    "id": "bb3f543c-a0eb-4a36-98aa-a57f5a5bb238",
+    "title": "ground becomes roof, shielding inhabitable civic landscape on roosevelt island",
+    "creator": "Zehua Zhang",
+    "location": "Roosevelt Island",
+    "country": "New York City",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ground-roof-inhabitable-civic-landscape-roosevelt-island-zehua-zhang/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/zehua-zhang-civic-inhabitable-landscape-roosevelt-island-cultural-plaza-designboom-700-500x400-22b08q85r704.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in new york"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T14:15:38.000Z",
+    "ingested_at": "2026-09-08T17:10:11.220Z"
   }
 ]
