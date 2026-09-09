@@ -10469,5 +10469,52 @@
     "material": [],
     "published_at": "2026-09-09T06:15:40.000Z",
     "ingested_at": "2026-09-09T09:28:58.466Z"
+  },
+  {
+    "id": "2f94d781-fced-49b1-8ad4-9c79d5f98a07",
+    "title": "architect-designed cabins offer temporary homes for writers at jan michalski foundation",
+    "creator": "thomai tsimpou",
+    "location": "Montricher",
+    "country": "Switzerland",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland-designboom-700-500x400-22b08q85r160.jpg",
+    "typology": [
+      "architecture",
+      "alejandro aravena / elemental",
+      "architecture in switzerland",
+      "cabin architecture and design",
+      "kengo kuma",
+      "MODES OF HABITATION",
+      "residential architecture and interiors",
+      "rintala eggertsson architects",
+      "studio MK27 / marcio kogan",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T10:50:29.000Z",
+    "ingested_at": "2026-09-09T14:17:03.750Z"
+  },
+  {
+    "id": "e1b31068-6223-4326-8544-86d590cd30e3",
+    "title": "rodolphe parente and marion mailaender revive the spirit of 1985 paris sports club",
+    "creator": "thomai tsimpou",
+    "location": "Paris",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club-designboom-700-500x400-22b08q85r124.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in paris",
+      "renovation and restoration architecture and design",
+      "sports centers"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T09:25:44.000Z",
+    "ingested_at": "2026-09-09T14:17:03.757Z"
   }
 ]
