@@ -29184,5 +29184,22 @@
     "material": [],
     "published_at": "2026-09-08T17:00:00.000Z",
     "ingested_at": "2026-09-08T23:18:08.151Z"
+  },
+  {
+    "id": "62e6431a-8291-4385-b91b-0def16f900f6",
+    "title": "Casa One",
+    "creator": "Jorgelina Tortorici & Asociados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184657/casa-one-jorgelina-tortorici-and-asociados",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/bde2/15d8/6f00/01a2/f621/newsletter/0T7A3970.jpg?1788788250",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-08T19:00:00.000Z",
+    "ingested_at": "2026-09-09T04:03:00.416Z"
   }
 ]
