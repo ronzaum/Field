@@ -10516,5 +10516,49 @@
     "material": [],
     "published_at": "2026-09-09T09:25:44.000Z",
     "ingested_at": "2026-09-09T14:17:03.757Z"
+  },
+  {
+    "id": "bcd15ecc-81f9-4652-8424-c757ae5bd2b3",
+    "title": "stefano boeri plans gardened affordable housing in ibiza as four modular timber blocks",
+    "creator": "Stefano Boeri Architetti",
+    "location": "Ibiza",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/stefano-boeri-affordable-housing-ibiza-modular-timber-blocks-sa-casa/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/SA-casa-stefano-boeri-architetti-affordable-housing-ibiza-spain-designboom-700-500x400-22b08q85r653.jpg",
+    "typology": [
+      "architecture",
+      "architecture in spain",
+      "residential architecture and interiors",
+      "stefano boeri",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T15:45:57.000Z",
+    "ingested_at": "2026-09-09T18:24:11.362Z"
+  },
+  {
+    "id": "88f3daf0-b938-429d-bc23-beb5a64e1ac7",
+    "title": "plywood and reflective steel build retro-futurist print shop in tbilisi’s former factory",
+    "creator": "Sandro Kvirikadze Design",
+    "location": "Fabrika Tbilisi",
+    "country": "Georgia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/plywood-reflective-steel-retro-futurist-print-shop-tbilisi-former-factory-sandro-kvirikadze/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/plywood-reflective-steel-retro-futurist-print-shop-tbilisi-former-factory-sandro-kvirikadze-designboom-700-500x400-22b08q85r668.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in georgia",
+      "interiors",
+      "retail interiors",
+      "steel architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T14:15:09.000Z",
+    "ingested_at": "2026-09-09T18:24:11.372Z"
   }
 ]
