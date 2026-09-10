@@ -29371,5 +29371,22 @@
     "material": [],
     "published_at": "2026-09-09T12:00:00.000Z",
     "ingested_at": "2026-09-09T23:56:44.123Z"
+  },
+  {
+    "id": "571a38e7-c4ca-4c51-87d0-46f309204f3f",
+    "title": "House in Los Cóndores",
+    "creator": "Malachowski Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184743/house-in-los-condores-malachowski-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/beff/15d8/6f00/01a2/f654/newsletter/33.jpg?1788788573",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T19:00:00.000Z",
+    "ingested_at": "2026-09-10T04:24:28.026Z"
   }
 ]

@@ -10581,5 +10581,26 @@
     "material": [],
     "published_at": "2026-09-09T20:35:12.000Z",
     "ingested_at": "2026-09-09T21:33:32.738Z"
+  },
+  {
+    "id": "a436a94b-bf06-4537-8604-3b278186bd48",
+    "title": "cut, rotated, and suspended concrete pipes create reusable pavilion in mumbai",
+    "creator": "kaixin su",
+    "location": "Mumbai",
+    "country": "India",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/cut-rotated-suspended-concrete-pipes-reusable-pavilion-mumbai/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/re-concrete-pipes-reusable-pavilion-mumbai-designboom-700-500x400-22b08q85r192.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in india",
+      "concrete architecture and design",
+      "recycling"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T02:10:26.000Z",
+    "ingested_at": "2026-09-10T04:24:29.161Z"
   }
 ]
