@@ -29303,5 +29303,73 @@
     "material": [],
     "published_at": "2026-09-09T10:00:00.000Z",
     "ingested_at": "2026-09-09T18:24:10.009Z"
+  },
+  {
+    "id": "cae42c6c-604a-4e06-924c-2ffa1f7b1fce",
+    "title": "Casa Itu",
+    "creator": "Nitsche Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184675/casa-itu-nitsche-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/cdeb/1fe7/3101/8863/0bbb/newsletter/casa-itu-nitsche-arquitetos_26.jpg?1788792316",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T17:00:00.000Z",
+    "ingested_at": "2026-09-09T23:56:44.122Z"
+  },
+  {
+    "id": "f05c8388-568a-4201-b419-164c51606fce",
+    "title": "Florinda House",
+    "creator": "Alvariño & Felipe Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184824/florinda-house-alvarino-and-felipe-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aa0/33b4/13b9/4100/01df/703e/newsletter/DJI_0013.jpg?1788883955",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T15:00:00.000Z",
+    "ingested_at": "2026-09-09T23:56:44.122Z"
+  },
+  {
+    "id": "8983b590-25bf-4ae6-8b3a-d4e11a0f0510",
+    "title": "Boavista 339 Residential Building",
+    "creator": "PAULO MERLINI architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184792/boavista-339-paulo-merlini-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa0/7556/05b6/9900/01b5/3487/newsletter/20231219-PAULO-MERLINI-BOAVISTA-339-075.jpg?1788900767",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T13:00:00.000Z",
+    "ingested_at": "2026-09-09T23:56:44.122Z"
+  },
+  {
+    "id": "63db52bb-97eb-4588-b268-5604281e6836",
+    "title": "Coronation Park Sports and Recreation Centre",
+    "creator": "hcma architecture + design + Dub Architects + FaulknerBrowns Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184434/coronation-park-sports-and-recreation-centre-hcma-architecture-plus-design-plus-dub-architects-plus-faulknerbrowns-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a98/0f35/505a/cb00/0115/25dd/newsletter/_CPSRC__Aerial_of_entrance_and_link_to_Peter_Hemingway_Aquatic_Centre_Credit_Nic_Lehoux.jpg?1788350291",
+    "typology": [
+      "Recreation & Training"
+    ],
+    "material": [],
+    "published_at": "2026-09-09T12:00:00.000Z",
+    "ingested_at": "2026-09-09T23:56:44.123Z"
   }
 ]
