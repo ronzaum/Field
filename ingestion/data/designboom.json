@@ -10648,5 +10648,66 @@
     "material": [],
     "published_at": "2026-09-10T06:15:55.000Z",
     "ingested_at": "2026-09-10T09:27:44.993Z"
+  },
+  {
+    "id": "987f1226-713e-4c57-b1d5-ae589f4a724f",
+    "title": "curved joinery and bold color reframe 1960s apartment in madrid",
+    "creator": "CUBRO DESIGN",
+    "location": "Imperial neighborhood",
+    "country": "Madrid",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/curved-joinery-bold-color-1960s-apartment-madrid-imperial-alessio-lamarca-marta-ciabattini/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/madrid-imperial-apartment-renovation-alessio-lamarca-marta-ciabattini-designboom-700-500x400-22b08q85r451.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T18:10:58.000Z",
+    "ingested_at": "2026-09-10T18:13:10.959Z"
+  },
+  {
+    "id": "b53bfe84-5792-4ec6-a098-8714f728d0cb",
+    "title": "community-led cultural hub provides permanent home for black creative education in new orleans",
+    "creator": "thomai tsimpou",
+    "location": "1660 N. Roman Street",
+    "country": "Louisiana",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/community-cultural-hub-permanent-home-black-creative-education-new-orleans/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/community-cultural-hub-permanent-home-black-creative-education-new-orleans-designboom-700-500x400-22b08q85r268.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "shipping container architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T16:00:46.000Z",
+    "ingested_at": "2026-09-10T18:13:10.968Z"
+  },
+  {
+    "id": "20bd1d96-d600-40ff-8c12-c67dd3cf05d2",
+    "title": "artist gerhard richter designs hexagonal doha pavilion from his strip paintings",
+    "creator": "Gerhard Richter",
+    "location": "MIA Park",
+    "country": "Qatar",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gerhard-richter-hexagonal-doha-pavilion-strip-paintings-qatar-sellforf/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/selldorf-architects-doha-pavilion-gerhard-richter-designboom-qatar-700-500x400-22b08q85r280.jpg",
+    "typology": [
+      "architecture",
+      "art and architecture in qatar",
+      "gerhard richter",
+      "museums and galleries",
+      "selldorf architects"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T14:29:21.000Z",
+    "ingested_at": "2026-09-10T18:13:10.975Z"
   }
 ]

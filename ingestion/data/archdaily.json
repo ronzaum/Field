@@ -29473,5 +29473,56 @@
     "material": [],
     "published_at": "2026-09-10T06:00:00.000Z",
     "ingested_at": "2026-09-10T14:10:17.532Z"
+  },
+  {
+    "id": "c22f1402-4ee0-4848-a1fe-34c36acc7416",
+    "title": "Tejo Engenharia",
+    "creator": "SAINZ arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a9f/52b7/a228/5801/8aa2/3513/newsletter/tejo-engenharia-sainz-arquitetura_27.jpg?1788826303",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T13:00:00.000Z",
+    "ingested_at": "2026-09-10T18:13:09.714Z"
+  },
+  {
+    "id": "470c710b-0744-4820-9f74-64a75a3471fd",
+    "title": "Sequitur Winery",
+    "creator": "Observation Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184380/sequitur-winery-observation-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a97/2a70/bed1/7f00/014d/273b/newsletter/Sequitur_02_ArchDaily.jpg?1788291849",
+    "typology": [
+      "Winery"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T12:00:00.000Z",
+    "ingested_at": "2026-09-10T18:13:09.714Z"
+  },
+  {
+    "id": "ce15562c-6b56-4c81-acd2-2eedc246de60",
+    "title": "Sejaca House",
+    "creator": "G+A Architect",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184618/sejaca-house-g-plus-a-architect",
+    "image_url": "https://images.adsttc.com/media/images/6a9d/6ae6/15d8/6f00/01a2/f3b7/newsletter/Sejaca_House_3.jpg?1788701440",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T10:00:00.000Z",
+    "ingested_at": "2026-09-10T18:13:09.714Z"
   }
 ]
