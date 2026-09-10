@@ -29524,5 +29524,22 @@
     "material": [],
     "published_at": "2026-09-10T10:00:00.000Z",
     "ingested_at": "2026-09-10T18:13:09.714Z"
+  },
+  {
+    "id": "6d606e9b-3b31-4706-ac43-106aae9bdf08",
+    "title": "Casa Malonic",
+    "creator": "HW-STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/d539/43f9/c523/bff9/d978/newsletter/casa-malonic-hw-studio_19.jpg?1789056345",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T15:00:00.000Z",
+    "ingested_at": "2026-09-10T21:29:16.674Z"
   }
 ]

@@ -10709,5 +10709,24 @@
     "material": [],
     "published_at": "2026-09-10T14:29:21.000Z",
     "ingested_at": "2026-09-10T18:13:10.975Z"
+  },
+  {
+    "id": "0aae8d7c-750c-4f05-975e-93c4092c2dba",
+    "title": "building a life in virtual worlds: the places we inhabit and lose",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/life-virtual-worlds-places-the-sims-minecraft-animal-crossing-designboom-700-500x400-22b08q85r653.jpg",
+    "typology": [
+      "architecture",
+      "MODES OF HABITATION",
+      "video games"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T20:35:23.000Z",
+    "ingested_at": "2026-09-10T21:29:17.481Z"
   }
 ]
