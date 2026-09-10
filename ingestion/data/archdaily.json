@@ -29541,5 +29541,22 @@
     "material": [],
     "published_at": "2026-09-10T15:00:00.000Z",
     "ingested_at": "2026-09-10T21:29:16.674Z"
+  },
+  {
+    "id": "4e6207bf-0132-43b4-bab1-4c071eb0d890",
+    "title": "Santa Cruz School Kindergarten",
+    "creator": "Andrade Morettin Arquitetos Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184838/santa-cruz-school-kindergarten-andrade-morettin-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/6aa1/b7d4/05b6/9900/01b5/3668/newsletter/Nelson_Kon_01K_9360_06.jpg?1788983329",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T17:00:00.000Z",
+    "ingested_at": "2026-09-10T23:52:29.891Z"
   }
 ]
