@@ -29439,5 +29439,39 @@
     "material": [],
     "published_at": "2026-09-10T00:00:00.000Z",
     "ingested_at": "2026-09-10T09:27:43.760Z"
+  },
+  {
+    "id": "d68c05f2-25a9-40e9-8b20-8afd8b759c35",
+    "title": "Hasselt Beguinage Institute",
+    "creator": "Bovenbouw",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183932/hasselt-beguinage-institute-bovenbouw",
+    "image_url": "https://images.adsttc.com/media/images/6a8d/94fc/4253/0500/01ca/07f3/newsletter/BO-DK-HASS-1526-_StijnBollaert-SR.jpg?1787663632",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T07:00:00.000Z",
+    "ingested_at": "2026-09-10T14:10:17.532Z"
+  },
+  {
+    "id": "82a74db5-8b83-451e-8b55-e80adb90a790",
+    "title": "Ruin House - Nijl a Multigenerational holiday home",
+    "creator": "Studio Okami Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184725/ruin-house-nijl-a-multigenerational-holiday-home-studio-okami-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a9f/e80c/13b9/4100/01df/6dc8/newsletter/Marc_Goodwin_Archmospheres_23.jpg?1788864616",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T06:00:00.000Z",
+    "ingested_at": "2026-09-10T14:10:17.532Z"
   }
 ]
