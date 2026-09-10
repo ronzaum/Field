@@ -29388,5 +29388,56 @@
     "material": [],
     "published_at": "2026-09-09T19:00:00.000Z",
     "ingested_at": "2026-09-10T04:24:28.026Z"
+  },
+  {
+    "id": "cacd0763-58bb-4662-b50a-1569c80a8673",
+    "title": "This is Lumeah",
+    "creator": "Pepper & Well",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184827/this-is-lumeah-pepper-and-well",
+    "image_url": "https://images.adsttc.com/media/images/6aa1/8c8c/43f9/c501/88fd/19ca/newsletter/this-is-lumeah-pepper-and-well_20.jpg?1788972192",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T03:00:00.000Z",
+    "ingested_at": "2026-09-10T09:27:43.759Z"
+  },
+  {
+    "id": "e251cf2f-53cd-4b57-9556-f4835d4fff1a",
+    "title": "WA SSL House",
+    "creator": "AZAZ Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184767/wa-ssl-house-azaz-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa0/1fb3/13b9/4100/01df/6fd1/newsletter/Stone_House_01.jpg?1788878860",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T02:00:00.000Z",
+    "ingested_at": "2026-09-10T09:27:43.760Z"
+  },
+  {
+    "id": "a25aaa97-206d-4e89-b517-2a4bc0f9d98f",
+    "title": "Huizhou Vernacular Historic Bridges Micro-Museum",
+    "creator": "LUO studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184712/huizhou-vernacular-historic-bridges-micro-museum-luo-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a9f/e023/5c4d/8601/88ab/777e/newsletter/huizhou-vernacular-historic-bridges-micro-museum-luo-studio_1.jpg?1788862543",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T00:00:00.000Z",
+    "ingested_at": "2026-09-10T09:27:43.760Z"
   }
 ]
