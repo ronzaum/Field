@@ -29558,5 +29558,22 @@
     "material": [],
     "published_at": "2026-09-10T17:00:00.000Z",
     "ingested_at": "2026-09-10T23:52:29.891Z"
+  },
+  {
+    "id": "501990c5-01b0-4777-8a46-fa5352dc9700",
+    "title": "Cholán Nests House",
+    "creator": "La Cabina de la Curiosidad",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184903/cholan-nests-house-la-cabina-de-la-curiosidad",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/dc66/43f9/c52e/5503/ec36/newsletter/casa-los-nidos-del-cholan-la-cabina-de-la-curiosidad_2.jpg?1789058167",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-10T19:00:00.000Z",
+    "ingested_at": "2026-09-11T03:58:24.527Z"
   }
 ]
