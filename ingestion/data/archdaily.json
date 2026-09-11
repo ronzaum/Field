@@ -29711,5 +29711,22 @@
     "material": [],
     "published_at": "2026-09-11T13:00:00.000Z",
     "ingested_at": "2026-09-11T20:45:48.221Z"
+  },
+  {
+    "id": "11f5e94b-b3ce-4f54-89d6-291b9a353ec5",
+    "title": "Vila da Saúde Studio",
+    "creator": "Plareng + Consoante Arquitetura e Integração",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
+    "image_url": "https://images.adsttc.com/media/images/6aa1/ccbe/237b/e901/8be9/628d/newsletter/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_29.jpg?1788988620",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T17:00:00.000Z",
+    "ingested_at": "2026-09-11T23:06:22.712Z"
   }
 ]
