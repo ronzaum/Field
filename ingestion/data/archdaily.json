@@ -29660,5 +29660,22 @@
     "material": [],
     "published_at": "2026-09-11T06:00:00.000Z",
     "ingested_at": "2026-09-11T13:25:27.615Z"
+  },
+  {
+    "id": "bb927971-5bcb-4f97-bbc0-b1afe215087e",
+    "title": "Market Street 52",
+    "creator": "MWArchitekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184624/market-street-52-mwarchitekten",
+    "image_url": "https://images.adsttc.com/media/images/6a9d/6e23/15d8/6f00/01a2/f4a0/newsletter/MWA_Hohenems_Marktstra_e___Dominic-Kummer_2026-18.jpg?1788702370",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T10:00:00.000Z",
+    "ingested_at": "2026-09-11T17:39:40.074Z"
   }
 ]
