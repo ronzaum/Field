@@ -29677,5 +29677,39 @@
     "material": [],
     "published_at": "2026-09-11T10:00:00.000Z",
     "ingested_at": "2026-09-11T17:39:40.074Z"
+  },
+  {
+    "id": "563bf6ad-042e-4a58-bc4f-dded90478eb6",
+    "title": "Casa Rosabaya",
+    "creator": "Arkina",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184902/casa-rosabaya-arkina",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/d926/05b6/9900/01b5/3a3b/newsletter/20210318-Arkina-Rosabaya-Victor-Stonem-76.jpg?1789057367",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T15:00:00.000Z",
+    "ingested_at": "2026-09-11T20:45:48.220Z"
+  },
+  {
+    "id": "792f629c-7a95-4d02-84d7-41e7f9029eca",
+    "title": "RP02 House",
+    "creator": "Cornetta Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a9b/1ee5/15d8/6f00/01a2/f300/newsletter/casas_minimalistas_fachadas_concreto_estrutura_metalica_pre_fabricadas_industrial.jpg?1788550902",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T13:00:00.000Z",
+    "ingested_at": "2026-09-11T20:45:48.221Z"
   }
 ]
