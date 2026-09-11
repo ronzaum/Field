@@ -10728,5 +10728,51 @@
     "material": [],
     "published_at": "2026-09-10T20:35:23.000Z",
     "ingested_at": "2026-09-10T21:29:17.481Z"
+  },
+  {
+    "id": "4baaba7d-2358-4791-863c-5b75e7fcad19",
+    "title": "KOSMOS transforms mallorcan townhouse by giving old materials new roles",
+    "creator": "KOSMOS Architects + Blanca Gardelegui",
+    "location": "Banyalbufar",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui-designboom-700-500x400-22b08q85r149.jpg",
+    "typology": [
+      "architecture",
+      "architecture in spain",
+      "KOSMOS architects",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T09:30:17.000Z",
+    "ingested_at": "2026-09-11T13:25:28.725Z"
+  },
+  {
+    "id": "0c924c21-eff3-4ce1-8e6f-ee75526b3d27",
+    "title": "compact forest cabin by wiki world takes shape as a red wooden submarine",
+    "creator": "Wiki World",
+    "location": "Wuhan",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/compact-forest-cabin-wiki-world-red-wooden-submarine-china/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/red-submarine-cabin-wiki-world-designboom-700-500x400-22b08q85r285.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in china",
+      "cabin architecture and design",
+      "modular design",
+      "prefabricated homes and buildings",
+      "spaces under 50 sqm",
+      "wiki world",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T08:45:40.000Z",
+    "ingested_at": "2026-09-11T13:25:28.730Z"
   }
 ]

@@ -29626,5 +29626,39 @@
     "material": [],
     "published_at": "2026-09-11T00:00:00.000Z",
     "ingested_at": "2026-09-11T08:51:05.212Z"
+  },
+  {
+    "id": "628427ac-4817-4bf0-9134-a4b609021a40",
+    "title": "Non-Formal Kindergarten",
+    "creator": "ZEIA Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184759/non-formal-kindergarten",
+    "image_url": "https://images.adsttc.com/media/images/6aa0/1b7f/13b9/4100/01df/6f90/newsletter/14.jpg?1788877722",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T07:00:00.000Z",
+    "ingested_at": "2026-09-11T13:25:27.615Z"
+  },
+  {
+    "id": "92c97bac-0151-4c83-ab9a-c8e08aa7bec8",
+    "title": "Residential House in Lower Pavilnys, Vilnius",
+    "creator": "Inblum Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184858/residential-house-in-lower-pavilnys-vilnius-inblum-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/b971/05b6/9900/01b5/37a4/newsletter/Low_res___Aiste_Rakauskaite-13.jpg?1789049246",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T06:00:00.000Z",
+    "ingested_at": "2026-09-11T13:25:27.615Z"
   }
 ]
