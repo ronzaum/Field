@@ -29796,5 +29796,22 @@
     "material": [],
     "published_at": "2026-09-12T10:00:00.000Z",
     "ingested_at": "2026-09-12T16:52:09.456Z"
+  },
+  {
+    "id": "47d012a0-20e7-4fce-8ba4-1d972d74a178",
+    "title": "Sassi House",
+    "creator": "Galeria 733",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184870/sassi-house-galeria-733",
+    "image_url": "https://images.adsttc.com/media/images/6a97/2f02/bed1/7f00/014d/2762/newsletter/002_GALERIA_733_CASA_SASSI.jpg?1788292887",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-12T13:00:00.000Z",
+    "ingested_at": "2026-09-12T19:04:25.991Z"
   }
 ]
