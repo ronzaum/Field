@@ -29728,5 +29728,22 @@
     "material": [],
     "published_at": "2026-09-11T17:00:00.000Z",
     "ingested_at": "2026-09-11T23:06:22.712Z"
+  },
+  {
+    "id": "488d0f1d-8379-4f81-af7e-25077c59f7f6",
+    "title": "PC Inhouse",
+    "creator": "Arcieri Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184948/pc-inhouse-arcieri-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6a9a/fb0d/15d8/6f00/01a2/f10c/newsletter/03-PuntaColorada.jpg?1788541733",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-11T19:00:00.000Z",
+    "ingested_at": "2026-09-12T04:00:13.567Z"
   }
 ]
