@@ -29745,5 +29745,22 @@
     "material": [],
     "published_at": "2026-09-11T19:00:00.000Z",
     "ingested_at": "2026-09-12T04:00:13.567Z"
+  },
+  {
+    "id": "7d3c4992-9555-40f2-90d6-fa70f2fe893a",
+    "title": "Red Submarine Cabin",
+    "creator": "Wiki World",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/7fff/15d8/6f00/01a2/f50f/newsletter/00.jpg?1788772373",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-09-12T02:00:00.000Z",
+    "ingested_at": "2026-09-12T09:07:33.406Z"
   }
 ]

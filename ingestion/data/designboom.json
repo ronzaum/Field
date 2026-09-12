@@ -10794,5 +10794,26 @@
     "material": [],
     "published_at": "2026-09-11T18:10:39.000Z",
     "ingested_at": "2026-09-11T20:45:49.027Z"
+  },
+  {
+    "id": "21c90b4f-5510-4a01-820e-eec04ac22d7e",
+    "title": "why does living underground feel so strange?",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/why-does-living-underground-feel-so-strange/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/living-underground-architecture-designboom-700-500x400-22b08q85r622.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "MODES OF HABITATION",
+      "residential architecture and interiors",
+      "underground architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-12T07:45:05.000Z",
+    "ingested_at": "2026-09-12T09:07:34.901Z"
   }
 ]
