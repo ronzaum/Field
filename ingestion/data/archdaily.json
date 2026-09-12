@@ -29762,5 +29762,22 @@
     "material": [],
     "published_at": "2026-09-12T02:00:00.000Z",
     "ingested_at": "2026-09-12T09:07:33.406Z"
+  },
+  {
+    "id": "ecee2418-35b5-4865-8ac0-cb8c4bfa05f5",
+    "title": "Bramberg Residence Renovation",
+    "creator": "Gut Deubelbeiss Nill Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183815/bramberg-renovated-residence-gut-deubelbeiss-nill-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6a89/8ce0/4253/0500/01ca/0180/newsletter/gd_bramberg_130492_1.jpg?1787399452",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-12T06:00:00.000Z",
+    "ingested_at": "2026-09-12T13:27:57.115Z"
   }
 ]
