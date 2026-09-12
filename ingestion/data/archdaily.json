@@ -29779,5 +29779,22 @@
     "material": [],
     "published_at": "2026-09-12T06:00:00.000Z",
     "ingested_at": "2026-09-12T13:27:57.115Z"
+  },
+  {
+    "id": "2896a848-c161-494d-88c9-4da5317c27fc",
+    "title": "House Z",
+    "creator": "Atelier Zafari",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184859/house-z-atelier-zafari",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/b9c2/05b6/9900/01b5/37ae/newsletter/Jan_Bitter_01.jpg?1789049302",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-12T10:00:00.000Z",
+    "ingested_at": "2026-09-12T16:52:09.456Z"
   }
 ]
