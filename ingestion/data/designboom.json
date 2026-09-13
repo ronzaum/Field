@@ -10855,5 +10855,24 @@
     "material": [],
     "published_at": "2026-09-12T20:35:32.000Z",
     "ingested_at": "2026-09-12T22:03:59.280Z"
+  },
+  {
+    "id": "ebd4c163-6e47-4e9e-b669-ca0af3616a27",
+    "title": "how domestic work became built into the floor plan of the modern home",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/domestic-work-floor-plan-modern-home-corridor/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/architecture-invisible-work-homes-corridor-designboom-700-500x400-22b08q85r877.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "MODES OF HABITATION"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T07:45:47.000Z",
+    "ingested_at": "2026-09-13T11:27:34.007Z"
   }
 ]
