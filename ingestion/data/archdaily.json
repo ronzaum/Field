@@ -29881,5 +29881,39 @@
     "material": [],
     "published_at": "2026-09-12T21:00:00.000Z",
     "ingested_at": "2026-09-13T05:49:18.684Z"
+  },
+  {
+    "id": "e032cef3-e228-45b2-917e-3de045ff598b",
+    "title": "Bota Dürnten School Building",
+    "creator": "Lukas Raeber Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033838/bota-durnten-school-building-lukas-raeber-architects",
+    "image_url": "https://images.adsttc.com/media/images/68ba/eee5/3dba/9b00/01d5/c991/newsletter/lukasraeber_schuleb_willempab_170825_08.jpg?1757081448",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T10:00:00.000Z",
+    "ingested_at": "2026-09-13T15:56:43.731Z"
+  },
+  {
+    "id": "1f6c870d-cc25-4c03-bcce-1b557bd677fb",
+    "title": "Mobile Chicken Coop",
+    "creator": "Gerrit Müller-Scheeßel + Z.O.P. - Institute for Spatial Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184943/mobile-chicken-coop-gerrit-muller-scheessel-plus-zop-institute-for-spatial-design",
+    "image_url": "https://images.adsttc.com/media/images/6aa3/d370/7a61/df00/0183/bcff/newsletter/Photo_Jana_Jocif_55469570761_812e6e19d5_o.jpg?1789121465",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T06:00:00.000Z",
+    "ingested_at": "2026-09-13T15:56:43.732Z"
   }
 ]
