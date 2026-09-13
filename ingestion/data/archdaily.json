@@ -29847,5 +29847,22 @@
     "material": [],
     "published_at": "2026-09-12T15:00:00.000Z",
     "ingested_at": "2026-09-12T22:03:58.294Z"
+  },
+  {
+    "id": "fed5938d-df45-4629-b63f-cbc2ec8bdf55",
+    "title": "Enso",
+    "creator": "Compartment S4",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184968/enso-compartment-s4",
+    "image_url": "https://images.adsttc.com/media/images/6aa4/0f01/7a61/df00/0183/be80/newsletter/9.jpg?1789136658",
+    "typology": [
+      "Industrial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-12T17:00:00.000Z",
+    "ingested_at": "2026-09-13T00:43:25.158Z"
   }
 ]
