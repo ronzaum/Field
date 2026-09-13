@@ -29915,5 +29915,39 @@
     "material": [],
     "published_at": "2026-09-13T06:00:00.000Z",
     "ingested_at": "2026-09-13T15:56:43.732Z"
+  },
+  {
+    "id": "aa228364-7486-40dc-a275-0e4218ea6a21",
+    "title": "Costa Cabral Building",
+    "creator": "ATA - Atelier Tiago Antero + ENTRETEMPOS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184924/costa-cabral-building-ata-atelier-tiago-antero-plus-entretempos",
+    "image_url": "https://images.adsttc.com/media/images/6aa1/4f5c/237b/e964/93ed/9bcc/newsletter/edificio-costa-cabral-ata-atelier-tiago-antero-plus-entretempos_23.jpg?1788956557",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T13:00:00.000Z",
+    "ingested_at": "2026-09-13T18:42:56.035Z"
+  },
+  {
+    "id": "91bcee6d-b904-4fe1-bb1b-6c626496bef5",
+    "title": "Trailcenter Rytterknægten",
+    "creator": "Matters architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033655/trailcenter-rytterknaegten-matters-architects",
+    "image_url": "https://images.adsttc.com/media/images/68b5/bd71/f0a1/3200/01f3/5445/newsletter/Rasmus_Hjortshoj__Trail_Center_WEB-23.jpg?1756741007",
+    "typology": [
+      "Sports Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T11:00:00.000Z",
+    "ingested_at": "2026-09-13T18:42:56.036Z"
   }
 ]
