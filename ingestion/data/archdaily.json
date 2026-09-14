@@ -30170,5 +30170,39 @@
     "material": [],
     "published_at": "2026-09-14T12:00:00.000Z",
     "ingested_at": "2026-09-14T20:49:10.517Z"
+  },
+  {
+    "id": "d5f9db91-2db0-4498-95dd-151d525d7cd9",
+    "title": "Dolphine Villa",
+    "creator": "Idee architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185015/dolphine-villa-idee-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa7/b076/069c/1b01/89fb/7226/newsletter/dolphine-villa-idee-architects_33.jpg?1789374598",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T17:00:00.000Z",
+    "ingested_at": "2026-09-14T23:46:14.977Z"
+  },
+  {
+    "id": "9d064f29-a344-4866-b236-9927605feb46",
+    "title": "La Colmena - Multi-family Housing as Shared Neighborhood Infrastructure",
+    "creator": "Ancestra + Natura Futura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185061/la-colmena-multi-family-housing-as-shared-neighborhood-infrastructure-ancestra-plus-natura-futura",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/0f27/069c/1b01/89fb/74b2/newsletter/la-colmena-ancestra-plus-natura-futura_38.jpg?1789398838",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T15:00:00.000Z",
+    "ingested_at": "2026-09-14T23:46:14.977Z"
   }
 ]
