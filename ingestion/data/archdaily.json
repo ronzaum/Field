@@ -29949,5 +29949,22 @@
     "material": [],
     "published_at": "2026-09-13T11:00:00.000Z",
     "ingested_at": "2026-09-13T18:42:56.036Z"
+  },
+  {
+    "id": "6c0267fb-7a62-46c9-a511-3782ff00d18d",
+    "title": "House and Studio in Kyoto",
+    "creator": "Tato Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184960/house-and-studio-in-kyoto-tato-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa4/0ba9/7a61/df00/0183/be08/newsletter/01_House_and_Studio_in_Kyoto.jpg?1789135815",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T17:00:00.000Z",
+    "ingested_at": "2026-09-13T23:59:28.279Z"
   }
 ]
