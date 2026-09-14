@@ -30017,5 +30017,56 @@
     "material": [],
     "published_at": "2026-09-13T15:00:00.000Z",
     "ingested_at": "2026-09-14T04:45:17.701Z"
+  },
+  {
+    "id": "800ec551-860e-4dde-8c5e-577b657d25a4",
+    "title": "Mic(r)oLiving House",
+    "creator": "PSA Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184987/mic-r-oliving-house-psa-studio",
+    "image_url": "https://images.adsttc.com/media/images/6aa5/8f82/a74d/1200/0125/defc/newsletter/_AP_8692-Edit.jpg?1789235118",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T03:00:00.000Z",
+    "ingested_at": "2026-09-14T10:27:08.756Z"
+  },
+  {
+    "id": "1f61ae4d-313b-4a58-9262-a6e45f854c0d",
+    "title": "Tsukumo Kiln Ceramic Studio",
+    "creator": "Dept.EPT.",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184995/tsukumo-kiln-ceramic-studio-deppt",
+    "image_url": "https://images.adsttc.com/media/images/6aa6/c7df/a74d/1200/0125/df68/newsletter/18_Tsukumo_Kiln_Hiroshi_Nakamura.jpg?1789315176",
+    "typology": [
+      "Cultural Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T02:00:00.000Z",
+    "ingested_at": "2026-09-14T10:27:08.757Z"
+  },
+  {
+    "id": "604a2a45-221f-4bca-9ce2-e3fae9d514ad",
+    "title": "Split-Level Apartment",
+    "creator": "Shiye Architecture Design and Research Practice",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184404/split-level-apartment-shiye-architecture-design-and-research-practice",
+    "image_url": "https://images.adsttc.com/media/images/6a97/9a16/505a/cb00/0115/241e/newsletter/Z_House-25.jpg?1788320435",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T00:00:00.000Z",
+    "ingested_at": "2026-09-14T10:27:08.757Z"
   }
 ]

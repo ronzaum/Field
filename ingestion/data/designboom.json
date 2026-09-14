@@ -10896,5 +10896,27 @@
     "material": [],
     "published_at": "2026-09-13T14:15:28.000Z",
     "ingested_at": "2026-09-13T15:56:44.902Z"
+  },
+  {
+    "id": "fdd35c25-d4ff-4e38-9658-0d15a8b2c4f6",
+    "title": "a series of joinery elements replaces walls in 1970s athens apartment renovation",
+    "creator": "Georgios Apostolopoulos Architects",
+    "location": "Kifisia",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/joinery-elements-walls-1970s-athens-apartment-renovation-georgios-apostolopoulos-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/kifisia-1970s-apartment-athens-georgios-apostolopoulos-architects-designboom-700-500x400-22b08q85r499.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in greece",
+      "interiors",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T06:45:33.000Z",
+    "ingested_at": "2026-09-14T10:27:09.943Z"
   }
 ]
