@@ -30068,5 +30068,56 @@
     "material": [],
     "published_at": "2026-09-14T00:00:00.000Z",
     "ingested_at": "2026-09-14T10:27:08.757Z"
+  },
+  {
+    "id": "1ec04e28-9562-40e3-b093-69a1d7ff16e4",
+    "title": "House Südeifel",
+    "creator": "PUR+ Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184860/house-sudeifel-pur-plus-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/ba4d/05b6/9900/01b5/37da/newsletter/PP_Beilingen___Dominic-Kummer_2026-18_verkleinert.jpg?1789049476",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T10:00:00.000Z",
+    "ingested_at": "2026-09-14T16:52:55.031Z"
+  },
+  {
+    "id": "8b18bab0-e64c-4268-ac82-8f6eb4543dad",
+    "title": "Hug House",
+    "creator": "TTAD Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184893/hug-house-ttad-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6a97/3536/bed1/7f00/014d/27c2/newsletter/260624_Casa_Abra_o_0073.jpg?1788294624",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T07:00:00.000Z",
+    "ingested_at": "2026-09-14T16:52:55.031Z"
+  },
+  {
+    "id": "b03addb8-050e-4a2b-98b4-f7e7beff812d",
+    "title": "KEBAG Enova - Waste to Energy Plant",
+    "creator": "Penzel Valier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183744/kebag-enova-waste-to-energy-plant",
+    "image_url": "https://images.adsttc.com/media/images/6a88/322d/4253/0500/01c9/fe2b/newsletter/89_260519_BAU_B0004446_web.jpg?1787310660",
+    "typology": [
+      "Industrial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T06:00:00.000Z",
+    "ingested_at": "2026-09-14T16:52:55.032Z"
   }
 ]
