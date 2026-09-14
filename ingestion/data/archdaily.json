@@ -29966,5 +29966,56 @@
     "material": [],
     "published_at": "2026-09-13T17:00:00.000Z",
     "ingested_at": "2026-09-13T23:59:28.279Z"
+  },
+  {
+    "id": "cc47dba2-16f7-4308-9d22-fb78a225f11c",
+    "title": "JH Gwangan Mixed-use building",
+    "creator": "U.GA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184999/jh-gwangan-mixed-use-building-uga-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa6/ccc1/a74d/1200/0125/df93/newsletter/LUCY__3_.jpg?1789316326",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T21:00:00.000Z",
+    "ingested_at": "2026-09-14T04:45:17.700Z"
+  },
+  {
+    "id": "b3ae3a3b-2e6b-44fa-b0a2-b1e31d90852a",
+    "title": "Base Rupanco",
+    "creator": "remo estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185004/base-rupanco-remo-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6aa7/53a8/069c/1b01/89fb/7165/newsletter/base-rupanco-remo-estudio_12.jpg?1789350844",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T16:00:00.000Z",
+    "ingested_at": "2026-09-14T04:45:17.701Z"
+  },
+  {
+    "id": "4db6215e-e312-4086-8d9f-99fd4d1f36df",
+    "title": "Marinas House",
+    "creator": "Pirca Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185008/marinas-house-pirca-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/e14e/05b6/9900/01b5/3ac4/newsletter/PIRCA_-_PUERTOS_-1.jpg?1789059493",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-13T15:00:00.000Z",
+    "ingested_at": "2026-09-14T04:45:17.701Z"
   }
 ]
