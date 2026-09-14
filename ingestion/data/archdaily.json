@@ -30119,5 +30119,56 @@
     "material": [],
     "published_at": "2026-09-14T06:00:00.000Z",
     "ingested_at": "2026-09-14T16:52:55.032Z"
+  },
+  {
+    "id": "3e811439-639f-403a-b1df-29f45edc15d2",
+    "title": "La Colmena - Multi-family Housing as Shared Neighborhood Infrastructure",
+    "creator": "Natura Futura + Ancestra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185061/la-colmena-multi-family-housing-as-shared-neighborhood-infrastructure-natura-futura-plus-ancestra",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/0f27/069c/1b01/89fb/74b2/newsletter/la-colmena-ancestra-plus-natura-futura_38.jpg?1789398838",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T15:00:00.000Z",
+    "ingested_at": "2026-09-14T20:49:10.516Z"
+  },
+  {
+    "id": "01ffbef0-5b46-4b64-a226-57f4331b3ccf",
+    "title": "Enlevo Residence",
+    "creator": "Drucker Arquitetos Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184677/enlevo-residence-drucker-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/d1d4/cc78/e301/8820/e8cf/newsletter/enlevo-residence-drucker-arquitetos-associados_5.jpg?1788793325",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T13:00:00.000Z",
+    "ingested_at": "2026-09-14T20:49:10.517Z"
+  },
+  {
+    "id": "951f545d-4700-4a04-a724-5de188cf3453",
+    "title": "Canopy House",
+    "creator": "Lamoureux Architect Inc.",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184863/canopy-house-lamoureux-architect-inc",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/bbfa/05b6/9900/01b5/383e/newsletter/The-Collingwood-Residence-1001Photoshoped-Compressed.jpg?1789049889",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T12:00:00.000Z",
+    "ingested_at": "2026-09-14T20:49:10.517Z"
   }
 ]
