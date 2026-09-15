@@ -30255,5 +30255,56 @@
     "material": [],
     "published_at": "2026-09-15T00:00:00.000Z",
     "ingested_at": "2026-09-15T09:53:03.430Z"
+  },
+  {
+    "id": "3cfed19c-ec70-4623-871d-2ac0cc0ba475",
+    "title": "The Kiosk",
+    "creator": "CITYFÖRSTER",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185105/the-kiosk-cityforster",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebbd/newsletter/Kiosk_2__A.Muraku_.jpg?1789457698",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T10:00:00.000Z",
+    "ingested_at": "2026-09-15T14:45:35.611Z"
+  },
+  {
+    "id": "80270369-53f2-429b-8cba-2ed41eee2cba",
+    "title": "VISTA Science Experience Center",
+    "creator": "STUDIO MAKS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184856/vista-science-experience-center-studio-maks",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/b881/05b6/9900/01b5/3767/newsletter/STUDIO_MAKS_VISTA_2_Iwan_Baan.jpg?1789048991",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T07:00:00.000Z",
+    "ingested_at": "2026-09-15T14:45:35.611Z"
+  },
+  {
+    "id": "36956f8f-cee6-4985-8071-7e757bab2cd5",
+    "title": "MAR - Conversion of a single-family house into two residential units",
+    "creator": "bruna studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185045/mar-conversion-of-a-single-family-house-into-two-residential-units-bruna-studio",
+    "image_url": "https://images.adsttc.com/media/images/6aa7/eeaa/069c/1b01/89fb/73e1/newsletter/mar-conversion-of-a-single-family-house-into-two-residential-units_27.jpg?1789390540",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T06:00:00.000Z",
+    "ingested_at": "2026-09-15T14:45:35.611Z"
   }
 ]

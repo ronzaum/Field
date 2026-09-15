@@ -1426,5 +1426,27 @@
     "material": [],
     "published_at": "2026-09-13T05:00:18.000Z",
     "ingested_at": "2026-09-13T11:27:33.332Z"
+  },
+  {
+    "id": "cf4ddab2-53f4-4780-8545-60fc1983596f",
+    "title": "Mango trees shade \"restrained and calming\" home in India",
+    "creator": "InLe architects",
+    "location": "Trees",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/09/15/house-beyond-mango-trees-inle-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/09/house-beyond-the-mango-trees-indian-home-inle-architects-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Houses",
+      "Indian houses",
+      "Kerala",
+      "Residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T10:30:54.000Z",
+    "ingested_at": "2026-09-15T14:45:35.952Z"
   }
 ]
