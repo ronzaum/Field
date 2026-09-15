@@ -30204,5 +30204,22 @@
     "material": [],
     "published_at": "2026-09-14T15:00:00.000Z",
     "ingested_at": "2026-09-14T23:46:14.977Z"
+  },
+  {
+    "id": "06d00954-b884-4078-be84-9a0ed77f344b",
+    "title": "Blue Box",
+    "creator": "Estudio VA arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185092/blue-box-estudio-va-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/5628/a74d/1200/0125/e51e/newsletter/UPCN-25.jpg?1789417198",
+    "typology": [
+      "Services"
+    ],
+    "material": [],
+    "published_at": "2026-09-14T19:00:00.000Z",
+    "ingested_at": "2026-09-15T04:18:15.179Z"
   }
 ]
