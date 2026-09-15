@@ -30221,5 +30221,39 @@
     "material": [],
     "published_at": "2026-09-14T19:00:00.000Z",
     "ingested_at": "2026-09-15T04:18:15.179Z"
+  },
+  {
+    "id": "95bf6797-77c8-4c8b-80b3-1698fa235531",
+    "title": "Gelareh House",
+    "creator": "ZAV Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185024/gelareh-house-zav-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa7/c440/a74d/1200/0125/e0f3/newsletter/DJI_0458_Edited.jpg?1789379801",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T03:00:00.000Z",
+    "ingested_at": "2026-09-15T09:53:03.430Z"
+  },
+  {
+    "id": "057b8aa6-2b48-4efb-986f-7a4cb922bbe7",
+    "title": "Saekdong House",
+    "creator": "a.co.lab",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185040/saekdong-house-ab",
+    "image_url": "https://images.adsttc.com/media/images/6aa7/d361/a74d/1200/0125/e1e9/newsletter/DJI_20260630092439_0320_D.jpg?1789383544",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T00:00:00.000Z",
+    "ingested_at": "2026-09-15T09:53:03.430Z"
   }
 ]
