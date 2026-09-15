@@ -30323,5 +30323,39 @@
     "material": [],
     "published_at": "2026-09-15T12:00:00.000Z",
     "ingested_at": "2026-09-15T18:48:36.789Z"
+  },
+  {
+    "id": "900d9e89-8a1a-4456-a30f-11d2ffaaee8a",
+    "title": "Reconstruction of the Constitución Municipal Theater",
+    "creator": "ELEMENTAL",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185162/reconstruction-of-the-constitucion-municipal-theater-elemental",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/6915/069c/1b2f/7de7/f2bd/newsletter/reconstruccion-teatro-municipal-de-constitucion-elemental_12.jpg?1789487432",
+    "typology": [
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T15:00:00.000Z",
+    "ingested_at": "2026-09-15T22:00:12.527Z"
+  },
+  {
+    "id": "1cc2f491-b511-458c-b799-1c7b1a77d68e",
+    "title": "Mata do Paraíso Scout Park",
+    "creator": "Plano Humano Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185070/mata-do-paraiso-scout-park-plano-humano-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/b88e/05b6/9900/01b5/3779/newsletter/JM_MatadoParaiso_001.jpg?1789048999",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T13:00:00.000Z",
+    "ingested_at": "2026-09-15T22:00:12.527Z"
   }
 ]
