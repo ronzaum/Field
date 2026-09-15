@@ -10986,5 +10986,48 @@
     "material": [],
     "published_at": "2026-09-15T14:15:42.000Z",
     "ingested_at": "2026-09-15T14:45:36.723Z"
+  },
+  {
+    "id": "631610f6-ddf0-45d9-b06b-e8b666cc52f6",
+    "title": "ZAV architects sends colorful vaulted rooms through iranian orchard",
+    "creator": "ZAV Architects",
+    "location": "Kuhsar",
+    "country": "Iran",
+    "year": 2025,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/zav-architects-colorful-vaults-iran-gelareh-house/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/zav-architects-gelareh-house-iran-designboom-700-500x400-22b08q85r044.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in iran",
+      "residential architecture and interiors",
+      "ZAV architects"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T18:10:57.000Z",
+    "ingested_at": "2026-09-15T18:48:37.764Z"
+  },
+  {
+    "id": "03cee8d6-7a9f-44d5-9d94-b2c5b2fbdeee",
+    "title": "a spiral of timber beams and steel frames tiny 40-sqm tokyo home",
+    "creator": "Yo Shimada",
+    "location": "Shinagawa-ku",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/spiral-timber-beams-steel-tiny-40-sqm-tokyo-home-musashi-koyama-tato-architects-yo-shimada/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/house-musashi-koyama-tato-architects-yo-shimada-tiny-family-home-tokyo-designboom-700-500x400-22b08q85r861.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in tokyo",
+      "residential architecture and interiors",
+      "spaces under 50 sqm",
+      "tato architects / yo shimada"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T15:55:32.000Z",
+    "ingested_at": "2026-09-15T18:48:37.772Z"
   }
 ]

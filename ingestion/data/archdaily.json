@@ -30306,5 +30306,22 @@
     "material": [],
     "published_at": "2026-09-15T06:00:00.000Z",
     "ingested_at": "2026-09-15T14:45:35.611Z"
+  },
+  {
+    "id": "85f00b4f-c03f-41c2-8dfc-3b64efc1488d",
+    "title": "Crux South Climbing Gym",
+    "creator": "Derrington Building Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185069/crux-south-climbing-gym-derrington-building-studio",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/2362/a74d/1200/0125/e397/newsletter/43_CRUX_SOUTH_South_West_Facade.jpg?1789404044",
+    "typology": [
+      "gymnasium"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T12:00:00.000Z",
+    "ingested_at": "2026-09-15T18:48:36.789Z"
   }
 ]
