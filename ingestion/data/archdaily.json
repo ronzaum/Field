@@ -30374,5 +30374,22 @@
     "material": [],
     "published_at": "2026-09-15T17:00:00.000Z",
     "ingested_at": "2026-09-16T00:12:07.884Z"
+  },
+  {
+    "id": "86e3b7c9-9b98-43bc-818e-08bc6e357b8e",
+    "title": "Casa VO",
+    "creator": "Desangles Abreu Arquitectos & Arkina",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185067/casa-vo-desangles-abreu-arquitectos-and-arkina",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/1882/a74d/1200/0125/e34a/newsletter/7._CasaVo-196.jpg?1789401274",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-15T19:00:00.000Z",
+    "ingested_at": "2026-09-16T05:48:42.132Z"
   }
 ]
