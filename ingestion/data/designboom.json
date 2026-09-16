@@ -11071,5 +11071,25 @@
     "material": [],
     "published_at": "2026-09-16T18:10:44.000Z",
     "ingested_at": "2026-09-16T19:55:27.205Z"
+  },
+  {
+    "id": "b4577e9a-99f8-4f58-81c7-641815699183",
+    "title": "ZHA rethinks benghazi’s urban growth through a digital planning hub",
+    "creator": "Zaha Hadid Architects (ZHA)",
+    "location": "Benghazi",
+    "country": "Libya",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/zha-benghazi-libya-urban-growth-digital-planning-hub/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/zha-benghazi-libya-urban-growth-digital-planning-hub-designboom-10-500x400-22b08q85r565.jpg",
+    "typology": [
+      "architecture",
+      "landscape architecture and design",
+      "masterplans and urban revitalization",
+      "zaha hadid"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T20:20:33.000Z",
+    "ingested_at": "2026-09-16T22:47:57.033Z"
   }
 ]
