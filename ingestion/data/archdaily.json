@@ -30493,5 +30493,56 @@
     "material": [],
     "published_at": "2026-09-16T10:00:00.000Z",
     "ingested_at": "2026-09-16T16:32:48.918Z"
+  },
+  {
+    "id": "6afe0a07-c6e7-4300-80ee-f870f8cbdb0c",
+    "title": "KUSKA Residence",
+    "creator": "Taller MACAA (Misión de Arquitectura, Construcción y Arte en los Andes)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185261/kuska-residence-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/cd03/4f64/5201/8803/16a6/newsletter/residencia-kuska-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes_18.jpg?1789578514",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T15:00:00.000Z",
+    "ingested_at": "2026-09-16T19:55:26.193Z"
+  },
+  {
+    "id": "b9ab56d1-75a5-455a-a070-bba42e8b62a5",
+    "title": "Noor House",
+    "creator": "Marcos Lula",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185246/noor-house-marcos-lula",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/baec/05b6/9900/01b5/3818/newsletter/_DSC9333-Editar.jpg?1789049640",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T13:00:00.000Z",
+    "ingested_at": "2026-09-16T19:55:26.194Z"
+  },
+  {
+    "id": "ceadad37-561c-4802-9fd0-f60fd209a97f",
+    "title": "4015 House & Studio",
+    "creator": "Observation Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184381/4015-house-and-studio-observation-studio",
+    "image_url": "https://images.adsttc.com/media/images/6a97/2b26/bed1/7f00/014d/274f/newsletter/4015_10_ArchDaily.jpg?1788291946",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T12:00:00.000Z",
+    "ingested_at": "2026-09-16T19:55:26.194Z"
   }
 ]
