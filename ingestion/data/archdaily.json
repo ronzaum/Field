@@ -30391,5 +30391,90 @@
     "material": [],
     "published_at": "2026-09-15T19:00:00.000Z",
     "ingested_at": "2026-09-16T05:48:42.132Z"
+  },
+  {
+    "id": "c7323586-85a3-4cd9-86b5-9a9a30e49fb7",
+    "title": "Het Steen Antwerp - Visitor Center and Tourist Reception",
+    "creator": "noAarchitecten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185154/het-steen-antwerp-visitor-center-and-tourist-reception-noaarchitecten",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/5f26/8a93/3f01/88f2/2f53/newsletter/het-steen-antwerp-visitor-center-and-tourist-reception-noaarchitecten_3.jpg?1789550411",
+    "typology": [
+      "Heritage"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T07:00:00.000Z",
+    "ingested_at": "2026-09-16T11:13:00.662Z"
+  },
+  {
+    "id": "9378b4fd-6a3e-4c68-b5a8-83b0ad61be6f",
+    "title": "Darnaway - A Studio for Anne",
+    "creator": "Richmond Bell",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185106/darnaway-a-studio-for-anne-richmond-bell",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebc5/newsletter/20250514-DARNAWAY-68_HI_RES.jpg?1789458970",
+    "typology": [
+      "Small Scale"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T06:00:00.000Z",
+    "ingested_at": "2026-09-16T11:13:00.663Z"
+  },
+  {
+    "id": "81ef676b-3a22-42f3-ae4a-050370564b6c",
+    "title": "Casa Fátima",
+    "creator": "MARMOLBRAVO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184910/casa-fatima-marmolbravo",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/e3fe/05b6/9900/01b5/3b0b/newsletter/CasaFatima_marmolbravo027.jpg?1789060113",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T03:00:00.000Z",
+    "ingested_at": "2026-09-16T11:13:00.663Z"
+  },
+  {
+    "id": "91a7eaf1-39ca-4300-95da-594c158f743f",
+    "title": "Kaymana Bali - Fire Villa",
+    "creator": "Pablo Luna Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185068/kaymana-bali-fire-villa-pablo-luna-studio",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/1ca7/069c/1b01/89fb/758e/newsletter/kaymana-bali-fire-villa-pablo-luna-studio_1.jpg?1789402307",
+    "typology": [
+      "Lodging"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T02:00:00.000Z",
+    "ingested_at": "2026-09-16T11:13:00.663Z"
+  },
+  {
+    "id": "d6c6623d-24cb-4162-98eb-4840b20e659b",
+    "title": "Yearly Plan House",
+    "creator": "Hui Pan Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185098/yearly-plan-house-hui-pan-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/d613/a74d/1200/0125/eb6b/newsletter/24.jpg?1789449844",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T00:00:00.000Z",
+    "ingested_at": "2026-09-16T11:13:00.663Z"
   }
 ]
