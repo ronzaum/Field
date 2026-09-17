@@ -30578,5 +30578,56 @@
     "material": [],
     "published_at": "2026-09-16T17:00:00.000Z",
     "ingested_at": "2026-09-17T01:13:01.143Z"
+  },
+  {
+    "id": "fc92f0bf-d607-4494-ab45-a8818e87491d",
+    "title": "Corner Villa",
+    "creator": "Super Void Space",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185158/corner-villa-super-void-space",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/5a0e/a74d/1200/0125/ee65/newsletter/02.jpg?1789483572",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T03:00:00.000Z",
+    "ingested_at": "2026-09-17T13:14:56.837Z"
+  },
+  {
+    "id": "a81bb035-2e7c-4bb4-88cc-f5f25f68f1a2",
+    "title": "Hagidong House 2",
+    "creator": "Hyunjoon Yoo + Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185161/hagidong-house-2-hyunjoon-yoo-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/6db2/069c/1b01/89fb/7b19/newsletter/hagidong-house-2-hyunjoon-yoo-plus-partners_1.jpg?1789488583",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T02:00:00.000Z",
+    "ingested_at": "2026-09-17T13:14:56.838Z"
+  },
+  {
+    "id": "7c5dcea4-f308-47f6-a3f9-4799ecba9384",
+    "title": "Micro-regeneration on Ouyang Road",
+    "creator": "Scenic Architecture Office",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185088/micro-regeneration-on-ouyang-road-scenic-architecture-office",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/55d2/069c/1b01/89fb/772a/newsletter/micro-regeneration-on-ouyang-road-scenic-architecture-office_3.jpg?1789417021",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T00:00:00.000Z",
+    "ingested_at": "2026-09-17T13:14:56.838Z"
   }
 ]

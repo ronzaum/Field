@@ -11111,5 +11111,44 @@
     "material": [],
     "published_at": "2026-09-17T02:10:37.000Z",
     "ingested_at": "2026-09-17T07:25:39.422Z"
+  },
+  {
+    "id": "e1f09fc9-4c62-4321-8e3d-9667ea7a83eb",
+    "title": "from the picturesque to the smartphone: architecture’s obsession with being seen",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/picturesque-smartphone-obsession-being-seen-photography/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/architecture-photography-picturesque-smartphones-designboom-700-500x400-22b08q85r125.jpg",
+    "typology": [
+      "architecture",
+      "architectural photography",
+      "SPECTATOR AND SPECTACLE"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T10:50:36.000Z",
+    "ingested_at": "2026-09-17T13:14:57.721Z"
+  },
+  {
+    "id": "c398ea82-e078-4534-8c28-f3ed39a83672",
+    "title": "CCA tashkent opens inside transformed 1912 tram depot by studio KO",
+    "creator": "Wilhelm Heinzelmann (1912)",
+    "location": "Tashkent",
+    "country": "Uzbekistan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/cca-tashkent-1912-tram-depot-studio-ko/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/cca-tashkent-1912-tram-depot-studio-ko-designboom-700-2-500x400-22b08q85r718.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "museums and galleries",
+      "studio KO"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T09:25:25.000Z",
+    "ingested_at": "2026-09-17T13:14:57.731Z"
   }
 ]
