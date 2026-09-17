@@ -11150,5 +11150,51 @@
     "material": [],
     "published_at": "2026-09-17T09:25:25.000Z",
     "ingested_at": "2026-09-17T13:14:57.731Z"
+  },
+  {
+    "id": "5004171b-95bf-454d-816c-971b96a9f76e",
+    "title": "cantilevered roof extends over frank lloyd wright’s concrete usonian house, now listed",
+    "creator": "Frank Lloyd Wright",
+    "location": "Galesburg",
+    "country": "USA",
+    "year": 1953,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/frank-lloyd-wright-11090-hawthorne-galesburg-michigan-designboom-700-500x400-22b08q85r796.jpg",
+    "typology": [
+      "architecture",
+      "architecture in the US",
+      "frank lloyd wright",
+      "residential architecture and interiors",
+      "sotheby's"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T15:45:20.000Z",
+    "ingested_at": "2026-09-17T18:03:40.509Z"
+  },
+  {
+    "id": "3ac56ae4-4a23-4ca8-945a-e92ac09949a6",
+    "title": "studiomateriality translates lucha libre into green-lit, stainless-steel bar in athens",
+    "creator": "studiomateriality",
+    "location": "Athens",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/studiomateriality-lucha-libre-green-lit-stainless-steel-bar-athens-ochotac/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/studiomateriality-ochotac-athens-mexican-bar-designboom-700-500x400-22b08q85r987.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in greece",
+      "bar architecture and design",
+      "concrete architecture and design",
+      "mirrors",
+      "restaurant and café design",
+      "steel architecture and design",
+      "studiomateriality"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T14:15:14.000Z",
+    "ingested_at": "2026-09-17T18:03:40.518Z"
   }
 ]
