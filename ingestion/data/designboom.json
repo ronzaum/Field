@@ -11196,5 +11196,47 @@
     "material": [],
     "published_at": "2026-09-17T14:15:14.000Z",
     "ingested_at": "2026-09-17T18:03:40.518Z"
+  },
+  {
+    "id": "08c8fbf4-e371-4b3c-999f-561dc128bd84",
+    "title": "a sequence of colored rooms and a continuous bookcase reshape a madrid apartment",
+    "creator": "Gonzalo Pardo",
+    "location": "Vicálvaro",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sequence-colored-rooms-continuous-bookcase-madrid-apartment-casa-pop-gon-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/casa-pop-madrid-gon-architects-designboom-700-500x400-22b08q85r570.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "gon architects",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T20:35:27.000Z",
+    "ingested_at": "2026-09-17T22:00:12.712Z"
+  },
+  {
+    "id": "02fb45dc-0182-413d-9492-70dbaa115a17",
+    "title": "triangular layered residence by QBO3 arquitectos nestles on costa rican hillside",
+    "creator": "QBO3 Arquitectos",
+    "location": "Nosara",
+    "country": "Costa Rica",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/triangular-layered-residence-qbo3-arquitectos-costa-rican-hillside-casa-cinco-7/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/casa-cinco-7-qbo3-arquitectos-triangular-residence-designboom-700-500x400-22b08q85r011.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in costa rica",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-17T02:10:36.000Z",
+    "ingested_at": "2026-09-17T22:00:12.754Z"
   }
 ]
