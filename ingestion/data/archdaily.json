@@ -30544,5 +30544,39 @@
     "material": [],
     "published_at": "2026-09-16T12:00:00.000Z",
     "ingested_at": "2026-09-16T19:55:26.194Z"
+  },
+  {
+    "id": "7932a360-1025-4e2d-95bd-90c12f4e7ae9",
+    "title": "La Salle School",
+    "creator": "FP Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185264/la-salle-school-fp-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/a2ee/1057/6a00/017e/a654/newsletter/04_SALLE-Alejandro_Arango.jpg?1789567770",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T19:00:00.000Z",
+    "ingested_at": "2026-09-17T01:13:01.142Z"
+  },
+  {
+    "id": "6bae6220-62d3-41ed-bb8d-c3cd452371db",
+    "title": "House on Alto Teles Pires",
+    "creator": "Ser Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185249/house-on-alto-teles-pires-ser-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/43c8/a74d/1200/0125/e3f0/newsletter/_08A4889-Edit_copyright_manuel_sa_b.jpg?1789412313",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-16T17:00:00.000Z",
+    "ingested_at": "2026-09-17T01:13:01.143Z"
   }
 ]
