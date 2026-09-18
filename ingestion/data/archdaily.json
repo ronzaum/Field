@@ -30884,5 +30884,39 @@
     "material": [],
     "published_at": "2026-09-18T10:00:00.000Z",
     "ingested_at": "2026-09-18T18:12:34.094Z"
+  },
+  {
+    "id": "d784e9cc-2df6-4e49-9b30-3b5da680070c",
+    "title": "Aerocasa",
+    "creator": "Feliu Vega Kennedy Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185391/aerocasa-feliu-vega-kennedy-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6aad/572d/066f/0900/0145/7673/newsletter/Copia-de-AEROCASA-FELIU-VEGA-JAG-2792-CMYK.jpg?1789744959",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T15:00:00.000Z",
+    "ingested_at": "2026-09-18T21:31:45.208Z"
+  },
+  {
+    "id": "3c763afd-65f8-4170-83f4-f88a1bdee197",
+    "title": "Mini Atalhada Building",
+    "creator": "SO Arquitetura & Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design",
+    "image_url": "https://images.adsttc.com/media/images/6aac/4638/d8c8/8201/89ac/d1e4/newsletter/edificio-mini-atalhada-so-arquitetura-and-design_22.jpg?1789675126",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T13:00:00.000Z",
+    "ingested_at": "2026-09-18T21:31:45.208Z"
   }
 ]
