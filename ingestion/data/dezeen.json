@@ -1468,5 +1468,26 @@
     "material": [],
     "published_at": "2026-09-17T09:00:26.000Z",
     "ingested_at": "2026-09-17T13:14:57.059Z"
+  },
+  {
+    "id": "a3cbc2c4-1d7c-4c9b-a28d-37c00d908a50",
+    "title": "Cluster of cylindrical volumes forms Spanish home",
+    "creator": "Fran Silvestre Arquitectos",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/",
+    "image_url": "http://static.dezeen.com/uploads/2026/09/house-in-las-rozas-fran-silvestre-arquitectos-architecture-residential-madrid-spain-exclusive_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Spanish houses",
+      "Fran Silvestre Arquitectos",
+      "White houses",
+      "Round buildings"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T10:45:37.000Z",
+    "ingested_at": "2026-09-18T14:52:40.248Z"
   }
 ]

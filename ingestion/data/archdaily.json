@@ -30816,5 +30816,39 @@
     "material": [],
     "published_at": "2026-09-18T02:00:00.000Z",
     "ingested_at": "2026-09-18T10:55:18.230Z"
+  },
+  {
+    "id": "5d92e044-7f0d-4388-882d-72657422bf6e",
+    "title": "Paris USMT Bizot Sports Centre",
+    "creator": "THINK TANK architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185185/paris-usmt-bizot-sports-centre-think-tank-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/d78c/8a93/3f01/88f2/2e6e/newsletter/paris-usmt-bizot-sports-centre-think-tank-architecture_2.jpg?1789515672",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T07:00:00.000Z",
+    "ingested_at": "2026-09-18T14:52:40.027Z"
+  },
+  {
+    "id": "2d060a0e-b248-4659-931b-96dab4bfb7a6",
+    "title": "Cultural Center in Gisors",
+    "creator": "richter architectes et associés",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185273/cultural-center-in-gisors-richter-architectes-et-associes",
+    "image_url": "https://images.adsttc.com/media/images/6aab/3945/d8c8/8201/89ac/ccae/newsletter/cultural-centre-in-gisors-richter-architectes-et-associes_7.jpg?1789606273",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T06:00:00.000Z",
+    "ingested_at": "2026-09-18T14:52:40.028Z"
   }
 ]
