@@ -30850,5 +30850,39 @@
     "material": [],
     "published_at": "2026-09-18T06:00:00.000Z",
     "ingested_at": "2026-09-18T14:52:40.028Z"
+  },
+  {
+    "id": "6dc1ea10-5aff-49a5-bbaa-ee2498442afb",
+    "title": "Match House (Art Omi) Temporary Installation",
+    "creator": "Young Projects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185166/match-house-art-omi-2024-young-projects",
+    "image_url": "https://images.adsttc.com/media/images/6aab/e1c2/d8c8/8201/89ac/cec4/newsletter/match-house-art-omi-temporary-installation-young-projects_20.jpg?1789649356",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T12:00:00.000Z",
+    "ingested_at": "2026-09-18T18:12:34.094Z"
+  },
+  {
+    "id": "da58d4fe-7c1b-4cc5-a3fc-31a0e96b2ea2",
+    "title": "Alpamyr House",
+    "creator": "sandro durrer",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer",
+    "image_url": "https://images.adsttc.com/media/images/6aab/266d/d8c8/8201/89ac/cc7f/newsletter/alpamyr-house-sandro-durrer_5.jpg?1789601438",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T10:00:00.000Z",
+    "ingested_at": "2026-09-18T18:12:34.094Z"
   }
 ]
