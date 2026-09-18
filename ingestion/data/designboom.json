@@ -11238,5 +11238,24 @@
     "material": [],
     "published_at": "2026-09-17T02:10:36.000Z",
     "ingested_at": "2026-09-17T22:00:12.754Z"
+  },
+  {
+    "id": "e3a4ed53-59b9-42b0-a196-b964dcc0d0ee",
+    "title": "how the situationists tried to turn spectators into participants",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/situationists-spectators-participants/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/situationists-spectators-participants-designboom-700-500x400-22b08q85r613.jpg",
+    "typology": [
+      "architecture",
+      "interactive installation",
+      "SPECTATOR AND SPECTACLE"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T10:50:44.000Z",
+    "ingested_at": "2026-09-18T10:55:19.049Z"
   }
 ]
