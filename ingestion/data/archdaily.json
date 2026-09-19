@@ -30969,5 +30969,39 @@
     "material": [],
     "published_at": "2026-09-19T06:00:00.000Z",
     "ingested_at": "2026-09-19T14:14:26.802Z"
+  },
+  {
+    "id": "1b265b72-9343-4fb6-84e5-6882c267b5bc",
+    "title": "Cayucos Ridge Barn",
+    "creator": "Clayton Korte",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185167/cayucos-ridge-barn-clayton-korte",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/744d/a74d/1200/0125/eec4/newsletter/Caycucos_Ridge_Barn_Casey_Dunn_05.jpg?1789490309",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-19T11:00:00.000Z",
+    "ingested_at": "2026-09-19T17:52:14.340Z"
+  },
+  {
+    "id": "96e88db8-c5e2-4907-9c5a-fb7c5c0c9eda",
+    "title": "Powerwall",
+    "creator": "Studio RAP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185056/powerwall-studio-rap",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/0b77/a74d/1200/0125/e2bb/newsletter/Pim_Top_photographer_StudioRAP_002.jpg?1789397956",
+    "typology": [
+      "Industrial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-19T10:00:00.000Z",
+    "ingested_at": "2026-09-19T17:52:14.341Z"
   }
 ]
