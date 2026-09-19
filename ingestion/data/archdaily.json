@@ -30918,5 +30918,22 @@
     "material": [],
     "published_at": "2026-09-18T13:00:00.000Z",
     "ingested_at": "2026-09-18T21:31:45.208Z"
+  },
+  {
+    "id": "727af729-50d8-4f22-a0aa-9831576bd8fb",
+    "title": "Gandarillas House",
+    "creator": "Jose Pedro Vicente Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185394/gandarillas-house-jose-pedro-vicente-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/7858/a74d/1200/0125/ef08/newsletter/CA_GAN_VIC_20.jpg?1789491336",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-18T19:00:00.000Z",
+    "ingested_at": "2026-09-19T05:36:10.601Z"
   }
 ]
