@@ -30952,5 +30952,22 @@
     "material": [],
     "published_at": "2026-09-19T02:00:00.000Z",
     "ingested_at": "2026-09-19T10:38:09.397Z"
+  },
+  {
+    "id": "ad05530c-2364-425c-b628-d46d0fd084b2",
+    "title": "Climate Experience World Visitor Center",
+    "creator": "DBCO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185116/climate-experience-world-visitor-center-dbco",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec8f/newsletter/09_Klimaerlebniswelt_Oerlinghausen_Patrick_Johannsen_Fotografie_02_Foyer-27.jpg?1789468616",
+    "typology": [
+      "Learning"
+    ],
+    "material": [],
+    "published_at": "2026-09-19T06:00:00.000Z",
+    "ingested_at": "2026-09-19T14:14:26.802Z"
   }
 ]
