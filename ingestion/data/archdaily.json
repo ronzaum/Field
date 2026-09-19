@@ -31003,5 +31003,39 @@
     "material": [],
     "published_at": "2026-09-19T10:00:00.000Z",
     "ingested_at": "2026-09-19T17:52:14.341Z"
+  },
+  {
+    "id": "5801cfc9-c2db-4742-b211-b3264301a6c2",
+    "title": "Phan Chau Trinh Sports Hall",
+    "creator": "scale50",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185207/phan-chau-trinh-sports-hall-scale50",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/6da9/4f64/5201/8803/13c6/newsletter/phan-chau-trinh-sports-hall-scale50_2.jpg?1789554104",
+    "typology": [
+      "Sports Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-19T17:00:00.000Z",
+    "ingested_at": "2026-09-19T22:47:40.977Z"
+  },
+  {
+    "id": "2a882252-44cc-4929-9edd-43574976a3b7",
+    "title": "Cella House",
+    "creator": "iHouse estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185405/cella-house-ihouse-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6aad/c36a/066f/0900/0145/7773/newsletter/IHOUSE_PINAR-0001.jpg?1789773288",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-19T16:00:00.000Z",
+    "ingested_at": "2026-09-19T22:47:40.978Z"
   }
 ]
