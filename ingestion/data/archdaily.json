@@ -31122,5 +31122,39 @@
     "material": [],
     "published_at": "2026-09-20T06:00:00.000Z",
     "ingested_at": "2026-09-20T15:47:06.545Z"
+  },
+  {
+    "id": "637fa08b-404a-4f1a-8ef2-098e322c5359",
+    "title": "La Grieta Pavilion",
+    "creator": "Onda Pavilion + WEYES Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6ab0/1f75/8d91/7901/8920/5a19/newsletter/pabellon-la-grieta-weyes-plus-cedim-onda-pavilion_14.jpg?1789927301",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T16:00:00.000Z",
+    "ingested_at": "2026-09-20T21:20:00.011Z"
+  },
+  {
+    "id": "4dfc1cbf-67c0-4d02-bb58-b07a05096d60",
+    "title": "Technology Park of Luanda",
+    "creator": "Typsa",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e416/newsletter/technology-park-1.jpg?1789414226",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T15:00:00.000Z",
+    "ingested_at": "2026-09-20T21:20:00.011Z"
   }
 ]

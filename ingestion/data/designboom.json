@@ -11323,5 +11323,26 @@
     "material": [],
     "published_at": "2026-09-20T07:45:22.000Z",
     "ingested_at": "2026-09-20T11:01:01.673Z"
+  },
+  {
+    "id": "77c35ef5-2116-412a-a39f-5ba6327161ec",
+    "title": "BIG builds a temporary city for shakira in madrid with reusable structures",
+    "creator": "Bjarke Ingels Group (BIG)",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/big-shakira-temporary-city-madrid-reusable-structures/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-5-500x400-22b08q85r867.jpg",
+    "typology": [
+      "architecture",
+      "architecture in spain",
+      "bjarke ingels group / BIG",
+      "set design",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T21:07:28.000Z",
+    "ingested_at": "2026-09-20T21:20:00.918Z"
   }
 ]
