@@ -31054,5 +31054,22 @@
     "material": [],
     "published_at": "2026-09-19T21:00:00.000Z",
     "ingested_at": "2026-09-20T05:55:00.430Z"
+  },
+  {
+    "id": "e5382489-e15d-4ffc-951e-c280ebed7bd2",
+    "title": "Kingdee Tower",
+    "creator": "HENN",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036942/kingdee-tower-henn",
+    "image_url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/newsletter/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T02:00:00.000Z",
+    "ingested_at": "2026-09-20T11:01:00.704Z"
   }
 ]

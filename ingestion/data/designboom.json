@@ -11301,5 +11301,27 @@
     "material": [],
     "published_at": "2026-09-19T02:10:53.000Z",
     "ingested_at": "2026-09-19T10:38:10.476Z"
+  },
+  {
+    "id": "1551b038-a2d5-4f3f-9abe-fd82d72a0941",
+    "title": "IGArchitects builds tokyo house from field of structural timber walls",
+    "creator": "Masato Igarashi – IGArchitects",
+    "location": "Tokyo",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/igarchitects-tokyo-house-field-structural-timber-walls/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/house-wall-forest-tokyo-japan-igarchitects-timber-walls-designboom-700-500x400-22b08q85r166.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in japan",
+      "architecture in tokyo",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T07:45:22.000Z",
+    "ingested_at": "2026-09-20T11:01:01.673Z"
   }
 ]
