@@ -31071,5 +31071,56 @@
     "material": [],
     "published_at": "2026-09-20T02:00:00.000Z",
     "ingested_at": "2026-09-20T11:01:00.704Z"
+  },
+  {
+    "id": "480e29d2-f920-4485-a8b0-bc9059f6de3c",
+    "title": "Casa Atelier Brasilia",
+    "creator": "NAHE ARCHOTECTS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184906/casa-atelier-brasilia",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/e02d/05b6/9900/01b5/3a95/newsletter/Music_Studio_01___NAHE_ARCHITECTS.jpg?1789059267",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T11:00:00.000Z",
+    "ingested_at": "2026-09-20T15:47:06.544Z"
+  },
+  {
+    "id": "10a0962e-da81-4a0a-9b86-f688819655c8",
+    "title": "The Sound of Wood",
+    "creator": "Antoine Aunave, Flora Peyrot, Mathilde Steenhaut, Luc Loviton",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185117/the-sound-of-wood-antoine-aunave-flora-peyrot-mathilde-steenhaut-luc-loviton",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec7d/newsletter/Le_Bruit_du_Bois__12_sur_26_.jpg?1789468552",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T10:00:00.000Z",
+    "ingested_at": "2026-09-20T15:47:06.545Z"
+  },
+  {
+    "id": "47e85748-f53c-47b6-b901-9b730d5688a6",
+    "title": "The Button - VAVI Manufacturing Facilities and Headquarters",
+    "creator": "Mjölk architekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185255/the-button-vavi-manufacturing-facilities-and-headquarters-mjolk-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/b06c/4f64/5201/8803/1622/newsletter/the-button-vavi-mjolk-architekti_1.jpg?1789571252",
+    "typology": [
+      "Showroom"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T06:00:00.000Z",
+    "ingested_at": "2026-09-20T15:47:06.545Z"
   }
 ]
