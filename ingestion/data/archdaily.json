@@ -31037,5 +31037,22 @@
     "material": [],
     "published_at": "2026-09-19T16:00:00.000Z",
     "ingested_at": "2026-09-19T22:47:40.978Z"
+  },
+  {
+    "id": "1d795c27-bb59-413a-8ed6-88eeba3a52ef",
+    "title": "Bangbae Geunsaeng Neighbourhood Facility",
+    "creator": "aoa architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185199/bangbae-geunsaeng-neighbourhood-facility-aoa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a419/newsletter/IMG_00.jpg?1789549625",
+    "typology": [
+      "Penthouse"
+    ],
+    "material": [],
+    "published_at": "2026-09-19T21:00:00.000Z",
+    "ingested_at": "2026-09-20T05:55:00.430Z"
   }
 ]
