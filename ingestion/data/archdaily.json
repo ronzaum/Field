@@ -31241,5 +31241,56 @@
     "material": [],
     "published_at": "2026-09-21T00:00:00.000Z",
     "ingested_at": "2026-09-21T10:32:39.233Z"
+  },
+  {
+    "id": "d537559e-0ab8-4ed3-bd8d-81417615df73",
+    "title": "Skovsporet 3D-Printed Student Housing",
+    "creator": "SAGA Space Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185046/skovsporet-3d-printed-student-housing-saga-space-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aa7/f3f3/a74d/1200/0125/e238/newsletter/Skovsporet_-_SAGA_Space_Architects_9.jpg?1789391924",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T10:00:00.000Z",
+    "ingested_at": "2026-09-21T16:54:39.375Z"
+  },
+  {
+    "id": "a5b5dbbe-0245-4602-9c35-1b2b19a3e090",
+    "title": "Anir Guest House",
+    "creator": "Tamara Wibowo Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aac/1aa8/8d91/7901/8920/52d1/newsletter/anir-guest-house-tamara-wibowo-architects_28.jpg?1789663970",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T07:00:00.000Z",
+    "ingested_at": "2026-09-21T16:54:39.375Z"
+  },
+  {
+    "id": "bd6c14a0-1e51-40fb-8cfa-c33e053f0aa9",
+    "title": "Educational Facility URSIKS",
+    "creator": "Arhitekti Počivašek Petranovič",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185341/educational-facility-ursiks-arhitekti-pocivasek-petranovic",
+    "image_url": "https://images.adsttc.com/media/images/6aac/7685/d8c8/826c/4437/e899/newsletter/educational-facility-ursiks-arhitekti-pocivasek-petranovic_5.jpg?1789687447",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T06:00:00.000Z",
+    "ingested_at": "2026-09-21T16:54:39.376Z"
   }
 ]
