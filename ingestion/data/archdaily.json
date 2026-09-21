@@ -31173,5 +31173,22 @@
     "material": [],
     "published_at": "2026-09-20T17:00:00.000Z",
     "ingested_at": "2026-09-20T23:59:41.431Z"
+  },
+  {
+    "id": "70607187-6978-4045-8a22-dd950ba28cbf",
+    "title": "Sukoon House",
+    "creator": "tubb",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185342/sukoon-house-tubb",
+    "image_url": "https://images.adsttc.com/media/images/6aac/74e2/8d91/7901/8920/54de/newsletter/sukoon-tubb_7.jpg?1789687064",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T21:00:00.000Z",
+    "ingested_at": "2026-09-21T04:46:01.048Z"
   }
 ]
