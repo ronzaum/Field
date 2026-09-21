@@ -31292,5 +31292,73 @@
     "material": [],
     "published_at": "2026-09-21T06:00:00.000Z",
     "ingested_at": "2026-09-21T16:54:39.376Z"
+  },
+  {
+    "id": "7ccc0200-efc2-4f83-b21e-caa634a41d18",
+    "title": "Cieno House",
+    "creator": "TAC Taller Alberto Calleja",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185476/cieno-house-tac-taller-alberto-calleja",
+    "image_url": "https://images.adsttc.com/media/images/6aad/567e/066f/0900/0145/7657/newsletter/01_-_CC.jpg?1789744818",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T15:00:00.000Z",
+    "ingested_at": "2026-09-21T20:54:25.245Z"
+  },
+  {
+    "id": "dc059fd2-c5cc-4060-bc13-e09fef2fd429",
+    "title": "LILAC",
+    "creator": "BUREAU",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185427/lilac-bureau",
+    "image_url": "https://images.adsttc.com/media/images/6ab0/6418/8d91/7901/8920/5a87/newsletter/lilac-bureau_11.jpg?1789944865",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T13:00:00.000Z",
+    "ingested_at": "2026-09-21T20:54:25.246Z"
+  },
+  {
+    "id": "46752be3-2723-461a-9b68-6354b03676a5",
+    "title": "Kaohsiung Port Terminal",
+    "creator": "RUR Architecture DPC",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185397/kaohsiung-port-terminal-rur-architecture-dpc",
+    "image_url": "https://images.adsttc.com/media/images/6aad/8575/066f/0900/0145/7718/newsletter/Kaohsiung_Port_Terminal_RUR_4693.jpg?1789757197",
+    "typology": [
+      "Port"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T12:00:00.000Z",
+    "ingested_at": "2026-09-21T20:54:25.246Z"
+  },
+  {
+    "id": "91e0e929-8d24-4643-af75-3c190ba6513a",
+    "title": "La Grieta Pavilion",
+    "creator": "Centro de Estudios Superiores de Diseño de Monterrey, CEDIM + WEYES Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185419/la-grieta-pavilion-centro-de-estudios-superiores-de-diseno-de-monterrey-cedim-plus-weyes-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6ab0/1f75/8d91/7901/8920/5a19/newsletter/pabellon-la-grieta-weyes-plus-cedim-onda-pavilion_14.jpg?1789927301",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-09-20T16:00:00.000Z",
+    "ingested_at": "2026-09-21T20:54:25.248Z"
   }
 ]
