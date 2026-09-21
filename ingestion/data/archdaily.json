@@ -31190,5 +31190,56 @@
     "material": [],
     "published_at": "2026-09-20T21:00:00.000Z",
     "ingested_at": "2026-09-21T04:46:01.048Z"
+  },
+  {
+    "id": "b6740a45-7217-44e4-aa40-b5c5a46c82a3",
+    "title": "Tea Boutique at Araksa Tea Garden",
+    "creator": "Simple Architecture + thirteenthree",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185326/tea-boutique-at-araksa-tea-garden-simple-architecture-plus-thirteenthree",
+    "image_url": "https://images.adsttc.com/media/images/6aac/29d6/d8c8/8201/89ac/d11a/newsletter/tea-boutique-at-araksa-tea-garden-simple-architecture-plus-thirteenthree_29.jpg?1789667826",
+    "typology": [
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T03:00:00.000Z",
+    "ingested_at": "2026-09-21T10:32:39.232Z"
+  },
+  {
+    "id": "b404e1cd-b5e5-4401-a247-ffb323272b5e",
+    "title": "House K",
+    "creator": "HGAA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185236/house-k-hgaa",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/a491/1057/6a00/017e/a67b/newsletter/00_DSC05557.jpg?1789568259",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T02:00:00.000Z",
+    "ingested_at": "2026-09-21T10:32:39.233Z"
+  },
+  {
+    "id": "eb1cd1c3-c1e6-4b68-a50a-3521922ae251",
+    "title": "JX Pavilion",
+    "creator": "some",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185351/jx-pavilion-some",
+    "image_url": "https://images.adsttc.com/media/images/6aac/e587/066f/0900/0145/74eb/newsletter/4_DSC_0980_andrew_fu.jpg?1789715864",
+    "typology": [
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "ingested_at": "2026-09-21T10:32:39.233Z"
   }
 ]
