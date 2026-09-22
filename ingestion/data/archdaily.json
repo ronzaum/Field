@@ -31394,5 +31394,22 @@
     "material": [],
     "published_at": "2026-09-21T17:00:00.000Z",
     "ingested_at": "2026-09-21T23:57:35.122Z"
+  },
+  {
+    "id": "12e0d497-c0f0-41d7-b66c-257b94653d47",
+    "title": "Haikou Workers’ Activity Center (Workers’ Cultural Palace)",
+    "creator": "CADG",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185425/haikou-workers-activity-center-workers-cultural-palace-cadg",
+    "image_url": "https://images.adsttc.com/media/images/6ab0/8e6b/8d91/7901/8920/5b09/newsletter/haikou-workers-activity-center-workers-cultural-palace-cadg_6.jpg?1789955743",
+    "typology": [
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T00:00:00.000Z",
+    "ingested_at": "2026-09-22T04:39:53.247Z"
   }
 ]
