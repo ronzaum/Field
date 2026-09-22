@@ -31479,5 +31479,39 @@
     "material": [],
     "published_at": "2026-09-22T06:00:00.000Z",
     "ingested_at": "2026-09-22T14:32:18.175Z"
+  },
+  {
+    "id": "c07418ab-a941-4ce5-877e-581aa909905f",
+    "title": "Ellen Browning Building",
+    "creator": "Hacker Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034319/ellen-browning-building-hacker-architects",
+    "image_url": "https://images.adsttc.com/media/images/68d0/412d/21de/2d62/a98c/feba/newsletter/ellen-browning-building-hacker-architects_1.jpg?1758478667",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "ingested_at": "2026-09-22T18:39:04.895Z"
+  },
+  {
+    "id": "83b4943b-76e6-4abc-94bf-2eb38b7dd28a",
+    "title": "The Gallery House",
+    "creator": "Maden Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183735/the-gallery-house-maden-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a87/db74/4253/0500/01c9/fd52/newsletter/00.jpg?1787288753",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T10:00:00.000Z",
+    "ingested_at": "2026-09-22T18:39:04.896Z"
   }
 ]
