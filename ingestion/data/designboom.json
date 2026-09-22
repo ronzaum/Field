@@ -11448,5 +11448,26 @@
     "material": [],
     "published_at": "2026-09-22T06:15:23.000Z",
     "ingested_at": "2026-09-22T09:44:16.195Z"
+  },
+  {
+    "id": "89bf7f1c-e02c-48ac-be67-a1252912cd32",
+    "title": "apple opens 600-capacity music venue inside london’s battersea power station",
+    "creator": "Iñaki Laguardia",
+    "location": "Battersea Power Station",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/apple-music-venue-london-battersea-power-station/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/apple-music-venue-london-battersea-power-station-designboom-4-copy-500x400-22b08q85r285.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "apple",
+      "architecture in london",
+      "theaters"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T20:11:48.000Z",
+    "ingested_at": "2026-09-22T21:54:15.841Z"
   }
 ]
