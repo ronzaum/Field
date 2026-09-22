@@ -31360,5 +31360,39 @@
     "material": [],
     "published_at": "2026-09-20T16:00:00.000Z",
     "ingested_at": "2026-09-21T20:54:25.248Z"
+  },
+  {
+    "id": "d3fad3ff-4052-4e80-96fe-64c8570c52e0",
+    "title": "La Haya House",
+    "creator": "PH TIPO CASA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185519/la-haya-house-ph-tipo-casa",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/8679/c765/2000/0134/7162/newsletter/Copia_de_08_La_Haya__PH_Tipo_Casa_-___Federico_Cairoli.jpg?1790019306",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T19:00:00.000Z",
+    "ingested_at": "2026-09-21T23:57:35.121Z"
+  },
+  {
+    "id": "29586eeb-1d87-4f27-b127-6eccc5c957d3",
+    "title": "Casa Muxarabi",
+    "creator": "mf+arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185496/casa-muxarabi-mf-plus-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/6cb3/3c90/2a01/8a12/4bb2/newsletter/casa-muxarabi-mf-plus-arquitetos_42.jpg?1790012746",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-21T17:00:00.000Z",
+    "ingested_at": "2026-09-21T23:57:35.122Z"
   }
 ]
