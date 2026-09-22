@@ -31445,5 +31445,39 @@
     "material": [],
     "published_at": "2026-09-22T02:00:00.000Z",
     "ingested_at": "2026-09-22T09:44:15.048Z"
+  },
+  {
+    "id": "ff388ba2-204f-44fb-af64-5ee8cd95cdb9",
+    "title": "Trinity College Lawson Centre for Sustainability",
+    "creator": "Mecanoo + RDHA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185408/trinity-college-lawson-centre-for-sustainability-mecanoo-plus-rdha",
+    "image_url": "https://images.adsttc.com/media/images/6aad/ee70/8d91/7901/8920/593d/newsletter/trinity-college-lawson-centre-for-sustainability-mecanoo-plus-rdha_1.jpg?1789783703",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T07:00:00.000Z",
+    "ingested_at": "2026-09-22T14:32:18.175Z"
+  },
+  {
+    "id": "8ba2c6dd-6034-41a9-b1cc-2fb560b59486",
+    "title": "Floating Sauna",
+    "creator": "DinellJohansson",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184964/floating-sauna-dinelljohansson",
+    "image_url": "https://images.adsttc.com/media/images/6aa4/0cff/7a61/df00/0183/be53/newsletter/09.jpg?1789136154",
+    "typology": [
+      "Sauna"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T06:00:00.000Z",
+    "ingested_at": "2026-09-22T14:32:18.175Z"
   }
 ]
