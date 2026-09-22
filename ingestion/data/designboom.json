@@ -11408,5 +11408,45 @@
     "material": [],
     "published_at": "2026-09-21T23:55:06.000Z",
     "ingested_at": "2026-09-22T04:39:54.166Z"
+  },
+  {
+    "id": "69e62ff6-f7ca-4ba3-b489-fc8fe4471bd9",
+    "title": "gaetano pesce foundation launches to preserve and continue the architect’s practice",
+    "creator": "Alessandro Byther",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gaetano-pesce-foundation-architect-practice/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/gaetano-pesce-foundation-architect-practice-designboom-700-500x400-22b08q85r399.jpg",
+    "typology": [
+      "architecture",
+      "gaetano pesce"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T09:25:10.000Z",
+    "ingested_at": "2026-09-22T09:44:16.186Z"
+  },
+  {
+    "id": "78ef1423-da1e-45c9-8adf-13721e943dac",
+    "title": "persian-red voids carve into villa’s white brick volume in northern iran",
+    "creator": "Nima Mirza Mohamadi",
+    "location": "Iran",
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/persian-red-voids-villa-white-brick-volume-northern-iran-nima-mirza-mohamadi/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/nima-mirza-mohamadi-corner-villa-iran-persian-red-brick-white-designboom-700-500x400-22b08q85r626.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in iran",
+      "brick architecture",
+      "residential architecture and interiors",
+      "rooftop architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T06:15:23.000Z",
+    "ingested_at": "2026-09-22T09:44:16.195Z"
   }
 ]

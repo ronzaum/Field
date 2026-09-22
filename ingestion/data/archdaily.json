@@ -31411,5 +31411,39 @@
     "material": [],
     "published_at": "2026-09-22T00:00:00.000Z",
     "ingested_at": "2026-09-22T04:39:53.247Z"
+  },
+  {
+    "id": "79546652-ccdb-4049-910d-0f4684c43346",
+    "title": "The Kemilau Ubud",
+    "creator": "PSA Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185297/the-kemilau-ubud-psa-studio",
+    "image_url": "https://images.adsttc.com/media/images/6aab/e571/d8c8/8201/89ac/cf10/newsletter/the-kemilau-ubud-psa-studio_21.jpg?1789650318",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T03:00:00.000Z",
+    "ingested_at": "2026-09-22T09:44:15.047Z"
+  },
+  {
+    "id": "a9c97c2e-9e0a-4e67-baec-90adb2501e14",
+    "title": "The Sayla Hotel",
+    "creator": "EKAR Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185238/the-sayla-hotel-ekar-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/12cf/8d91/7901/8920/5c52/newsletter/the-sayla-hotel-ekar-architects_21.jpg?1789989594",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T02:00:00.000Z",
+    "ingested_at": "2026-09-22T09:44:15.048Z"
   }
 ]
