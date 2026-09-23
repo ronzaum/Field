@@ -31581,5 +31581,39 @@
     "material": [],
     "published_at": "2026-09-22T17:00:00.000Z",
     "ingested_at": "2026-09-23T00:11:01.394Z"
+  },
+  {
+    "id": "6ac64b12-5d51-454e-b7fe-70a280adcae1",
+    "title": "Common Nexus University",
+    "creator": "Tetsuo Kobori Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185474/common-nexus-university-tetsuo-kobori-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/554e/3c90/2a01/8a12/4a5a/newsletter/common-nexus-educational-facility-tetsuo-kobori-architects_1.jpg?1790006622",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T03:00:00.000Z",
+    "ingested_at": "2026-09-23T11:10:26.732Z"
+  },
+  {
+    "id": "972111da-c243-482b-9056-c07fedd6af70",
+    "title": "TH+ house",
+    "creator": "ODDO architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185293/th-plus-house-oddo-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aac/2d13/8d91/7901/8920/5406/newsletter/th-plus-house-oddo-architects_23.jpg?1789668676",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T02:00:00.000Z",
+    "ingested_at": "2026-09-23T11:10:26.732Z"
   }
 ]
