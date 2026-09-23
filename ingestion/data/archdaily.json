@@ -31547,5 +31547,39 @@
     "material": [],
     "published_at": "2026-09-22T13:00:00.000Z",
     "ingested_at": "2026-09-22T21:54:14.613Z"
+  },
+  {
+    "id": "2af9e55f-aff9-47d9-baa5-a7e02d069fab",
+    "title": "Casa PM",
+    "creator": "Feliu Vega Kennedy Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185526/casa-pm-feliu-vega-kennedy-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/85d6/c765/2000/0134/7126/newsletter/CASA-PICON-FVK-SURREAL-JAG--3-WEB-RGB.jpg?1790019054",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T19:00:00.000Z",
+    "ingested_at": "2026-09-23T00:11:01.394Z"
+  },
+  {
+    "id": "d726781c-8b01-464b-8b63-4f7da694c54b",
+    "title": "MRD Residence",
+    "creator": "Jacobsen Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034340/mrd-residence-jacobsen-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/68d1/46f5/67a7/a410/dde6/ced3/newsletter/residencia-mrd-jacobsen-arquitetura_1.jpg?1758545665",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-22T17:00:00.000Z",
+    "ingested_at": "2026-09-23T00:11:01.394Z"
   }
 ]
