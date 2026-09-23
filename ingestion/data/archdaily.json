@@ -31615,5 +31615,56 @@
     "material": [],
     "published_at": "2026-09-23T02:00:00.000Z",
     "ingested_at": "2026-09-23T11:10:26.732Z"
+  },
+  {
+    "id": "0866abfc-0bd8-44e4-a7da-1420c0e181ef",
+    "title": "Casa Estelí",
+    "creator": "COLAR Colectivo de Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185507/casa-esteli-colar-colectivo-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6aad/5e0c/d8c8/8201/89ac/d571/newsletter/casa-esteli-colar-colectivo-de-arquitectura_25.jpg?1789746717",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T07:00:00.000Z",
+    "ingested_at": "2026-09-23T16:32:07.189Z"
+  },
+  {
+    "id": "cadd1f59-ee62-4897-9e7b-c5e35307fd63",
+    "title": "Temple Quarter Enterprise Campus",
+    "creator": "Feilden Clegg Bradley Studios",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185449/temple-quarter-enterprise-campus-feilden-clegg-bradley-studios",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/1dea/066f/0900/0145/79bb/newsletter/TQEC__c__Andy_Stagg___7_.jpg?1789992470",
+    "typology": [
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T06:00:00.000Z",
+    "ingested_at": "2026-09-23T16:32:07.189Z"
+  },
+  {
+    "id": "12f9a9c2-1bce-421b-9a67-b0195e415df7",
+    "title": "HEYTEA Craft Store",
+    "creator": "say architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185429/heytea-craft-store-say-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab0/d0ab/066f/0900/0145/7842/newsletter/10_Wen_Studio.jpg?1789972703",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T00:00:00.000Z",
+    "ingested_at": "2026-09-23T16:32:07.190Z"
   }
 ]
