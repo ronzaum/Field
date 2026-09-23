@@ -31666,5 +31666,56 @@
     "material": [],
     "published_at": "2026-09-23T00:00:00.000Z",
     "ingested_at": "2026-09-23T16:32:07.190Z"
+  },
+  {
+    "id": "2da35bc0-853a-4deb-902c-fb6da13ad94c",
+    "title": "Mogno House",
+    "creator": "RB Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185662/mogno-house-rb-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6ab2/9478/7707/e600/01bb/320a/newsletter/Projeto_RB_Arquitetura_-_Mogno_I_Foto_OKA_Fotografia___89__1_.jpg?1790088463",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T13:00:00.000Z",
+    "ingested_at": "2026-09-23T20:03:36.510Z"
+  },
+  {
+    "id": "756f7f83-439e-4c02-ba40-d63afea5b11d",
+    "title": "Shore House",
+    "creator": "Stanley Office of Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033068/shore-house-stanley-office-of-architecture",
+    "image_url": "https://images.adsttc.com/media/images/689c/88f2/65bf/e15a/7e16/3560/newsletter/shore-house-stanley-office-of-architecture_1.jpg?1755089156",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T12:00:00.000Z",
+    "ingested_at": "2026-09-23T20:03:36.510Z"
+  },
+  {
+    "id": "6b54391e-d4ed-4a3c-b4f1-a209055dc3f4",
+    "title": "Multidisciplinary Health Center Bordeaux Dunant",
+    "creator": "Bartolo+Contré",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185369/multidisciplinary-health-center-bordeaux-dunant-bartolo-plus-contre",
+    "image_url": "https://images.adsttc.com/media/images/6aad/2e7a/066f/0900/0145/75b8/newsletter/sandrineiratcabal_2026_BARTOLOCONTRE_MEDICINA_BORDEAUX_WEB-8.jpg?1789734562",
+    "typology": [
+      "healthcare center"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T10:00:00.000Z",
+    "ingested_at": "2026-09-23T20:03:36.511Z"
   }
 ]
