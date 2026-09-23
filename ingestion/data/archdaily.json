@@ -31717,5 +31717,56 @@
     "material": [],
     "published_at": "2026-09-23T10:00:00.000Z",
     "ingested_at": "2026-09-23T20:03:36.511Z"
+  },
+  {
+    "id": "501ddab5-dc34-4fa4-9323-6c3a13fc85e8",
+    "title": "Gaviota House",
+    "creator": "SAA Arquitectura + Territorio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185510/gaviota-house-saa-arquitectura-plus-territorio",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/8637/c765/2000/0134/7142/newsletter/gaviota01.jpg?1790019146",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T19:00:00.000Z",
+    "ingested_at": "2026-09-23T23:29:56.195Z"
+  },
+  {
+    "id": "77d51208-3865-44c4-8606-869c9c59a8ee",
+    "title": "São Sabas College",
+    "creator": "Guido Otero Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1031597/sao-sabas-college-guido-otero-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/685d/ab05/c677/403f/603d/8416/newsletter/escola-sao-sabas-guido-otero-arquitetura_16.jpg?1750969115",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T17:00:00.000Z",
+    "ingested_at": "2026-09-23T23:29:56.195Z"
+  },
+  {
+    "id": "7532b276-942e-4db7-81b2-cf523900a6c6",
+    "title": "Linden House",
+    "creator": "Schemata Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185459/linden-house-schemata-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/459c/3c90/2a01/8a12/49f8/newsletter/linden-house-schemata-architects_28.jpg?1790002607",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-23T15:00:00.000Z",
+    "ingested_at": "2026-09-23T23:29:56.196Z"
   }
 ]
