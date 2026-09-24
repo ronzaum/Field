@@ -31768,5 +31768,56 @@
     "material": [],
     "published_at": "2026-09-23T15:00:00.000Z",
     "ingested_at": "2026-09-23T23:29:56.196Z"
+  },
+  {
+    "id": "50e8712c-c0b0-4b29-a1c9-f613032df787",
+    "title": "STROOG Headquarters",
+    "creator": "MOUNT FUJI ARCHITECTS STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185578/stroog-headquarters-mount-fuji-architects-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ab2/8648/472c/aa01/8aa1/51b9/newsletter/stroog-headquarters-mount-fuji-architects-studio_1.jpg?1790084697",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T03:00:00.000Z",
+    "ingested_at": "2026-09-24T09:47:06.586Z"
+  },
+  {
+    "id": "a38eaf87-afcd-4146-b24f-c7dbf4fce037",
+    "title": "Tianlai Art Museum",
+    "creator": "Mao, Shen-Chiang Architecture Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185463/tianlai-art-museum-mao-shen-chiang-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/4076/c765/2000/0134/6e29/newsletter/Tianlai_Art_Museum__24_.jpg?1790001568",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T02:00:00.000Z",
+    "ingested_at": "2026-09-24T09:47:06.586Z"
+  },
+  {
+    "id": "5029ea6a-6439-45e9-9f8a-c806c1b00391",
+    "title": "the iLOOminate Public Toilet",
+    "creator": "Studio 10",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185629/the-iloominate-public-toilet-studio-10",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/b2de/7707/e600/01bb/363c/newsletter/6-_______________The_single-slope_roof_opens_up_to_the_lush_northern_mountains._____Chao_Zhang.jpg?1790161685",
+    "typology": [
+      "Infrastructure"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "ingested_at": "2026-09-24T09:47:06.586Z"
   }
 ]
