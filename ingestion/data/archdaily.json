@@ -31853,5 +31853,39 @@
     "material": [],
     "published_at": "2026-09-24T06:00:00.000Z",
     "ingested_at": "2026-09-24T14:46:17.123Z"
+  },
+  {
+    "id": "225a98ff-65a1-42a4-8f20-638935273076",
+    "title": "Le Grand-Espace Sherbrooke: A New Cultural Venue",
+    "creator": "Atelier Paul Laurendeau + NEUF architect(e)s",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185692/le-grand-espace-sherbrooke-a-new-cultural-venue-atelier-paul-laurendeau-plus-neuf-architect-e-s",
+    "image_url": "https://images.adsttc.com/media/images/6ab5/1a58/7707/e600/01bb/39cd/newsletter/119476-full_7940-1_119476_sc_v2com.jpg?1790253716",
+    "typology": [
+      "Theaters & Performance"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T12:00:00.000Z",
+    "ingested_at": "2026-09-24T18:55:16.653Z"
+  },
+  {
+    "id": "770e63d1-cb20-4d0d-8c2d-8bf3feb5b1f9",
+    "title": "House Ersland & Skeie",
+    "creator": "Knut Hjeltnes + Francesca Iarrusso, PhD",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184724/house-ersland-and-skeie-knut-hjeltnes-plus-francesca-iarrusso-phd",
+    "image_url": "https://images.adsttc.com/media/images/6a9f/e77b/13b9/4100/01df/6da5/newsletter/House_Ersland___Skeie_-_003___MG_7392-Rediger_.jpg?1788864402",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T10:00:00.000Z",
+    "ingested_at": "2026-09-24T18:55:16.653Z"
   }
 ]
