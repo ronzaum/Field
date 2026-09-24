@@ -31887,5 +31887,56 @@
     "material": [],
     "published_at": "2026-09-24T10:00:00.000Z",
     "ingested_at": "2026-09-24T18:55:16.653Z"
+  },
+  {
+    "id": "27dbca00-aa7e-4952-a11f-fb0917562a5a",
+    "title": "Bosque House",
+    "creator": "FGMF",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033146/bosque-house-fgmf",
+    "image_url": "https://images.adsttc.com/media/images/689d/0c13/07ae/344a/64ec/e916/newsletter/casa-bosque-fgmf_24.jpg?1755122773",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T17:00:00.000Z",
+    "ingested_at": "2026-09-24T22:09:37.958Z"
+  },
+  {
+    "id": "51c4e207-0ebc-4f13-992c-4715fbdca7bf",
+    "title": "A House with One Hundred Pines",
+    "creator": "Luis Barandiarán",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/fc69/7707/e600/01bb/3814/newsletter/1.jpg?1790180516",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T15:00:00.000Z",
+    "ingested_at": "2026-09-24T22:09:37.959Z"
+  },
+  {
+    "id": "4b05344d-b773-4b25-b1ef-98e113b83232",
+    "title": "Butantã House",
+    "creator": "André Guerra Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185703/butanta-house-andre-guerra-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/ccd3/7707/e600/01bb/3715/newsletter/05_Camila_Alba_Andr__WEB-2.jpg?1790168327",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T13:00:00.000Z",
+    "ingested_at": "2026-09-24T22:09:37.959Z"
   }
 ]
