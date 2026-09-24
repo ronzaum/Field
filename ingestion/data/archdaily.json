@@ -31819,5 +31819,39 @@
     "material": [],
     "published_at": "2026-09-24T00:00:00.000Z",
     "ingested_at": "2026-09-24T09:47:06.586Z"
+  },
+  {
+    "id": "0df489d3-8df1-42d5-8224-d35d0876248c",
+    "title": "KINSHASA Zando Central Market",
+    "creator": "THINK TANK architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185165/kinshasa-zando-central-market-think-tank-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6aa9/6f6b/c1eb/5301/897f/22f3/newsletter/kinshasa-zando-central-market-think-tank-architecture_7.jpg?1789489020",
+    "typology": [
+      "Market"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T07:00:00.000Z",
+    "ingested_at": "2026-09-24T14:46:17.123Z"
+  },
+  {
+    "id": "71167fa1-dc15-49b8-a2ec-4aed13e633b0",
+    "title": "Arcipressi Residence",
+    "creator": "bucci quentin",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185107/arcipressi",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebc3/newsletter/fv-036-24-013.jpg?1789457862",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T06:00:00.000Z",
+    "ingested_at": "2026-09-24T14:46:17.123Z"
   }
 ]
