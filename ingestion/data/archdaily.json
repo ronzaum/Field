@@ -31989,5 +31989,22 @@
     "material": [],
     "published_at": "2026-09-24T19:00:00.000Z",
     "ingested_at": "2026-09-25T07:25:47.186Z"
+  },
+  {
+    "id": "7c6d6e0f-3c1d-4da2-ac48-885714cd49b6",
+    "title": "House of Emptiness",
+    "creator": "IGArchitects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185631/house-of-emptiness-igarchitects",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/c0ce/e78f/b301/883c/f0e7/newsletter/house-of-emptiness-igarchitects_18.jpg?1790165222",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T03:00:00.000Z",
+    "ingested_at": "2026-09-25T13:28:25.346Z"
   }
 ]

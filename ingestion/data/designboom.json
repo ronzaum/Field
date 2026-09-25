@@ -11555,5 +11555,24 @@
     "material": [],
     "published_at": "2026-09-24T15:15:09.000Z",
     "ingested_at": "2026-09-24T18:55:17.807Z"
+  },
+  {
+    "id": "b407d955-ad2d-4d04-badb-fe336ccc1775",
+    "title": "the flâneur and the birth of the modern urban spectator",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/flaneur-birth-modern-urban-spectator/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/flaneur-birth-modern-urban-spectator-designboom-700-500x400-22b08q85r921.jpg",
+    "typology": [
+      "architecture",
+      "masterplans and urban revitalization",
+      "SPECTATOR AND SPECTACLE"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T10:50:29.000Z",
+    "ingested_at": "2026-09-25T13:28:26.626Z"
   }
 ]

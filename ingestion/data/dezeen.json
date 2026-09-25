@@ -1509,5 +1509,28 @@
     "material": [],
     "published_at": "2026-09-22T09:00:24.000Z",
     "ingested_at": "2026-09-22T14:32:18.375Z"
+  },
+  {
+    "id": "e4e0de34-c1a0-4ebe-9aa1-56317b2334ca",
+    "title": "London home renovation",
+    "creator": "Polysmiths uses \"light as the primary material\"",
+    "location": "Polysmiths",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
+    "image_url": "http://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "British houses",
+      "London houses",
+      "London house extensions",
+      "London",
+      "Residential architecture and interiors",
+      "Residential extensions"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T10:30:03.000Z",
+    "ingested_at": "2026-09-25T13:28:25.627Z"
   }
 ]
