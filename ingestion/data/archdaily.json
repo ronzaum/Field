@@ -31938,5 +31938,56 @@
     "material": [],
     "published_at": "2026-09-24T13:00:00.000Z",
     "ingested_at": "2026-09-24T22:09:37.959Z"
+  },
+  {
+    "id": "afeadeed-c02d-436b-9b04-9a1760f4f66b",
+    "title": "Terràvue Residence",
+    "creator": "Fictive Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185595/terravue-residence-fictive-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab2/a396/7707/e600/01bb/3252/newsletter/A7403437.jpg?1790092322",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T02:00:00.000Z",
+    "ingested_at": "2026-09-25T07:25:47.186Z"
+  },
+  {
+    "id": "533d8206-3813-40c0-aa84-81560f663be8",
+    "title": "Changbai Foothill Antler Restaurant",
+    "creator": "Origin Architect",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185630/changbai-foothill-antler-restaurant-origin-architect",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/b2f4/7707/e600/01bb/3664/newsletter/B2-____.jpg?1790161698",
+    "typology": [
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T00:00:00.000Z",
+    "ingested_at": "2026-09-25T07:25:47.186Z"
+  },
+  {
+    "id": "d9350b60-f708-4506-acb6-d9130c2178a6",
+    "title": "Berna House",
+    "creator": "Hiro Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185734/berna-house-hiro-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/8876/c765/2000/0134/71a2/newsletter/_FDM9027-HDR-Editar-Editar.jpg?1790020428",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-24T19:00:00.000Z",
+    "ingested_at": "2026-09-25T07:25:47.186Z"
   }
 ]
