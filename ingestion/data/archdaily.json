@@ -32006,5 +32006,90 @@
     "material": [],
     "published_at": "2026-09-25T03:00:00.000Z",
     "ingested_at": "2026-09-25T13:28:25.346Z"
+  },
+  {
+    "id": "63bfca86-c9b1-48b2-8089-ccfefb6a8732",
+    "title": "Jeronimo Faria Lima Building",
+    "creator": "Perkins&Will São Paulo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo",
+    "image_url": "https://images.adsttc.com/media/images/6ab5/8028/e944/b300/0137/38ff/newsletter/_08A1905-Pano_copyright_manuel_sa_copiar.jpg?1790279779",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T13:00:00.000Z",
+    "ingested_at": "2026-09-25T22:07:05.831Z"
+  },
+  {
+    "id": "fd6c21e1-bf7f-47b1-8a4c-e1dd36660e13",
+    "title": "Panorama House",
+    "creator": "Studio B Architecture + Interiors",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1029465/panorama-house-studio-b-architecture-plus-interiors",
+    "image_url": "https://images.adsttc.com/media/images/680a/6579/f96c/a300/0183/cdca/newsletter/Studio_B_Flagstaff_Finals_Web-Res_02.jpg?1745511823",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T12:00:00.000Z",
+    "ingested_at": "2026-09-25T22:07:05.831Z"
+  },
+  {
+    "id": "bb1fed64-7eab-4e15-b4a5-7c0e800504f5",
+    "title": "Corte Renèe Resort",
+    "creator": "Bricolo Falsarella",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184620/corte-renee-resort-bricolo-falsarella",
+    "image_url": "https://images.adsttc.com/media/images/6a9d/6c10/15d8/6f00/01a2/f3fc/newsletter/05_Pietro_Savorelli_Corte_Renee_BF.jpg?1788701773",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T10:00:00.000Z",
+    "ingested_at": "2026-09-25T22:07:05.831Z"
+  },
+  {
+    "id": "950478bc-606f-48c6-ba67-aab84b4e71c8",
+    "title": "Résidence Lourmel",
+    "creator": "MARS Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185535/residence-lourmel-mars-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6ab2/484b/325b/9100/01c4/5e4d/newsletter/28---MARS-Architectes---R_sidence-_tudiante---Paris-XV---_-Charly-Broyez_HD.jpg?1790068934",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T07:00:00.000Z",
+    "ingested_at": "2026-09-25T22:07:05.831Z"
+  },
+  {
+    "id": "baf1b5e3-ecf8-4b52-abc6-5c469da4bddf",
+    "title": "V Penthouse",
+    "creator": "Merckx-Holvoet Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184621/v-penthouse-merckx-holvoet-architects",
+    "image_url": "https://images.adsttc.com/media/images/6a9d/6c5a/15d8/6f00/01a2/f424/newsletter/8_2540-MerckxHolvoet_VPenthouse-270-HiRes.jpg?1788701820",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T06:00:00.000Z",
+    "ingested_at": "2026-09-25T22:07:05.831Z"
   }
 ]
