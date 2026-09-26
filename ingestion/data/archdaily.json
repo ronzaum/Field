@@ -32210,5 +32210,22 @@
     "material": [],
     "published_at": "2026-09-26T06:00:00.000Z",
     "ingested_at": "2026-09-26T16:58:30.567Z"
+  },
+  {
+    "id": "f69c3630-d516-4996-bee6-d3d06f2045b1",
+    "title": "Vila Marebo",
+    "creator": "Frederico Zanelato | Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185857/vila-marebo-frederico-zanelato-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/be13/5355/6000/01b4/aace/newsletter/FACHADAPOSTERIOR00.jpg?1790361196",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-26T13:00:00.000Z",
+    "ingested_at": "2026-09-26T19:43:02.556Z"
   }
 ]
