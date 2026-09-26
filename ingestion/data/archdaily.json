@@ -32091,5 +32091,56 @@
     "material": [],
     "published_at": "2026-09-25T06:00:00.000Z",
     "ingested_at": "2026-09-25T22:07:05.831Z"
+  },
+  {
+    "id": "b22e4efb-c6a5-448c-a332-aae767c46c83",
+    "title": "PH Olaguer",
+    "creator": "CDC ARQ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185861/ph-olaguer-cdc-arq",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/fca6/7707/e600/01bb/3841/newsletter/CDC-Saberian-7219.jpg?1790180584",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T19:00:00.000Z",
+    "ingested_at": "2026-09-26T07:20:55.985Z"
+  },
+  {
+    "id": "020fab39-cb7a-4668-8661-b8ff97251d43",
+    "title": "Residência em Campos do Jordão",
+    "creator": "Gil Mello Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185725/residencia-em-campos-do-jordao-gil-mello-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6ab5/7dc0/e944/b300/0137/38eb/newsletter/ok_02.jpg?1790279273",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T17:00:00.000Z",
+    "ingested_at": "2026-09-26T07:20:55.986Z"
+  },
+  {
+    "id": "794a5b6f-1439-4841-9b5e-ce2faec0fa29",
+    "title": "Villas Raices",
+    "creator": "Vince Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185791/villas-raices-vince-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/68ec/8869/1701/89c2/d504/newsletter/villas-raices-vince-studio_5.jpg?1790339327",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-25T15:00:00.000Z",
+    "ingested_at": "2026-09-26T07:20:55.986Z"
   }
 ]
