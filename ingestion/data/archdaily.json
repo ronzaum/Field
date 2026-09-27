@@ -32346,5 +32346,39 @@
     "material": [],
     "published_at": "2026-09-27T06:00:00.000Z",
     "ingested_at": "2026-09-27T18:10:40.749Z"
+  },
+  {
+    "id": "fb10ee84-7091-4d80-bace-4222f61ce0f4",
+    "title": "Jordnära Cafe & PHOMI Showroom",
+    "creator": "Ady Putra Architect Design Firm",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/812a/24f6/1700/013b/f38d/newsletter/IMG_9262.jpg?1790345574",
+    "typology": [
+      "Showroom"
+    ],
+    "material": [],
+    "published_at": "2026-09-27T17:00:00.000Z",
+    "ingested_at": "2026-09-27T21:56:22.881Z"
+  },
+  {
+    "id": "2973fd38-1627-401d-aa1e-e9454eebd363",
+    "title": "Office 101 Casa Andina",
+    "creator": "Caliza Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c2/newsletter/15_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019886",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-27T16:00:00.000Z",
+    "ingested_at": "2026-09-27T21:56:22.881Z"
   }
 ]
