@@ -32312,5 +32312,39 @@
     "material": [],
     "published_at": "2026-09-26T15:00:00.000Z",
     "ingested_at": "2026-09-27T07:52:31.247Z"
+  },
+  {
+    "id": "f4fa91f2-362e-46ab-ad0e-4459b2d120f8",
+    "title": "House of People",
+    "creator": "DinellJohansson",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson",
+    "image_url": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e127/newsletter/FOLKETS_HUS_8_Victor_Johansson.jpg?1789380647",
+    "typology": [
+      "Cultural Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-27T10:00:00.000Z",
+    "ingested_at": "2026-09-27T18:10:40.749Z"
+  },
+  {
+    "id": "4e6514b3-9564-49b5-9f6d-a258f7df4d6a",
+    "title": "auruBOROS - Urban Memory and Collective Dream",
+    "creator": "Plastique Fantastique",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique",
+    "image_url": "https://images.adsttc.com/media/images/6aaa/63f3/1057/6a00/017e/a466/newsletter/SP_auruBOROS_11_arch.jpg?1789551624",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-09-27T06:00:00.000Z",
+    "ingested_at": "2026-09-27T18:10:40.749Z"
   }
 ]
