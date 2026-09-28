@@ -32414,5 +32414,73 @@
     "material": [],
     "published_at": "2026-09-27T21:00:00.000Z",
     "ingested_at": "2026-09-28T06:31:37.974Z"
+  },
+  {
+    "id": "bf3139e2-0df2-4bb7-b4d1-8289e9b38592",
+    "title": "Pavilia Farm Clubhouses",
+    "creator": "Snøhetta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
+    "image_url": "https://images.adsttc.com/media/images/6aba/383c/df03/a301/88d4/b12b/newsletter/pavilia-farm-clubhouses-snohetta_14.jpg?1790589244",
+    "typology": [
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T07:00:00.000Z",
+    "ingested_at": "2026-09-28T15:10:39.823Z"
+  },
+  {
+    "id": "03e61a87-3066-481c-b7a3-60d3103c8906",
+    "title": "Community Center Gamlitz",
+    "creator": "Gangoly & Kristiner Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185754/community-center-gamlitz-gangoly-and-kristiner-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/47d9/e944/b300/0137/3ac2/newsletter/Haus_der_Vereine-12.jpg?1790330871",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T06:00:00.000Z",
+    "ingested_at": "2026-09-28T15:10:39.823Z"
+  },
+  {
+    "id": "87d3cf65-faf1-479f-97cf-3711f4ad9f8e",
+    "title": "Home for Dependent People",
+    "creator": "SV60 Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185516/home-for-dependent-people-sv60-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/8a61/325b/9100/01c4/5d98/newsletter/17-JG1271-026.jpg?1790020237",
+    "typology": [
+      "healthcare center"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T03:00:00.000Z",
+    "ingested_at": "2026-09-28T15:10:39.823Z"
+  },
+  {
+    "id": "5090f9cf-67a5-4029-ac41-71d1ba13a5d5",
+    "title": "Az-Boroun Villa",
+    "creator": "CROSSARCHITECTURE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185815/az-boroun-villa-crossarchitecture",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/78d5/e944/b300/0137/3d72/newsletter/01.jpg?1790343450",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T02:00:00.000Z",
+    "ingested_at": "2026-09-28T15:10:39.824Z"
   }
 ]
