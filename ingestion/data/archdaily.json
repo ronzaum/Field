@@ -32482,5 +32482,73 @@
     "material": [],
     "published_at": "2026-09-28T02:00:00.000Z",
     "ingested_at": "2026-09-28T15:10:39.824Z"
+  },
+  {
+    "id": "fb06f00e-8743-4aea-9c6e-3f5423b25bd5",
+    "title": "Finch Bay Hotel",
+    "creator": "Alfredo Ribadeneira Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185929/finch-bay-hotel-alfredo-ribadeneira-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aba/96c9/0762/9c00/01cf/e728/newsletter/BICUBIK_0090.jpg?1790613247",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T15:00:00.000Z",
+    "ingested_at": "2026-09-28T21:43:53.000Z"
+  },
+  {
+    "id": "867d8d8f-89f0-49b7-951c-c3902882ec6c",
+    "title": "Melides MG House",
+    "creator": "Pereira Miguel Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185847/melides-mg-house-pereira-miguel-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/b8c2/5355/6000/01b4/aa49/newsletter/MELIDES_MG_LOW-2.jpg?1790359760",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T13:00:00.000Z",
+    "ingested_at": "2026-09-28T21:43:53.000Z"
+  },
+  {
+    "id": "93424435-c8af-46c0-ab0d-8853d966fb04",
+    "title": "Koto Niwa Cabin",
+    "creator": "Koto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1029387/koto-niwa-cabin-koto",
+    "image_url": "https://images.adsttc.com/media/images/6808/1530/5bb0/0401/8564/80cc/newsletter/koto-niwa-koto_1.jpg?1745360186",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T12:00:00.000Z",
+    "ingested_at": "2026-09-28T21:43:53.000Z"
+  },
+  {
+    "id": "55d51016-c7d9-4bde-9d11-73d242b613dc",
+    "title": "LifeScience Incubator, Villejuif",
+    "creator": "Baumschlager Eberle Architekten + SAME architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185665/lifescience-incubator-villejuif-baumschlager-eberle-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6ab4/0b52/59bf/5a01/8bd6/83d1/newsletter/lifescience-incubator-villejuif-baumschlager-eberle-architekten_20.jpg?1790184290",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T10:00:00.000Z",
+    "ingested_at": "2026-09-28T21:43:53.001Z"
   }
 ]

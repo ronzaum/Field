@@ -11643,5 +11643,26 @@
     "material": [],
     "published_at": "2026-09-27T14:15:10.000Z",
     "ingested_at": "2026-09-27T18:10:41.868Z"
+  },
+  {
+    "id": "d15be037-d01c-4e70-928c-6ffaea588ab1",
+    "title": "volunteers in thailand hand-build school toilet from reclaimed wood",
+    "creator": "SEP",
+    "location": "Suphanburi Province",
+    "country": "Thailand",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/volunteer-camp-thailand-school-toilet-reclaimed-wood-sep/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/school-thailand-volunteers-toilet-designboom-700-1-500x400-22b08q85r330.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in thailand",
+      "public toilets",
+      "school architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T15:15:01.000Z",
+    "ingested_at": "2026-09-28T21:43:54.032Z"
   }
 ]
