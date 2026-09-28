@@ -32380,5 +32380,39 @@
     "material": [],
     "published_at": "2026-09-27T16:00:00.000Z",
     "ingested_at": "2026-09-27T21:56:22.881Z"
+  },
+  {
+    "id": "935f8a9c-a9df-4343-ad14-206b881929cc",
+    "title": "Yuelang Road Block Comprehensive Quality Enhancement",
+    "creator": "TJAD Original Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185737/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ab5/ef76/8869/1701/89c2/d342/newsletter/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_15.jpg?1790308296",
+    "typology": [
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T00:00:00.000Z",
+    "ingested_at": "2026-09-28T06:31:37.974Z"
+  },
+  {
+    "id": "b281192c-b55e-41c6-a64e-eb9c4765eb8a",
+    "title": "Ashjar Cafe",
+    "creator": "Studio Ahmed Aldossary",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185816/ashjar-cafe-studio-ahmed-aldossary",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/792f/e944/b300/0137/3d93/newsletter/Ashjar_Cafe-2.jpg?1790343497",
+    "typology": [
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-09-27T21:00:00.000Z",
+    "ingested_at": "2026-09-28T06:31:37.974Z"
   }
 ]
