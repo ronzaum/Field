@@ -32550,5 +32550,39 @@
     "material": [],
     "published_at": "2026-09-28T10:00:00.000Z",
     "ingested_at": "2026-09-28T21:43:53.001Z"
+  },
+  {
+    "id": "d5225530-9283-4c2e-b785-7a161b573545",
+    "title": "Son Llodrà House: Merge into the Landscape",
+    "creator": "Bastidas Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6aba/d870/aa74/a600/0152/00d8/newsletter/bastidas-architecture-CT_by-_medseastudio-HR.jpg?1790630046",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T19:00:00.000Z",
+    "ingested_at": "2026-09-29T01:39:32.733Z"
+  },
+  {
+    "id": "55a08e40-2903-465d-97fd-e21cbc6ce77f",
+    "title": "Rice Husk House",
+    "creator": "SUMMARY",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185918/rice-husk-house-summary",
+    "image_url": "https://images.adsttc.com/media/images/6aba/7466/5c4d/8600/0165/6dd6/newsletter/e4d1b3bb-image.jpg?1790604546",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-28T17:00:00.000Z",
+    "ingested_at": "2026-09-29T01:39:32.734Z"
   }
 ]
