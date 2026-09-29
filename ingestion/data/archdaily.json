@@ -32584,5 +32584,56 @@
     "material": [],
     "published_at": "2026-09-28T17:00:00.000Z",
     "ingested_at": "2026-09-29T01:39:32.734Z"
+  },
+  {
+    "id": "4ce48dd9-2fe8-4cbc-83af-bc8e5a501f32",
+    "title": "Brick on Sticks Retail Store",
+    "creator": "DOT BOT STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185580/brick-on-sticks-retail-store",
+    "image_url": "https://images.adsttc.com/media/images/6ab2/850d/325b/9100/01c4/6006/newsletter/5.jpg?1790084411",
+    "typology": [
+      "Showroom"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T03:00:00.000Z",
+    "ingested_at": "2026-09-29T08:10:48.865Z"
+  },
+  {
+    "id": "4dcb388f-5b9a-4353-87ed-5918d4e31b70",
+    "title": "Casa Piva",
+    "creator": "B.E Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185828/casa-piva-be-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6aba/735c/701b/1e01/88c7/a087/newsletter/casa-piva-be-architecture_32.jpg?1790604136",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T02:00:00.000Z",
+    "ingested_at": "2026-09-29T08:10:48.865Z"
+  },
+  {
+    "id": "30210980-acec-4d5c-8f77-53e8b3437296",
+    "title": "Aranya Youyi Bay Community Regeneration",
+    "creator": "genarchitects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185755/aranya-youyi-bay-community-regeneration-genarchitects",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/830f/7a66/c501/8bc5/700b/newsletter/aranya-youyi-bay-community-regeneration-genarchitects_8.jpg?1790346026",
+    "typology": [
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T00:00:00.000Z",
+    "ingested_at": "2026-09-29T08:10:48.866Z"
   }
 ]
