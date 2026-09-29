@@ -32635,5 +32635,39 @@
     "material": [],
     "published_at": "2026-09-29T00:00:00.000Z",
     "ingested_at": "2026-09-29T08:10:48.866Z"
+  },
+  {
+    "id": "cc71a4a4-1f57-4157-97d7-a65a7986d5ab",
+    "title": "The House of Continum",
+    "creator": "Squelette Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185817/the-house-of-continum-squelette-design",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/7a05/e944/b300/0137/3dc0/newsletter/E_PHX4362_FS.jpg?1790343790",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T07:00:00.000Z",
+    "ingested_at": "2026-09-29T15:34:06.207Z"
+  },
+  {
+    "id": "e8a896d7-2604-4aa1-a851-635db8d9af97",
+    "title": "Modular House with a Sloping Facade",
+    "creator": "Papundekl Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185668/modular-house-with-a-sloping-facade-papundekl-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab4/7aab/e78f/b301/883c/f3a1/newsletter/modular-house-with-a-sloping-facade-papundekl-architects_24.jpg?1790212799",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T06:00:00.000Z",
+    "ingested_at": "2026-09-29T15:34:06.207Z"
   }
 ]

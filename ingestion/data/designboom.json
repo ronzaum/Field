@@ -11664,5 +11664,46 @@
     "material": [],
     "published_at": "2026-09-28T15:15:01.000Z",
     "ingested_at": "2026-09-28T21:43:54.032Z"
+  },
+  {
+    "id": "c9b820df-16f6-4b14-aa55-92936a6e80a0",
+    "title": "from 1960s radical design to berlin’s concrete bunkers: a history of nightlife spaces",
+    "creator": "Studio65. © Paolo Mussat Sartor",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/1960s-radical-design-berlin-concrete-bunkers-history-nightlife-spaces-nightclubs/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/1960s-radical-design-berlin-concrete-bunkers-history-nightlife-spaces-nightclubs-designboom-700-500x400-22b08q85r807.jpg",
+    "typology": [
+      "architecture",
+      "exhibitions",
+      "SPECTATOR AND SPECTACLE"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T10:50:50.000Z",
+    "ingested_at": "2026-09-29T15:34:07.258Z"
+  },
+  {
+    "id": "890452b0-2110-42ac-9c6f-503b8274b3fe",
+    "title": "LANG’s los angeles flagship layers fragments of hong kong into a former warehouse",
+    "creator": "Studio Paul Chan",
+    "location": "ROW DTLA",
+    "country": "United States",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lang-los-angeles-flagship-fragments-hong-kong-former-warehouse-studio-paul-chan/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/lang-los-angeles-flagship-fragments-hong-kong-former-warehouse-studio-paul-chan-designboom-700-500x400-22b08q85r777.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in california",
+      "architecture in los angeles",
+      "renovation and restoration architecture and design",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T09:25:36.000Z",
+    "ingested_at": "2026-09-29T15:34:07.267Z"
   }
 ]
