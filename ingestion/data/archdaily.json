@@ -32669,5 +32669,73 @@
     "material": [],
     "published_at": "2026-09-29T06:00:00.000Z",
     "ingested_at": "2026-09-29T15:34:06.207Z"
+  },
+  {
+    "id": "a60bdabc-95ef-4bff-8248-9594ebf47908",
+    "title": "Fuente de Piedra #45",
+    "creator": "Feliu Vega Kennedy Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185934/fuente-de-piedra-number-45-feliu-vega-kennedy-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ab1/85cf/c765/2000/0134/7102/newsletter/APTO-SAN-IGNASIO-FVK-9343-WEB-RGB.jpg?1790019063",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T15:00:00.000Z",
+    "ingested_at": "2026-09-29T20:35:16.949Z"
+  },
+  {
+    "id": "34c2931d-6ee3-452d-8924-7a0db25203ef",
+    "title": "El Muro Pavilion",
+    "creator": "ARQLIQ arquitetura + Entremeios Arquitetura + Márcio Flávio Motta + Ismael Torrano",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185952/el-muro-pavilion-arqliq-arquitetura-plus-entremeios-arquitetura-plus-marcio-flavio-motta-plus-ismael-torrano",
+    "image_url": "https://images.adsttc.com/media/images/6abb/05ee/3bc5/c600/01c9/5305/newsletter/DJI_20260919090950_0010_D.jpg?1790641683",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T13:00:00.000Z",
+    "ingested_at": "2026-09-29T20:35:16.950Z"
+  },
+  {
+    "id": "b6581b2d-3b34-4dfa-88bf-7c6b61d4397e",
+    "title": "Garner Residence",
+    "creator": "Davey McEathron Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1029095/garner-residence-davey-mceathron-architecture",
+    "image_url": "https://images.adsttc.com/media/images/67fd/a0ab/8fdd/da01/899e/435e/newsletter/garner-residence-davey-mceathron-architecture_9.jpg?1744675011",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T12:00:00.000Z",
+    "ingested_at": "2026-09-29T20:35:16.950Z"
+  },
+  {
+    "id": "98dcbe0a-ea98-4ad9-b9e8-46466f982f39",
+    "title": "The Temple",
+    "creator": "Skuli Mogensen",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1183988/the-temple-skuli-mogensen",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/7684/4253/0500/01ca/0c64/newsletter/entrance__1_.jpg?1787721450",
+    "typology": [
+      "Chapel"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T10:00:00.000Z",
+    "ingested_at": "2026-09-29T20:35:16.950Z"
   }
 ]
