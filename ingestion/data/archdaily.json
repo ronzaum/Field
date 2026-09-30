@@ -32754,5 +32754,22 @@
     "material": [],
     "published_at": "2026-09-29T17:00:00.000Z",
     "ingested_at": "2026-09-30T00:12:35.154Z"
+  },
+  {
+    "id": "09ff52f1-611e-4d28-82ba-a05f6f47a55c",
+    "title": "Rio house",
+    "creator": "bracamonteyerba",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185930/rio-house",
+    "image_url": "https://images.adsttc.com/media/images/6aba/9890/0762/9c00/01cf/e749/newsletter/schapochnik_544_campochico_195_MEDIA.jpg?1790613768",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T19:00:00.000Z",
+    "ingested_at": "2026-09-30T06:28:33.879Z"
   }
 ]

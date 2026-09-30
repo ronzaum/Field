@@ -11726,5 +11726,45 @@
     "material": [],
     "published_at": "2026-09-29T14:55:44.000Z",
     "ingested_at": "2026-09-29T20:35:17.865Z"
+  },
+  {
+    "id": "3caddbdf-a521-4e26-9435-f6fd69207f07",
+    "title": "LACMA exhibition revisits the strange, utopian homes once built for the future",
+    "creator": "kat barandy",
+    "location": "Resnick Pavilion",
+    "country": "Los Angeles",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/lacma-exhibition-strange-optimistic-homes-future-domestic-utopian/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/LACMA-home-future-exhibition-designboom-700-500x400-22b08q85r223.jpg",
+    "typology": [
+      "architecture",
+      "exhibitions",
+      "LACMA"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T06:15:37.000Z",
+    "ingested_at": "2026-09-30T06:28:35.707Z"
+  },
+  {
+    "id": "13918ed7-e001-4441-9d9a-4f71e0074404",
+    "title": "settle movable furniture installation forms temporary public interior in ireland",
+    "creator": "TRESTLE",
+    "location": "St Luke’s crypt",
+    "country": "Ireland",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/settle-movable-furniture-installation-temporary-public-interior-ireland-trestle/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/settle-temporary-installation-trestle-public-interior-gathering-designboom-700-500x400-22b08q85r040.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in ireland",
+      "interactive installation",
+      "public art"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T02:10:39.000Z",
+    "ingested_at": "2026-09-30T06:28:35.713Z"
   }
 ]
