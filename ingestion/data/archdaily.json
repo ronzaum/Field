@@ -32856,5 +32856,56 @@
     "material": [],
     "published_at": "2026-09-30T00:00:00.000Z",
     "ingested_at": "2026-09-30T13:29:18.541Z"
+  },
+  {
+    "id": "d2e7d493-a62a-43a4-85a6-bdf7ca4058a9",
+    "title": "Matriz House",
+    "creator": "Estúdio Zargos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185997/matriz-house-estudio-zargos",
+    "image_url": "https://images.adsttc.com/media/images/6aba/7066/5c4d/8600/0165/6cd4/newsletter/Est_dio_Zargos_-_Casa_Matriz_-_Manuel_S___34_.jpg?1790603463",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T13:00:00.000Z",
+    "ingested_at": "2026-09-30T18:59:00.265Z"
+  },
+  {
+    "id": "16c090d3-00cd-449e-82da-945729349130",
+    "title": "SHED/HOUSE",
+    "creator": "Side Angle Side",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1029675/shed-house-side-angle-side",
+    "image_url": "https://images.adsttc.com/media/images/6814/0912/4ea2/d901/8b37/1774/newsletter/shed-house-side-angle-side_24.jpg?1746143526",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T12:00:00.000Z",
+    "ingested_at": "2026-09-30T18:59:00.265Z"
+  },
+  {
+    "id": "c4aefd09-9bf3-4ae3-9ba0-0bede6512f21",
+    "title": "House at the Top of the Hill",
+    "creator": "Skupaj Arhitekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185892/house-at-the-top-of-the-hill-skupaj-arhitekti",
+    "image_url": "https://images.adsttc.com/media/images/6aba/4148/5c4d/8600/0165/6c2c/newsletter/House-at-the-Top-of-the-Hill_photo_Ana-Skobe-_3_.jpg?1790591320",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T10:00:00.000Z",
+    "ingested_at": "2026-09-30T18:59:00.266Z"
   }
 ]
