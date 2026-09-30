@@ -32737,5 +32737,22 @@
     "material": [],
     "published_at": "2026-09-29T10:00:00.000Z",
     "ingested_at": "2026-09-29T20:35:16.950Z"
+  },
+  {
+    "id": "f8564c91-b246-436a-a8f5-71930101f166",
+    "title": "House JF",
+    "creator": "AAA_Azevedo Agência de Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185914/house-jf-aaa-azevedo-agencia-de-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6aba/712d/5c4d/8600/0165/6d1e/newsletter/21.jpg?1790603598",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-29T17:00:00.000Z",
+    "ingested_at": "2026-09-30T00:12:35.154Z"
   }
 ]
