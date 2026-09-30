@@ -11812,5 +11812,26 @@
     "material": [],
     "published_at": "2026-09-30T09:25:54.000Z",
     "ingested_at": "2026-09-30T13:29:19.706Z"
+  },
+  {
+    "id": "e2b06c28-0704-4eae-9f91-ca165081e34c",
+    "title": "where le corbusier’s plan voisin sought to organize paris, chtcheglov chose to drift",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism-designboom-700-500x400-22b08q85r293.jpg",
+    "typology": [
+      "architecture",
+      "architecture in paris",
+      "le corbusier",
+      "masterplans and urban revitalization",
+      "SPECTATOR AND SPECTACLE"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T20:45:01.000Z",
+    "ingested_at": "2026-09-30T22:56:50.772Z"
   }
 ]

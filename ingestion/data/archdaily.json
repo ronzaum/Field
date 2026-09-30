@@ -32907,5 +32907,39 @@
     "material": [],
     "published_at": "2026-09-30T10:00:00.000Z",
     "ingested_at": "2026-09-30T18:59:00.266Z"
+  },
+  {
+    "id": "58bce4ef-8bc4-466e-abaa-b66457836d0a",
+    "title": "JQY House",
+    "creator": "André Becker",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186107/jqy-house-andre-becker",
+    "image_url": "https://images.adsttc.com/media/images/6abd/6524/122d/aa00/0196/fd2d/newsletter/37-23629-abpa-juquei-0128-web.jpg?1790797256",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T17:00:00.000Z",
+    "ingested_at": "2026-09-30T22:56:49.055Z"
+  },
+  {
+    "id": "6a62bbe4-a5dd-468f-b8a6-e246656a17f8",
+    "title": "Yuu' Kee' House",
+    "creator": "em-estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186092/yuu-kee-house-em-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6abd/1fc3/c30d/0000/01d4/8ecf/newsletter/04_CASA_YUU_KEE-_Ivan_Esqueda.jpg?1790779375",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T15:00:00.000Z",
+    "ingested_at": "2026-09-30T22:56:49.055Z"
   }
 ]
