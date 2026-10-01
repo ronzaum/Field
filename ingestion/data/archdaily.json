@@ -32941,5 +32941,22 @@
     "material": [],
     "published_at": "2026-09-30T15:00:00.000Z",
     "ingested_at": "2026-09-30T22:56:49.055Z"
+  },
+  {
+    "id": "4e696d52-4006-49ce-9a0b-3bbb43c080d6",
+    "title": "The Fig Tree house",
+    "creator": "Comas-Pont arquitectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186071/the-fig-tree-house-comas-pont-arquitectes",
+    "image_url": "https://images.adsttc.com/media/images/6abd/18e4/c30d/0000/01d4/8e64/newsletter/AGP1968_6424-MID.jpg?1790777610",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T19:00:00.000Z",
+    "ingested_at": "2026-10-01T01:59:56.894Z"
   }
 ]
