@@ -33060,5 +33060,56 @@
     "material": [],
     "published_at": "2026-10-01T06:00:00.000Z",
     "ingested_at": "2026-10-01T16:12:03.794Z"
+  },
+  {
+    "id": "3fb6e03b-8c6b-4d76-a9fb-77d54bd384d4",
+    "title": "Casa Cinco 7",
+    "creator": "QBO3 Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186138/casa-cinco-7-qbo3-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6abe/502a/07c3/d100/017f/c392/newsletter/01-QBO3AD_TIRSO.jpg?1790857277",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T15:00:00.000Z",
+    "ingested_at": "2026-10-01T21:42:00.334Z"
+  },
+  {
+    "id": "6bb14a6a-3470-4308-9d44-8f3ab2fcc6e5",
+    "title": "Casa em Pouca Farinha",
+    "creator": "Ana Teresa Niza + Ana Rita Marques",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186111/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques",
+    "image_url": "https://images.adsttc.com/media/images/6abd/69d6/fdbd/f801/8857/ee02/newsletter/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques_12.jpg?1790798355",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T13:00:00.000Z",
+    "ingested_at": "2026-10-01T21:42:00.335Z"
+  },
+  {
+    "id": "06290d4d-3008-42a7-b07d-ff21c3362e7f",
+    "title": "Dutchmoor Valley Guesthouse",
+    "creator": "SEEK Design + Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1029710/dutchmoor-valley-guesthouse-seek-design-plus-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6813/deb7/2267/4301/8c12/9ec6/newsletter/dutchmoor-valley-guesthouse-seek-design-plus-architecture_1.jpg?1746132681",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T12:00:00.000Z",
+    "ingested_at": "2026-10-01T21:42:00.335Z"
   }
 ]
