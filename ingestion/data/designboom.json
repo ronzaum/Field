@@ -11876,5 +11876,45 @@
     "material": [],
     "published_at": "2026-10-01T02:10:18.000Z",
     "ingested_at": "2026-10-01T08:46:34.244Z"
+  },
+  {
+    "id": "22b3be44-af46-4667-82e9-d7c5615e598f",
+    "title": "dune-inspired promenade brings sand and vegetation into comillas’ waterfront",
+    "creator": "Hector Navarro + arkhitekton",
+    "location": "Comillas",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/dune-inspired-promenade-sand-vegetation-comillas-waterfront-hector-navarro-arkhitekton/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/hector-navarro-arkhitekton-seafront-comillas-spain-sand-vegetation-limestone-designboom-700-2-500x400-22b08q85r400.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "landscape architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T15:45:11.000Z",
+    "ingested_at": "2026-10-01T16:12:05.076Z"
+  },
+  {
+    "id": "20ea23b9-059d-4839-8bd9-31b3c13f9a18",
+    "title": "wood-framed family home in osaka revolves around flexible open sports space",
+    "creator": "SHIOYA DESIGN – Taichi Shioya",
+    "location": "Osaka",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/wood-framed-family-home-osaka-flexible-open-sports-space-taichi-shioya/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/osaka-house-shioya-flexible-open-sports-space-designboom-700-500x400-22b08q85r594.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in japan",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T09:25:59.000Z",
+    "ingested_at": "2026-10-01T16:12:05.085Z"
   }
 ]

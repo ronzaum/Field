@@ -33009,5 +33009,56 @@
     "material": [],
     "published_at": "2026-10-01T00:00:00.000Z",
     "ingested_at": "2026-10-01T08:46:33.183Z"
+  },
+  {
+    "id": "9d287428-1303-44d7-b4e1-50ffa0e7dcbf",
+    "title": "Kromme Rijn College",
+    "creator": "EVA architecten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185924/kromme-rijn-college-eva-architecten",
+    "image_url": "https://images.adsttc.com/media/images/6aba/7d13/5c4d/8600/0165/6e47/newsletter/svd_EVA_KRC_05.jpg?1790606670",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T10:00:00.000Z",
+    "ingested_at": "2026-10-01T16:12:03.793Z"
+  },
+  {
+    "id": "e5b1cce4-91d9-441e-965f-598772985b26",
+    "title": "Mitte Oblique Garden",
+    "creator": "RAD+ar (Research Artistic Design + architecture)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186064/mitte-oblique-garden-rad-plus-ar-research-artistic-design-plus-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6abd/11fc/a979/aa00/0118/7fa3/newsletter/000_hero.jpg?1790775897",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T07:00:00.000Z",
+    "ingested_at": "2026-10-01T16:12:03.793Z"
+  },
+  {
+    "id": "323e878c-0be6-41c5-b89a-2b0a10d79efd",
+    "title": "Lech Mountain Mirror",
+    "creator": "Snøhetta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta",
+    "image_url": "https://images.adsttc.com/media/images/6abd/0e28/4c0c/5301/88f7/4606/newsletter/lech-mountain-mirror-snohetta_15.jpg?1790774939",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T06:00:00.000Z",
+    "ingested_at": "2026-10-01T16:12:03.794Z"
   }
 ]
