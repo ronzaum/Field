@@ -32958,5 +32958,56 @@
     "material": [],
     "published_at": "2026-09-30T19:00:00.000Z",
     "ingested_at": "2026-10-01T01:59:56.894Z"
+  },
+  {
+    "id": "aa1a79cd-0335-4026-b465-9bb1d2345d74",
+    "title": "House Around the Corner in Kugahara",
+    "creator": "some ( ) + Tezzo Nishizawa Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185996/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6abb/e0d3/b2b8/9801/8835/a082/newsletter/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects_11.jpg?1790697808",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T03:00:00.000Z",
+    "ingested_at": "2026-10-01T08:46:33.182Z"
+  },
+  {
+    "id": "e71a2f7f-c20c-4d21-9645-5b78d653fc77",
+    "title": "Simpsons Bay House",
+    "creator": "Dock4 Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185922/simpsons-bay-house-dock4-architects",
+    "image_url": "https://images.adsttc.com/media/images/6abc/b0a4/4c0c/5301/88f7/4534/newsletter/simpsons-bay-house-dock4-architects_23.jpg?1790750904",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T02:00:00.000Z",
+    "ingested_at": "2026-10-01T08:46:33.183Z"
+  },
+  {
+    "id": "8efdb380-eed9-402b-bb8a-f20e952beece",
+    "title": "Lixue Primary School of KeWai Group",
+    "creator": "temp architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185955/lixue-primary-school-of-kewai-group-temp-architects",
+    "image_url": "https://images.adsttc.com/media/images/6abb/8292/3ec8/9101/894a/ce2b/newsletter/lixue-primary-school-of-kewai-group-temp-architects_45.jpg?1790673563",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T00:00:00.000Z",
+    "ingested_at": "2026-10-01T08:46:33.183Z"
   }
 ]

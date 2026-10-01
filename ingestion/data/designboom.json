@@ -11833,5 +11833,48 @@
     "material": [],
     "published_at": "2026-09-30T20:45:01.000Z",
     "ingested_at": "2026-09-30T22:56:50.772Z"
+  },
+  {
+    "id": "0745a7b9-9a3f-4f56-8a7f-42492edbf95b",
+    "title": "design museum gent reopens with new wing built from locally made waste bricks",
+    "creator": "thomai tsimpou",
+    "location": "Ghent",
+    "country": "Belgium",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium-designboom-700-500x400-22b08q85r493.jpg",
+    "typology": [
+      "architecture",
+      "architecture in belgium",
+      "carmody groarke",
+      "museums and galleries",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T08:30:02.000Z",
+    "ingested_at": "2026-10-01T08:46:34.235Z"
+  },
+  {
+    "id": "52f17896-13bc-4737-a5f3-d1ab394b58bf",
+    "title": "stone-built meadows boutique hotel takes shape around gardens in rural UK",
+    "creator": "Pardini Hall Architecture",
+    "location": "Cotswolds",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/stone-built-meadows-boutique-hotel-gardens-rural-uk-pardini-hall-architecture/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/meadows-hotel-cotswolds-uk-pardini-hall-architecture-designboom-700-1-500x400-22b08q85r660.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the UK",
+      "designer boutique hotels",
+      "hotel architecture and design",
+      "pardini hall architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T02:10:18.000Z",
+    "ingested_at": "2026-10-01T08:46:34.244Z"
   }
 ]
