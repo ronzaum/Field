@@ -33264,5 +33264,56 @@
     "material": [],
     "published_at": "2026-10-02T06:00:00.000Z",
     "ingested_at": "2026-10-02T15:35:59.384Z"
+  },
+  {
+    "id": "8dc8cc10-19a4-4ceb-b374-008d196e9be3",
+    "title": "Rural School in Oaxaca",
+    "creator": "Territorio Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1023159/rural-school-in-oaxaca-territorio-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6729/4fd6/1aab/c500/01a9/bdf2/newsletter/_Sandra_Perezniento_Alta_Escuela_Rural_9925.jpg?1730760740",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T15:00:00.000Z",
+    "ingested_at": "2026-10-02T20:32:33.603Z"
+  },
+  {
+    "id": "8507f162-fb4d-42af-adb9-6b5b91b0588b",
+    "title": "Cabreira House",
+    "creator": "ARE ARCHITECTS STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio",
+    "image_url": "https://images.adsttc.com/media/images/6abb/df94/a979/aa00/0118/7a74/newsletter/Helder_Oliveira_07_CasaCabreira.jpg?1790697663",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T13:00:00.000Z",
+    "ingested_at": "2026-10-02T20:32:33.603Z"
+  },
+  {
+    "id": "7fa5489b-ddc1-4aaa-8988-cc30745dc7ee",
+    "title": "Chalet des Huarts",
+    "creator": "Atelier MAa architecture +",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus",
+    "image_url": "https://images.adsttc.com/media/images/6abc/2a46/a979/aa00/0118/7e86/newsletter/Des_Huarts__02_HD.jpg?1790716527",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T12:00:00.000Z",
+    "ingested_at": "2026-10-02T20:32:33.603Z"
   }
 ]
