@@ -33128,5 +33128,90 @@
     "material": [],
     "published_at": "2026-10-01T17:00:00.000Z",
     "ingested_at": "2026-10-02T01:27:47.666Z"
+  },
+  {
+    "id": "cd892e08-35e9-4a55-ab33-63beb35a23d9",
+    "title": "Terra Pavillion",
+    "creator": "Studio Sangath",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185995/terra-pavillion-studio-sangath",
+    "image_url": "https://images.adsttc.com/media/images/6abb/dad3/21f2/b501/8947/b132/newsletter/terra-pavillion-studio-sangath_19.jpg?1790696173",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T03:00:00.000Z",
+    "ingested_at": "2026-10-02T08:13:34.508Z"
+  },
+  {
+    "id": "659bc053-9098-4390-a833-17adf52e50ad",
+    "title": "Arme Residence",
+    "creator": "Studio S+AO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186087/arme-residence-studio-s-plus-ao",
+    "image_url": "https://images.adsttc.com/media/images/6abd/260b/c30d/0000/01d4/8f96/newsletter/Architecture_05.jpg?1790780958",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T02:00:00.000Z",
+    "ingested_at": "2026-10-02T08:13:34.508Z"
+  },
+  {
+    "id": "3e719a35-483e-46a3-83dd-83235b56535b",
+    "title": "Yuehai Culture and Sports Center",
+    "creator": "MENG YAN | URBANUS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185982/yuehai-culture-and-sports-center-meng-yan-urbanus",
+    "image_url": "https://images.adsttc.com/media/images/6abb/c917/3ec8/914a/2137/6cf4/newsletter/yuehai-culture-and-sports-center-meng-yan-urbanus_5.jpg?1790691623",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T00:00:00.000Z",
+    "ingested_at": "2026-10-02T08:13:34.508Z"
+  },
+  {
+    "id": "6d21fd82-439f-4326-809a-54911425168c",
+    "title": "Mixed-Use Office, Warehouse and Parking Building",
+    "creator": "KF arquitectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186085/mixed-use-office-warehouse-and-parking-building-kf-arquitectes",
+    "image_url": "https://images.adsttc.com/media/images/6abd/2186/c30d/0000/01d4/8f51/newsletter/57.jpg?1790779810",
+    "typology": [
+      "Parking"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T23:00:00.000Z",
+    "ingested_at": "2026-10-02T08:13:34.509Z"
+  },
+  {
+    "id": "98f44889-e54b-43d2-a7c7-c6117574c9a1",
+    "title": "JQY House",
+    "creator": "André Becker + Ricardo Karman",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186107/jqy-house-andre-becker-plus-ricardo-karman",
+    "image_url": "https://images.adsttc.com/media/images/6abd/6524/122d/aa00/0196/fd2d/newsletter/37-23629-abpa-juquei-0128-web.jpg?1790797256",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-09-30T17:00:00.000Z",
+    "ingested_at": "2026-10-02T08:13:34.510Z"
   }
 ]
