@@ -33213,5 +33213,56 @@
     "material": [],
     "published_at": "2026-09-30T17:00:00.000Z",
     "ingested_at": "2026-10-02T08:13:34.510Z"
+  },
+  {
+    "id": "67703f6f-a88d-4c9c-9f65-3cfedf765da2",
+    "title": "What the Stones Whisper",
+    "creator": "Collectif MAGMA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185637/what-the-stones-whisper-collectif-magma",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/df0e/7707/e600/01bb/3756/newsletter/magma_fem26_01-01_05_2880px.jpg?1790172999",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T10:00:00.000Z",
+    "ingested_at": "2026-10-02T15:35:59.383Z"
+  },
+  {
+    "id": "3e43f111-b9d4-4e7b-bb81-bd5c5d346619",
+    "title": "Kenitra Socio-Cultural Center",
+    "creator": "AGA STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186048/kenitra-socio-cultural-center-aga-studio",
+    "image_url": "https://images.adsttc.com/media/images/6abc/bdeb/b2b8/9858/8224/a540/newsletter/kenitra-socio-cultural-center-aga-studio_5.jpg?1790754335",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T07:00:00.000Z",
+    "ingested_at": "2026-10-02T15:35:59.384Z"
+  },
+  {
+    "id": "b5686795-0b18-4dbb-9ecf-da7829632775",
+    "title": "Stará Hasička Cultural and Community Center",
+    "creator": "schwerpunkt.",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185702/stara-hasicka-cultural-and-community-center-schwerpunkt",
+    "image_url": "https://images.adsttc.com/media/images/6ab5/58a3/59bf/5a01/8bd6/8779/newsletter/stara-hasicka-cultural-and-community-centre-schwerpunkt_6.jpg?1790269705",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T06:00:00.000Z",
+    "ingested_at": "2026-10-02T15:35:59.384Z"
   }
 ]

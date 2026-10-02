@@ -11916,5 +11916,27 @@
     "material": [],
     "published_at": "2026-10-01T09:25:59.000Z",
     "ingested_at": "2026-10-01T16:12:05.085Z"
+  },
+  {
+    "id": "ba68401f-3f69-4237-88ad-10c43edb0be0",
+    "title": "charlotte perriand’s built-in interiors survive inside 1960 paris tower",
+    "creator": "Édouard Albert",
+    "location": "Paris 13th arrondissement",
+    "country": "France",
+    "year": 1960,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert-designboom-700-500x400-22b08q85r094.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in france",
+      "architecture in paris",
+      "charlotte perriand",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T09:55:18.000Z",
+    "ingested_at": "2026-10-02T15:36:00.684Z"
   }
 ]
