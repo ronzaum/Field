@@ -33111,5 +33111,22 @@
     "material": [],
     "published_at": "2026-10-01T12:00:00.000Z",
     "ingested_at": "2026-10-01T21:42:00.335Z"
+  },
+  {
+    "id": "703687a5-5c86-4e12-99f3-43e4a854225e",
+    "title": "Casa Votupoca",
+    "creator": "ARKITITO Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186176/casa-votupoca-arkitito-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6abe/4c33/87ec/5401/8809/f2b3/newsletter/casa-votupoca-arkitito-arquitetura_18.jpg?1790856269",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-01T17:00:00.000Z",
+    "ingested_at": "2026-10-02T01:27:47.666Z"
   }
 ]
