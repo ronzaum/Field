@@ -33332,5 +33332,39 @@
     "material": [],
     "published_at": "2026-10-02T19:00:00.000Z",
     "ingested_at": "2026-10-03T06:15:08.470Z"
+  },
+  {
+    "id": "27ab3be3-8806-40c5-bfa1-91828decdec5",
+    "title": "Fruit Stand in Fridhemsplan",
+    "creator": "DinellJohansson",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184972/fruit-stand-in-fridhemsplan-dinelljohansson",
+    "image_url": "https://images.adsttc.com/media/images/6aa4/1577/7a61/df00/0183/beba/newsletter/9.jpg?1789138317",
+    "typology": [
+      "Temporary stores"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T06:00:00.000Z",
+    "ingested_at": "2026-10-03T12:22:14.312Z"
+  },
+  {
+    "id": "42c3bcc5-c557-4f5a-ac37-e10fb04b946b",
+    "title": "Under the Drying Nets",
+    "creator": "Multi-Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186023/under-the-drying-nets-multi-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6abc/0e16/b2b8/9801/8835/a1ee/newsletter/under-the-drying-nets-multi-architecture_1.jpg?1790709304",
+    "typology": [
+      "Pavilion"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T02:00:00.000Z",
+    "ingested_at": "2026-10-03T12:22:14.313Z"
   }
 ]

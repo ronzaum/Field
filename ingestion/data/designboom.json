@@ -11980,5 +11980,27 @@
     "material": [],
     "published_at": "2026-10-02T20:35:39.000Z",
     "ingested_at": "2026-10-03T00:18:04.543Z"
+  },
+  {
+    "id": "dc41a39c-626b-4d8e-87c2-06c3a9cefa7c",
+    "title": "cypress, marble, and rippling glass rework apartment into local local’s athens studio",
+    "creator": "Local Local",
+    "location": "Athens",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/cypress-marble-rippling-glass-apartment-local-locals-athens-studio/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/cypress-marble-rippling-glass-apartment-local-local-athens-studio-designboom-700-500x400-22b08q85r297.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in greece",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T07:45:31.000Z",
+    "ingested_at": "2026-10-03T12:22:15.404Z"
   }
 ]
