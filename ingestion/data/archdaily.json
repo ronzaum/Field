@@ -33366,5 +33366,39 @@
     "material": [],
     "published_at": "2026-10-03T02:00:00.000Z",
     "ingested_at": "2026-10-03T12:22:14.313Z"
+  },
+  {
+    "id": "91100f59-f2c3-4144-977f-484fcbf49b65",
+    "title": "The Town House",
+    "creator": "Sigurd Larsen",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186056/the-town-house-sigurd-larsen",
+    "image_url": "https://images.adsttc.com/media/images/6abc/d65b/a979/aa00/0118/7f25/newsletter/THE_TOWN_HOUSE_Sigurd_Larsen_Design_Architecture_Germany_stone_wood_urban_house_KKROM_Michael_Romst_ck_Living_room_1_copy.jpg?1790760721",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T11:00:00.000Z",
+    "ingested_at": "2026-10-03T17:07:21.306Z"
+  },
+  {
+    "id": "56c22a53-1361-4dbd-b56d-f4ed0e89a431",
+    "title": "Levanger Creative Building",
+    "creator": "Incube Architecture + Praksis Arkitekter",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185054/levanger-creative-building-incube-architecture-plus-praksis-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/6aa8/01b9/a74d/1200/0125/e290/newsletter/HANSST_4.jpg?1789395491",
+    "typology": [
+      "Higher Education"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T10:00:00.000Z",
+    "ingested_at": "2026-10-03T17:07:21.306Z"
   }
 ]
