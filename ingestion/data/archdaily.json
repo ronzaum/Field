@@ -33400,5 +33400,39 @@
     "material": [],
     "published_at": "2026-10-03T10:00:00.000Z",
     "ingested_at": "2026-10-03T17:07:21.306Z"
+  },
+  {
+    "id": "0e490b3b-33e7-4706-a1c1-2d7aa6d89c87",
+    "title": "House AC",
+    "creator": "Kiko Castello Branco Arquitetura + Lucas Cunha",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033932/house-ac-kiko-castello-branco-arquitetura-plus-lucas-cunha",
+    "image_url": "https://images.adsttc.com/media/images/68bb/125f/3dba/9b00/01d5/c9ee/newsletter/14_V7A0205_RAC_CL-01.jpg?1757090704",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T15:00:00.000Z",
+    "ingested_at": "2026-10-03T20:50:25.610Z"
+  },
+  {
+    "id": "a750ca12-24c7-42d5-9730-2dbd319a5a22",
+    "title": "Monte Alvo House",
+    "creator": "NOZ Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034708/monte-alvo-house-noz-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/68e0/30b8/e5d9/cd01/88b3/025e/newsletter/monte-alvo-house-noz-arquitectura_17.jpg?1759523012",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T13:00:00.000Z",
+    "ingested_at": "2026-10-03T20:50:25.610Z"
   }
 ]
