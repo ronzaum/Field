@@ -33434,5 +33434,39 @@
     "material": [],
     "published_at": "2026-10-03T13:00:00.000Z",
     "ingested_at": "2026-10-03T20:50:25.610Z"
+  },
+  {
+    "id": "d909f2a8-0144-44c6-84f1-0d7cc0a472f5",
+    "title": "Sungui Church Cultural Space (ㅅㄱ)",
+    "creator": "SML",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185983/sungui-church-cultural-space-sg-sml",
+    "image_url": "https://images.adsttc.com/media/images/6abb/c68c/3bc5/c600/01c9/5635/newsletter/_____-04.jpg?1790690984",
+    "typology": [
+      "Churches"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T17:00:00.000Z",
+    "ingested_at": "2026-10-03T23:38:55.266Z"
+  },
+  {
+    "id": "ba2576ca-84b3-4c49-b529-51762d775b50",
+    "title": "Casa Vereda",
+    "creator": "L'Aura Ortín Architecture for Happiness",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186151/casa-vereda",
+    "image_url": "https://images.adsttc.com/media/images/6abe/778d/07c3/d100/017f/c448/newsletter/2.jpg?1790867418",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T16:00:00.000Z",
+    "ingested_at": "2026-10-03T23:38:55.266Z"
   }
 ]
