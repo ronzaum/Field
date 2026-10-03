@@ -33315,5 +33315,22 @@
     "material": [],
     "published_at": "2026-10-02T12:00:00.000Z",
     "ingested_at": "2026-10-02T20:32:33.603Z"
+  },
+  {
+    "id": "eab74c74-ae76-4035-a529-7b9a31256725",
+    "title": "Foundations House",
+    "creator": "Holger Cuadrado",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1022179/foundations-house-holger-cuadrado",
+    "image_url": "https://images.adsttc.com/media/images/6707/3594/4003/1832/7544/18f2/newsletter/casa-fundamentos-holger-cuadrado_10.jpg?1728525741",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-02T19:00:00.000Z",
+    "ingested_at": "2026-10-03T06:15:08.470Z"
   }
 ]
