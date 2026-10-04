@@ -33519,5 +33519,39 @@
     "material": [],
     "published_at": "2026-10-04T06:00:00.000Z",
     "ingested_at": "2026-10-04T17:22:43.152Z"
+  },
+  {
+    "id": "d032c6eb-15b5-43e0-ac98-44eedaf1053a",
+    "title": "Barrancos Mortuary",
+    "creator": "Mesa Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033276/mortuaria-de-barrancos-house-mesa-atelier",
+    "image_url": "https://images.adsttc.com/media/images/689b/3e8f/c8fa/f945/90c3/a887/newsletter/casa-mortuaria-de-barrancos-mesa-atelier_39.jpg?1755004574",
+    "typology": [
+      "cemetery"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T15:00:00.000Z",
+    "ingested_at": "2026-10-04T21:06:17.033Z"
+  },
+  {
+    "id": "727752ba-13a0-4677-8fae-068b39ec998c",
+    "title": "ABC Apartment",
+    "creator": "agência campo espacial",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186035/abc-apartment-agencia-campo-espacial",
+    "image_url": "https://images.adsttc.com/media/images/6abb/1263/3bc5/c600/01c9/5353/newsletter/0B8A4072-Pano_AD.jpg?1790644896",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T13:00:00.000Z",
+    "ingested_at": "2026-10-04T21:06:17.033Z"
   }
 ]
