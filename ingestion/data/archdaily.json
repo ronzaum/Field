@@ -33468,5 +33468,22 @@
     "material": [],
     "published_at": "2026-10-03T16:00:00.000Z",
     "ingested_at": "2026-10-03T23:38:55.266Z"
+  },
+  {
+    "id": "130fe244-d691-4022-bae9-d960e272b5a0",
+    "title": "Yaesu Daibiru Office Building",
+    "creator": "Nikken Sekkei",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186086/yaesu-daibiru-office-building-nikken-sekkei",
+    "image_url": "https://images.adsttc.com/media/images/6abd/243e/c30d/0000/01d4/8f6e/newsletter/_005_North_Elevation_8969_SS.jpg?1790780504",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-10-03T21:00:00.000Z",
+    "ingested_at": "2026-10-04T05:14:21.918Z"
   }
 ]
