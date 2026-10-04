@@ -12002,5 +12002,25 @@
     "material": [],
     "published_at": "2026-10-03T07:45:31.000Z",
     "ingested_at": "2026-10-03T12:22:15.404Z"
+  },
+  {
+    "id": "ca73a2d1-7239-4f63-9071-280d433b469f",
+    "title": "geoffrey bawa and the materialization of an architect’s gaze on his country",
+    "creator": "Geoffrey Bawa",
+    "location": "Charles-Eames-Str. 2",
+    "country": "D-79576 Weil am Rhein",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/geoffrey-bawa-and-the-materialization-of-an-architects-gaze-on-his-country/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/geoffrey-bawa-vitra-designboom-700-500x400-22b08q85r977.jpg",
+    "typology": [
+      "architecture",
+      "architecture in sri lanka",
+      "SPECTATOR AND SPECTACLE",
+      "vitra"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T14:45:07.000Z",
+    "ingested_at": "2026-10-04T17:22:44.023Z"
   }
 ]

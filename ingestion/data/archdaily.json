@@ -33485,5 +33485,39 @@
     "material": [],
     "published_at": "2026-10-03T21:00:00.000Z",
     "ingested_at": "2026-10-04T05:14:21.918Z"
+  },
+  {
+    "id": "f730178a-2a33-4583-8fc7-443b22fff9de",
+    "title": "Van Peborgh Lodge",
+    "creator": "Claesson Koivisto Rune  Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185636/van-peborgh-lodge-claesson-koivisto-rune-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab3/dad7/7707/e600/01bb/373a/newsletter/016_Image_Van_Peborgh_Lodge_Photo_A_ke_E-son_Lindman.jpg?1790172207",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T10:00:00.000Z",
+    "ingested_at": "2026-10-04T17:22:43.152Z"
+  },
+  {
+    "id": "fbababf8-04eb-4828-8011-78ce848dbd9f",
+    "title": "Singelblok",
+    "creator": "BureauVanEig + INBO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184623/singelblok-bureauvaneig-plus-inbo",
+    "image_url": "https://images.adsttc.com/media/images/6a9d/6d10/15d8/6f00/01a2/f466/newsletter/Jordi_Huisman_Singelblok_3.jpg?1788702013",
+    "typology": [
+      "Coliving"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T06:00:00.000Z",
+    "ingested_at": "2026-10-04T17:22:43.152Z"
   }
 ]
