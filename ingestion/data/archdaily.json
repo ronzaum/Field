@@ -33553,5 +33553,39 @@
     "material": [],
     "published_at": "2026-10-04T13:00:00.000Z",
     "ingested_at": "2026-10-04T21:06:17.033Z"
+  },
+  {
+    "id": "2798d8bc-cd19-4952-8cd5-94ac3b2af0d6",
+    "title": "Baan Rim Bua House",
+    "creator": "VYN Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186128/baan-rim-bua-house-vyn-studio",
+    "image_url": "https://images.adsttc.com/media/images/6abe/3582/07c3/d100/017f/c2da/newsletter/Baan_Rim_Bua_01_Exterior.jpg?1790850487",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T17:00:00.000Z",
+    "ingested_at": "2026-10-05T00:36:12.617Z"
+  },
+  {
+    "id": "958cc25e-b8da-47fa-8045-3e3477a89b5d",
+    "title": "Villa \"San Isidro\"",
+    "creator": "MACCCONSTRUCCIONES / APLUS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186275/villa-san-isidro-maccconstrucciones-aplus",
+    "image_url": "https://images.adsttc.com/media/images/6aba/d40f/aa74/a600/0152/00bb/newsletter/DJI_0227-Mejorado-NR-Editar.jpg?1790628992",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T16:00:00.000Z",
+    "ingested_at": "2026-10-05T00:36:12.617Z"
   }
 ]
