@@ -33587,5 +33587,22 @@
     "material": [],
     "published_at": "2026-10-04T16:00:00.000Z",
     "ingested_at": "2026-10-05T00:36:12.617Z"
+  },
+  {
+    "id": "0011ac31-562a-424c-8f7c-0b15c59c0f96",
+    "title": "Collab Cafe & Concept Store",
+    "creator": "Levelstudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186195/collab-cafe-and-concept-store-levelstudio",
+    "image_url": "https://images.adsttc.com/media/images/6abe/baf8/07c3/d100/017f/c849/newsletter/Collab_by_Levelstudio_Photo_by_Damir_Otegen-7.jpg?1790884630",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T21:00:00.000Z",
+    "ingested_at": "2026-10-05T06:42:29.423Z"
   }
 ]

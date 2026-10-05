@@ -12022,5 +12022,50 @@
     "material": [],
     "published_at": "2026-10-04T14:45:07.000Z",
     "ingested_at": "2026-10-04T17:22:44.023Z"
+  },
+  {
+    "id": "35ab3300-7945-42a2-bfda-9ee609ea3d9b",
+    "title": "glazed passage frames lake views through this compact japanese house",
+    "creator": "Kouichi Kimura",
+    "location": "Shiga",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/glazed-passage-lake-views-compact-japanese-house-form-kouichi-kimura-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/minimalist-house-form-kouichi-kimura-architects-lakeside-shiga-japan-designboom-700-500x400-22b08q85r585.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in japan",
+      "FORM / kouichi kimura architects",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-05T06:15:07.000Z",
+    "ingested_at": "2026-10-05T06:42:30.579Z"
+  },
+  {
+    "id": "38ab926a-d179-439c-9186-eab29ebcf8a9",
+    "title": "planted roof extends garden over tato architects’ timber house in mibu, japan",
+    "creator": "Yo Shimada",
+    "location": "Mibu",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/planted-roof-garden-tato-architects-timber-house-mibu-japan/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/planted-roof-garden-tato-architects-timber-house-mibu-japan-designboom-700-500x400-22b08q85r720.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in japan",
+      "residential architecture and interiors",
+      "rooftop architecture and design",
+      "tato architects / yo shimada",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-04T20:35:47.000Z",
+    "ingested_at": "2026-10-05T06:42:30.590Z"
   }
 ]
