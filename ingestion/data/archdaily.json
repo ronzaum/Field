@@ -33672,5 +33672,56 @@
     "material": [],
     "published_at": "2026-10-05T02:00:00.000Z",
     "ingested_at": "2026-10-05T15:44:12.063Z"
+  },
+  {
+    "id": "7325c5b9-f0f1-4c9a-9a98-f939bd9a7d51",
+    "title": "Casa Nova",
+    "creator": "TAC Taller Alberto Calleja",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186373/casa-nova-tac-taller-alberto-calleja",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/ba9e/07c3/d100/017f/d13b/newsletter/02_Casa_Nova_TAC.jpg?1791212269",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-05T15:00:00.000Z",
+    "ingested_at": "2026-10-05T22:25:08.113Z"
+  },
+  {
+    "id": "1fcc8991-7397-4b1b-88ae-44f5e67ebe6c",
+    "title": "Restoration and Enhancement of the Patriarchal Cathedral of Lisbon, Installation of the Archaeological Center, and Restoration of the Upper and Lower Cloisters",
+    "creator": "Adalberto Dias Arquitecto lda",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034427/restoration-and-enhancement-of-the-patriarchal-cathedral-of-lisbon-installation-of-the-archaeological-center-and-restoration-of-the-upper-and-lower-cloisters-adalberto-dias-arquitecto-lda",
+    "image_url": "https://images.adsttc.com/media/images/68d0/3ef5/74fd/8a01/7e1c/e543/newsletter/recuperacao-e-valorizacao-da-se-patriarcal-de-lisboa-instalacao-do-nucleo-arqueologico-e-recuperacao-dos-claustros-superior-e-inferior-adalberto-dias-arquitecto-lda_2.jpg?1758478119",
+    "typology": [
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-10-05T13:00:00.000Z",
+    "ingested_at": "2026-10-05T22:25:08.113Z"
+  },
+  {
+    "id": "4b98fd48-1c8a-4ab2-a9c0-e539c2f360f4",
+    "title": "Ausma Hotel",
+    "creator": "Field Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186130/ausma-hotel-field-studio",
+    "image_url": "https://images.adsttc.com/media/images/6abe/3826/07c3/d100/017f/c318/newsletter/ausma_hotel_field_studio_20.jpg?1790851133",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-10-05T10:00:00.000Z",
+    "ingested_at": "2026-10-05T22:25:08.113Z"
   }
 ]
