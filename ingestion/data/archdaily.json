@@ -33757,5 +33757,39 @@
     "material": [],
     "published_at": "2026-10-05T17:00:00.000Z",
     "ingested_at": "2026-10-06T02:47:54.193Z"
+  },
+  {
+    "id": "a7973182-1f62-4ce0-ae7a-4f965907373a",
+    "title": "Bare Brick House",
+    "creator": "Yuuga Design Collective",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186168/bare-brick-house-yuuga-design-collective",
+    "image_url": "https://images.adsttc.com/media/images/6abe/92f6/07c3/d100/017f/c4f1/newsletter/BB1.jpg?1790874498",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T03:00:00.000Z",
+    "ingested_at": "2026-10-06T09:57:06.803Z"
+  },
+  {
+    "id": "25bc5242-78e0-43f5-a47e-8633467a89c5",
+    "title": "Yumoto Electric INC. Factory",
+    "creator": "YKAD ARCHITECTURAL DESIGN OFFICE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186173/yumoto-electric-inc-factory-ykad-architectural-design-office",
+    "image_url": "https://images.adsttc.com/media/images/6abe/9858/07c3/d100/017f/c686/newsletter/002.jpg?1790875754",
+    "typology": [
+      "Factory"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T02:00:00.000Z",
+    "ingested_at": "2026-10-06T09:57:06.803Z"
   }
 ]

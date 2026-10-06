@@ -12158,5 +12158,24 @@
     "material": [],
     "published_at": "2026-10-05T23:55:33.000Z",
     "ingested_at": "2026-10-06T02:47:55.280Z"
+  },
+  {
+    "id": "0f47a61e-c07b-4fb0-b8a4-7f3ae03ac2c7",
+    "title": "on le corbusier’s 139th birthday, revisit his iconic ronchamp chapel through paul clemence’s lens",
+    "creator": "Le Corbusier",
+    "location": "Ronchamp",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/le-corbusiers-ronchamp-chapel-modern-architecture/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/le-corbusiers-ronchamp-chapel-modern-architecture-designboom11-500x400-22b08q85r170.jpg",
+    "typology": [
+      "architecture",
+      "architecture in france",
+      "le corbusier"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T08:58:28.000Z",
+    "ingested_at": "2026-10-06T09:57:08.027Z"
   }
 ]
