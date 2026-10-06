@@ -33842,5 +33842,39 @@
     "material": [],
     "published_at": "2026-10-06T06:00:00.000Z",
     "ingested_at": "2026-10-06T16:39:22.822Z"
+  },
+  {
+    "id": "ae9ab0c0-04e0-4e5e-8f7f-f90eba60bde5",
+    "title": "Arena Bruja House",
+    "creator": "Un Estudio Propio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186433/arena-bruja-house-un-estudio-propio",
+    "image_url": "https://images.adsttc.com/media/images/6abb/df95/a979/aa00/0118/7a78/newsletter/03-Web.jpg?1790697406",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T15:00:00.000Z",
+    "ingested_at": "2026-10-06T21:30:27.453Z"
+  },
+  {
+    "id": "1c977cc2-19c7-4951-9af6-3da9ea63ddee",
+    "title": "Miramar Tower",
+    "creator": "OODA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034516/miramar-tower-ooda",
+    "image_url": "https://images.adsttc.com/media/images/68da/8b6d/3df7/b301/8857/b383/newsletter/torre-de-miramar-ooda_24.jpg?1759153016",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T13:00:00.000Z",
+    "ingested_at": "2026-10-06T21:30:27.453Z"
   }
 ]
