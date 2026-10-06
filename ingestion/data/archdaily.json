@@ -33723,5 +33723,39 @@
     "material": [],
     "published_at": "2026-10-05T10:00:00.000Z",
     "ingested_at": "2026-10-05T22:25:08.113Z"
+  },
+  {
+    "id": "dc5d591f-ce40-4cae-85ca-03fe511e786b",
+    "title": "HIKARI House",
+    "creator": "Estudio PK",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186377/hikari-house-estudio-pk",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/ff9e/07c3/d100/017f/d472/newsletter/WhatsApp_Image_2026-09-03_at_18.12.55__1_.jpg?1791229907",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-05T19:00:00.000Z",
+    "ingested_at": "2026-10-06T02:47:54.192Z"
+  },
+  {
+    "id": "0629c734-54ea-4fa6-9cdc-1329e5d23733",
+    "title": "House 258",
+    "creator": "Cornetta Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034562/house-258-cornetta-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/68d6/bf6e/c767/8c00/0197/a5fd/newsletter/Corneta-2050-HDR.jpg?1758904194",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-05T17:00:00.000Z",
+    "ingested_at": "2026-10-06T02:47:54.193Z"
   }
 ]
