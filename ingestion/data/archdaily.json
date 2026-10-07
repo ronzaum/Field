@@ -34012,5 +34012,56 @@
     "material": [],
     "published_at": "2026-10-07T06:00:00.000Z",
     "ingested_at": "2026-10-07T16:13:52.409Z"
+  },
+  {
+    "id": "97fc8c1a-4280-458e-8890-5bb58c3c34ad",
+    "title": "Campeche Houses",
+    "creator": "Terra e Tuma Arquitetos Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1152565/campeche-houses-terra-e-tuma-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/68d5/1dc9/c767/8c00/0197/a44f/newsletter/terraetuma_djank_casascampeche_10.jpg?1758797289",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T17:00:00.000Z",
+    "ingested_at": "2026-10-07T21:50:37.321Z"
+  },
+  {
+    "id": "cbd47fc2-8b2b-40e4-8f02-620f7ec1442e",
+    "title": "Urban Mantle",
+    "creator": "Felipe Burgos Villablanca",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186496/urban-mantle-felipe-burgos-villablanca",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/57a0/07c3/d100/017f/dd4d/newsletter/DJI_0363.jpg?1791383659",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T15:00:00.000Z",
+    "ingested_at": "2026-10-07T21:50:37.322Z"
+  },
+  {
+    "id": "741bae5e-4334-4585-8820-8eaa9f6f9d8e",
+    "title": "Cereal Interpretation Center",
+    "creator": "há.atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034225/cereal-interpretation-center-htelier",
+    "image_url": "https://images.adsttc.com/media/images/68c9/b2dc/1aff/9b00/0129/7f10/newsletter/CIC_LOW-64.jpg?1758049013",
+    "typology": [
+      "Interpretation Center"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T13:00:00.000Z",
+    "ingested_at": "2026-10-07T21:50:37.322Z"
   }
 ]

@@ -12218,5 +12218,27 @@
     "material": [],
     "published_at": "2026-10-07T06:15:45.000Z",
     "ingested_at": "2026-10-07T16:13:53.469Z"
+  },
+  {
+    "id": "60222ea1-d976-491f-8677-135998b67978",
+    "title": "robotically 3D printed earth bricks wrap multispecies habitat around olive tree",
+    "creator": "Material Topology Research Lab (MTRL) Technion Israel Institute of Technology",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/robotically-3d-printed-earth-bricks-multispecies-habitat-olive-tree-mtrl-technion/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/bustan-earthen-pavilion-mtrl-designboom-700-1-500x400-22b08q85r235.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "3D printing",
+      "biomaterials",
+      "earth architecture",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T15:35:03.000Z",
+    "ingested_at": "2026-10-07T21:50:38.546Z"
   }
 ]
