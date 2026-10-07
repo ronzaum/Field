@@ -12177,5 +12177,25 @@
     "material": [],
     "published_at": "2026-10-06T08:58:28.000Z",
     "ingested_at": "2026-10-06T09:57:08.027Z"
+  },
+  {
+    "id": "05ec8710-30b6-4e78-8336-058f342bb4a7",
+    "title": "open fields and concrete paths create shared sports landscape in tijuana",
+    "creator": "Border Arquitectos",
+    "location": "Tijuana",
+    "country": "Mexico",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/open-fields-concrete-paths-shared-sports-landscape-tijuana-centro-deportivo-abejas-border-arquitectos/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/centro-deportivo-abejas-border-arquitectos-public-sports-complex-tijuana-designboom-700-500x400-22b08q85r010.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in mexico",
+      "sports centers"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T23:55:42.000Z",
+    "ingested_at": "2026-10-07T01:18:38.120Z"
   }
 ]

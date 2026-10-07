@@ -33876,5 +33876,39 @@
     "material": [],
     "published_at": "2026-10-06T13:00:00.000Z",
     "ingested_at": "2026-10-06T21:30:27.453Z"
+  },
+  {
+    "id": "a96cb311-440a-4a22-94ba-a5735d1e1ddf",
+    "title": "Hacienda Amalucan",
+    "creator": "Taller Eduardo Audirac",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186453/hacienda-amalucan-taller-eduardo-audirac",
+    "image_url": "https://images.adsttc.com/media/images/6ac5/7184/07c3/d100/017f/db46/newsletter/hacienda_amalucan_-_6.jpg?1791324627",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T19:00:00.000Z",
+    "ingested_at": "2026-10-07T01:18:37.253Z"
+  },
+  {
+    "id": "a70c0407-469a-4241-a176-233cc4d70437",
+    "title": "Pupunha House",
+    "creator": "Laurent Troost Architectures + Hana Eto Gall Paisagismo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034775/pupunha-house-laurent-troost-architectures-plus-hana-eto-gall-paisagismo",
+    "image_url": "https://images.adsttc.com/media/images/68d9/5053/27ac/8d13/3f17/7aa0/newsletter/casa-pupunha-laurent-troost-architectures_3.jpg?1759072346",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-06T17:00:00.000Z",
+    "ingested_at": "2026-10-07T01:18:37.253Z"
   }
 ]
