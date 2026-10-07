@@ -33961,5 +33961,56 @@
     "material": [],
     "published_at": "2026-10-07T00:00:00.000Z",
     "ingested_at": "2026-10-07T08:23:22.121Z"
+  },
+  {
+    "id": "091d103a-f937-4556-a98c-47f082cb7897",
+    "title": "STATION-SERVICE",
+    "creator": "GENS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186133/station-service-gens",
+    "image_url": "https://images.adsttc.com/media/images/6abe/4170/07c3/d100/017f/c364/newsletter/GENS_MTL_07_photo_L.cerveny.jpg?1790853548",
+    "typology": [
+      "Library"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T10:00:00.000Z",
+    "ingested_at": "2026-10-07T16:13:52.409Z"
+  },
+  {
+    "id": "0b34f945-c044-4484-a83a-4372c5653793",
+    "title": "Mikagecho House",
+    "creator": "Tomoaki Uno Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186241/mikagecho-house-tomoaki-uno-architects",
+    "image_url": "https://images.adsttc.com/media/images/6abf/b2b1/27ac/8d01/89cb/b1c5/newsletter/mikagecho-house-tomoaki-uno-architects_1.jpg?1790948049",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T07:00:00.000Z",
+    "ingested_at": "2026-10-07T16:13:52.409Z"
+  },
+  {
+    "id": "79725238-68a7-4eee-bb52-504353639609",
+    "title": "Plage des Nations Mosque",
+    "creator": "OUALALOU+CHOI",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186057/plage-des-nations-mosque-oualalou-plus-choi",
+    "image_url": "https://images.adsttc.com/media/images/6abc/d697/a979/aa00/0118/7f33/newsletter/0D5A2504-Modifier.jpg?1790760688",
+    "typology": [
+      "Mosque"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T06:00:00.000Z",
+    "ingested_at": "2026-10-07T16:13:52.409Z"
   }
 ]
