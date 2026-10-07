@@ -33910,5 +33910,56 @@
     "material": [],
     "published_at": "2026-10-06T17:00:00.000Z",
     "ingested_at": "2026-10-07T01:18:37.253Z"
+  },
+  {
+    "id": "d164eaee-04ea-4aee-abc6-e0a78561fd98",
+    "title": "Dual-Family House",
+    "creator": "Khuon Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186193/dual-family-house-khuon-studio",
+    "image_url": "https://images.adsttc.com/media/images/6abe/b970/07c3/d100/017f/c7ba/newsletter/2FH_House_-_KHU_N_Studio_9.jpg?1790884269",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T03:00:00.000Z",
+    "ingested_at": "2026-10-07T08:23:22.121Z"
+  },
+  {
+    "id": "4867e085-990d-4a89-8a8d-3f595e28e27d",
+    "title": "Skin of Skin House",
+    "creator": "CANs architecture studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186181/skin-of-skin-house-cans-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6abe/9c2e/07c3/d100/017f/c6ea/newsletter/skin_of_skin__23__View_from_the_street.jpg?1790876849",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T02:00:00.000Z",
+    "ingested_at": "2026-10-07T08:23:22.121Z"
+  },
+  {
+    "id": "9e30ca68-aa4a-4a09-b7a4-02f012eaef5f",
+    "title": "RICHAUS",
+    "creator": "Vari Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1039371/richaus-vari-architects",
+    "image_url": "https://images.adsttc.com/media/images/69aa/27ba/314f/6601/8902/b45d/newsletter/richaus-vari-architects_7.jpg?1772759004",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-07T00:00:00.000Z",
+    "ingested_at": "2026-10-07T08:23:22.121Z"
   }
 ]
