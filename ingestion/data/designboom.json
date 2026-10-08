@@ -12240,5 +12240,29 @@
     "material": [],
     "published_at": "2026-10-07T15:35:03.000Z",
     "ingested_at": "2026-10-07T21:50:38.546Z"
+  },
+  {
+    "id": "37361a2a-3b51-48e5-9d19-65188ba4b626",
+    "title": "zaha hadid’s former london headquarters reopens as a public hub for architecture and art",
+    "creator": "Iñaki Laguardia",
+    "location": "Clerkenwell",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/zaha-hadid-former-london-headquarters-public-hub-architecture-art/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/zaha-hadid-former-london-headquarters-public-hub-architecture-art-3-500x400-22b08q85r607.jpg",
+    "typology": [
+      "architecture",
+      "architecture in london",
+      "exhibition design",
+      "exhibitions",
+      "experimental jetset",
+      "renovation and restoration architecture and design",
+      "typography design",
+      "zaha hadid"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T06:22:31.000Z",
+    "ingested_at": "2026-10-08T08:39:14.283Z"
   }
 ]
