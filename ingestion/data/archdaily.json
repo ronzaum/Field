@@ -34131,5 +34131,56 @@
     "material": [],
     "published_at": "2026-10-08T00:00:00.000Z",
     "ingested_at": "2026-10-08T08:39:13.050Z"
+  },
+  {
+    "id": "07d39075-a5db-4eaf-bc7d-f09bed8223ef",
+    "title": "Solar Bicycle Hall, Paris-Nord Station",
+    "creator": "AREP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186356/solar-bicycle-hall-paris-nord-station-arep",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/cabf/07c3/d100/017f/d26d/newsletter/_H0A4054__G.Satre_Non-libre-de-droits.jpg?1791216420",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T10:00:00.000Z",
+    "ingested_at": "2026-10-08T16:15:10.555Z"
+  },
+  {
+    "id": "b9d5b21c-55bd-4b7f-b3a9-e052db3c7b45",
+    "title": "House on the Hill",
+    "creator": "Gangoly & Kristiner Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185752/house-on-the-hill-gangoly-and-kristiner-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ab6/47b2/e944/b300/0137/3a8e/newsletter/1M9A5698.jpg?1790330829",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T07:00:00.000Z",
+    "ingested_at": "2026-10-08T16:15:10.556Z"
+  },
+  {
+    "id": "f3be243e-6ac3-4ed2-841d-696ea35eb123",
+    "title": "Cultural Center in Vaison-la-Romaine",
+    "creator": "Tectoniques",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186298/cultural-center-in-vaison-la-romaine-tectoniques",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/9b3a/07c3/d100/017f/cf92/newsletter/01-TECTONIQUES_VAISON__MVerret_0235-libre_de_droits.jpg?1791204179",
+    "typology": [
+      "Stadiums"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T06:00:00.000Z",
+    "ingested_at": "2026-10-08T16:15:10.556Z"
   }
 ]

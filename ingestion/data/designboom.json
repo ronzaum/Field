@@ -12264,5 +12264,72 @@
     "material": [],
     "published_at": "2026-10-08T06:22:31.000Z",
     "ingested_at": "2026-10-08T08:39:14.283Z"
+  },
+  {
+    "id": "ed9b6436-d436-4d55-931b-6ace7ad406fd",
+    "title": "the nightclub facade as a machine for manufacturing desire – françois prost",
+    "creator": "François Prost",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/francois-prost-facade-machine-manufacturing-desire/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/francois-prost-facade-machine-manufacturing-desire-designboom-700-500x400-22b08q85r116.jpg",
+    "typology": [
+      "architecture",
+      "architectural photography",
+      "facades",
+      "guest essays",
+      "nightclubs",
+      "SPECTATOR AND SPECTACLE"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T10:50:58.000Z",
+    "ingested_at": "2026-10-08T16:15:11.692Z"
+  },
+  {
+    "id": "4d9c64c9-32b6-4994-b8a8-ba29cb875d2c",
+    "title": "pedrali converts temporary wooden pavilion into permanent community hub",
+    "creator": "AMDL CIRCLE and Michele De Lucchi",
+    "location": "Pedrali Headquarters in Mornico al Serio",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/pedrali-pavilion-temporary-wooden-permanent-community-hub/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/pedrali-pavilion-permanent-designboom700-500x400-22b08q85r009.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "architecture in italy",
+      "michele de lucchi",
+      "pedrali",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T10:07:12.000Z",
+    "ingested_at": "2026-10-08T16:15:11.698Z"
+  },
+  {
+    "id": "92745329-745b-46f3-b2de-cc4cd55c13db",
+    "title": "plywood horse doubles turn monument into public playground in seattle",
+    "creator": "Studio Deng",
+    "location": "Lake Union Park",
+    "country": "US",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/plywood-horse-doubles-monument-public-playground-seattle-design-festival-flatland-horse-studio-deng/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/flatland-horse-studio-deng-eight-horse-doubles-activity-designboom-700-500x400-22b08q85r439.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "animals in art",
+      "playgrounds",
+      "street furniture",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T07:45:28.000Z",
+    "ingested_at": "2026-10-08T16:15:11.701Z"
   }
 ]
