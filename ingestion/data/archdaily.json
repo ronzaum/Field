@@ -34182,5 +34182,39 @@
     "material": [],
     "published_at": "2026-10-08T06:00:00.000Z",
     "ingested_at": "2026-10-08T16:15:10.556Z"
+  },
+  {
+    "id": "d7d66693-ed4b-4fdc-8842-4b6b11fe54c8",
+    "title": "ZAYMA Residential Development",
+    "creator": "0studio Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186596/zayma-residential-development-0studio-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ac7/db74/7887/fb01/8910/6218/newsletter/zayma-0studio-arquitectura_29.jpg?1791482756",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T15:00:00.000Z",
+    "ingested_at": "2026-10-08T21:54:02.964Z"
+  },
+  {
+    "id": "627e680d-ca24-4ac2-9970-d671954df86b",
+    "title": "CL House",
+    "creator": "Artequitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034377/cl-house-artequitectos",
+    "image_url": "https://images.adsttc.com/media/images/68d1/d63b/67a7/a410/dde6/d225/newsletter/casa-cl-artequitectos_1.jpg?1758582345",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T13:00:00.000Z",
+    "ingested_at": "2026-10-08T21:54:02.964Z"
   }
 ]
