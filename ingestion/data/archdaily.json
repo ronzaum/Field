@@ -34216,5 +34216,39 @@
     "material": [],
     "published_at": "2026-10-08T13:00:00.000Z",
     "ingested_at": "2026-10-08T21:54:02.964Z"
+  },
+  {
+    "id": "a2a8e415-4162-40a7-ace5-fe38ab373fee",
+    "title": "Casa Iriarte",
+    "creator": "SOCO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186485/casa-iriarte",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/5a80/07c3/d100/017f/dd9f/newsletter/CIA_17.jpg?1791384334",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T19:00:00.000Z",
+    "ingested_at": "2026-10-09T01:52:41.384Z"
+  },
+  {
+    "id": "d2221c02-888f-488f-9148-ee071122b20c",
+    "title": "Varanda House",
+    "creator": "Esquadra Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034564/varanda-house-esquadra-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/68d4/60ad/c767/8c00/0197/a3fc/newsletter/250528_Casa_Varanda_0624.jpg?1758748929",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-08T17:00:00.000Z",
+    "ingested_at": "2026-10-09T01:52:41.384Z"
   }
 ]
