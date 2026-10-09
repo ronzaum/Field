@@ -34250,5 +34250,56 @@
     "material": [],
     "published_at": "2026-10-08T17:00:00.000Z",
     "ingested_at": "2026-10-09T01:52:41.384Z"
+  },
+  {
+    "id": "f5725b23-21d1-4f06-8b7d-130fd7b3d9a8",
+    "title": "Onodatesho Pavilion at the 76th Japan's National Tree Planting Festival",
+    "creator": "Yano Aoyama Architecture Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186227/onodatesho-pavilion-at-the-76th-japans-national-tree-planting-festival-yano-aoyama-architecture-design",
+    "image_url": "https://images.adsttc.com/media/images/6abf/797f/07c3/d100/017f/cb1f/newsletter/040_Spectators_View_.jpg?1790933435",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T03:00:00.000Z",
+    "ingested_at": "2026-10-09T08:44:30.865Z"
+  },
+  {
+    "id": "62922fee-0ad8-489c-9eed-7548635653c8",
+    "title": "House Q",
+    "creator": "HGAA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186297/house-q-hgaa",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/a7a7/27ac/8d01/89cb/b747/newsletter/house-q-hgaa_19.jpg?1791207363",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T02:00:00.000Z",
+    "ingested_at": "2026-10-09T08:44:30.865Z"
+  },
+  {
+    "id": "76d25827-815f-4e05-8044-51fe66181f87",
+    "title": "Jingzhou City Wall Archaeological Site Exhibition Pavilion",
+    "creator": "Qing Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1038713/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio",
+    "image_url": "https://images.adsttc.com/media/images/698c/a970/ad00/0f62/0459/41ad/newsletter/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio_12.jpg?1770826163",
+    "typology": [
+      "Heritage"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T00:00:00.000Z",
+    "ingested_at": "2026-10-09T08:44:30.865Z"
   }
 ]
