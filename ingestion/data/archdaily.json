@@ -34301,5 +34301,39 @@
     "material": [],
     "published_at": "2026-10-09T00:00:00.000Z",
     "ingested_at": "2026-10-09T08:44:30.865Z"
+  },
+  {
+    "id": "7c481a78-e501-454a-9565-5f6c75087b8e",
+    "title": "House in Tinos",
+    "creator": "Kelly Spanou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185963/house-in-tinos-kelly-spanou",
+    "image_url": "https://images.adsttc.com/media/images/6abb/8264/3bc5/c600/01c9/5393/newsletter/KS___Lorenzo_Zandri_2025-20.jpg?1790673537",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T07:00:00.000Z",
+    "ingested_at": "2026-10-09T15:59:14.990Z"
+  },
+  {
+    "id": "3a329419-014f-445d-b7f0-1e48c3d729a5",
+    "title": "OASIS Student Residence",
+    "creator": "ATELIER STEPHANE FERNANDEZ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186358/oasis-student-residence-atelier-stephane-fernandez",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/caea/07c3/d100/017f/d28c/newsletter/__Vladimir_de_Mollerat_du_Jeu_-_St_phane_Fernandez_-_M_ridia-1_libre.jpg?1791216416",
+    "typology": [
+      "Coliving"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T06:00:00.000Z",
+    "ingested_at": "2026-10-09T15:59:14.991Z"
   }
 ]
