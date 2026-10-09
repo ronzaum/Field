@@ -34335,5 +34335,56 @@
     "material": [],
     "published_at": "2026-10-09T06:00:00.000Z",
     "ingested_at": "2026-10-09T15:59:14.991Z"
+  },
+  {
+    "id": "11a4b5f2-766d-4c35-a74f-64e965394a23",
+    "title": "Comillas Waterfront Promenade",
+    "creator": "Hector Navarro + ARKHITEKTON",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186487/comillas-waterfront-promenade",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddca/newsletter/010.jpg?1791384720",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T15:00:00.000Z",
+    "ingested_at": "2026-10-09T20:47:26.379Z"
+  },
+  {
+    "id": "00483eb1-c2df-4893-907c-717e70e7659a",
+    "title": "G – 5 Houses",
+    "creator": "SUMMARY",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034091/g-5-houses-summary",
+    "image_url": "https://images.adsttc.com/media/images/68c4/4247/d84f/6b63/a060/951e/newsletter/g-5-houses-summary_17.jpg?1757692568",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T13:00:00.000Z",
+    "ingested_at": "2026-10-09T20:47:26.379Z"
+  },
+  {
+    "id": "9e8d25da-aba4-4488-bf88-bfc15092ce52",
+    "title": "Data Center ETH Zurich",
+    "creator": "Penzel Valier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186404/data-center-eth-zurich-penzel-valier",
+    "image_url": "https://images.adsttc.com/media/images/6ac4/e93a/07c3/d100/017f/d802/newsletter/111_260719_PTI_ETH_0130_mer.jpg?1791289684",
+    "typology": [
+      "Infrastructure"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T10:00:00.000Z",
+    "ingested_at": "2026-10-09T20:47:26.380Z"
   }
 ]
