@@ -12376,5 +12376,27 @@
     "material": [],
     "published_at": "2026-10-08T10:50:58.000Z",
     "ingested_at": "2026-10-09T15:59:15.845Z"
+  },
+  {
+    "id": "470c4068-4978-4351-9a4a-cfda07177e0f",
+    "title": "what you’ll see (in 3D) in the peter zumthor documentary by wim wenders",
+    "creator": "Peter Zumthor",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/wenders-zumthor-designboom-700-500x400-22b08q85r124.jpg",
+    "typology": [
+      "architecture",
+      "video",
+      "architecture in switzerland",
+      "documentaries",
+      "peter zumthor",
+      "SPECTATOR AND SPECTACLE"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T20:35:42.000Z",
+    "ingested_at": "2026-10-10T22:21:26.012Z"
   }
 ]

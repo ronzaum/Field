@@ -34488,5 +34488,56 @@
     "material": [],
     "published_at": "2026-10-10T10:00:00.000Z",
     "ingested_at": "2026-10-10T18:21:18.608Z"
+  },
+  {
+    "id": "92ca25c8-47f1-4cf1-9b0e-d09f9477bf5a",
+    "title": "Prukpirom House Renovation (PPR House)",
+    "creator": "S+S Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186235/prukpirom-house-renovation-ppr-house-s-plus-s-architects",
+    "image_url": "https://images.adsttc.com/media/images/6abf/9f4c/07c3/d100/017f/cbbe/newsletter/0__1_.jpg?1790943065",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T17:00:00.000Z",
+    "ingested_at": "2026-10-10T22:21:24.501Z"
+  },
+  {
+    "id": "c6fcecc8-1584-4be5-83b2-c182cd398421",
+    "title": "La Negrita House",
+    "creator": "Estudio Palacios",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios",
+    "image_url": "https://images.adsttc.com/media/images/6ac9/0648/b2c4/c300/0178/e587/newsletter/014_-_07-2026__-__ESTUDIO_PALACIOS_NEGRITA_ph_g_viramonte-6415-HDR-3.jpg?1791559319",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T16:00:00.000Z",
+    "ingested_at": "2026-10-10T22:21:24.501Z"
+  },
+  {
+    "id": "caf4e16f-2a63-4ba7-8fbf-496299c58069",
+    "title": "Haras House",
+    "creator": "Felipe Hess Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1032917/haras-house-felipe-hess-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/688a/c0ef/cb12/3801/8612/d822/newsletter/casa-haras-felipe-hess-arquitetos_25.jpg?1753923909",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T15:00:00.000Z",
+    "ingested_at": "2026-10-10T22:21:24.501Z"
   }
 ]
