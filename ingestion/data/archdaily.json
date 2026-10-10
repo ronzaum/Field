@@ -34403,5 +34403,22 @@
     "material": [],
     "published_at": "2026-10-09T17:00:00.000Z",
     "ingested_at": "2026-10-10T00:37:38.892Z"
+  },
+  {
+    "id": "bb0fca60-5ffa-4af4-8208-ace030b318ed",
+    "title": "Gutiérrez Café",
+    "creator": "Toro Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186647/gutierrez-cafe-toro-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ac9/05e2/b2c4/c300/0178/e578/newsletter/Guti_rrez_Caf__002.jpg?1791559163",
+    "typology": [
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T19:00:00.000Z",
+    "ingested_at": "2026-10-10T06:51:27.844Z"
   }
 ]
