@@ -34386,5 +34386,22 @@
     "material": [],
     "published_at": "2026-10-09T10:00:00.000Z",
     "ingested_at": "2026-10-09T20:47:26.380Z"
+  },
+  {
+    "id": "22b6a51b-47be-4a9f-bf1f-7d9093035dc3",
+    "title": "House D+J",
+    "creator": "Pablo Lanza Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034511/house-d-plus-j-pablo-lanza-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/68d1/afb8/0469/df00/01df/295a/newsletter/alta-pablolanza-residenciaitu-mortattistudio-31.jpg?1758572498",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-09T17:00:00.000Z",
+    "ingested_at": "2026-10-10T00:37:38.892Z"
   }
 ]
