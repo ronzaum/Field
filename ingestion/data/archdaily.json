@@ -34420,5 +34420,39 @@
     "material": [],
     "published_at": "2026-10-09T19:00:00.000Z",
     "ingested_at": "2026-10-10T06:51:27.844Z"
+  },
+  {
+    "id": "bf312409-226e-4155-9e1f-617529b3d5ab",
+    "title": "An unfinished domestic device as a threshold between interior and landscape",
+    "creator": "EX.",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex",
+    "image_url": "https://images.adsttc.com/media/images/6abd/2122/c30d/0000/01d4/8f3f/newsletter/B9989670__Tomaso_Clavarino.jpg?1790779779",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T06:00:00.000Z",
+    "ingested_at": "2026-10-10T13:27:26.195Z"
+  },
+  {
+    "id": "afb5e164-0244-4bd7-9acc-6e0fbd7e5cd8",
+    "title": "Wiki World Forest Store",
+    "creator": "Wiki World",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
+    "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/newsletter/02.jpg?1791431947",
+    "typology": [
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T02:00:00.000Z",
+    "ingested_at": "2026-10-10T13:27:26.195Z"
   }
 ]
