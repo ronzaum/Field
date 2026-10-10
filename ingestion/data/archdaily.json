@@ -34454,5 +34454,39 @@
     "material": [],
     "published_at": "2026-10-10T02:00:00.000Z",
     "ingested_at": "2026-10-10T13:27:26.195Z"
+  },
+  {
+    "id": "8147803c-5b94-4150-ab6f-76815e3b9111",
+    "title": "CASA MG",
+    "creator": "Startup Architettura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186467/casa-mg-startup-architettura",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/12e1/07c3/d100/017f/dc22/newsletter/startup_apt-piazzadante_DSCF1371.jpg?1791366004",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T11:00:00.000Z",
+    "ingested_at": "2026-10-10T18:21:18.608Z"
+  },
+  {
+    "id": "6e2e65b4-b9fa-4806-ab04-4fcb9fd4c6c7",
+    "title": "Childcare Centre Mowgli",
+    "creator": "Natrufied Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186615/childcare-centre-mowgli-natrufied-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ac8/ab6a/b2c4/c300/0178/e49c/newsletter/IMG_7790_300.jpg?1791536181",
+    "typology": [
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-10-10T10:00:00.000Z",
+    "ingested_at": "2026-10-10T18:21:18.608Z"
   }
 ]
