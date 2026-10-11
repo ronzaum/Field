@@ -34590,5 +34590,39 @@
     "material": [],
     "published_at": "2026-10-11T06:00:00.000Z",
     "ingested_at": "2026-10-11T15:29:12.487Z"
+  },
+  {
+    "id": "9386271b-4181-4220-9e02-d7b5da24ee4e",
+    "title": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar",
+    "creator": "Studio Téré",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/1386/07c3/d100/017f/dc57/newsletter/studio-tere-architecte-aiguilleuse-2.jpg?1791366071",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T11:00:00.000Z",
+    "ingested_at": "2026-10-11T20:04:41.994Z"
+  },
+  {
+    "id": "7aca4467-8b31-4e0c-abaf-629f0e281769",
+    "title": "Chaume Sublimé",
+    "creator": "COAT",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186468/chaume-sublime-coat",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/12f6/07c3/d100/017f/dc34/newsletter/01_23B3714_photoarchitecture.com.jpg?1791365911",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T10:00:00.000Z",
+    "ingested_at": "2026-10-11T20:04:41.995Z"
   }
 ]
