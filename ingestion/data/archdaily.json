@@ -34573,5 +34573,22 @@
     "material": [],
     "published_at": "2026-10-10T21:00:00.000Z",
     "ingested_at": "2026-10-11T08:33:27.559Z"
+  },
+  {
+    "id": "da6d8b44-f434-4fad-b436-90c9e7756c90",
+    "title": "Home Herengracht",
+    "creator": "Studio Modijefsky",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186299/home-herengracht-studio-modijefsky",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/9b6b/07c3/d100/017f/cfb0/newsletter/_1__Modijefsky_Herengracht_HR.jpg?1791204214",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T06:00:00.000Z",
+    "ingested_at": "2026-10-11T15:29:12.487Z"
   }
 ]

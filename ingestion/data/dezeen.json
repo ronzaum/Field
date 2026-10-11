@@ -1557,5 +1557,27 @@
     "material": [],
     "published_at": "2026-10-02T10:30:05.000Z",
     "ingested_at": "2026-10-02T15:35:59.775Z"
+  },
+  {
+    "id": "bb8eeca5-50b8-4fec-9cc9-ab7cde1f335c",
+    "title": "\"Monolithic\" concrete house informed",
+    "creator": "rock-cut monastic homes",
+    "location": null,
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
+    "image_url": "http://static.dezeen.com/uploads/2026/09/monastic-field-roomoor-india_dezeen_2364_sq_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Concrete",
+      "Houses",
+      "Indian houses",
+      "Concrete houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T10:00:19.000Z",
+    "ingested_at": "2026-10-11T15:29:12.807Z"
   }
 ]
