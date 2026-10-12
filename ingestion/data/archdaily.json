@@ -34709,5 +34709,90 @@
     "material": [],
     "published_at": "2026-10-11T15:00:00.000Z",
     "ingested_at": "2026-10-12T07:08:05.209Z"
+  },
+  {
+    "id": "4ad12c20-56f9-4734-b1ec-f813d7bac924",
+    "title": "Civil Protection Centre",
+    "creator": "Roland Baldi Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186466/civil-protection-centre-in-oris-roland-baldi-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/10d8/07c3/d100/017f/dc02/newsletter/_DR62441B.jpg?1791365405",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T10:00:00.000Z",
+    "ingested_at": "2026-10-12T17:37:17.501Z"
+  },
+  {
+    "id": "e7ad4de2-0a62-4326-8d0f-f14ecdd20b79",
+    "title": "Toyota City Museum",
+    "creator": "Shigeru Ban Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186423/toyota-city-museum-shigeru-ban-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ac4/f717/27ac/8d01/89cb/bc42/newsletter/toyota-city-museum-shigeru-ban-architects_4.jpg?1791293246",
+    "typology": [
+      "Museums & Exhibit"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T07:00:00.000Z",
+    "ingested_at": "2026-10-12T17:37:17.501Z"
+  },
+  {
+    "id": "deb7cd92-4d08-47bf-88b1-c8e2637ad7e2",
+    "title": "Ceramics Workshop in Copenhagen",
+    "creator": "Jesper Kusk Arkitekter",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186614/ceramics-workshop-in-copenhagen-jesper-kusk-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/6ac8/aa60/b2c4/c300/0178/e475/newsletter/_DSF5217.jpg?1791535738",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T06:00:00.000Z",
+    "ingested_at": "2026-10-12T17:37:17.501Z"
+  },
+  {
+    "id": "bb736669-aec7-4e4d-92bd-14c38a2d6a06",
+    "title": "Port Melbourne Secondary College",
+    "creator": "Billard Leece Partnership",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186451/port-melbourne-secondary-college-billard-leece-partnership",
+    "image_url": "https://images.adsttc.com/media/images/6ac5/6096/27ac/8d01/89cb/bdf2/newsletter/port-melbourne-secondary-college-billard-leece-partnership_15.jpg?1791320263",
+    "typology": [
+      "High School"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T03:00:00.000Z",
+    "ingested_at": "2026-10-12T17:37:17.502Z"
+  },
+  {
+    "id": "6244b17f-30f4-4d4b-b208-993d1c65147c",
+    "title": "Minoudar House",
+    "creator": "harandi & harandi architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186478/minoudar-house-harandi-and-harandi-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/41ab/90e2/9d01/89d2/e75d/newsletter/minoudar-house-reno_11.jpg?1791377914",
+    "typology": [
+      "Heritage"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T02:00:00.000Z",
+    "ingested_at": "2026-10-12T17:37:17.502Z"
   }
 ]

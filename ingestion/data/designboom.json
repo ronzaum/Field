@@ -12398,5 +12398,47 @@
     "material": [],
     "published_at": "2026-10-10T20:35:42.000Z",
     "ingested_at": "2026-10-10T22:21:26.012Z"
+  },
+  {
+    "id": "865d859e-5127-40ec-a8e1-68fe5c8dcc77",
+    "title": "BIG stacks floating terraces above green public space in tirana",
+    "creator": "Bjarke Ingels Group (BIG)",
+    "location": "Tirana",
+    "country": "Albania",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-floating-terraces-green-public-space-tirana-fountain-plaza-albania/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/big-bjarke-ingels-group-floating-terraces-green-public-space-tirana-fountain-plaza-albania-designbom-700-500x400-22b08q85r658.jpg",
+    "typology": [
+      "architecture",
+      "architecture in albania",
+      "bjarke ingels group / BIG"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T14:00:19.000Z",
+    "ingested_at": "2026-10-12T17:37:18.426Z"
+  },
+  {
+    "id": "0caa3d31-ea93-444c-b852-1a87f7811904",
+    "title": "OMA adapts historic houston coffee plant into music and arts academy",
+    "creator": "OMA New York",
+    "location": "Houston",
+    "country": "United States",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/oma-historic-houston-coffee-plant-music-arts-academy-frank-liu-jr-flama/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/oma-historic-houston-coffee-plant-music-arts-academy-frank-liu-jr-flama-designboom-700-500x400-22b08q85r954.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in texas",
+      "architecture in the US",
+      "OMA / rem koolhaas",
+      "renovation and restoration architecture and design",
+      "school architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T09:11:28.000Z",
+    "ingested_at": "2026-10-12T17:37:18.435Z"
   }
 ]
