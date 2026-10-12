@@ -34624,5 +34624,90 @@
     "material": [],
     "published_at": "2026-10-11T10:00:00.000Z",
     "ingested_at": "2026-10-11T20:04:41.995Z"
+  },
+  {
+    "id": "fee2d40b-4054-4aba-af06-2b7f80591d50",
+    "title": "Yanqing Li Commercial Renovation",
+    "creator": "Mix Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186545/yanqing-li-commercial-renovation-mix-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ac7/48a0/27ac/8d01/89cb/c349/newsletter/yanqing-li-commercial-renovation-mix-architecture_45.jpg?1791445165",
+    "typology": [
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T00:00:00.000Z",
+    "ingested_at": "2026-10-12T07:08:05.207Z"
+  },
+  {
+    "id": "de61cbcd-a5fd-43ea-8303-cfd34776de2d",
+    "title": "ITA - Italian Trade Agency Dakar",
+    "creator": "MOST Monti Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186426/ita-italian-trade-agency-dakar-most-monti-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ac4/f830/07c3/d100/017f/d8c2/newsletter/01.jpg?1791293554",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T21:00:00.000Z",
+    "ingested_at": "2026-10-12T07:08:05.208Z"
+  },
+  {
+    "id": "d6b87c72-b84a-4f9f-9af1-d61980174c13",
+    "title": "Wise Consultation Office",
+    "creator": "RVMN",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186225/wise-consultation-office-rvmn",
+    "image_url": "https://images.adsttc.com/media/images/6abf/76fe/07c3/d100/017f/caec/newsletter/2Q3A9625_1.jpg?1790933041",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T17:00:00.000Z",
+    "ingested_at": "2026-10-12T07:08:05.208Z"
+  },
+  {
+    "id": "131e1bcb-ed1a-41f3-be6b-67bc22dbdd7c",
+    "title": "Pinewood Houses",
+    "creator": "NOMO STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/newsletter/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T16:00:00.000Z",
+    "ingested_at": "2026-10-12T07:08:05.208Z"
+  },
+  {
+    "id": "8ee0bd27-faca-49cd-b860-246b7bedc829",
+    "title": "Ība House",
+    "creator": "Daniel Fromer",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1032640/iba-house-daniel-fromer",
+    "image_url": "https://images.adsttc.com/media/images/6889/fb1b/4460/0500/01e0/cfb0/newsletter/0289330.jpg?1753873279",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-11T15:00:00.000Z",
+    "ingested_at": "2026-10-12T07:08:05.209Z"
   }
 ]
