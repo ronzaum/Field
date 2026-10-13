@@ -34964,5 +34964,39 @@
     "material": [],
     "published_at": "2026-10-13T02:00:00.000Z",
     "ingested_at": "2026-10-13T15:45:56.389Z"
+  },
+  {
+    "id": "e1708ea0-ded5-4686-a0b7-76eb024529d1",
+    "title": "KatNap House",
+    "creator": "Nutum Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186760/katnap-house-nutum-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6ace/7c2a/b2c4/c300/0178/ee36/newsletter/DJI_20260824183026_0231_D_copia.jpg?1791917170",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-13T15:00:00.000Z",
+    "ingested_at": "2026-10-13T21:05:52.337Z"
+  },
+  {
+    "id": "b24bc0c3-26de-4c4e-9ad5-29b95a8aa386",
+    "title": "Coral House",
+    "creator": "Sidney Quintela Architecture + Urban Planning",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
+    "image_url": "https://images.adsttc.com/media/images/688c/a379/4460/0500/01e0/d202/newsletter/Sidney_Quintela_-_Faf__-_72dpi_-_Foto_Gabriela_Daltro_-_Rev_1--15-min.jpg?1754047408",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-13T13:00:00.000Z",
+    "ingested_at": "2026-10-13T21:05:52.338Z"
   }
 ]

@@ -12543,5 +12543,27 @@
     "material": [],
     "published_at": "2026-10-13T10:00:18.000Z",
     "ingested_at": "2026-10-13T15:45:57.235Z"
+  },
+  {
+    "id": "fc33de4f-f438-4580-a016-d33ece93a7cc",
+    "title": "garden divides perkins&will’s são paulo office tower into two stacked volumes",
+    "creator": "Perkins&Will",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/garden-perkinswill-sao-paulo-office-tower-two-stacked-volumes-jeronimo-faria-lima/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/jeronimo-faria-lima-perkins-will-corporate-tower-sao-paulo-designboom-700-500x400-22b08q85r432.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in sao paulo",
+      "perkins + will",
+      "where people work"
+    ],
+    "material": [],
+    "published_at": "2026-10-13T15:45:01.000Z",
+    "ingested_at": "2026-10-13T21:05:53.841Z"
   }
 ]
