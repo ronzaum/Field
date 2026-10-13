@@ -34794,5 +34794,56 @@
     "material": [],
     "published_at": "2026-10-12T02:00:00.000Z",
     "ingested_at": "2026-10-12T17:37:17.502Z"
+  },
+  {
+    "id": "abdc2769-b60f-4a13-95d6-c9f4634026f9",
+    "title": "Lima House",
+    "creator": "BLOCO Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1032927/lima-house-bloco-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/688c/1db2/a805/bb75/6625/30c9/newsletter/casa-lima-bloco-arquitetos_1.jpg?1754013122",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T17:00:00.000Z",
+    "ingested_at": "2026-10-13T00:24:31.597Z"
+  },
+  {
+    "id": "f6afdc5d-a3ca-4231-9c3e-cd6959d4632a",
+    "title": "Hōsho House",
+    "creator": "israelpacheco arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186659/hosho-house-israelpacheco-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6acb/d543/b2c4/c300/0178/e7fe/newsletter/IMG_9144.jpg?1791744005",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T15:00:00.000Z",
+    "ingested_at": "2026-10-13T00:24:31.597Z"
+  },
+  {
+    "id": "f7194a3a-dddf-4c5a-a193-83a0b9497c77",
+    "title": "Linho House",
+    "creator": "TETRO Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/689b/9b43/07ae/3401/89b5/21ea/newsletter/casa-de-linho-tetro-arquitetura_1.jpg?1755028307",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T13:00:00.000Z",
+    "ingested_at": "2026-10-13T00:24:31.598Z"
   }
 ]
