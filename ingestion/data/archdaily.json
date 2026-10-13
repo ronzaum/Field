@@ -34845,5 +34845,39 @@
     "material": [],
     "published_at": "2026-10-12T13:00:00.000Z",
     "ingested_at": "2026-10-13T00:24:31.598Z"
+  },
+  {
+    "id": "90007208-833a-4663-a893-c47bf10a5395",
+    "title": "The Nimbus - uBLOCK Healthcare Hospitality Lounge",
+    "creator": "LUKSTUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186672/the-nimbus-ublock-healthcare-hospitality-lounge-lukstudio",
+    "image_url": "https://images.adsttc.com/media/images/6acc/8808/b2c4/c300/0178/e916/newsletter/Ublock_1F_Cafe__Dirk_Weiblen__2_.jpg?1791789095",
+    "typology": [
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-13T00:00:00.000Z",
+    "ingested_at": "2026-10-13T07:32:23.080Z"
+  },
+  {
+    "id": "b7f87b7d-a55d-4017-8939-0befe2207487",
+    "title": "Hostafrancs House",
+    "creator": "Parramon + Tahull Arquitectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186707/hostafrancs-house-parramon-plus-tahull-arquitectes",
+    "image_url": "https://images.adsttc.com/media/images/6abd/20ff/c30d/0000/01d4/8f1a/newsletter/JC1231-1492-Pano.jpg?1790779673",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T19:00:00.000Z",
+    "ingested_at": "2026-10-13T07:32:23.080Z"
   }
 ]

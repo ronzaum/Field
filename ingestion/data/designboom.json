@@ -12440,5 +12440,47 @@
     "material": [],
     "published_at": "2026-10-12T09:11:28.000Z",
     "ingested_at": "2026-10-12T17:37:18.435Z"
+  },
+  {
+    "id": "94fd918a-ef5e-4807-bfc9-497b4fac4e3c",
+    "title": "four pitched-roof volumes build timber-clad coastal house in belgium",
+    "creator": "Vantieghem Talebi",
+    "location": "Koksijde",
+    "country": "Belgium",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/four-pitched-roof-volumes-timber-clad-coastal-house-of-cards-belgium/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/house-of-cards-coastal-residence-koksijde-belgium-vantieghem-talebi-designboom-700-500x400-22b08q85r470.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in belgium",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-13T02:10:12.000Z",
+    "ingested_at": "2026-10-13T07:32:24.404Z"
+  },
+  {
+    "id": "aa9631f3-b88a-43ec-b9be-43f096f569d3",
+    "title": "gasparetto parenti and olivier guyot shape hôtel massé’s creative world in paris",
+    "creator": "Iñaki Laguardia",
+    "location": "Paris",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gasparetto-parenti-olivier-guyot-hotel-masse-paris-pigalle-le-trente-restaurant/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/gasparetto-parenti-olivier-guyot-hotel-masse-paris-pigalle-le-trente-restaurant-designboom-3.jpg-500x400-22b08q85r026.jpg",
+    "typology": [
+      "architecture",
+      "architecture in paris",
+      "bar architecture and design",
+      "designer boutique hotels",
+      "hotel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-12T20:42:43.000Z",
+    "ingested_at": "2026-10-13T07:32:24.415Z"
   }
 ]
