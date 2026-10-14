@@ -35032,5 +35032,22 @@
     "material": [],
     "published_at": "2026-10-13T17:00:00.000Z",
     "ingested_at": "2026-10-14T01:00:30.083Z"
+  },
+  {
+    "id": "fd3d618b-1078-40a5-849b-7b469f2ee904",
+    "title": "Shanghai Science and Technology Investment Tower Mixed-Use Development",
+    "creator": "NBBJ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186717/shanghai-science-and-technology-investment-tower-mixed-use-development-nbbj",
+    "image_url": "https://images.adsttc.com/media/images/6acd/e63d/b2c4/c300/0178/eb8b/newsletter/17__SFAP.jpg?1791878773",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T00:00:00.000Z",
+    "ingested_at": "2026-10-14T07:19:28.364Z"
   }
 ]
