@@ -34998,5 +34998,39 @@
     "material": [],
     "published_at": "2026-10-13T13:00:00.000Z",
     "ingested_at": "2026-10-13T21:05:52.338Z"
+  },
+  {
+    "id": "b737072a-b1f5-4ba2-8e44-761d22a5af8a",
+    "title": "PH Dickman",
+    "creator": "PH TIPO CASA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186772/ph-dickman-ph-tipo-casa",
+    "image_url": "https://images.adsttc.com/media/images/6ace/a0e6/b2c4/c300/0178/ef21/newsletter/21_PH_DICKMAN.jpg?1791927372",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-13T19:00:00.000Z",
+    "ingested_at": "2026-10-14T01:00:30.083Z"
+  },
+  {
+    "id": "90a33598-2c4c-4aaf-a369-f3dfa3ed9adb",
+    "title": "Main House",
+    "creator": "messina | rivas",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034259/house-sede-messina-rivas",
+    "image_url": "https://images.adsttc.com/media/images/68c9/e6d2/d84f/6b73/24ae/379c/newsletter/casa-sede-messina-rivas_36.jpg?1758062302",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-13T17:00:00.000Z",
+    "ingested_at": "2026-10-14T01:00:30.083Z"
   }
 ]
