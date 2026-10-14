@@ -35049,5 +35049,73 @@
     "material": [],
     "published_at": "2026-10-14T00:00:00.000Z",
     "ingested_at": "2026-10-14T07:19:28.364Z"
+  },
+  {
+    "id": "4c3aba86-6f6d-409f-85b7-da89b2979aad",
+    "title": "Cabin Ostøya",
+    "creator": "R21 Arkitekter",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186290/cabin-ostoya-r21-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/6d25/07c3/d100/017f/cedd/newsletter/Bryggeveien_Int_05_kopi.jpg?1791192583",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T07:00:00.000Z",
+    "ingested_at": "2026-10-14T13:28:33.250Z"
+  },
+  {
+    "id": "217b3b5b-dbfb-403c-b538-41a2f0f3d06f",
+    "title": "House by the Vineyard",
+    "creator": "ARCHITEKTI mikulaj & mikulajova",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186470/house-by-the-vineyard-architekti-mikulaj-and-mikulajova",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/13be/07c3/d100/017f/dc73/newsletter/004.jpg?1791366141",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T06:00:00.000Z",
+    "ingested_at": "2026-10-14T13:28:33.251Z"
+  },
+  {
+    "id": "69b3a3a8-5ac3-4888-a277-c0ada877ec05",
+    "title": "Middle Envelope Apartment",
+    "creator": "CROSSARCHITECTURE / Mehrdad Makaremi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186431/middle-envelope-apartment-crossarchitecture-mehrdad-makaremi",
+    "image_url": "https://images.adsttc.com/media/images/6ac5/11f5/07c3/d100/017f/d97a/newsletter/02__3__copy.jpg?1791300185",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T03:00:00.000Z",
+    "ingested_at": "2026-10-14T13:28:33.251Z"
+  },
+  {
+    "id": "b27bdaef-2cd4-41d5-80c2-77ea6a30dc23",
+    "title": "Landing Bakery",
+    "creator": "FIVE MILE RADIUS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186208/landing-bakery-five-mile-radius",
+    "image_url": "https://images.adsttc.com/media/images/6abe/c3fa/07c3/d100/017f/c963/newsletter/20250818_Landing_Bakery_5MR_MJR_0246_V2_Chatfield.jpg?1790886924",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T02:00:00.000Z",
+    "ingested_at": "2026-10-14T13:28:33.251Z"
   }
 ]

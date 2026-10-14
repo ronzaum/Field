@@ -12565,5 +12565,46 @@
     "material": [],
     "published_at": "2026-10-13T15:45:01.000Z",
     "ingested_at": "2026-10-13T21:05:53.841Z"
+  },
+  {
+    "id": "e6911ad7-b47f-4a7c-add4-01b3210a4934",
+    "title": "renewed 1983 bathhouse in japan preserves tilework and curved interiors",
+    "creator": "MABI ARCHITECTS",
+    "location": "5-12-5 Fukushima",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/renewed-1983-bathhouse-japan-tilework-curved-interiors-mabi-architects-shizunoyu-fukushima/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/mabi-architects-enmeiyu-public-bathhouse-1983-shizunoyu-fukushima-designboom-700-500x400-22b08q85r222.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "bathroom design",
+      "saunas"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T09:26:27.000Z",
+    "ingested_at": "2026-10-14T13:28:35.157Z"
+  },
+  {
+    "id": "fcd93c09-270d-444f-af66-b7a1de5567a0",
+    "title": "inside ‘la voile’, norman foster’s former waterfront home on the french riviera",
+    "creator": "Norman Foster",
+    "location": "Saint-Jean-Cap-Ferrat",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/la-voile-norman-foster-former-waterfront-home-french-riviera-sale/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/la-voile-norman-foster-former-waterfront-home-french-riviera-sale-designboom-700-500x400-22b08q85r721.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in france",
+      "foster and partners",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T09:04:39.000Z",
+    "ingested_at": "2026-10-14T13:28:35.163Z"
   }
 ]
