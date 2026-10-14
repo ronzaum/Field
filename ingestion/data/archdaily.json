@@ -35117,5 +35117,56 @@
     "material": [],
     "published_at": "2026-10-14T02:00:00.000Z",
     "ingested_at": "2026-10-14T13:28:33.251Z"
+  },
+  {
+    "id": "557d6c33-21ab-4a46-ab85-f0b1404833ba",
+    "title": "Padre Luís Cabral Building",
+    "creator": "Hori-zonte",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186822/padre-luis-cabral-building-hori-zonte",
+    "image_url": "https://images.adsttc.com/media/images/6ac0/188a/07c3/d100/017f/cd7e/newsletter/hori-zonteCoralFN0000-HEAD.jpg?1790974130",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T13:00:00.000Z",
+    "ingested_at": "2026-10-14T18:24:33.061Z"
+  },
+  {
+    "id": "3befea38-49ec-4545-9375-577ce9d4fab6",
+    "title": "Wild Pond Villa",
+    "creator": "L. McComber",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186824/wild-pond-villa-l-mccomber",
+    "image_url": "https://images.adsttc.com/media/images/6acf/7a9e/b2c4/c300/0178/f2fa/newsletter/villa-sauvage-reconstruction-maison-apr_s-incendie-feu-chalet-_tang-lac-estrie-fen_tres-vue-montagne-pilotis-bois-ch_ne-blanc-pruche-courbe-arche_A18_LMcComber-architecture.jpg?1791982356",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T12:00:00.000Z",
+    "ingested_at": "2026-10-14T18:24:33.062Z"
+  },
+  {
+    "id": "5eb66f18-a2af-4b85-a60f-b832f7aafcae",
+    "title": "Wilnsdorf Primary School and Sports Hall",
+    "creator": "BUERO BB",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186599/wilnsdorf-primary-school-and-sports-hall-buero-bb",
+    "image_url": "https://images.adsttc.com/media/images/6ac7/f66c/b2c4/c300/0178/e3a1/newsletter/09__SebastianSchels.jpg?1791491626",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T10:00:00.000Z",
+    "ingested_at": "2026-10-14T18:24:33.062Z"
   }
 ]
