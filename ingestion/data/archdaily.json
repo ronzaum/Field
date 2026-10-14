@@ -35168,5 +35168,22 @@
     "material": [],
     "published_at": "2026-10-14T10:00:00.000Z",
     "ingested_at": "2026-10-14T18:24:33.062Z"
+  },
+  {
+    "id": "97d7cc5d-5cda-4057-b143-067bea2ee62f",
+    "title": "Casa Emilio Delporte",
+    "creator": "Citic",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186768/casa-emilio-delporte-citic",
+    "image_url": "https://images.adsttc.com/media/images/6ace/9ae5/b2c4/c300/0178/eee8/newsletter/CED-_IGNACIOSQUELLA-6.jpg?1791925069",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T15:00:00.000Z",
+    "ingested_at": "2026-10-14T22:08:12.455Z"
   }
 ]
