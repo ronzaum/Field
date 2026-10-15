@@ -35355,5 +35355,39 @@
     "material": [],
     "published_at": "2026-10-15T10:00:00.000Z",
     "ingested_at": "2026-10-15T18:06:58.224Z"
+  },
+  {
+    "id": "78b360f8-7b8a-40cc-9cbb-3ea87d702d7b",
+    "title": "Ibitipoca House",
+    "creator": "Gávea Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186971/ibitipoca-house-gavea-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6acf/db95/b2c4/c300/0178/f44e/newsletter/3.jpg?1792007080",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T17:00:00.000Z",
+    "ingested_at": "2026-10-15T22:01:32.633Z"
+  },
+  {
+    "id": "8bb067a2-cc3b-4dec-8ae9-e5b4cfdeadd5",
+    "title": "Casa de Tierra",
+    "creator": "Walter Fernando Castañeda Luquerna",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186928/casa-de-tierra-walter-fernando-castaneda-luquerna",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/d660/b2c4/c300/0178/f8a5/newsletter/13_Casa_Guasca-LLANO_5705.jpg?1792071300",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T15:00:00.000Z",
+    "ingested_at": "2026-10-15T22:01:32.633Z"
   }
 ]
