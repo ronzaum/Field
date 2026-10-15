@@ -35304,5 +35304,56 @@
     "material": [],
     "published_at": "2026-10-15T03:00:00.000Z",
     "ingested_at": "2026-10-15T13:12:41.665Z"
+  },
+  {
+    "id": "772cb354-b844-4ec1-882f-4da77289f811",
+    "title": "Loungueira House",
+    "creator": "Pontoatelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186863/loungueira-house-pontoatelier",
+    "image_url": "https://images.adsttc.com/media/images/6acf/eb35/b2c4/c300/0178/f4c6/newsletter/PA_TiagoCasanova_06.jpg?1792011107",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T13:00:00.000Z",
+    "ingested_at": "2026-10-15T18:06:58.223Z"
+  },
+  {
+    "id": "28faa089-3d22-49ca-b761-d933b8a5bf29",
+    "title": "Burden Museum & Gardens Welcome Center",
+    "creator": "Eskew Dumez Ripple",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186837/burden-museum-and-gardens-welcome-center-eskew-dumez-ripple",
+    "image_url": "https://images.adsttc.com/media/images/6acf/bcb2/b2c4/c300/0178/f3b4/newsletter/DSC_1689_Michael_Mantese___EskewDumezRipple.jpg?1791999188",
+    "typology": [
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T12:00:00.000Z",
+    "ingested_at": "2026-10-15T18:06:58.223Z"
+  },
+  {
+    "id": "9a99d0fa-6f05-41bf-a618-50176e088d52",
+    "title": "Centre Pompidou Francilien — Fabrique de l’Art",
+    "creator": "PCA / Prellwitz Chilinski Associates",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186405/centre-pompidou-francilien-fabrique-de-lart-pca-prellwitz-chilinski-associates",
+    "image_url": "https://images.adsttc.com/media/images/6acd/efd0/7887/fb01/8910/6b16/newsletter/centre-pompidou-francilien-fabrique-de-lart-pca-prellwitz-chilinski-associates_20.jpg?1791881199",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T10:00:00.000Z",
+    "ingested_at": "2026-10-15T18:06:58.224Z"
   }
 ]
