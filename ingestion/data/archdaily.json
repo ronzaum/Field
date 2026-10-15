@@ -35185,5 +35185,22 @@
     "material": [],
     "published_at": "2026-10-14T15:00:00.000Z",
     "ingested_at": "2026-10-14T22:08:12.455Z"
+  },
+  {
+    "id": "f2741373-833a-4a21-ade8-9afde7922012",
+    "title": "Brumadinho Memorial",
+    "creator": "Gustavo Penna Arquiteto e Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186835/brumadinho-memorial-gustavo-penna-arquiteto-e-associados",
+    "image_url": "https://images.adsttc.com/media/images/6acf/8ec6/b2c4/c300/0178/f330/newsletter/02_Pedro_Mascaro_DJI_20250221081134_0859_D.jpg?1791987438",
+    "typology": [
+      "Exhibition center"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T17:00:00.000Z",
+    "ingested_at": "2026-10-15T01:18:35.106Z"
   }
 ]
