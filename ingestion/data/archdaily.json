@@ -35202,5 +35202,56 @@
     "material": [],
     "published_at": "2026-10-14T17:00:00.000Z",
     "ingested_at": "2026-10-15T01:18:35.106Z"
+  },
+  {
+    "id": "36a6bdfb-059f-4001-8124-02a6d0b06c15",
+    "title": "Nakamura Ward Office Complex",
+    "creator": "Takenaka Corporation",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186234/nakamura-ward-office-complex-takenaka-corporation",
+    "image_url": "https://images.adsttc.com/media/images/6abf/9e17/07c3/d100/017f/cbb1/newsletter/06_SS.inc.jpg?1790942835",
+    "typology": [
+      "Government"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T02:00:00.000Z",
+    "ingested_at": "2026-10-15T07:10:43.487Z"
+  },
+  {
+    "id": "8c75cf94-5615-46c0-a3a6-a858e1d308ca",
+    "title": "Zhuozhuo Community",
+    "creator": "WEI+ Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186714/zhuozhuo-community-wei-plus-design",
+    "image_url": "https://images.adsttc.com/media/images/6ace/0b2a/c599/0e01/8860/1095/newsletter/zhuozhuo-community-wei-plus-design_52.jpg?1791888309",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T00:00:00.000Z",
+    "ingested_at": "2026-10-15T07:10:43.487Z"
+  },
+  {
+    "id": "60765077-856a-4c29-8d03-9c1cf7ba4ff4",
+    "title": "Civic Campus Sallarès Deu",
+    "creator": "JAAS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
+    "image_url": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/newsletter/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-14T19:00:00.000Z",
+    "ingested_at": "2026-10-15T07:10:43.487Z"
   }
 ]
