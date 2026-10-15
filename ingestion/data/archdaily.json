@@ -35253,5 +35253,56 @@
     "material": [],
     "published_at": "2026-10-14T19:00:00.000Z",
     "ingested_at": "2026-10-15T07:10:43.487Z"
+  },
+  {
+    "id": "7fa88287-4e1b-46d8-bb45-37a98f3ddcf5",
+    "title": "Azenya Villas",
+    "creator": "KWCA - Kosala Weerasekara Chartered Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186590/azenya-villas-kwca-kosala-weerasekara-chartered-architects",
+    "image_url": "https://images.adsttc.com/media/images/6acd/0fd4/c599/0e01/8860/0eca/newsletter/azenya-villas-kwca-kosala-weerasekara-chartered-architects_20.jpg?1791823849",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T07:00:00.000Z",
+    "ingested_at": "2026-10-15T13:12:41.665Z"
+  },
+  {
+    "id": "0dd3fec6-3e5b-47a9-ba43-1665d54e862a",
+    "title": "La Maison en bord de mer",
+    "creator": "Terres terres",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186572/la-maison-en-bord-de-mer",
+    "image_url": "https://images.adsttc.com/media/images/6ac7/987b/b2c4/c300/0178/e1da/newsletter/photo-SG-2025-SPINETTO-CONSTELLATIONS--maison--blondville--IMP-B-0004a.jpg?1791465652",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T06:00:00.000Z",
+    "ingested_at": "2026-10-15T13:12:41.665Z"
+  },
+  {
+    "id": "c1fd8f2b-2a96-4312-90c0-acca8c1ca148",
+    "title": "The Mortar House Offices",
+    "creator": "Logic Design + Build",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186745/the-mortar-house-offices-logic-design-plus-build",
+    "image_url": "https://images.adsttc.com/media/images/6ace/2655/b2c4/c300/0178/ed67/newsletter/DLOfficeB_SuryanSaurabh_18.jpg?1791895164",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T03:00:00.000Z",
+    "ingested_at": "2026-10-15T13:12:41.665Z"
   }
 ]
