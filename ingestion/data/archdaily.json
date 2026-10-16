@@ -35389,5 +35389,22 @@
     "material": [],
     "published_at": "2026-10-15T15:00:00.000Z",
     "ingested_at": "2026-10-15T22:01:32.633Z"
+  },
+  {
+    "id": "d8911e42-bc5b-48ce-ac98-a02de0f0e4f7",
+    "title": "Son Ferriol Health Centre",
+    "creator": "LaBoqueria",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186927/son-ferriol-health-centre-laboqueria",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/d56a/b2c4/c300/0178/f87a/newsletter/Fotos_finals_Ricard_L_pez__3_.jpg?1792071046",
+    "typology": [
+      "healthcare center"
+    ],
+    "material": [],
+    "published_at": "2026-10-15T19:00:00.000Z",
+    "ingested_at": "2026-10-16T01:04:14.032Z"
   }
 ]
