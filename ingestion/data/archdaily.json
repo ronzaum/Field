@@ -35525,5 +35525,39 @@
     "material": [],
     "published_at": "2026-10-16T10:00:00.000Z",
     "ingested_at": "2026-10-16T17:14:37.557Z"
+  },
+  {
+    "id": "a2fe57bf-4063-4117-b814-96fe647d5948",
+    "title": "Pavilion for Good Sleep",
+    "creator": "WHALE!",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1022567/pavilion-for-good-sleep-whale",
+    "image_url": "https://images.adsttc.com/media/images/6712/5d01/2aec/2b2e/9cad/1c60/newsletter/pabellon-para-el-buen-dormir-whale_1.jpg?1729256735",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-16T15:00:00.000Z",
+    "ingested_at": "2026-10-16T20:45:54.179Z"
+  },
+  {
+    "id": "534e5e06-30cf-4422-9e0d-fbb9d1d32b22",
+    "title": "Gondomar Urban Park",
+    "creator": "Paulo Merlini arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186962/gondomar-urban-park-paulo-merlini-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/ff2f/aadf/a000/01e3/a58c/newsletter/20240524-PAULO-MERLINI-PARQUE-URBANO-GONDOMAR-004.jpg?1792081732",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-10-16T13:00:00.000Z",
+    "ingested_at": "2026-10-16T20:45:54.180Z"
   }
 ]
