@@ -1602,5 +1602,27 @@
     "material": [],
     "published_at": "2026-10-13T10:30:28.000Z",
     "ingested_at": "2026-10-13T15:45:56.556Z"
+  },
+  {
+    "id": "3a514ff7-530b-4112-9374-8c7e1681f450",
+    "title": "Spaces",
+    "creator": "Manah signposts Chennai community centre with barrel-vaulted roof",
+    "location": "Community centres",
+    "country": "India",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
+    "image_url": "http://static.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Bricks",
+      "Public space",
+      "Vaulted ceilings",
+      "Stone"
+    ],
+    "material": [],
+    "published_at": "2026-10-16T10:30:32.000Z",
+    "ingested_at": "2026-10-16T12:11:48.829Z"
   }
 ]
