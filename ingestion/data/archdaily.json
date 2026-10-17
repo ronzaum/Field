@@ -35559,5 +35559,39 @@
     "material": [],
     "published_at": "2026-10-16T13:00:00.000Z",
     "ingested_at": "2026-10-16T20:45:54.180Z"
+  },
+  {
+    "id": "45975292-1097-451f-bbec-b795e374223d",
+    "title": "CCLM 280 House",
+    "creator": "Barbalaco Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186948/cclm-280-house-barbalaco-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/d716/b2c4/c300/0178/f8ce/newsletter/BARBALACO_ARQUITECTOS-CASA_LA_MARTONA-PH_FEDERICO_KULEKDJIAN-06.jpg?1792071526",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-16T19:00:00.000Z",
+    "ingested_at": "2026-10-17T03:49:03.322Z"
+  },
+  {
+    "id": "7fdd021a-a4ef-487c-946b-197a411e7c9f",
+    "title": "Ella House",
+    "creator": "Studio Memo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187034/ella-house-studio-memo",
+    "image_url": "https://images.adsttc.com/media/images/6acf/d813/b2c4/c300/0178/f42c/newsletter/03_-Casa_Ella_de_Studio_Memo___foto_by_Carolina_Mossin.jpg?1792006227",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-16T17:00:00.000Z",
+    "ingested_at": "2026-10-17T03:49:03.323Z"
   }
 ]
