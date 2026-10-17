@@ -35678,5 +35678,22 @@
     "material": [],
     "published_at": "2026-10-17T13:00:00.000Z",
     "ingested_at": "2026-10-17T19:07:42.234Z"
+  },
+  {
+    "id": "233e6cf1-5b18-46b8-a2c7-36dc56396efb",
+    "title": "AA Apartments",
+    "creator": "Crearctive",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186945/aa-apartments-crearctive",
+    "image_url": "https://images.adsttc.com/media/images/6ace/95db/b2c4/c300/0178/ee7f/newsletter/03..jpg?1791923733",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T15:00:00.000Z",
+    "ingested_at": "2026-10-17T22:04:35.438Z"
   }
 ]
