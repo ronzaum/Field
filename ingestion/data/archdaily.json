@@ -35610,5 +35610,22 @@
     "material": [],
     "published_at": "2026-10-17T02:00:00.000Z",
     "ingested_at": "2026-10-17T08:24:57.673Z"
+  },
+  {
+    "id": "8fc6e238-91f9-4756-8e21-f2cd64090e67",
+    "title": "Prague Fire Rescue Service",
+    "creator": "Architektura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185671/prague-fire-rescue-service-architektura",
+    "image_url": "https://images.adsttc.com/media/images/6ab4/838b/59bf/5a01/8bd6/8458/newsletter/prague-fire-rescue-service-architektura_1.jpg?1790215070",
+    "typology": [
+      "Fire station"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T06:00:00.000Z",
+    "ingested_at": "2026-10-17T12:49:07.673Z"
   }
 ]

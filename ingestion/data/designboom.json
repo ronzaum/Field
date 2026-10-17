@@ -12739,5 +12739,27 @@
     "material": [],
     "published_at": "2026-10-16T15:45:11.000Z",
     "ingested_at": "2026-10-16T20:45:55.158Z"
+  },
+  {
+    "id": "c4fffbb0-d8cc-43b0-8819-2b3b36a4ae91",
+    "title": "snøhetta unveils completed shanghai grand opera house with spiraling public rooftop",
+    "creator": "Snøhetta",
+    "location": "Shanghai",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/snohetta-shanghai-grand-opera-house-spiraling-staircase-public-rooftop/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/snohetta-shanghai-grand-opera-house-spiraling-staircase-public-rooftop-designboom-1-500x400-22b08q85r808.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "architecture in shanghai",
+      "snohetta",
+      "staircases",
+      "theaters"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T12:00:34.000Z",
+    "ingested_at": "2026-10-17T12:49:08.821Z"
   }
 ]
