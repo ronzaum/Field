@@ -35627,5 +35627,39 @@
     "material": [],
     "published_at": "2026-10-17T06:00:00.000Z",
     "ingested_at": "2026-10-17T12:49:07.673Z"
+  },
+  {
+    "id": "1aecb2b5-502e-4963-9587-d1eb043c41ea",
+    "title": "Colares Sintra House",
+    "creator": "Sabrab",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/80aa/8008/f470/ea3a/bbd3/newsletter/casa-colares-sintra-sabrab_19.jpg?1792180441",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T11:00:00.000Z",
+    "ingested_at": "2026-10-17T16:13:58.713Z"
+  },
+  {
+    "id": "2ef73f9b-c319-47e2-8dc5-7b4f89862f58",
+    "title": "Shanghai Grand Opera House",
+    "creator": "Snøhetta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186819/shanghai-grand-opera-house-snohetta",
+    "image_url": "https://images.adsttc.com/media/images/6acf/8625/7887/fb01/8910/720a/newsletter/shanghai-grand-opera-house-snohetta_32.jpg?1791985266",
+    "typology": [
+      "opera house"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T10:00:00.000Z",
+    "ingested_at": "2026-10-17T16:13:58.713Z"
   }
 ]
