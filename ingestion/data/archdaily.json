@@ -35661,5 +35661,22 @@
     "material": [],
     "published_at": "2026-10-17T10:00:00.000Z",
     "ingested_at": "2026-10-17T16:13:58.713Z"
+  },
+  {
+    "id": "ecd2143f-5671-472d-b9af-2ad88c84880f",
+    "title": "MAGMA House",
+    "creator": "SUITE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187028/magma-house-suite",
+    "image_url": "https://images.adsttc.com/media/images/6ad1/15a9/aadf/a000/01e3/a5cf/newsletter/Suite_CasaCor_2026_SF_Fotos_Pedro_Ocanhas26.jpg?1792087707",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T13:00:00.000Z",
+    "ingested_at": "2026-10-17T19:07:42.234Z"
   }
 ]
