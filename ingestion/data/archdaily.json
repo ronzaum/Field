@@ -35797,5 +35797,22 @@
     "material": [],
     "published_at": "2026-10-18T10:00:00.000Z",
     "ingested_at": "2026-10-18T17:55:24.582Z"
+  },
+  {
+    "id": "7126a530-806c-4151-bb8b-ef8b39a844bb",
+    "title": "Promenade House",
+    "creator": "studio gm",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187039/promenade-house-studio-gm",
+    "image_url": "https://images.adsttc.com/media/images/6ad1/2fc1/aadf/a000/01e3/a6ab/newsletter/promenade_studiogm_01.jpg?1792094220",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T13:00:00.000Z",
+    "ingested_at": "2026-10-18T20:23:33.610Z"
   }
 ]
