@@ -35712,5 +35712,22 @@
     "material": [],
     "published_at": "2026-10-17T17:00:00.000Z",
     "ingested_at": "2026-10-18T00:45:22.414Z"
+  },
+  {
+    "id": "bcc1888e-a1cd-4dc3-8a6d-054735ae7b99",
+    "title": "Sangwich Club",
+    "creator": "east bureau",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186199/sangwich-club-east-bureau",
+    "image_url": "https://images.adsttc.com/media/images/6abe/be89/07c3/d100/017f/c889/newsletter/07_Damir_Otegen.jpg?1790885630",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T21:00:00.000Z",
+    "ingested_at": "2026-10-18T05:35:52.146Z"
   }
 ]
