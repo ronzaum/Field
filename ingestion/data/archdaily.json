@@ -35746,5 +35746,22 @@
     "material": [],
     "published_at": "2026-10-18T02:00:00.000Z",
     "ingested_at": "2026-10-18T10:42:32.706Z"
+  },
+  {
+    "id": "1d46e4af-a3f2-4344-a25b-8bade121a25a",
+    "title": "Harfa Rooftop Extension",
+    "creator": "matěj šebek architekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1185696/harfa-rooftop-extension-matej-sebek-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6aba/f094/3ec8/9101/894a/cd34/newsletter/harfa-rooftop-extension-matej-sebek-architekti_11.jpg?1790636198",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T06:00:00.000Z",
+    "ingested_at": "2026-10-18T14:23:22.860Z"
   }
 ]
