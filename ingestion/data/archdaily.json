@@ -35763,5 +35763,39 @@
     "material": [],
     "published_at": "2026-10-18T06:00:00.000Z",
     "ingested_at": "2026-10-18T14:23:22.860Z"
+  },
+  {
+    "id": "098d50b0-83c3-471b-8573-56186ec8194d",
+    "title": "Mirador de Gràcia",
+    "creator": "Miriam Castells",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186767/mirador-de-gracia-miriam-castells",
+    "image_url": "https://images.adsttc.com/media/images/6ace/98c9/b2c4/c300/0178/eed0/newsletter/Miriam_Castells_Fotos_de_Salva_L_pez_6.jpg?1791924443",
+    "typology": [
+      "Healthcare Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T11:00:00.000Z",
+    "ingested_at": "2026-10-18T17:55:24.582Z"
+  },
+  {
+    "id": "deb4e5f3-951a-4c7a-8267-09ddd585f67a",
+    "title": "Living Archive",
+    "creator": "Office ParkScheerbarth",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186676/living-archive-office-parkscheerbarth",
+    "image_url": "https://images.adsttc.com/media/images/6acc/a84b/b2c4/c300/0178/e93d/newsletter/TDW_01_0377.jpg?1791797450",
+    "typology": [
+      "Museum & Exhibition Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T10:00:00.000Z",
+    "ingested_at": "2026-10-18T17:55:24.582Z"
   }
 ]
