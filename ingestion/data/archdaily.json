@@ -35695,5 +35695,22 @@
     "material": [],
     "published_at": "2026-10-17T15:00:00.000Z",
     "ingested_at": "2026-10-17T22:04:35.438Z"
+  },
+  {
+    "id": "008451c7-0340-49c3-9179-e05656d54f62",
+    "title": "Dumas Sea Face Masterplan",
+    "creator": "INI Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c996/newsletter/Dumas_Sea_Face_Masterplan-01.jpg?1790887454",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-17T17:00:00.000Z",
+    "ingested_at": "2026-10-18T00:45:22.414Z"
   }
 ]
