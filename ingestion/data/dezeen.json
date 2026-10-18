@@ -1624,5 +1624,27 @@
     "material": [],
     "published_at": "2026-10-16T10:30:32.000Z",
     "ingested_at": "2026-10-16T12:11:48.829Z"
+  },
+  {
+    "id": "08bdabf1-d71d-4fdb-ab28-9d0f72e9b4c6",
+    "title": "Thin concrete plane defines minimalist villa in Ibiza",
+    "creator": "Fran Silvestre Arquitectos",
+    "location": "Ibiza",
+    "country": "Spain",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/18/bellavista-11-villa-fran-silvestre-arquitectos/",
+    "image_url": "http://static.dezeen.com/uploads/2026/10/bellavista-11-fran-silvestre-arquitectos-houses-ibiza-spain-residential-villas-white_dezeen_2364_sq-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Spanish houses",
+      "Fran Silvestre Arquitectos",
+      "White houses",
+      "Residential architecture and interiors",
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T10:00:45.000Z",
+    "ingested_at": "2026-10-18T10:42:32.955Z"
   }
 ]
