@@ -35814,5 +35814,56 @@
     "material": [],
     "published_at": "2026-10-18T13:00:00.000Z",
     "ingested_at": "2026-10-18T20:23:33.610Z"
+  },
+  {
+    "id": "f2b95df4-3c40-4691-b343-3ec09f02a9a0",
+    "title": "Calm Haven House",
+    "creator": "ADA Design & Build",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186479/calm-haven-house-ada-design-and-build",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/4854/90e2/9d5f/b3dd/dd62/newsletter/calm-haven-house-ada-design-and-build_23.jpg?1791379553",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T17:00:00.000Z",
+    "ingested_at": "2026-10-18T22:54:23.606Z"
+  },
+  {
+    "id": "3abd3b28-6eac-4886-9d05-6e734e674778",
+    "title": "Martha Tavern",
+    "creator": "CODOO STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187057/martha-tavern-codoo-studio",
+    "image_url": "https://images.adsttc.com/media/images/6acf/9078/b2c4/c300/0178/f34b/newsletter/28_Codoo_Martha.jpg?1791987857",
+    "typology": [
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T16:00:00.000Z",
+    "ingested_at": "2026-10-18T22:54:23.606Z"
+  },
+  {
+    "id": "3365c899-01b9-4d52-9fab-08e7931a7217",
+    "title": "House in Belém",
+    "creator": "Filipe Borges de Macedo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187047/house-in-belem-filipe-borges-de-macedo",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/6b36/aadf/a000/01e3/aba8/newsletter/Nuno_Almendra-Casa_Bel_m-28.jpg?1792175146",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-18T15:00:00.000Z",
+    "ingested_at": "2026-10-18T22:54:23.607Z"
   }
 ]
