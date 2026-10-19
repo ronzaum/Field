@@ -35967,5 +35967,73 @@
     "material": [],
     "published_at": "2026-10-19T00:00:00.000Z",
     "ingested_at": "2026-10-19T14:28:57.693Z"
+  },
+  {
+    "id": "b2228efa-c36b-4028-8fe1-7502ec606497",
+    "title": "Casa Canal",
+    "creator": "Este Norte Estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187072/casa-canal-este-norte-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6ad5/df77/8008/f401/8ba5/4279/newsletter/casa-canal-este-norte-estudio_7.jpg?1792401295",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T15:00:00.000Z",
+    "ingested_at": "2026-10-19T20:27:38.577Z"
+  },
+  {
+    "id": "147700d0-f3cf-4cb0-90ff-6a698e46e892",
+    "title": "House in Santa Maria da Feira",
+    "creator": "Branco-DelRio Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187112/house-in-santa-maria-da-feira-branco-delrio-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/57f2/aadf/a000/01e3/ab01/newsletter/SantaMariaDaFeira_Fotografia03_Frederico_Martinho.jpg?1792170019",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T13:00:00.000Z",
+    "ingested_at": "2026-10-19T20:27:38.577Z"
+  },
+  {
+    "id": "fa75d597-4cf2-45aa-9b0b-18113b2fc9c6",
+    "title": "Indigenous House",
+    "creator": "Formline Architecture + Urbanism + LGA Architectural Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186964/indigenous-house-formline-architecture-plus-urbanism-plus-lga-architectural-partners",
+    "image_url": "https://images.adsttc.com/media/images/6ad1/128e/aadf/a000/01e3/a59f/newsletter/01-Formline-LGA-Indigenous_House_credit_Doublespace.jpg?1792086747",
+    "typology": [
+      "Higher Education"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T12:00:00.000Z",
+    "ingested_at": "2026-10-19T20:27:38.577Z"
+  },
+  {
+    "id": "7e3c715a-ce3f-43ab-aaf4-b980e9e8add9",
+    "title": "MacIsaac Health Building",
+    "creator": "SHL",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186815/macisaac-health-building-shl",
+    "image_url": "https://images.adsttc.com/media/images/6acf/5e19/b2c4/c300/0178/f2a9/newsletter/412007_000_N89_highres.jpg?1791975001",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T10:00:00.000Z",
+    "ingested_at": "2026-10-19T20:27:38.577Z"
   }
 ]

@@ -1646,5 +1646,24 @@
     "material": [],
     "published_at": "2026-10-18T10:00:45.000Z",
     "ingested_at": "2026-10-18T10:42:32.955Z"
+  },
+  {
+    "id": "eeae0caa-e414-42e6-910e-88b54e1ebca7",
+    "title": "Golf clubhouse",
+    "creator": "Graham Baba nods to farm structures in rural Washington",
+    "location": "Golf",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/10/westwood-gold-clubhouse-california-graham-baba-architects-sq_dezeen_2364_col_0-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Washington State",
+      "Graham Baba Architects"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T17:00:18.000Z",
+    "ingested_at": "2026-10-19T20:27:38.800Z"
   }
 ]

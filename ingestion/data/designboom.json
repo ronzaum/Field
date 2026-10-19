@@ -12848,5 +12848,48 @@
     "material": [],
     "published_at": "2026-10-19T07:45:36.000Z",
     "ingested_at": "2026-10-19T14:28:58.495Z"
+  },
+  {
+    "id": "8d477b55-c2a4-42d4-b929-6a10b3d20a01",
+    "title": "continuous vertical gardens and layered planters wrap 111 house in são paulo",
+    "creator": "Rodrigo Oliveira",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/continuous-vertical-gardens-layered-planters-111-house-sao-paulo-isay-weinfeld-rodrigo-oliveira/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/continuous-vertical-gardens-layered-planters-111-house-sao-paulo-isay-weinfeld-rodrigo-oliveira-designboom-700-500x400-22b08q85r109.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in brazil",
+      "architecture in sao paulo",
+      "landscape architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T18:10:11.000Z",
+    "ingested_at": "2026-10-19T20:27:39.699Z"
+  },
+  {
+    "id": "3a41e821-359a-406a-860c-4509fcdf8037",
+    "title": "too large to exhibit, anselm kiefer’s monumental painting gets its own pavilion by david chipperfield",
+    "creator": "David Chipperfield Architects",
+    "location": "Künzelsau",
+    "country": "Germany",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/anselm-kiefer-monumental-painting-pavilion-david-chipperfield-schwarze-flocken/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/david-chipperfield-architects-anselm-kiefer-pavillon-studio-menges-tugushi-germany-designboom-700-500x400-22b08q85r159.jpg",
+    "typology": [
+      "architecture",
+      "architecture in germany",
+      "concrete architecture and design",
+      "david chipperfield architects",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T16:35:16.000Z",
+    "ingested_at": "2026-10-19T20:27:39.705Z"
   }
 ]
