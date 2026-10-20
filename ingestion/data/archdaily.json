@@ -36086,5 +36086,56 @@
     "material": [],
     "published_at": "2026-10-19T19:00:00.000Z",
     "ingested_at": "2026-10-20T05:46:06.125Z"
+  },
+  {
+    "id": "3194f25d-83fe-48d4-a453-1e38d24ede63",
+    "title": "Winchester College Girls Boarding Houses",
+    "creator": "Stanton Williams",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186793/winchester-college-girls-boarding-houses-stanton-williams",
+    "image_url": "https://images.adsttc.com/media/images/6acf/3632/b2c4/c300/0178/f122/newsletter/Stanton_Williams_Winchester_College__JackHobhouse_012.jpg?1791964760",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T06:00:00.000Z",
+    "ingested_at": "2026-10-20T11:12:55.126Z"
+  },
+  {
+    "id": "a6b6ea52-d0a8-459c-8793-9a9a532bc3a2",
+    "title": "Tašbik Installation",
+    "creator": "Wesam Al Asali",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186763/tasbik-wesam-al-asali",
+    "image_url": "https://images.adsttc.com/media/images/6ace/9565/b2c4/c300/0178/ee72/newsletter/7-Wesam_Al_Asali_Tas_bik20260930_003_Saifuldeen_Fayez.jpg?1791923617",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T03:00:00.000Z",
+    "ingested_at": "2026-10-20T11:12:55.126Z"
+  },
+  {
+    "id": "4cd32877-8a8e-41a5-bc4d-fe62b070ebf9",
+    "title": "Yokohama BUNTAI Multipurpose Hub",
+    "creator": "TAISEI DESIGN Planners Architects & Engineers",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186823/yokohama-buntai-multipurpose-hub-taisei-design-planners-architects-and-engineers",
+    "image_url": "https://images.adsttc.com/media/images/6acf/7fce/7887/fb01/8910/71ba/newsletter/yokohama-buntai-sports-hub-taisei-design-planners-architects-and-engineers_2.jpg?1791983599",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T02:00:00.000Z",
+    "ingested_at": "2026-10-20T11:12:55.127Z"
   }
 ]

@@ -1665,5 +1665,29 @@
     "material": [],
     "published_at": "2026-10-19T17:00:18.000Z",
     "ingested_at": "2026-10-19T20:27:38.800Z"
+  },
+  {
+    "id": "bb505ff2-15ed-4c72-ab25-0e2ecc5bbb68",
+    "title": "Terracotta tiles enclose skinny Roof House",
+    "creator": "Trung Nguyen Architects",
+    "location": "Terraces",
+    "country": "Vietnam",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/20/roof-house-trung-nguyen-architects/",
+    "image_url": "http://static.dezeen.com/uploads/2026/10/roof-house-trung-nguyen-architects-architecture-vietnam-houses_dezeen_2364_sq2-411x411.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Skinny houses",
+      "Residential architecture and interiors",
+      "Terracotta",
+      "Houses",
+      "Ho Chi Minh City",
+      "Vietnamese houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T10:30:00.000Z",
+    "ingested_at": "2026-10-20T11:12:55.412Z"
   }
 ]

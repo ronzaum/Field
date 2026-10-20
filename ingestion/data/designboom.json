@@ -12891,5 +12891,47 @@
     "material": [],
     "published_at": "2026-10-19T16:35:16.000Z",
     "ingested_at": "2026-10-19T20:27:39.705Z"
+  },
+  {
+    "id": "fd6e711f-9988-465d-b22f-18013b2022da",
+    "title": "vincent darré brings new life to historic paris theater with le magnifique hotel",
+    "creator": "Vincent Darré",
+    "location": "Paris",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/vincent-darre-le-magnifique-hotel-paris-theatrical-interiors/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/vincent-darre-le-magnifique-hotel-paris-theatrical-interiors-designboom-4-500x400-22b08q85r818.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in paris",
+      "designer boutique hotels",
+      "hotel architecture and design",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T10:56:58.000Z",
+    "ingested_at": "2026-10-20T11:12:56.355Z"
+  },
+  {
+    "id": "8468e16c-da74-4ea0-b5ee-c1d7bbb2cb95",
+    "title": "designboom listens: what does space sound like to kengo kuma?",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/designboom-listens-kengo-kuma-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/designboom-listens-kengo-kuma-interview-designboom-700-500x400-22b08q85r071.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "designboom listens",
+      "kengo kuma"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T07:45:34.000Z",
+    "ingested_at": "2026-10-20T11:12:56.366Z"
   }
 ]
