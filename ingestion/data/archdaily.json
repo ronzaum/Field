@@ -36035,5 +36035,22 @@
     "material": [],
     "published_at": "2026-10-19T10:00:00.000Z",
     "ingested_at": "2026-10-19T20:27:38.577Z"
+  },
+  {
+    "id": "b2dbd91b-7026-40e4-94f3-7e37d81a98b9",
+    "title": "FG House",
+    "creator": "Oficina Conceito Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187138/fg-house-oficina-conceito-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/63c6/aadf/a000/01e3/ab60/newsletter/58.jpg?1792173346",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T17:00:00.000Z",
+    "ingested_at": "2026-10-20T00:09:46.372Z"
   }
 ]
