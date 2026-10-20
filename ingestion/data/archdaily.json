@@ -36052,5 +36052,39 @@
     "material": [],
     "published_at": "2026-10-19T17:00:00.000Z",
     "ingested_at": "2026-10-20T00:09:46.372Z"
+  },
+  {
+    "id": "620bf322-6472-4274-b0fb-615c08cef794",
+    "title": "Sage Guangzhou Aranya Store",
+    "creator": "say architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186877/sage-guangzhou-aranya-store-say-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/887a/b2c4/c300/0178/f635/newsletter/13_Wen_Studio.jpg?1792051366",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T00:00:00.000Z",
+    "ingested_at": "2026-10-20T05:46:06.124Z"
+  },
+  {
+    "id": "02fd8c5b-d572-4e08-8abb-26d5c794d9d0",
+    "title": "Anja House",
+    "creator": "iHouse estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187114/anja-house-ihouse-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6ad5/f383/aadf/a000/01e3/ae68/newsletter/iHouse_Anja-20.jpg?1792406591",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-19T19:00:00.000Z",
+    "ingested_at": "2026-10-20T05:46:06.125Z"
   }
 ]
