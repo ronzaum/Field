@@ -1712,5 +1712,25 @@
     "material": [],
     "published_at": "2026-10-18T10:00:00.000Z",
     "ingested_at": "2026-10-20T16:37:32.998Z"
+  },
+  {
+    "id": "1e67d74a-9670-4bcb-97e7-177cb4c1316f",
+    "title": "Rippling water informs wildlife pavilion",
+    "creator": "Desai Chia Architecture",
+    "location": "New York state",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/20/wildlife-pavilion-desai-chia-architecture-new-york/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/10/chatam-pond-pavilion-desai-chia-architecture_dezeen_2364_sq-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Pavilions",
+      "Desai Chia Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T17:00:00.000Z",
+    "ingested_at": "2026-10-20T20:20:26.079Z"
   }
 ]

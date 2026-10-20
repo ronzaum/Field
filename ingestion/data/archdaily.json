@@ -36171,5 +36171,56 @@
     "material": [],
     "published_at": "2026-10-20T07:00:00.000Z",
     "ingested_at": "2026-10-20T16:37:32.678Z"
+  },
+  {
+    "id": "1e278dee-73d4-4ec3-ad6f-fe3daea63170",
+    "title": "Espiga House",
+    "creator": "Grupo Primitivo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187171/espiga-house-grupo-primitivo",
+    "image_url": "https://images.adsttc.com/media/images/6ad5/f6fc/aadf/a000/01e3/ae86/newsletter/DSC02082.jpg?1792407356",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T15:00:00.000Z",
+    "ingested_at": "2026-10-20T20:20:25.672Z"
+  },
+  {
+    "id": "e016880a-b597-4e49-b62e-1045f831637d",
+    "title": "MUZEU – Thought and Contemporary Art",
+    "creator": "Carvalho Araújo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187215/muzeu-thought-and-contemporary-art-carvalho-araujo",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/5656/aadf/a000/01e3/b17e/newsletter/NUDO_CA_MUZEU_7362.jpg?1792431722",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T13:00:00.000Z",
+    "ingested_at": "2026-10-20T20:20:25.672Z"
+  },
+  {
+    "id": "0a510614-3444-4887-bef2-69fb2de0c482",
+    "title": "Courtyard House",
+    "creator": "Hennessey Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186975/courtyard-house-hennessey-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ad1/338b/aadf/a000/01e3/a6d9/newsletter/11.jpg?1792095137",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T12:00:00.000Z",
+    "ingested_at": "2026-10-20T20:20:25.672Z"
   }
 ]
