@@ -36137,5 +36137,39 @@
     "material": [],
     "published_at": "2026-10-20T02:00:00.000Z",
     "ingested_at": "2026-10-20T11:12:55.127Z"
+  },
+  {
+    "id": "8428d058-a0a7-46f9-9660-edc5b02af440",
+    "title": "Cabin Budor",
+    "creator": "R21 Arkitekter",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186292/cabin-budor-r21-arkitekter",
+    "image_url": "https://images.adsttc.com/media/images/6ac3/6d3f/07c3/d100/017f/cf05/newsletter/R21_Budor_09_kopi.jpg?1791192464",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T10:00:00.000Z",
+    "ingested_at": "2026-10-20T16:37:32.678Z"
+  },
+  {
+    "id": "fece2e0b-e429-4eda-bddb-74656592ae87",
+    "title": "Palais de Justice de Lille",
+    "creator": "OMA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187188/palais-de-justice-de-lille-oma",
+    "image_url": "https://images.adsttc.com/media/images/6ad7/379b/c720/ac01/8896/317c/newsletter/palais-de-justice-de-lille-oma_1.jpg?1792489419",
+    "typology": [
+      "Courthouse"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T07:00:00.000Z",
+    "ingested_at": "2026-10-20T16:37:32.678Z"
   }
 ]
