@@ -36222,5 +36222,39 @@
     "material": [],
     "published_at": "2026-10-20T12:00:00.000Z",
     "ingested_at": "2026-10-20T20:20:25.672Z"
+  },
+  {
+    "id": "36a1ff9b-a1e5-4f2c-8620-9f092dc813a2",
+    "title": "Piedra Bay House",
+    "creator": "U-Guide Space Design Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187041/piedra-bay-house-u-guide-space-design-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/358d/aadf/a000/01e3/aaee/newsletter/16_Casa_Piedra_Bay.jpg?1792161285",
+    "typology": [
+      "Hospitality Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T19:00:00.000Z",
+    "ingested_at": "2026-10-20T23:41:41.848Z"
+  },
+  {
+    "id": "70860359-0098-4b1b-a99b-0543852769e7",
+    "title": "M38 House",
+    "creator": "Muda Prefab",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187218/m38-house-muda-prefab",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/67e6/aadf/a000/01e3/ab6b/newsletter/08-B_MG_4997_MUDA_CL-01.jpg?1792174126",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-20T17:00:00.000Z",
+    "ingested_at": "2026-10-20T23:41:41.849Z"
   }
 ]
