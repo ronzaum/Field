@@ -36290,5 +36290,90 @@
     "material": [],
     "published_at": "2026-10-21T02:00:00.000Z",
     "ingested_at": "2026-10-21T09:55:00.888Z"
+  },
+  {
+    "id": "57995969-1f17-4eba-b3ec-6671f287d48a",
+    "title": "Poliedro I House",
+    "creator": "Volume Architecture Lisbon Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187146/poliedro-i-house-volume-architecture-lisbon-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/bc0a/db5c/206d/c644/6ef6/newsletter/poliedro-i-house-volume-architecture-lisbon-studio_28.jpg?1792588823",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T13:00:00.000Z",
+    "ingested_at": "2026-10-21T19:13:51.531Z"
+  },
+  {
+    "id": "ecb9e9e9-0050-4977-a7f3-e6a07d073ec4",
+    "title": "Mr. Belvedere House",
+    "creator": "Linework Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187156/mr-belvedere-house-linework-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/72fd/aadf/a000/01e3/b28b/newsletter/_c__Kevin_Scott_-_Mr._Belvedere2743.jpg?1792439061",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T12:00:00.000Z",
+    "ingested_at": "2026-10-21T19:13:51.532Z"
+  },
+  {
+    "id": "f34699a9-1099-4026-b1a9-9792b3b8a4af",
+    "title": "Campus du Parc",
+    "creator": "IT'S Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186926/campus-du-parc-its-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/d77b/7887/fb01/8910/778e/newsletter/campus-du-parc-its-studio_1.jpg?1792071586",
+    "typology": [
+      "University"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T10:00:00.000Z",
+    "ingested_at": "2026-10-21T19:13:51.532Z"
+  },
+  {
+    "id": "bb97562c-9dce-4ae3-962c-c7454c851161",
+    "title": "YUKI Office",
+    "creator": "UENOA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187102/yuki-office-uenoa",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/0b46/c720/ac01/8896/2d04/newsletter/yuki-office-uenoa_1.jpg?1792412529",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T07:00:00.000Z",
+    "ingested_at": "2026-10-21T19:13:51.533Z"
+  },
+  {
+    "id": "5837e032-77bd-42ce-9dab-2f1bcae4f2b7",
+    "title": "Circular Town Hall Krimpenerwaard",
+    "creator": "Ector Hoogstad Architecten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186716/circular-town-hall-krimpenerwaard-ector-hoogstad-architecten",
+    "image_url": "https://images.adsttc.com/media/images/6acd/e5f3/b2c4/c300/0178/eb6b/newsletter/IMG_8435_300.jpg?1791878689",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T06:00:00.000Z",
+    "ingested_at": "2026-10-21T19:13:51.533Z"
   }
 ]
