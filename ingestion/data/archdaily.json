@@ -36375,5 +36375,39 @@
     "material": [],
     "published_at": "2026-10-21T06:00:00.000Z",
     "ingested_at": "2026-10-21T19:13:51.533Z"
+  },
+  {
+    "id": "57d9ac12-1ca2-41d1-b33d-caf1d708d8a2",
+    "title": "Bahia House",
+    "creator": "Patricia Martinez Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187298/bahia-house-patricia-martinez-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6ad7/9ca9/aadf/a000/01e3/b91f/newsletter/_DSF6680.jpg?1792515265",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T17:00:00.000Z",
+    "ingested_at": "2026-10-21T23:07:12.106Z"
+  },
+  {
+    "id": "527717c9-75d2-481f-be3a-58fb81a157b9",
+    "title": "T-237 House",
+    "creator": "UNO MÁS UNO Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187266/t-237-house-uno-mas-uno-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/7432/db5c/2001/882c/f25d/newsletter/casa-t-237-uno-mas-uno-arquitectos_6.jpg?1792570441",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T15:00:00.000Z",
+    "ingested_at": "2026-10-21T23:07:12.107Z"
   }
 ]

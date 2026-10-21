@@ -12933,5 +12933,67 @@
     "material": [],
     "published_at": "2026-10-20T07:45:34.000Z",
     "ingested_at": "2026-10-20T11:12:56.366Z"
+  },
+  {
+    "id": "a4b1ea0e-9914-48ab-9a75-b565bda7067a",
+    "title": "corten steel tubes lined with spruce plywood ribs form alpine learning burrow by officina 82",
+    "creator": "Officina82",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/corten-steel-tubes-spruce-plywood-ribs-alpine-learning-burrow-officina-82-tana-delle-marmotte/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/officina-82-tana-delle-marmotte-corten-steel-tubes-plywood-ribs-subterranean-learning-space-designboom-700-500x400-22b08q85r585.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in italy",
+      "underground architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T22:35:22.000Z",
+    "ingested_at": "2026-10-21T23:07:13.043Z"
+  },
+  {
+    "id": "442520d2-db8f-4cbd-b960-b0f9a8284d69",
+    "title": "garnet-red accents and high clerestories punctuate AA Apartments in málaga",
+    "creator": "CREARCTIVE",
+    "location": "Málaga",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/garnet-red-accents-high-clerestories-aa-apartments-malaga-crearctive/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/crearctive-aa-apartments-reuse-commercial-space-malaga-four-residential-units-designboom-700-500x400-22b08q85r037.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T21:25:04.000Z",
+    "ingested_at": "2026-10-21T23:07:13.050Z"
+  },
+  {
+    "id": "1b4aa2dc-3fbd-48fc-bdfd-901ab1bd2f0e",
+    "title": "rammed concrete cube and terraced gardens define sunken art center proposal in bulgaria",
+    "creator": "UNFORMED DESIGN",
+    "location": "Burgas",
+    "country": "Bulgaria",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/rammed-concrete-cube-terraced-gardens-sunken-art-center-proposal-bulgaria-unformed-design-ground-of-descent/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/rammed-concrete-cube-terraced-gardens-sunken-art-center-proposal-bulgaria-unformed-design-ground-of-descent-designboom-700-500x400-22b08q85r406.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in bulgaria",
+      "masterplans and urban revitalization",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T15:15:46.000Z",
+    "ingested_at": "2026-10-21T23:07:13.055Z"
   }
 ]
