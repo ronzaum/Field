@@ -36256,5 +36256,39 @@
     "material": [],
     "published_at": "2026-10-20T17:00:00.000Z",
     "ingested_at": "2026-10-20T23:41:41.849Z"
+  },
+  {
+    "id": "ad16a182-7b75-4555-aa09-40913af274dc",
+    "title": "Monastic Field House",
+    "creator": "ROOMOOR",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186699/monastic-field-house-roomoor",
+    "image_url": "https://images.adsttc.com/media/images/6ad5/e219/c720/ac01/8896/2b9f/newsletter/monastic-field-house-roomoor_35.jpg?1792401951",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T03:00:00.000Z",
+    "ingested_at": "2026-10-21T09:55:00.887Z"
+  },
+  {
+    "id": "1b134a62-02b7-46b5-82d9-21bbbefd51f9",
+    "title": "Companion Villa",
+    "creator": "AsNow Design & Construct",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186814/companion-villa-asnow-design-and-construct",
+    "image_url": "https://images.adsttc.com/media/images/6acf/5dab/b2c4/c300/0178/f28e/newsletter/DSC_9080.jpg?1791975547",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T02:00:00.000Z",
+    "ingested_at": "2026-10-21T09:55:00.888Z"
   }
 ]
