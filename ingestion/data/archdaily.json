@@ -36477,5 +36477,39 @@
     "material": [],
     "published_at": "2026-10-22T00:00:00.000Z",
     "ingested_at": "2026-10-22T09:55:14.640Z"
+  },
+  {
+    "id": "4133bd4c-c618-4e54-a72f-106d78afa316",
+    "title": "Aalok Farmhouse",
+    "creator": "Nodecraft Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186827/aalok-farmhouse-nodecraft-studio",
+    "image_url": "https://images.adsttc.com/media/images/6acf/8a83/7887/fb01/8910/7252/newsletter/aalok-farmhouse_11.jpg?1791986341",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T07:00:00.000Z",
+    "ingested_at": "2026-10-22T14:58:22.738Z"
+  },
+  {
+    "id": "20c052b5-bcce-44d9-86bb-784cf6d5dd3d",
+    "title": "Modern Mokotów",
+    "creator": "BBGK Architekci",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186424/modern-mokotow-bbgk-architekci",
+    "image_url": "https://images.adsttc.com/media/images/6ac4/f52b/07c3/d100/017f/d8ad/newsletter/Nate_Cook_Wo_oska_28.jpg?1791292829",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T06:00:00.000Z",
+    "ingested_at": "2026-10-22T14:58:22.739Z"
   }
 ]
