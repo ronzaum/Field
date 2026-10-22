@@ -36511,5 +36511,107 @@
     "material": [],
     "published_at": "2026-10-22T06:00:00.000Z",
     "ingested_at": "2026-10-22T14:58:22.739Z"
+  },
+  {
+    "id": "abfb6be4-c8eb-4404-93ed-9d7549ec9080",
+    "title": "Rana House",
+    "creator": "STUDIO_LPP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187347/rana-house-studio-lpp",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/4ca6/aadf/a000/01e3/b10e/newsletter/FabioCunha_DSF1020.jpg?1792429265",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T13:00:00.000Z",
+    "ingested_at": "2026-10-22T19:09:08.898Z"
+  },
+  {
+    "id": "8601fb8e-8409-4c12-994d-670b644659b8",
+    "title": "Parkside Villa",
+    "creator": "Studio B Architecture + Interiors",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187144/parkside-villa-studio-b-architecture-plus-interiors",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/4fe8/aadf/a000/01e3/b14a/newsletter/StudioB-ParksideVilla-Exterior-DaylightFacade-Boulder.jpg?1792430129",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T12:00:00.000Z",
+    "ingested_at": "2026-10-22T19:09:08.898Z"
+  },
+  {
+    "id": "8690aabc-a43b-4d6d-95b0-5955c5cdb386",
+    "title": "Neighbourhood Seniors Apartment",
+    "creator": "DAGA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/922238/neighbourhood-seniors-apartment-daga-architects",
+    "image_url": "https://images.adsttc.com/media/images/5d43/0b98/284d/d185/df00/0257/newsletter/03.jpg?1564674956",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T12:00:00.000Z",
+    "ingested_at": "2026-10-22T19:09:08.898Z"
+  },
+  {
+    "id": "c950d7ed-112e-49d9-9c67-eebfdca1acd0",
+    "title": "Hangzhou Vanke Times Commune",
+    "creator": "DAGA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/917840/hangzhou-vanke-times-commune-daga-architects",
+    "image_url": "https://images.adsttc.com/media/images/5cea/283a/284d/d102/7c00/0145/newsletter/05-hangzhou-vanke-times-commune_daga-architects.jpg?1558849587",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T12:00:00.000Z",
+    "ingested_at": "2026-10-22T19:09:08.899Z"
+  },
+  {
+    "id": "5efba4d2-9061-4ddc-b4bb-c54b19341ae7",
+    "title": "Beijing Capital Xiangxi Intangible Heritage Workstation",
+    "creator": "DAGA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/955634/beijing-capital-xiangxi-intangible-heritage-workstation-daga-architects",
+    "image_url": "https://images.adsttc.com/media/images/600d/7cac/63c0/1757/3d00/040e/newsletter/09.jpg?1611496575",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T12:00:00.000Z",
+    "ingested_at": "2026-10-22T19:09:08.899Z"
+  },
+  {
+    "id": "6ce74b3a-d246-478d-ba3f-e92e0aa50ed6",
+    "title": "Fusion Creative Workshop",
+    "creator": "ARCHI.DOC",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186875/fusion-creative-workshop",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/82c4/b2c4/c300/0178/f5fb/newsletter/archidoc-f_0401_AD.jpg?1792049894",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T10:00:00.000Z",
+    "ingested_at": "2026-10-22T19:09:08.899Z"
   }
 ]
