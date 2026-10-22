@@ -36613,5 +36613,22 @@
     "material": [],
     "published_at": "2026-10-22T10:00:00.000Z",
     "ingested_at": "2026-10-22T19:09:08.899Z"
+  },
+  {
+    "id": "775e0d28-3edd-4da6-9145-2cfc96499b3c",
+    "title": "Casa LDM",
+    "creator": "HILADA Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187249/casa-ldm",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/7833/3271/8400/01d0/d718/newsletter/Casa_LDM_Fotos_Carlos_V_lez_1.jpg?1792572256",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T15:00:00.000Z",
+    "ingested_at": "2026-10-22T23:06:41.908Z"
   }
 ]
