@@ -36409,5 +36409,22 @@
     "material": [],
     "published_at": "2026-10-21T15:00:00.000Z",
     "ingested_at": "2026-10-21T23:07:12.107Z"
+  },
+  {
+    "id": "c81045c8-0246-4215-bd50-e5b47191ade4",
+    "title": "Plaza Pochote Commercial Center",
+    "creator": "FAMM Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187198/plaza-pochote-commercial-center-famm-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ad7/43fd/aadf/a000/01e3/b56e/newsletter/FAMM_Nantipa_09.jpg?1792492577",
+    "typology": [
+      "Retail"
+    ],
+    "material": [],
+    "published_at": "2026-10-21T19:00:00.000Z",
+    "ingested_at": "2026-10-22T04:06:28.332Z"
   }
 ]
