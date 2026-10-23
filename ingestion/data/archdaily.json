@@ -36630,5 +36630,39 @@
     "material": [],
     "published_at": "2026-10-22T15:00:00.000Z",
     "ingested_at": "2026-10-22T23:06:41.908Z"
+  },
+  {
+    "id": "7313abb2-0d05-4747-ae80-8f318e9a3c15",
+    "title": "Mirador House",
+    "creator": "Rodrigo de la Cerda Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187341/mirador-house-rodrigo-de-la-cerda-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/7913/3271/8400/01d0/d734/newsletter/30_Casa_Mirador.jpg?1792571711",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T19:00:00.000Z",
+    "ingested_at": "2026-10-23T04:10:02.304Z"
+  },
+  {
+    "id": "cfef47b2-50a2-4435-aaee-9e34951703ef",
+    "title": "Dam House",
+    "creator": "24 7 Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187148/casa-da-represa-24-7-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/59c4/aadf/a000/01e3/b1aa/newsletter/represa-100.jpg?1792432780",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-22T17:00:00.000Z",
+    "ingested_at": "2026-10-23T04:10:02.304Z"
   }
 ]
