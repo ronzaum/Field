@@ -13012,5 +13012,48 @@
     "material": [],
     "published_at": "2026-10-22T08:45:06.000Z",
     "ingested_at": "2026-10-22T09:55:15.710Z"
+  },
+  {
+    "id": "de1e4405-a26f-4793-a5bf-1af7a151d9b4",
+    "title": "repurposed shipping container becomes 24-sqm birch plywood micro-cabin",
+    "creator": "Barros",
+    "location": "’Derevnya’ Creative Community by Flacon Design Factory",
+    "country": "Russia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/repurposed-shipping-container-24-sqm-birch-plywood-micro-cabin-evgeny-makarenko-andris-shneps-shneppe/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/flacon-cargo-module-24-sqm-micro-cabin-steel-shipping-container-designboom-700-500x400-22b08q85r463.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "cabin architecture and design",
+      "residential architecture and interiors",
+      "shipping container architecture",
+      "spaces under 50 sqm",
+      "steel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T09:25:26.000Z",
+    "ingested_at": "2026-10-23T09:50:02.535Z"
+  },
+  {
+    "id": "d7956c61-bdb6-4868-8e8a-59e592986f5e",
+    "title": "le poisson volant: red-lit restaurant in paris transforms into nightclub after dark",
+    "creator": "Matière Noire",
+    "location": "5–7 rue Marguerite-Moret",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/le-poisson-volant-red-restaurant-paris-nightclub-claves-france/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/le-poisson-volant-restaurant-paris-designboom-700-500x400-22b08q85r989.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in paris",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T06:15:47.000Z",
+    "ingested_at": "2026-10-23T09:50:02.543Z"
   }
 ]

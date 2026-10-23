@@ -36664,5 +36664,56 @@
     "material": [],
     "published_at": "2026-10-22T17:00:00.000Z",
     "ingested_at": "2026-10-23T04:10:02.304Z"
+  },
+  {
+    "id": "272123e2-73a6-4c1a-9802-3db132e7becb",
+    "title": "Ibiza House",
+    "creator": "Studio Metamorphosis",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187189/ibiza-house-studio-metamorphosis",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/b1ba/4253/0500/01ca/0e05/newsletter/17-Casa_Ibiza-_Metamorphosis.jpg?1787736541",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T03:00:00.000Z",
+    "ingested_at": "2026-10-23T09:50:01.603Z"
+  },
+  {
+    "id": "55d0d695-120b-4cc0-8cc4-2b73a996be1d",
+    "title": "Blu Pizzeria Jeddah",
+    "creator": "movs studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/b475/3271/8400/01d0/d862/newsletter/_MOVS_BLU_cover.jpg?1792586895",
+    "typology": [
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T02:00:00.000Z",
+    "ingested_at": "2026-10-23T09:50:01.604Z"
+  },
+  {
+    "id": "b7a5d997-de96-42b9-ac29-45676b41c049",
+    "title": "Shenzhen Bay MixC Phase II",
+    "creator": "Ippolito Fleitz Group",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1184408/shenzhen-bay-mixc-phase-ii-ippolito-fleitz-group",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/f488/c720/ac01/8896/23a4/newsletter/shenzhen-bay-mixc-phase-ii-ippolito-fleitz-group_40.jpg?1792078993",
+    "typology": [
+      "Retail Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T00:00:00.000Z",
+    "ingested_at": "2026-10-23T09:50:01.604Z"
   }
 ]
