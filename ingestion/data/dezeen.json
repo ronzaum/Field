@@ -1732,5 +1732,24 @@
     "material": [],
     "published_at": "2026-10-20T17:00:00.000Z",
     "ingested_at": "2026-10-20T20:20:26.079Z"
+  },
+  {
+    "id": "194bde5c-ebf5-4007-b695-fa5fcb060fdc",
+    "title": "Foster + Partners designs pair of skyscrapers connected",
+    "creator": "garden bridges in Armenia",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/23/world-trade-center-yerevan-foster-partners-armenia/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/10/world-trade-center-yerevan-foster-partners-armenia_dezeen_2364_col_1-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Skyscrapers",
+      "Foster + Partners"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T10:00:00.000Z",
+    "ingested_at": "2026-10-23T14:47:38.232Z"
   }
 ]

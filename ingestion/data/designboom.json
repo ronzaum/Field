@@ -13055,5 +13055,77 @@
     "material": [],
     "published_at": "2026-10-23T06:15:47.000Z",
     "ingested_at": "2026-10-23T09:50:02.543Z"
+  },
+  {
+    "id": "92671028-d7c7-4436-91af-a854ea699ee4",
+    "title": "jean prouvé’s 1944 demountable house becomes japanese tea pavilion in paris",
+    "creator": "Jean Prouvé",
+    "location": "Hôtel de Maisons",
+    "country": "France",
+    "year": 1944,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/jean-prouve-1944-demountable-house-japanese-tea-pavilion-design-miami-paris-2026-galerie-patrick-seguin/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/jean-prouve-1944-demountable-house-japanese-tea-pavilion-design-miami-paris-2026-galerie-patrick-seguin-designboom-700-500x400-22b08q85r163.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "video",
+      "exhibitions",
+      "prefabricated homes and buildings",
+      "residential architecture and interiors",
+      "teahouse architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T14:42:52.000Z",
+    "ingested_at": "2026-10-23T14:47:38.834Z"
+  },
+  {
+    "id": "1835073b-685b-4e07-a0a6-01743cc262ac",
+    "title": "OMA turns potato head’s bali store into creative workshop for recycled materials and traditional craft",
+    "creator": "Iñaki Laguardia",
+    "location": "Seminyak",
+    "country": "Indonesia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/oma-potato-head-good-times-general-store-bali-indonesia/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/oma-potato-head-good-times-general-store-bali-indonesia-designboom-2-500x400-22b08q85r385.jpg",
+    "typology": [
+      "architecture",
+      "highlights",
+      "interiors",
+      "architecture in indonesia",
+      "bamboo architecture and design",
+      "circular design",
+      "max lamb",
+      "OMA / rem koolhaas",
+      "potato head",
+      "recycling",
+      "retail interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T11:56:11.000Z",
+    "ingested_at": "2026-10-23T14:47:38.839Z"
+  },
+  {
+    "id": "f325abe1-6d94-448f-9f51-3edaa62d0b09",
+    "title": "snøhetta and barth create six spaces for exploration at le rosey boarding school",
+    "creator": "snøhetta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/snohetta-barth-spaces-le-rosey-boarding-school/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/hires.tobias.kaser_.020-500x400-22b08q85r715.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "architecture in switzerland",
+      "barth",
+      "school architecture and design",
+      "snohetta"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T10:00:49.000Z",
+    "ingested_at": "2026-10-23T14:47:38.845Z"
   }
 ]

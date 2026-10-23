@@ -36715,5 +36715,39 @@
     "material": [],
     "published_at": "2026-10-23T00:00:00.000Z",
     "ingested_at": "2026-10-23T09:50:01.604Z"
+  },
+  {
+    "id": "6295fe53-396e-471b-8f20-990b00189cc9",
+    "title": "Bois de Cergy Leisure Centre",
+    "creator": "PLURIEL[LES] ARCHITECTES",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186955/bois-de-cergy-leisure-centre-pluriel-les-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/fe03/c720/ac12/b4d4/1444/newsletter/bois-de-cergy-leisure-centre-pluriel-les-architectes_2.jpg?1792081424",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T07:00:00.000Z",
+    "ingested_at": "2026-10-23T14:47:37.821Z"
+  },
+  {
+    "id": "006928bb-cb0c-492e-a0f5-8f7588a00f2b",
+    "title": "Tollymore House",
+    "creator": "McGonigle McGrath",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186480/tollymore-mcgonigle-mcgrath",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/4771/07c3/d100/017f/dceb/newsletter/05_McGonigle_McGrath_Tollymore__Johan_Dehlin_260422.jpg?1791379344",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T06:00:00.000Z",
+    "ingested_at": "2026-10-23T14:47:37.821Z"
   }
 ]
