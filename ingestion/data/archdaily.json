@@ -36817,5 +36817,39 @@
     "material": [],
     "published_at": "2026-10-23T10:00:00.000Z",
     "ingested_at": "2026-10-23T18:58:16.957Z"
+  },
+  {
+    "id": "e015c188-aabf-4b4e-9538-196956c2a6be",
+    "title": "Estúdio Semibreve",
+    "creator": "Estúdio Clara Nahas",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187236/estudio-semibreve-estudio-clara-nahas",
+    "image_url": "https://images.adsttc.com/media/images/6ad7/a140/aadf/a000/01e3/b94d/newsletter/6259.mai.26.camilasantos.jpg?1792516478",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T17:00:00.000Z",
+    "ingested_at": "2026-10-23T21:59:38.921Z"
+  },
+  {
+    "id": "fdda74a7-9e17-4a23-b662-14d32dc22938",
+    "title": "Basque Museum Bilbao",
+    "creator": "VAILLO + ARCHITECTS",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/93dc/20d6/d801/8852/00db/newsletter/basque-museum-bilbao-vaillo-plus-architects_5.jpg?1792578535",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T15:00:00.000Z",
+    "ingested_at": "2026-10-23T21:59:38.921Z"
   }
 ]
