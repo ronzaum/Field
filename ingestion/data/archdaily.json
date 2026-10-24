@@ -36902,5 +36902,22 @@
     "material": [],
     "published_at": "2026-10-24T06:00:00.000Z",
     "ingested_at": "2026-10-24T14:22:52.691Z"
+  },
+  {
+    "id": "87a1022f-e009-41c1-a37d-34dddecdccf4",
+    "title": "\"Camposoto\" Health Center",
+    "creator": "Estudio Suárez Corchete",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187184/camposoto-health-center-estudio-suarez-corchete",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/ac0a/4253/0500/01ca/0d5d/newsletter/9834_11_Fernando_Alda.jpg?1787735085",
+    "typology": [
+      "healthcare center"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T11:00:00.000Z",
+    "ingested_at": "2026-10-24T17:59:18.269Z"
   }
 ]
