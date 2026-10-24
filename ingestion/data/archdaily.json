@@ -36868,5 +36868,39 @@
     "material": [],
     "published_at": "2026-10-23T19:00:00.000Z",
     "ingested_at": "2026-10-24T05:34:26.523Z"
+  },
+  {
+    "id": "356b1055-cc49-4eec-9ed9-f88c9396fc96",
+    "title": "Field Shelter in Nara",
+    "creator": "Studio Armitage",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186828/field-shelter-in-nara",
+    "image_url": "https://images.adsttc.com/media/images/6acf/8c6e/b2c4/c300/0178/f31a/newsletter/StudioArmitage_FieldShelter_Nara_04.jpg?1791987479",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T10:00:00.000Z",
+    "ingested_at": "2026-10-24T14:22:52.691Z"
+  },
+  {
+    "id": "78036c2d-9d82-4135-a857-e7db7971b4e8",
+    "title": "Family home Eemnes",
+    "creator": "Kumiki",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186471/family-home-eemnes-kumiki",
+    "image_url": "https://images.adsttc.com/media/images/6ad7/60de/8008/f401/8ba5/4a62/newsletter/family-home-eemnes-kumiki_22.jpg?1792500027",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T06:00:00.000Z",
+    "ingested_at": "2026-10-24T14:22:52.691Z"
   }
 ]
