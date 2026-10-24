@@ -1751,5 +1751,28 @@
     "material": [],
     "published_at": "2026-10-23T10:00:00.000Z",
     "ingested_at": "2026-10-23T14:47:38.232Z"
+  },
+  {
+    "id": "8e856f21-875e-4343-9d86-8ca96455580c",
+    "title": "Cloud House",
+    "creator": "Peter Morris brings \"fairytale flamboyance\" to London",
+    "location": "London",
+    "country": "UK",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/24/cloud-house-peter-morris/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/10/cloud-house-peter-morris-gospel-oak-london-residential-architecture-pomo-exterior_dezeen_2364_sq-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Residential architecture and interiors",
+      "Houses",
+      "London houses",
+      "Pink",
+      "Arches",
+      "Peter Morris Architects"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T10:00:00.000Z",
+    "ingested_at": "2026-10-24T10:38:15.079Z"
   }
 ]

@@ -13169,5 +13169,27 @@
     "material": [],
     "published_at": "2026-10-23T20:55:19.000Z",
     "ingested_at": "2026-10-23T21:59:40.463Z"
+  },
+  {
+    "id": "f8baf09e-129d-4ba0-9b91-d514e51ce3c8",
+    "title": "granite, plaster, and steel define oroco studio’s 40-sqm apartment renovation in madrid",
+    "creator": "Oroco",
+    "location": "Madrid",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/granite-plaster-steel-oroco-studio-40-sqm-apartment-renovation-madrid-rs19/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/rs19-renovation-apartment-madrid-oroco-designboom-700-500x400-22b08q85r663.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "spaces under 50 sqm"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T07:45:42.000Z",
+    "ingested_at": "2026-10-24T10:38:15.741Z"
   }
 ]
