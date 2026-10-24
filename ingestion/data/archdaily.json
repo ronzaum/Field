@@ -36851,5 +36851,22 @@
     "material": [],
     "published_at": "2026-10-23T15:00:00.000Z",
     "ingested_at": "2026-10-23T21:59:38.921Z"
+  },
+  {
+    "id": "7d011eaf-ffc3-4e54-888f-918307941421",
+    "title": "Colien House",
+    "creator": "Álvaro Siza Vieira",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1019867/colien-house-alvaro-siza-vieira-plus-alvaro-fonseca",
+    "image_url": "https://images.adsttc.com/media/images/66b3/f1b1/aa19/b92a/a75f/dd49/newsletter/casa-colien-alvaro-siza-vieira-plus-alvaro-fonseca_42.jpg?1723068871",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-23T19:00:00.000Z",
+    "ingested_at": "2026-10-24T05:34:26.523Z"
   }
 ]
