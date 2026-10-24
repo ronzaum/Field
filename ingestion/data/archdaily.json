@@ -36919,5 +36919,39 @@
     "material": [],
     "published_at": "2026-10-24T11:00:00.000Z",
     "ingested_at": "2026-10-24T17:59:18.269Z"
+  },
+  {
+    "id": "2ce7b47e-ee76-4138-81e4-03822d575b86",
+    "title": "JCB House",
+    "creator": "SUITE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187446/jcb-house-suite",
+    "image_url": "https://images.adsttc.com/media/images/6ad1/15a7/aadf/a000/01e3/a5b5/newsletter/C_pia_de_Suite_JCB_SF_Fotos_Pedro_Ocanhas__72_.jpg?1792087482",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T15:00:00.000Z",
+    "ingested_at": "2026-10-24T20:39:41.234Z"
+  },
+  {
+    "id": "3401f1e9-3cbf-4914-8f03-3a30798f8cc1",
+    "title": "Herdade da Matinha Country House",
+    "creator": "Sabrab",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187439/herdade-da-matinha-country-house-sabrab",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/825c/aadf/a000/01e3/abef/newsletter/20260919-SABRAB-HERDADE-MATINHA-004.jpg?1792180843",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T13:00:00.000Z",
+    "ingested_at": "2026-10-24T20:39:41.234Z"
   }
 ]
