@@ -36953,5 +36953,39 @@
     "material": [],
     "published_at": "2026-10-24T13:00:00.000Z",
     "ingested_at": "2026-10-24T20:39:41.234Z"
+  },
+  {
+    "id": "befe0811-48cb-481a-b954-edb145c13a49",
+    "title": "Legombang Treehouse",
+    "creator": "Cave Urban",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186813/legombang-treehouse-cave-urban",
+    "image_url": "https://images.adsttc.com/media/images/6acf/83d8/51c8/2d01/89ac/0499/newsletter/legombang-treehouse-cave-urban_12.jpg?1791984628",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T17:00:00.000Z",
+    "ingested_at": "2026-10-24T23:01:15.164Z"
+  },
+  {
+    "id": "8cf26982-7177-4e01-96ae-f6ee35ae9035",
+    "title": "La Joya",
+    "creator": "Veö estudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187168/la-joya-veo-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6a8c/10fb/4253/0500/01ca/032f/newsletter/LJ-01-_Daniel_V_squez_Estrada.jpg?1787564303",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-24T16:00:00.000Z",
+    "ingested_at": "2026-10-24T23:01:15.165Z"
   }
 ]
