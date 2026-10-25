@@ -37021,5 +37021,56 @@
     "material": [],
     "published_at": "2026-10-25T06:00:00.000Z",
     "ingested_at": "2026-10-25T14:11:11.145Z"
+  },
+  {
+    "id": "234e95d9-37a1-4acd-805b-1f830de99102",
+    "title": "Ombria Hotel and Apartments Loulé",
+    "creator": "PROMONTORIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187100/ombria-hotel-and-apartments-loule-promontorio",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee6/newsletter/20261019_ArchDaily_Ombria23_PROMONTORIO.jpg?1792411611",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T13:00:00.000Z",
+    "ingested_at": "2026-10-25T18:16:48.468Z"
+  },
+  {
+    "id": "97933e0f-6077-46f6-9fdf-329cad6c5365",
+    "title": "Dunhua Tower",
+    "creator": "Oyler Wu Collaborative",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187401/dunhua-tower-oyler-wu-collaborative",
+    "image_url": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d818/84a5/69d7/newsletter/dunhua-tower-oyler-wu-collaborative_2.jpg?1792693424",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T11:00:00.000Z",
+    "ingested_at": "2026-10-25T18:16:48.469Z"
+  },
+  {
+    "id": "bc537016-e8d3-468b-a0dc-b76f7490f987",
+    "title": "Plaza Salamero: Infrastructure, Landscape, and City",
+    "creator": "Hector Fernández Elorza",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187180/plaza-salamero-infrastructure-landscape-and-city-hector-fernandez-elorza",
+    "image_url": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d33/newsletter/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_05.jpg?1787734934",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T10:00:00.000Z",
+    "ingested_at": "2026-10-25T18:16:48.469Z"
   }
 ]
