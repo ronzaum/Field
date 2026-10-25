@@ -37004,5 +37004,22 @@
     "material": [],
     "published_at": "2026-10-24T21:00:00.000Z",
     "ingested_at": "2026-10-25T04:03:30.008Z"
+  },
+  {
+    "id": "5b4a54e3-f873-4b05-95e3-8f6dc461656b",
+    "title": "Residential house in Vilnius",
+    "creator": "Architectural Bureau G.Natkevicius & Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186113/residential-house-in-vilnius-architectural-bureau-gnatkevicius-and-partners",
+    "image_url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd54/newsletter/4.jpg?1790799189",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T06:00:00.000Z",
+    "ingested_at": "2026-10-25T14:11:11.145Z"
   }
 ]
