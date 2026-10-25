@@ -37072,5 +37072,39 @@
     "material": [],
     "published_at": "2026-10-25T10:00:00.000Z",
     "ingested_at": "2026-10-25T18:16:48.469Z"
+  },
+  {
+    "id": "615e0994-33cf-431e-b79d-702ac1c8cf33",
+    "title": "Montana Farm",
+    "creator": "Estudio Balzano",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187040/montana-farm",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/34ac/aadf/a000/01e3/aad9/newsletter/Montana_55.jpg?1792161291",
+    "typology": [
+      "Recreation & Training"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T16:00:00.000Z",
+    "ingested_at": "2026-10-25T21:33:37.482Z"
+  },
+  {
+    "id": "f24ef8c6-b304-46de-826a-3bcef57b4f80",
+    "title": "Relámpago House",
+    "creator": "h3o architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1010715/relampago-house-h3o-architects",
+    "image_url": "https://images.adsttc.com/media/images/656f/44fd/f84b/cc06/ab19/cdbf/newsletter/casa-relampago-h3o-architects_1.jpg?1701790992",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T15:00:00.000Z",
+    "ingested_at": "2026-10-25T21:33:37.483Z"
   }
 ]
