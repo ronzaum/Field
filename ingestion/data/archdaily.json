@@ -37106,5 +37106,22 @@
     "material": [],
     "published_at": "2026-10-25T15:00:00.000Z",
     "ingested_at": "2026-10-25T21:33:37.483Z"
+  },
+  {
+    "id": "721854cf-7c06-410b-96b9-818fcee7090c",
+    "title": "Creasvalley CC Clubhouse",
+    "creator": "LJL Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187088/creasvalley-cc-clubhouse-ljl-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae4a/newsletter/creasvalley_cc_clubhouse_ljl_architects_29.jpg?1792406136",
+    "typology": [
+      "Recreation & Training"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T17:00:00.000Z",
+    "ingested_at": "2026-10-25T23:58:50.401Z"
   }
 ]
