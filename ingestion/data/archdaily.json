@@ -37242,5 +37242,73 @@
     "material": [],
     "published_at": "2026-10-26T06:00:00.000Z",
     "ingested_at": "2026-10-26T17:12:16.534Z"
+  },
+  {
+    "id": "fe94c5f9-db74-4496-9db9-f62ad1c28e8a",
+    "title": "Project MMR",
+    "creator": "David Ito Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187456/project-mmr-david-ito-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6ada/4328/3271/8400/01d0/e1f6/newsletter/MMR-FOTO-07.jpg?1792688984",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T17:00:00.000Z",
+    "ingested_at": "2026-10-26T22:29:06.300Z"
+  },
+  {
+    "id": "a16fa87e-c4c0-498b-ab2b-0b57b6a7fd29",
+    "title": "Santa Rosa Social Housing",
+    "creator": "FAR frohn&rojas",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187477/santa-rosa-social-housing-far-frohn-and-rojas",
+    "image_url": "https://images.adsttc.com/media/images/6adf/0555/20d6/d801/8852/1031/newsletter/santa-rosa-social-housing-far-frohn-and-rojas_1.jpg?1793000800",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T15:00:00.000Z",
+    "ingested_at": "2026-10-26T22:29:06.300Z"
+  },
+  {
+    "id": "08dc9df1-4e1d-4ef5-a9ac-d2dca475ea6a",
+    "title": "Coqueira House",
+    "creator": "Tiago Sousa Arquitecto",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187520/coqueira-house-tiago-sousa-arquitecto",
+    "image_url": "https://images.adsttc.com/media/images/6adb/469b/20d6/d801/8852/0bab/newsletter/casa-coqueira-tiago-sousa-arquitecto_30.jpg?1792755367",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T13:00:00.000Z",
+    "ingested_at": "2026-10-26T22:29:06.301Z"
+  },
+  {
+    "id": "d4297d62-fc43-4b69-bf9f-50b80ad05e44",
+    "title": "Ironwood Retreat",
+    "creator": "The Ranch Mine",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187398/ironwood-the-ranch-mine",
+    "image_url": "https://images.adsttc.com/media/images/6ada/4994/3271/8400/01d0/e232/newsletter/The_Ranch_Mine_-_Ironwood_-_2.jpg?1792690682",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T12:00:00.000Z",
+    "ingested_at": "2026-10-26T22:29:06.301Z"
   }
 ]
