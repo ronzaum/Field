@@ -37174,5 +37174,73 @@
     "material": [],
     "published_at": "2026-10-26T02:00:00.000Z",
     "ingested_at": "2026-10-26T10:52:31.722Z"
+  },
+  {
+    "id": "0a016141-b38a-4f60-b141-aa10ff168a9c",
+    "title": "Dondoh Restaurant",
+    "creator": "Costa + Herrera Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1177056/dondoh-restaurant-costa-plus-herrera-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6130/2942/25f7/0e01/6663/f4c9/newsletter/dondoh-julio-4.jpg?1630546310",
+    "typology": [
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T11:00:00.000Z",
+    "ingested_at": "2026-10-26T17:12:16.533Z"
+  },
+  {
+    "id": "700bc359-86f3-4e17-81bb-ea0b9dc446ec",
+    "title": "MOKUZAI",
+    "creator": "IT'S Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186694/mokuzai-its-studio",
+    "image_url": "https://images.adsttc.com/media/images/6acc/d85a/b2c4/c300/0178/ea02/newsletter/ITSVISION_MOKUZAI_002B.jpg?1791809644",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T10:00:00.000Z",
+    "ingested_at": "2026-10-26T17:12:16.534Z"
+  },
+  {
+    "id": "f2363306-0fdb-4312-a84e-f511f3a170dc",
+    "title": "Muammer Karaca Theatre Refurbishment",
+    "creator": "Novos Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187304/muammer-karaca-theatre-refurbishment-novos-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/e595/3271/8400/01d0/d9e5/newsletter/EKAP6329_krcM_2026.jpg?1792599542",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T07:00:00.000Z",
+    "ingested_at": "2026-10-26T17:12:16.534Z"
+  },
+  {
+    "id": "61fff9e2-03a3-40a0-bdec-5c5c9b6f2687",
+    "title": "HOUSE JCM",
+    "creator": "Ralph Germann architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186101/house-jcm-ralph-germann-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6abd/458b/122d/aa00/0196/fafb/newsletter/250513_rg_chamby_0029_p_full-2.jpg?1790789026",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T06:00:00.000Z",
+    "ingested_at": "2026-10-26T17:12:16.534Z"
   }
 ]

@@ -13278,5 +13278,47 @@
     "material": [],
     "published_at": "2026-10-26T07:55:37.000Z",
     "ingested_at": "2026-10-26T10:52:32.933Z"
+  },
+  {
+    "id": "1b13fdf2-f981-48f8-97de-055860f15e1e",
+    "title": "golem’s ariel andré on reimagining architecture beyond the human",
+    "creator": "Ariel André, GOLEM",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ariel-andre-golem-guest-essay-architecture-beyond-human/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/ariel-andre-golem-guest-essay-architecture-beyond-human-designboom-233-500x400-22b08q85r722.jpg",
+    "typology": [
+      "architecture",
+      "furniture design",
+      "guest essays",
+      "POSTHUMAN UTOPIAS",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T11:50:57.000Z",
+    "ingested_at": "2026-10-26T17:12:17.728Z"
+  },
+  {
+    "id": "808e5bc3-c075-4259-8d4b-662d2b0f6623",
+    "title": "ryue nishizawa places vivid orange peak against turquoise landfill in japan",
+    "creator": "thomai tsimpou",
+    "location": "Oono Development",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ryue-nishizawa-vivid-orange-peak-turquoise-landfill-japan-setouchi-art-industry-2026-sanaa-kazuyo-sejima/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/ryue-nishizawa-vivid-orange-peak-turquoise-landfill-japan-setouchi-art-industry-2026-sanaa-kazuyo-sejima-designboom-700-500x400-22b08q85r334.jpg",
+    "typology": [
+      "architecture",
+      "exhibitions",
+      "interactive installation",
+      "kazuyo sejima",
+      "ryue nishizawa"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T10:55:12.000Z",
+    "ingested_at": "2026-10-26T17:12:17.733Z"
   }
 ]
