@@ -37123,5 +37123,22 @@
     "material": [],
     "published_at": "2026-10-25T17:00:00.000Z",
     "ingested_at": "2026-10-25T23:58:50.401Z"
+  },
+  {
+    "id": "aac5041a-4ccf-4e2e-96f5-882c185ec2e0",
+    "title": "SIP Coffee and Bakery",
+    "creator": "movs studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187273/sip-coffee-and-bakery-movs-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/b63e/3271/8400/01d0/d892/newsletter/MOVS_SIP_26.jpg?1792587350",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-25T21:00:00.000Z",
+    "ingested_at": "2026-10-26T04:32:13.526Z"
   }
 ]
