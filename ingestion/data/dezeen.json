@@ -1774,5 +1774,27 @@
     "material": [],
     "published_at": "2026-10-24T10:00:00.000Z",
     "ingested_at": "2026-10-24T10:38:15.079Z"
+  },
+  {
+    "id": "5e114c23-61ee-4183-b688-074d8b5ac6f4",
+    "title": "Abu Dhabi reveals design for youth concert hall",
+    "creator": "the late Frank Gehry",
+    "location": "News",
+    "country": null,
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/27/youth-orchestra-abu-dhabi-frank-gehry/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/10/youth-orchestra-abu-dhabi-frank-gehry_dezeen_2364_sq_0-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Abu Dhabi",
+      "Concert halls",
+      "Frank Gehry",
+      "Performance venues",
+      "United Arab Emirates"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T10:45:00.000Z",
+    "ingested_at": "2026-10-27T14:14:00.446Z"
   }
 ]
