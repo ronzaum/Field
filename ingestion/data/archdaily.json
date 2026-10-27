@@ -37395,5 +37395,90 @@
     "material": [],
     "published_at": "2026-10-27T06:00:00.000Z",
     "ingested_at": "2026-10-27T14:14:00.130Z"
+  },
+  {
+    "id": "81759d9d-53ac-48ff-809c-9827c8551d13",
+    "title": "Claranet Portugal Headquarters",
+    "creator": "PROMONTORIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187397/claranet-portugal-headquarters-promontorio",
+    "image_url": "https://images.adsttc.com/media/images/6ada/45e8/3271/8400/01d0/e219/newsletter/00_Site_Instagram_Claranet_03.jpg?1792689684",
+    "typology": [
+      "Office buildings"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T13:00:00.000Z",
+    "ingested_at": "2026-10-27T19:57:19.220Z"
+  },
+  {
+    "id": "914d8e95-3f6b-4236-ae74-47282fe5abe4",
+    "title": "CS3 - Event & Sports Pavilion",
+    "creator": "HA+MA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187143/cs3-event-and-sports-pavilion-ha-plus-ma",
+    "image_url": "https://images.adsttc.com/media/images/6ad6/4dae/aadf/a000/01e3/b12f/newsletter/HCC_Building_Exterior_12.jpg?1792429551",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T12:00:00.000Z",
+    "ingested_at": "2026-10-27T19:57:19.220Z"
+  },
+  {
+    "id": "831b7446-b2ed-498b-b930-4309c563570c",
+    "title": "Grande Nef de l'Île-des-Vannes Renovation",
+    "creator": "Chatillon Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
+    "image_url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/newsletter/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T11:00:00.000Z",
+    "ingested_at": "2026-10-27T19:57:19.221Z"
+  },
+  {
+    "id": "ef85a489-6669-483b-b928-0573721ffce6",
+    "title": "House WE",
+    "creator": "Wespi de Meuron Romeo architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186943/house-we-wespi-de-meuron-romeo-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/e600/b2c4/c300/0178/fa0b/newsletter/Casa_WE_Albo-32.jpg?1792075283",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T10:00:00.000Z",
+    "ingested_at": "2026-10-27T19:57:19.221Z"
+  },
+  {
+    "id": "148d4229-bc02-49e3-a6ee-984c79c027d0",
+    "title": "MMR House",
+    "creator": "David Ito Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187456/mmr-house-david-ito-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6ada/4328/3271/8400/01d0/e1f6/newsletter/MMR-FOTO-07.jpg?1792688984",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-26T17:00:00.000Z",
+    "ingested_at": "2026-10-27T19:57:19.222Z"
   }
 ]
