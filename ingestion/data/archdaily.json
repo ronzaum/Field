@@ -37480,5 +37480,39 @@
     "material": [],
     "published_at": "2026-10-26T17:00:00.000Z",
     "ingested_at": "2026-10-27T19:57:19.222Z"
+  },
+  {
+    "id": "27d59b94-b885-44db-a4a9-6062c3d94776",
+    "title": "Haras Larissa Residence",
+    "creator": "Ricardo Gusmão Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187541/haras-larissa-residence-ricardo-gusmao-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6adf/6660/3271/8400/01d0/eaaa/newsletter/_08A3765_copyright_manuel_sa.jpg?1793025724",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T17:00:00.000Z",
+    "ingested_at": "2026-10-27T23:41:22.603Z"
+  },
+  {
+    "id": "a73415b1-36c2-4bbc-b743-2d12ff475500",
+    "title": "Cibeles House",
+    "creator": "Taller Síntesis",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187616/cibeles-house-taller-sintesis",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/aeed/20d6/d81f/7e85/a4e4/newsletter/casa-cibeles-taller-sintesis_12.jpg?1793109791",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T15:00:00.000Z",
+    "ingested_at": "2026-10-27T23:41:22.603Z"
   }
 ]
