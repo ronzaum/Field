@@ -37531,5 +37531,56 @@
     "material": [],
     "published_at": "2026-10-27T19:00:00.000Z",
     "ingested_at": "2026-10-28T04:58:29.376Z"
+  },
+  {
+    "id": "f8c62737-ab56-4521-b3e1-3aa3dcac5525",
+    "title": "Guest House",
+    "creator": "Mints Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187561/guest-house-mints-design",
+    "image_url": "https://images.adsttc.com/media/images/6adf/8d12/3271/8400/01d0/ec89/newsletter/08_GuestHouse_ext_view.jpg?1793035578",
+    "typology": [
+      "Lodging"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T06:00:00.000Z",
+    "ingested_at": "2026-10-28T11:13:50.913Z"
+  },
+  {
+    "id": "7b5abb4d-3987-4f04-b096-9ba8c7a58a46",
+    "title": "House between Gardens",
+    "creator": "Studio BHD",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187394/house-between-gardens-studio-bhd",
+    "image_url": "https://images.adsttc.com/media/images/6ada/2ef6/3271/8400/01d0/e1bc/newsletter/BHD_VALDIEVIE___PARISB_14_HR.jpg?1792683789",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T03:00:00.000Z",
+    "ingested_at": "2026-10-28T11:13:50.913Z"
+  },
+  {
+    "id": "f8e006a7-0947-46df-882a-8cdfaaad9b62",
+    "title": "Nazuna Hakone Miyanoshita Hotel",
+    "creator": "STUDIO ALUC",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187278/nazuna-hakone-miyanoshita-hotel-studio-aluc",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/e595/3271/8400/01d0/d9eb/newsletter/Nazuna_Hakone_Miyanoshita_high_guest_room-10.jpg?1792599473",
+    "typology": [
+      "Hotels Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T02:00:00.000Z",
+    "ingested_at": "2026-10-28T11:13:50.913Z"
   }
 ]

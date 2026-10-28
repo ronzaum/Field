@@ -13365,5 +13365,27 @@
     "material": [],
     "published_at": "2026-10-27T08:55:40.000Z",
     "ingested_at": "2026-10-27T14:14:01.133Z"
+  },
+  {
+    "id": "e8d6dded-1ce0-4e20-87a3-cf5b490a4968",
+    "title": "studio loutsis integrates timber wayfinding into snøhetta’s theodore roosevelt library",
+    "creator": "Studio Loutsis",
+    "location": "Medora",
+    "country": "US",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/studio-loutsis-timber-wayfinding-snohetta-theodore-roosevelt-library/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/studio-loutsis-timber-wayfinding-theodore-roosevelt-library-designboom-700-1-500x400-22b08q85r713.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in the US",
+      "library architecture and design",
+      "map art and design",
+      "theodore roosevelt presidential library"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T08:45:41.000Z",
+    "ingested_at": "2026-10-28T11:13:52.133Z"
   }
 ]
