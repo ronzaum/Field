@@ -37684,5 +37684,22 @@
     "material": [],
     "published_at": "2026-10-27T15:00:00.000Z",
     "ingested_at": "2026-10-28T18:10:32.046Z"
+  },
+  {
+    "id": "917287c5-b80e-42e6-969e-bb83e0d6abd4",
+    "title": "A Geometric Ruin",
+    "creator": "00L",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187661/a-geometric-ruin",
+    "image_url": "https://images.adsttc.com/media/images/6ae1/c375/db5c/2001/882d/0dd7/newsletter/a-geometric-ruin_15.jpg?1793180611",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T15:00:00.000Z",
+    "ingested_at": "2026-10-28T23:01:37.817Z"
   }
 ]
