@@ -37514,5 +37514,22 @@
     "material": [],
     "published_at": "2026-10-27T15:00:00.000Z",
     "ingested_at": "2026-10-27T23:41:22.603Z"
+  },
+  {
+    "id": "6abb9589-f3ef-4bbf-ad85-7a0801d258f2",
+    "title": "UMG sede Antigua Guatemala",
+    "creator": "Atelier oficina de Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187580/umg-sede-antigua-guatemala-atelier-oficina-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/6115/3271/8400/01d0/ef21/newsletter/UMG.jpg?1793089864",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T19:00:00.000Z",
+    "ingested_at": "2026-10-28T04:58:29.376Z"
   }
 ]
