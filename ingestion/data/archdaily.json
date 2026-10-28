@@ -37582,5 +37582,107 @@
     "material": [],
     "published_at": "2026-10-28T02:00:00.000Z",
     "ingested_at": "2026-10-28T11:13:50.913Z"
+  },
+  {
+    "id": "0c2c0f47-2240-4f74-9c21-d55a51533670",
+    "title": "MAS House",
+    "creator": "SUITE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187546/mas-house-suite",
+    "image_url": "https://images.adsttc.com/media/images/6ad1/15b0/aadf/a000/01e3/a5f2/newsletter/Suite_MAS_SF_Fotos_Pedro_Ocanhas__96__2.jpg?1792087552",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T13:00:00.000Z",
+    "ingested_at": "2026-10-28T18:10:32.042Z"
+  },
+  {
+    "id": "436749a4-706e-4ef6-b9d7-824ff1b142c1",
+    "title": "Goldring Woldenberg Riverfront Park",
+    "creator": "Eskew+Dumez+Ripple",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187234/goldring-woldenberg-riverfront-park-eskew-plus-dumez-plus-ripple",
+    "image_url": "https://images.adsttc.com/media/images/6ad7/9927/aadf/a000/01e3/b903/newsletter/_Tim_Hursley_TH060226_EDR_GWP_DR003.jpg?1792514452",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T12:00:00.000Z",
+    "ingested_at": "2026-10-28T18:10:32.042Z"
+  },
+  {
+    "id": "05c27274-b56c-400b-a862-d2b943995c58",
+    "title": "Coliseum Place Affordable Housing",
+    "creator": "David Baker Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1024398/coliseum-place-building-david-baker-architects",
+    "image_url": "https://images.adsttc.com/media/images/6751/8dfd/3080/cf00/0100/d010/newsletter/21503_ColiseumPlace_BruceDamonte_02.jpg?1733398062",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T11:00:00.000Z",
+    "ingested_at": "2026-10-28T18:10:32.043Z"
+  },
+  {
+    "id": "8c47de46-a2c9-472f-9224-862064aff9f5",
+    "title": "MIND Museum",
+    "creator": "C.F. Møller",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187560/mind-museum-cf-moller",
+    "image_url": "https://images.adsttc.com/media/images/6adf/8cc2/3271/8400/01d0/ec79/newsletter/04_MIND_Photo_by_Kirstine_Mengel.jpg?1793035560",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T10:00:00.000Z",
+    "ingested_at": "2026-10-28T18:10:32.043Z"
+  },
+  {
+    "id": "ab31c9e0-1857-435f-a1eb-a155c3478b36",
+    "title": "Recycling Park",
+    "creator": "Bovenbouw",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187333/recycling-park-bovenbouw",
+    "image_url": "https://images.adsttc.com/media/images/6ad9/dab7/3271/8400/01d0/dd4e/newsletter/BB_COKI_05_FilipDujardin.jpg?1792662218",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T07:00:00.000Z",
+    "ingested_at": "2026-10-28T18:10:32.044Z"
+  },
+  {
+    "id": "07b75c2b-ffce-41ab-bdc4-d4ad3e5a33ae",
+    "title": "Casa Cibeles",
+    "creator": "Taller Síntesis + 23 constructora",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187616/casa-cibeles-taller-sintesis-plus-23-constructora",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/aeed/20d6/d81f/7e85/a4e4/newsletter/casa-cibeles-taller-sintesis_12.jpg?1793109791",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-27T15:00:00.000Z",
+    "ingested_at": "2026-10-28T18:10:32.046Z"
   }
 ]
