@@ -37735,5 +37735,73 @@
     "material": [],
     "published_at": "2026-10-28T17:00:00.000Z",
     "ingested_at": "2026-10-29T05:10:26.778Z"
+  },
+  {
+    "id": "b7f7802f-7d5c-4881-8278-b583856db572",
+    "title": "Umodzi Epicentre Community Center",
+    "creator": "Kamuna Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187600/umodzi-epicentre-community-center-kamuna-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/b363/20d6/d82a/88e0/5b5e/newsletter/umodzi-epicentre-community-center-kamuna-design-studio_7.jpg?1793110913",
+    "typology": [
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T07:00:00.000Z",
+    "ingested_at": "2026-10-29T12:38:17.422Z"
+  },
+  {
+    "id": "1a0818fc-2116-4299-8a52-3033d856edc6",
+    "title": "Island House",
+    "creator": "Agis Mourelatos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187562/island-house-agis-mourelatos",
+    "image_url": "https://images.adsttc.com/media/images/6adf/8dfd/3271/8400/01d0/ecae/newsletter/Island-House-Agis-Mourelatos_yerolymbos-05_v2.jpg?1793035794",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T06:00:00.000Z",
+    "ingested_at": "2026-10-29T12:38:17.422Z"
+  },
+  {
+    "id": "5d361d50-6264-43ae-ba5f-41808237d0d8",
+    "title": "Meriden Senior School, Design and Creative Arts Building",
+    "creator": "Architectus",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187431/meriden-senior-school-design-and-creative-arts-building-architectus",
+    "image_url": "https://images.adsttc.com/media/images/6adb/70a9/3271/8400/01d0/e519/newsletter/sa_edu_Meridan_Senior_School_DaCA_Building_03.jpg?1792766150",
+    "typology": [
+      "Higher Education"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T03:00:00.000Z",
+    "ingested_at": "2026-10-29T12:38:17.423Z"
+  },
+  {
+    "id": "04645937-28b1-4e3e-8479-257ca7bd7034",
+    "title": "Kocaeli Fair Park",
+    "creator": "Özer/Ürger Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187383/kocaeli-fair-park-ozer-urger-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ada/272e/3271/8400/01d0/e043/newsletter/EKAPd0736_kmbM___2026.jpg?1792681794",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T02:00:00.000Z",
+    "ingested_at": "2026-10-29T12:38:17.423Z"
   }
 ]

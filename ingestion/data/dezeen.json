@@ -1819,5 +1819,28 @@
     "material": [],
     "published_at": "2026-10-28T10:30:00.000Z",
     "ingested_at": "2026-10-28T11:13:51.216Z"
+  },
+  {
+    "id": "c4379540-86f7-436b-998a-fc5b23bfec75",
+    "title": "Minimalist House in Japan",
+    "creator": "FORM/Kouichi Kimura is \"reduced to the essentials\"",
+    "location": "Metal",
+    "country": "Japan",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/10/29/minimalist-house-form-kouichi-kimura/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/10/minimalist-house-kouichi-kimura-architects-residential-japan-shiga_dezeen_2364_sq-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Japanese architecture",
+      "Residential architecture and interiors",
+      "Houses",
+      "Corrugated metal",
+      "Japanese houses",
+      "Minimalist architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T11:30:00.000Z",
+    "ingested_at": "2026-10-29T12:38:17.827Z"
   }
 ]
