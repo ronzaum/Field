@@ -37701,5 +37701,39 @@
     "material": [],
     "published_at": "2026-10-28T15:00:00.000Z",
     "ingested_at": "2026-10-28T23:01:37.817Z"
+  },
+  {
+    "id": "151ce8e0-788c-4439-93bf-c8efc4a77232",
+    "title": "Yakisugi House",
+    "creator": "Estudio Mazara",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187678/yakisugi-house-estudio-mazara",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/0593/db5c/2001/882d/0f2b/newsletter/yakisugi-house-estudio-mazara_18.jpg?1793197464",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T19:00:00.000Z",
+    "ingested_at": "2026-10-29T05:10:26.778Z"
+  },
+  {
+    "id": "5ed19919-3667-452a-a7ed-db0f28ebe029",
+    "title": "MIAA - Iberian Museum of Archaeology and Art",
+    "creator": "Carrilho da Graça Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187725/miaa-iberian-museum-of-archaeology-and-art-carrilho-da-graca-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/fcee/3271/8400/01d0/f38e/newsletter/RitaBurmester_CG_MIAA_0220_2208.jpg?1793129753",
+    "typology": [
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-10-28T17:00:00.000Z",
+    "ingested_at": "2026-10-29T05:10:26.778Z"
   }
 ]

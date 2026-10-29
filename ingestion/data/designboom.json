@@ -13432,5 +13432,27 @@
     "material": [],
     "published_at": "2026-10-28T19:24:01.000Z",
     "ingested_at": "2026-10-28T23:01:39.036Z"
+  },
+  {
+    "id": "41b9e295-4536-4b05-8a31-b9263afbd3ce",
+    "title": "desert-inspired sensory playground brings kid’s perspective to downtown el paso",
+    "creator": "Miguel Mendoza",
+    "location": "El Paso",
+    "country": "USA",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/nomada-desert-playgola-childrens-playground-el-paso/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/nomada-turns-a-pergola-into-a-desert-inspired-playscape-in-downtown-el-paso-6-6ae1f8e97347d-copy-500x400-22b08q85r121.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "immersive installations",
+      "interactive installation",
+      "playgrounds",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T03:40:05.000Z",
+    "ingested_at": "2026-10-29T05:10:28.374Z"
   }
 ]
