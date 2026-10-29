@@ -37803,5 +37803,73 @@
     "material": [],
     "published_at": "2026-10-29T02:00:00.000Z",
     "ingested_at": "2026-10-29T12:38:17.423Z"
+  },
+  {
+    "id": "dac7bed7-e1c6-4a36-881a-e331bd30b074",
+    "title": "Piódão Plaza and Tourist Office",
+    "creator": "Branco-DelRio Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187554/piodao-plaza-and-tourist-office-branco-delrio-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ad2/57f5/aadf/a000/01e3/ab17/newsletter/Pi_d_o_Fotografia06_FredericoMartinho.jpg?1792170121",
+    "typology": [
+      "Community"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T13:00:00.000Z",
+    "ingested_at": "2026-10-29T18:52:13.419Z"
+  },
+  {
+    "id": "78c3ca45-0f49-497e-a725-8da80f5f315e",
+    "title": "Cottage",
+    "creator": "Archicraft",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187551/cottage-archicraft",
+    "image_url": "https://images.adsttc.com/media/images/6adf/83f8/3271/8400/01d0/ebf3/newsletter/COTTAGE_03.jpg?1793033225",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T12:00:00.000Z",
+    "ingested_at": "2026-10-29T18:52:13.419Z"
+  },
+  {
+    "id": "695b37d9-3042-461f-93dd-17471a251de5",
+    "title": "Grey House",
+    "creator": "Adam Kane Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1024034/grey-house-adam-kane-architects",
+    "image_url": "https://images.adsttc.com/media/images/6745/e509/61c7/c100/0136/9933/newsletter/AdamKaneArchitectsGreyHouse01.jpg?1732633884",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T11:00:00.000Z",
+    "ingested_at": "2026-10-29T18:52:13.419Z"
+  },
+  {
+    "id": "df70482f-eea8-439f-a286-29a8cea5c45e",
+    "title": "SPAZIO VILLALTA",
+    "creator": "Artico Fracassi + Marco Zito",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187413/spazio-villalta-artico-fracassi-plus-marco-zito",
+    "image_url": "https://images.adsttc.com/media/images/6adb/31dd/3271/8400/01d0/e3fa/newsletter/Villalta-19.jpg?1792750352",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T10:00:00.000Z",
+    "ingested_at": "2026-10-29T18:52:13.419Z"
   }
 ]
