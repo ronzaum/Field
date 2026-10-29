@@ -37871,5 +37871,22 @@
     "material": [],
     "published_at": "2026-10-29T10:00:00.000Z",
     "ingested_at": "2026-10-29T18:52:13.419Z"
+  },
+  {
+    "id": "8911b338-d184-45dd-a626-4e32d7809524",
+    "title": "Curicó House",
+    "creator": "Armstrong Arquitectos + PAR Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187776/curico-house-armstrong-arquitectos-plus-par-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/fd13/3271/8400/01d0/fa89/newsletter/DJI_0203.jpg?1793260888",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T15:00:00.000Z",
+    "ingested_at": "2026-10-29T23:10:00.433Z"
   }
 ]
