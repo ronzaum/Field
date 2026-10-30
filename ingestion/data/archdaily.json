@@ -37888,5 +37888,39 @@
     "material": [],
     "published_at": "2026-10-29T15:00:00.000Z",
     "ingested_at": "2026-10-29T23:10:00.433Z"
+  },
+  {
+    "id": "56b9ec5f-45ce-443f-900c-1cc4ccd7b25b",
+    "title": "House in Ibiza, The Roca Views",
+    "creator": "Fran Silvestre Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187789/house-in-ibiza-the-roca-views-fran-silvestre-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/8e14/a8ed/4118/c6b5/a793/newsletter/house-in-ibiza-the-roca-views-fran-silvestre-arquitectos_1.jpg?1793297957",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T19:00:00.000Z",
+    "ingested_at": "2026-10-30T05:09:58.180Z"
+  },
+  {
+    "id": "711b4d8d-0bce-494e-98b5-0df5bbef18e2",
+    "title": "Wood Structure on top of Brick Structure",
+    "creator": "corpo  atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187639/wood-structure-on-top-of-brick-structure-corpo-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/fba4/3271/8400/01d0/f37b/newsletter/4.jpg?1793129450",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-10-29T17:00:00.000Z",
+    "ingested_at": "2026-10-30T05:09:58.180Z"
   }
 ]
