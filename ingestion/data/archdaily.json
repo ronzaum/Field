@@ -38041,5 +38041,39 @@
     "material": [],
     "published_at": "2026-10-30T10:00:00.000Z",
     "ingested_at": "2026-10-30T18:29:14.282Z"
+  },
+  {
+    "id": "13d0ae5b-18c8-4b16-8b57-604daec1f3f5",
+    "title": "House in Vinhedo",
+    "creator": "Apiacás Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036541/house-in-vinhedo-apiacas-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6901/00f7/243c/4d00/01f8/145a/newsletter/_07A0126_27_28_29_30.jpg?1761673510",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T17:00:00.000Z",
+    "ingested_at": "2026-10-30T22:52:24.833Z"
+  },
+  {
+    "id": "e6a776fc-727e-4746-b555-57cbd8c40bde",
+    "title": "Casa Neblina",
+    "creator": "Red Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187819/susana-lopez-gonzalez",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/82bf/bfbd/4c00/01ee/57ae/newsletter/1_CASA_NEBLINA_IRVING_TORRES_PIEDRAS.jpg?1793360602",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T15:00:00.000Z",
+    "ingested_at": "2026-10-30T22:52:24.833Z"
   }
 ]
