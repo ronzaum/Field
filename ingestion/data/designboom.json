@@ -13474,5 +13474,98 @@
     "material": [],
     "published_at": "2026-10-29T16:15:18.000Z",
     "ingested_at": "2026-10-29T18:52:14.663Z"
+  },
+  {
+    "id": "3f3dfa04-c711-40fa-9c77-b80ace029e02",
+    "title": "‘dismantling should be designed, not improvised’: THISS studio on radical reuse in architecture",
+    "creator": "THISS Studio",
+    "location": "London",
+    "country": "United Kingdom",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/thiss-studio-tamsin-hanke-radical-reuse-exhibition-design-interview/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/thiss-studio-tamsin-hanke-radical-reuse-exhibition-design-interview-1-500x400-22b08q85r511.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "exhibition design",
+      "interactive installation",
+      "POSTHUMAN UTOPIAS",
+      "recycling"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T11:50:54.000Z",
+    "ingested_at": "2026-10-30T12:29:27.618Z"
+  },
+  {
+    "id": "60acabdd-2f70-4215-bb38-4e979af61e56",
+    "title": "podcast: architecture that listens through nature and site intelligence",
+    "creator": "tim spears",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-01-02/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/indx-global-room-for-utopias-podcast-01-designboom-700-2-500x400-22b08q85r965.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "interviews",
+      "video",
+      "architecture in india",
+      "architecture interviews",
+      "paris design week 2026",
+      "podcast: room for utopias",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T11:00:47.000Z",
+    "ingested_at": "2026-10-30T12:29:27.636Z"
+  },
+  {
+    "id": "c07d6dfa-843f-42b6-a7df-0fb2705ddc72",
+    "title": "herzog & de meuron to convert former birkenstock warehouse into the eames institute museum",
+    "creator": "Iñaki Laguardia",
+    "location": "Novato",
+    "country": "USA",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/herzog-de-meuron-eames-institute-museum-birkenstock-warehouse-novato/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/herzog-de-meuron-eames-institute-museum-birkenstock-warehouse-novato-designboom-3-500x400-22b08q85r819.jpeg",
+    "typology": [
+      "architecture",
+      "highlights",
+      "charles and ray eames",
+      "herzog and de meuron",
+      "landscape architecture and design",
+      "museums and galleries",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T10:03:38.000Z",
+    "ingested_at": "2026-10-30T12:29:27.640Z"
+  },
+  {
+    "id": "74b2f92f-a53d-4e7b-96b0-a3d32529b907",
+    "title": "this 1950s modular house by jean and claude prouvé has moved across france",
+    "creator": "Claude Prouvé, working with Jean Prouvé’s construction system",
+    "location": "Epfig",
+    "country": "France",
+    "year": 1959,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/1950s-modular-house-jean-claude-prouve-saint-paul-de-vence-france-maison-prouve-58/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/maison-prouve-58-jean-claude-france-designboom-700-500x400-22b08q85r960.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in france",
+      "jean prouve",
+      "prefabricated homes and buildings",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T09:25:44.000Z",
+    "ingested_at": "2026-10-30T12:29:27.645Z"
   }
 ]

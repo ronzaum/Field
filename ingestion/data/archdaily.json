@@ -37922,5 +37922,56 @@
     "material": [],
     "published_at": "2026-10-29T17:00:00.000Z",
     "ingested_at": "2026-10-30T05:09:58.180Z"
+  },
+  {
+    "id": "67fe5a02-36ac-472f-b66d-9e2e1d053fa7",
+    "title": "Novéo",
+    "creator": "Taillandier Architectes Associés",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187563/noveo-taillandier-architectes-associes",
+    "image_url": "https://images.adsttc.com/media/images/6adf/8e64/3271/8400/01d0/ecc6/newsletter/RH3333-0002.jpg?1793035917",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T06:00:00.000Z",
+    "ingested_at": "2026-10-30T12:29:26.660Z"
+  },
+  {
+    "id": "425b7f8d-5f84-440b-956a-d214f158c2c5",
+    "title": "Vaastavya Residence",
+    "creator": "Space Agency",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187510/vaastavya-residence-space-agency",
+    "image_url": "https://images.adsttc.com/media/images/6adf/421b/3271/8400/01d0/ea04/newsletter/SJP7440.jpg?1793016383",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T03:00:00.000Z",
+    "ingested_at": "2026-10-30T12:29:26.661Z"
+  },
+  {
+    "id": "084ff31f-df8f-4043-95f7-eb25471dd9d7",
+    "title": "Photography Studio as Local Infrastructure",
+    "creator": "ArchTank",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186440/photography-studio-as-local-infrastructure-archtank",
+    "image_url": "https://images.adsttc.com/media/images/6ac5/4c1f/90e2/9d10/2520/8b91/newsletter/hinomarusyasinkan-archtank_1.jpg?1791314991",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T02:00:00.000Z",
+    "ingested_at": "2026-10-30T12:29:26.661Z"
   }
 ]
