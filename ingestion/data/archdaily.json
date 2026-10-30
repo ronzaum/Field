@@ -37973,5 +37973,73 @@
     "material": [],
     "published_at": "2026-10-30T02:00:00.000Z",
     "ingested_at": "2026-10-30T12:29:26.661Z"
+  },
+  {
+    "id": "245ea381-6ecb-4173-a7a6-d58af1a400cc",
+    "title": "Hotel MS Collection Arouca",
+    "creator": "MiMool Arquitectura & Design de Interiores",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187879/hotel-ms-collection-arouca-mimool-arquitectura-and-design-de-interiores",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/22be/20d6/d801/8852/1f28/newsletter/ms-collection-arouca-mimool-arquitectura-and-design-de-interiores_5.jpg?1793270502",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T13:00:00.000Z",
+    "ingested_at": "2026-10-30T18:29:14.281Z"
+  },
+  {
+    "id": "64988094-3ac8-4a14-ba59-b091f2c2b803",
+    "title": "The Turquoise House",
+    "creator": "SUPRBLK Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187611/the-turquoise-house-suprblk-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/b3f7/3271/8400/01d0/f115/newsletter/SUPRBLK_-_TURQUOISE_-_21_Doublespace.jpg?1793111165",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T12:00:00.000Z",
+    "ingested_at": "2026-10-30T18:29:14.281Z"
+  },
+  {
+    "id": "bcb5803e-1c94-40f1-9829-ce518209f4ab",
+    "title": "AEME Building",
+    "creator": "Paz Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/994469/edificio-aeme-paz-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/63ab/2234/adb1/7440/9e70/d1c9/newsletter/aeme-paz-arquitectura_7.jpg?1672159805",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T11:00:00.000Z",
+    "ingested_at": "2026-10-30T18:29:14.282Z"
+  },
+  {
+    "id": "1ce0c85d-b343-4d97-bb10-ca8211b3d4f6",
+    "title": "Rotiers - Renovation of 46 housing units in Brussels",
+    "creator": "MULTIPLE Architecture & Urbanism",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
+    "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/newsletter/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T10:00:00.000Z",
+    "ingested_at": "2026-10-30T18:29:14.282Z"
   }
 ]
