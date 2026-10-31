@@ -38075,5 +38075,22 @@
     "material": [],
     "published_at": "2026-10-30T15:00:00.000Z",
     "ingested_at": "2026-10-30T22:52:24.833Z"
+  },
+  {
+    "id": "9be98a26-676d-4903-835f-b5e0533dfc1a",
+    "title": "Rancho del Abuelo",
+    "creator": "Mendiola Arregui",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187853/rancho-del-abuelo-mendiola-arregui",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/ac45/a04f/d001/89cd/414f/newsletter/rancho-del-abuelo-mendiola-arregui_2.jpg?1793371220",
+    "typology": [
+      "Recreation & Training"
+    ],
+    "material": [],
+    "published_at": "2026-10-30T19:00:00.000Z",
+    "ingested_at": "2026-10-31T02:09:18.012Z"
   }
 ]
