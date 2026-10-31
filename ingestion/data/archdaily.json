@@ -38092,5 +38092,39 @@
     "material": [],
     "published_at": "2026-10-30T19:00:00.000Z",
     "ingested_at": "2026-10-31T02:09:18.012Z"
+  },
+  {
+    "id": "fb383eb7-6a6b-4676-a3b6-4014e861344a",
+    "title": "Alonakia House",
+    "creator": "React Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187679/alonakia-react-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ae1/f5eb/3271/8400/01d0/f5f2/newsletter/151.jpg?1793193601",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-10-31T10:00:00.000Z",
+    "ingested_at": "2026-10-31T15:39:18.584Z"
+  },
+  {
+    "id": "e37dfc00-b16a-4e4e-9664-e9a0ae0d3ae2",
+    "title": "Simple Structures, Multiple Uses: Rethinking the Schoolyard and Its Canopy",
+    "creator": "127af",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187414/simple-structures-multiple-uses-rethinking-the-schoolyard-and-its-canopy-127af",
+    "image_url": "https://images.adsttc.com/media/images/6adb/370a/3271/8400/01d0/e40f/newsletter/003.jpg?1792751404",
+    "typology": [
+      "Small Scale"
+    ],
+    "material": [],
+    "published_at": "2026-10-31T06:00:00.000Z",
+    "ingested_at": "2026-10-31T15:39:18.584Z"
   }
 ]
