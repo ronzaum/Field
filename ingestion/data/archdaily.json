@@ -38160,5 +38160,56 @@
     "material": [],
     "published_at": "2026-10-31T11:00:00.000Z",
     "ingested_at": "2026-10-31T19:48:58.415Z"
+  },
+  {
+    "id": "91eb2081-f1cb-4423-9691-85c83b78fba6",
+    "title": "DamDam House",
+    "creator": "Studio SMA + Ground Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187430/damdam-house-studio-sma-plus-ground-architects",
+    "image_url": "https://images.adsttc.com/media/images/6adb/6ccc/3271/8400/01d0/e4db/newsletter/damdam_004_2.jpg?1792765164",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-10-31T17:00:00.000Z",
+    "ingested_at": "2026-10-31T23:13:34.693Z"
+  },
+  {
+    "id": "3705ca7e-5c2c-4d17-b840-96b8de60f37b",
+    "title": "Virtual Studio at the Cidade das TIC, A Coruña Arms Factory",
+    "creator": "Diaz y Diaz Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187911/virtual-studio-at-the-cidade-das-tic-a-coruna-arms-factory-diaz-y-diaz-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ace/96cc/b2c4/c300/0178/ee97/newsletter/JR_CEI_05.jpg?1791923960",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-10-31T16:00:00.000Z",
+    "ingested_at": "2026-10-31T23:13:34.694Z"
+  },
+  {
+    "id": "abd2c71b-c402-438e-9a6a-4e99f8ff0235",
+    "title": "Alaska Airlines Flagship Lounge",
+    "creator": "Graham Baba Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/950373/alaska-airlines-flagship-lounge-graham-baba-architects",
+    "image_url": "https://images.adsttc.com/media/images/5f98/adac/63c0/1782/cd00/0757/newsletter/Alaska_Lounge_05_AP.jpg?1603841426",
+    "typology": [
+      "Airport"
+    ],
+    "material": [],
+    "published_at": "2026-10-31T15:00:00.000Z",
+    "ingested_at": "2026-10-31T23:13:34.694Z"
   }
 ]
