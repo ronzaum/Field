@@ -38279,5 +38279,39 @@
     "material": [],
     "published_at": "2026-11-01T09:00:00.000Z",
     "ingested_at": "2026-11-01T18:22:01.962Z"
+  },
+  {
+    "id": "e6fbc146-3705-4ba2-873d-834129bcc6e7",
+    "title": "Hotel Casa Cuenca",
+    "creator": "Taller Ivan Esqueda + Gala Sánchez-Renero Estudio + Mara Sánchez-Renero",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187900/hotel-casa-cuenca-taller-ivan-esqueda-plus-gala-sanchez-renero-estudio-plus-mara-sanchez-renero",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/e0fa/05b6/9900/01b5/3aab/newsletter/20CASA_CUENCA-_DIEGO_PADILLA_MAGALLANES.jpg?1789059409",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T15:00:00.000Z",
+    "ingested_at": "2026-11-01T22:38:36.847Z"
+  },
+  {
+    "id": "0a48b26b-6a86-426a-84b5-6375da1da1f5",
+    "title": "The House of Courtyards",
+    "creator": "Studio VDGA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1018550/the-house-of-courtyards-studio-vdga",
+    "image_url": "https://images.adsttc.com/media/images/6688/1f6d/483c/b323/d80e/7b86/newsletter/the-house-of-courtyards-studio-vdga_1.jpg?1720197040",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T14:00:00.000Z",
+    "ingested_at": "2026-11-01T22:38:36.847Z"
   }
 ]

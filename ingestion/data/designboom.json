@@ -13630,5 +13630,52 @@
     "material": [],
     "published_at": "2026-10-31T21:35:23.000Z",
     "ingested_at": "2026-10-31T23:13:35.599Z"
+  },
+  {
+    "id": "a82c75f1-7ca6-4a55-8c66-01c48ebf82ea",
+    "title": "how ecoLogicStudio uses living organisms to build better spaces for living",
+    "creator": "ecoLogicStudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/how-ecologicstudio-uses-living-organisms-to-build-better-spaces-for-living/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/deep-forest-3-designboom-700-1-500x400-22b08q85r816.jpg",
+    "typology": [
+      "architecture",
+      "biomimicry",
+      "climate change",
+      "mushroom mycelium",
+      "POSTHUMAN UTOPIAS",
+      "triennale design museum"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T21:45:07.000Z",
+    "ingested_at": "2026-11-01T22:38:37.870Z"
+  },
+  {
+    "id": "93673cb8-d732-4b0b-ae5e-85a5b1eada6a",
+    "title": "traditional bamboo scaffolding and tea-waste panels shape impromptu projects’ pagoda in macau",
+    "creator": "Joao O",
+    "location": "Sai Van Lake",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/traditional-bamboo-scaffolding-tea-waste-panels-impromptu-projects-pagoda-macau/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/bamboo-pagoda-macau-bamboo-scaffolding-heritage-impromptu-projects-designboom-700-500x400-22b08q85r647.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in macau",
+      "bamboo architecture and design",
+      "impromptu projects",
+      "interactive installation",
+      "scaffolding",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T18:35:55.000Z",
+    "ingested_at": "2026-11-01T22:38:37.875Z"
   }
 ]
