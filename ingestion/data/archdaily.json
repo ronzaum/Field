@@ -38228,5 +38228,22 @@
     "material": [],
     "published_at": "2026-10-31T21:00:00.000Z",
     "ingested_at": "2026-11-01T05:23:44.060Z"
+  },
+  {
+    "id": "ecc47861-d460-443a-9787-3dd8da9a4c5a",
+    "title": "KOI Restaurant",
+    "creator": "SOA Architekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187623/koi-soa-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/newsletter/koi-soa-architekti_3.jpg?1793118369",
+    "typology": [
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T06:00:00.000Z",
+    "ingested_at": "2026-11-01T12:57:36.217Z"
   }
 ]
