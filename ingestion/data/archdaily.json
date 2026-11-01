@@ -38245,5 +38245,39 @@
     "material": [],
     "published_at": "2026-11-01T06:00:00.000Z",
     "ingested_at": "2026-11-01T12:57:36.217Z"
+  },
+  {
+    "id": "de19dfb9-19e3-4ddd-ab28-72ed3731b150",
+    "title": "Escola Sant Ignasi-Jesuïtes de Sarrià",
+    "creator": "Aquidos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187783/escola-sant-ignasi-jesuites-de-sarria-aquidos",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/7638/495d/0300/01a7/652a/newsletter/archdaily_SantIgnasi_1.jpg?1793291853",
+    "typology": [
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T10:00:00.000Z",
+    "ingested_at": "2026-11-01T18:22:01.962Z"
+  },
+  {
+    "id": "b5f9e911-a2f3-4417-b798-166af1b78fb7",
+    "title": "U-shaped store",
+    "creator": "MANERA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187442/u-shaped-store-manera",
+    "image_url": "https://images.adsttc.com/media/images/6adb/8d91/3271/8400/01d0/e5b6/newsletter/04_U-shaped_store_Medellin_Colombia_MANERA__Juan_Camilo_Roa.jpg?1792773553",
+    "typology": [
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T09:00:00.000Z",
+    "ingested_at": "2026-11-01T18:22:01.962Z"
   }
 ]
