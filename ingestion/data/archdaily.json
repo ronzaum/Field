@@ -38313,5 +38313,39 @@
     "material": [],
     "published_at": "2026-11-01T14:00:00.000Z",
     "ingested_at": "2026-11-01T22:38:36.847Z"
+  },
+  {
+    "id": "450ea821-b768-4904-97e6-1bd6e88f628b",
+    "title": "SE House",
+    "creator": "Kantor Gunawan Gunawan",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187664/se-house-kantor-gunawan-gunawan",
+    "image_url": "https://images.adsttc.com/media/images/6ae1/f40a/db5c/2001/882d/0ea7/newsletter/se-house-kantor-gunawan-gunawan_17.jpg?1793193026",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T20:00:00.000Z",
+    "ingested_at": "2026-11-02T02:13:35.677Z"
+  },
+  {
+    "id": "593f69c9-028d-4877-9f8d-5864f3a979a3",
+    "title": "House in Yakami",
+    "creator": "enter-archi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186481/house-in-yakami-enter-archi",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/49e3/07c3/d100/017f/dd09/newsletter/01_House-in-YAKAMI_Main_Yoshikatsu-Iriguchi.jpg?1791379963",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-01T16:00:00.000Z",
+    "ingested_at": "2026-11-02T02:13:35.678Z"
   }
 ]
