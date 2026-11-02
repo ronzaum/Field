@@ -38347,5 +38347,56 @@
     "material": [],
     "published_at": "2026-11-01T16:00:00.000Z",
     "ingested_at": "2026-11-02T02:13:35.678Z"
+  },
+  {
+    "id": "86129208-461b-480b-9ee7-4162b615c8a6",
+    "title": "Lion Green Road",
+    "creator": "Mary Duggan Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187856/lion-green-road",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/b158/a8ed/4101/8962/34de/newsletter/lion-green-road_5.jpg?1793372634",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T05:00:00.000Z",
+    "ingested_at": "2026-11-02T10:45:55.987Z"
+  },
+  {
+    "id": "bf0814a6-a566-488b-86f4-25f9e6b67d4a",
+    "title": "Temple of Togetherness",
+    "creator": "Bunga Design Atelier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187417/temple-of-togetherness-bunga-design-atelier",
+    "image_url": "https://images.adsttc.com/media/images/6adf/759a/20d6/d801/8852/13bd/newsletter/temple-of-togetherness-bunga-design-atelier_28.jpg?1793029540",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T02:00:00.000Z",
+    "ingested_at": "2026-11-02T10:45:55.988Z"
+  },
+  {
+    "id": "8e5af037-ffc5-4da9-ad01-98c050c6f0e9",
+    "title": "Minimalist House",
+    "creator": "FORM/Kouichi Kimura Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186735/minimalist-house-form-kouichi-kimura-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ace/1336/b2c4/c300/0178/ec1f/newsletter/ogoto_Re06.jpg?1791890257",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T01:00:00.000Z",
+    "ingested_at": "2026-11-02T10:45:55.988Z"
   }
 ]
