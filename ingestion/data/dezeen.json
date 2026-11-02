@@ -1862,5 +1862,27 @@
     "material": [],
     "published_at": "2026-11-01T11:00:00.000Z",
     "ingested_at": "2026-11-01T12:57:36.480Z"
+  },
+  {
+    "id": "01d86aaf-9fe6-4fb4-9686-e1f87bd90d55",
+    "title": "Brick bathhouse",
+    "creator": "Kengo Kuma nears completion in Copenhagen",
+    "location": "News",
+    "country": "Denmark",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/11/02/kengo-kuma-kai-water-culture-house-copenhagen/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/10/kengo-kuma-kai-water-culture-house-copenhagen-sq_dezeen_2364_col_2-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Copenhagen",
+      "Bathhouses",
+      "Swimming pools",
+      "Kengo Kuma",
+      "Vilhelm Lauritzen Architects"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T11:00:00.000Z",
+    "ingested_at": "2026-11-02T20:40:30.888Z"
   }
 ]

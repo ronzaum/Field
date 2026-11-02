@@ -13677,5 +13677,70 @@
     "material": [],
     "published_at": "2026-11-01T18:35:55.000Z",
     "ingested_at": "2026-11-01T22:38:37.875Z"
+  },
+  {
+    "id": "b8f79723-2d04-4060-a538-5e5216210f51",
+    "title": "matteo thun transforms 72 apartments inside milan’s iconic brutalist torre velasca",
+    "creator": "Matteo Thun & Partners",
+    "location": "Piazza Velasca 3/5",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/matteo-thun-72-apartments-milan-iconic-brutalist-torre-velasca-interior-residences/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/torre-velasca-matteo-thun-partners-interiors-milan-italy-designboom-700-500x400-22b08q85r383.jpg",
+    "typology": [
+      "architecture",
+      "architectural icons",
+      "architecture in italy",
+      "matteo thun",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "skyscraper architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T19:10:52.000Z",
+    "ingested_at": "2026-11-02T20:40:31.723Z"
+  },
+  {
+    "id": "4ab61539-ba9d-45bc-9a46-28d95f5282c2",
+    "title": "aditya mandlik explores how water, worms and bees can reshape architecture",
+    "creator": "Aditya Mandlik",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/aditya-mandlik-water-worms-bees-reshape-architecture-guest-essay/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/Factory-5.0-04-10-24.0612-copy-500x400-22b08q85r320.jpg",
+    "typology": [
+      "architecture",
+      "aditya mandlik",
+      "guest essays",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T11:56:43.000Z",
+    "ingested_at": "2026-11-02T20:40:31.734Z"
+  },
+  {
+    "id": "70211619-4311-4210-969f-fb2a1c1423cf",
+    "title": "fala’s porto house pairs striped marble with playful geometric forms and sculptural interiors",
+    "creator": "Iñaki Laguardia",
+    "location": "Porto",
+    "country": "Portugal",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/fala-atelier-striped-marble-house-porto-portugal/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/fala-atelier-striped-marble-house-porto-portugal-designboom-177-500x400-22b08q85r170.jpg",
+    "typology": [
+      "architecture",
+      "architecture in portugal",
+      "facades",
+      "fala atelier",
+      "residential architecture and interiors",
+      "staircases"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T10:49:32.000Z",
+    "ingested_at": "2026-11-02T20:40:31.745Z"
   }
 ]

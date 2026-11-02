@@ -38398,5 +38398,107 @@
     "material": [],
     "published_at": "2026-11-02T01:00:00.000Z",
     "ingested_at": "2026-11-02T10:45:55.988Z"
+  },
+  {
+    "id": "e0278fe5-6fae-4447-9570-db8f6f49c766",
+    "title": "Tiny House Razzi",
+    "creator": "Stanaćev Granados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187869/tiny-house-razzi",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/5bdb/62dc/0e01/8725/7292/newsletter/tiny-house-razzi-stanacev-granados_32.jpg?1793612831",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T15:00:00.000Z",
+    "ingested_at": "2026-11-02T20:40:30.483Z"
+  },
+  {
+    "id": "a1c341ce-13bd-43ec-bd38-3dd056e3bd80",
+    "title": "Quinta da Casa",
+    "creator": "Artequitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187977/quinta-da-casa-artequitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/2f7f/20d6/d801/8852/1f6a/newsletter/house-quinta-da-casa-artequitectos_15.jpg?1793273743",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T13:00:00.000Z",
+    "ingested_at": "2026-11-02T20:40:30.483Z"
+  },
+  {
+    "id": "829bb1ab-aaa9-4ca7-ba5a-a51d9e3c3bf9",
+    "title": "House Up in the Clouds",
+    "creator": "Hennessey Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187896/up-in-the-clouds-hennessey-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/eedf/bfbd/4c00/01ee/5c52/newsletter/hennessey-architecture-up-in-the-clouds-01.jpg?1793388281",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T12:00:00.000Z",
+    "ingested_at": "2026-11-02T20:40:30.483Z"
+  },
+  {
+    "id": "bece6720-82fe-4a1b-ad8f-00eadd1c2013",
+    "title": "Buriti Apartment",
+    "creator": "ponto.d",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1026761/buriti-apartment-pont",
+    "image_url": "https://images.adsttc.com/media/images/67aa/7fcf/ea72/f101/8803/419d/newsletter/apartamento-buriti-coarquitetos_24.jpg?1739227097",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T11:00:00.000Z",
+    "ingested_at": "2026-11-02T20:40:30.484Z"
+  },
+  {
+    "id": "37fc13e6-afed-4d18-a345-14e99e82bd9a",
+    "title": "Centre Haselstauden Dornbirn",
+    "creator": "Cukrowicz Nachbaur Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187922/centre-haselstauden-dornbirn-cukrowicz-nachbaur-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6ae6/243b/bfbd/4c00/01ee/5e4d/newsletter/408_HADO_A12__Dominic_Kummer_f_r_Cukrowicz_Nachbaur_Architekten.jpg?1793467657",
+    "typology": [
+      "Day Care"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T10:00:00.000Z",
+    "ingested_at": "2026-11-02T20:40:30.484Z"
+  },
+  {
+    "id": "0924e5ad-0d10-4f81-895c-cf432a74d548",
+    "title": "MRES",
+    "creator": "MOLD Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187735/mres-mold-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/0cae/3271/8400/01d0/faa9/newsletter/2.jpg?1793264898",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T06:00:00.000Z",
+    "ingested_at": "2026-11-02T20:40:30.484Z"
   }
 ]
