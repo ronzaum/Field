@@ -38636,5 +38636,56 @@
     "material": [],
     "published_at": "2026-11-03T02:00:00.000Z",
     "ingested_at": "2026-11-03T18:18:29.691Z"
+  },
+  {
+    "id": "44c91a4d-e259-471c-ba3d-1e5914b23841",
+    "title": "The Vineyard HOUSE?",
+    "creator": "Lauti Esain",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188001/the-vineyard-house-lauti-esain",
+    "image_url": "https://images.adsttc.com/media/images/6adf/4130/3271/8400/01d0/e9ed/newsletter/13.jpg?1793016146",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T15:00:00.000Z",
+    "ingested_at": "2026-11-03T23:54:28.924Z"
+  },
+  {
+    "id": "05e135d8-21f8-48bb-bf8b-8870551f99fc",
+    "title": "House Around a Column",
+    "creator": "fala",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187983/house-around-a-column-fala",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/f8ee/62dc/0e01/8725/786e/newsletter/casa-ao-redor-de-uma-coluna-fala_23.jpg?1793653036",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T13:00:00.000Z",
+    "ingested_at": "2026-11-03T23:54:28.924Z"
+  },
+  {
+    "id": "8baa66a9-3741-4e5a-8333-e92947fd3035",
+    "title": "Understory House",
+    "creator": "Gluck+",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187903/understory-house-gluck-plus",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/f532/bfbd/4c00/01ee/5cfd/newsletter/1902-PRO-01-HANA-DSC07618.jpg?1793389965",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T12:00:00.000Z",
+    "ingested_at": "2026-11-03T23:54:28.924Z"
   }
 ]
