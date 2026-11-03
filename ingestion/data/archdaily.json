@@ -38534,5 +38534,107 @@
     "material": [],
     "published_at": "2026-11-02T16:00:00.000Z",
     "ingested_at": "2026-11-03T02:49:44.559Z"
+  },
+  {
+    "id": "4ca80934-d5ab-4141-b3d1-736a499e03b0",
+    "title": "SFJ6 Building",
+    "creator": "MARMOLBRAVO + MADhel",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1010105/sfj6-building-marmolbravo-plus-madhel",
+    "image_url": "https://images.adsttc.com/media/images/655e/42ed/0ca0/c301/7c6e/2878/newsletter/edificio-sfj6-marmolbravo-plus-madhel_2.jpg?1700676342",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T11:00:00.000Z",
+    "ingested_at": "2026-11-03T18:18:29.690Z"
+  },
+  {
+    "id": "2135936b-1f85-42cf-8a86-951d14050faf",
+    "title": "Atrapos, Summer Residence on the Island of Antiparos",
+    "creator": "AREA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187688/atrapos-area",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/0896/3271/8400/01d0/f67e/newsletter/AREA_Atrapos_21.jpg?1793198313",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T10:00:00.000Z",
+    "ingested_at": "2026-11-03T18:18:29.690Z"
+  },
+  {
+    "id": "8142bb7c-86c2-4da8-930d-7035283e9635",
+    "title": "Ar-Rahbah Market at Amman Design Week 2026",
+    "creator": "Laith Matarweh Studio for Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187738/ar-rahbah-market-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/1ebf/3271/8400/01d0/faf7/newsletter/03_Ar-Rahbah_Market_Mohanad_Jihad.jpg?1793269506",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T07:00:00.000Z",
+    "ingested_at": "2026-11-03T18:18:29.690Z"
+  },
+  {
+    "id": "e3326253-0712-4abe-9994-dae33c15103e",
+    "title": "New Cantonal School Wattwil",
+    "creator": "Gunz & Künzle Architekt*innen",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187768/new-cantonal-school-wattwil-gunz-and-kunzle-architekt-star-innen",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/609a/3a16/4b00/01b5/df59/newsletter/178_G_K_WAT_034_FedericoFarinatti.jpg?1793286372",
+    "typology": [
+      "Schools"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T06:00:00.000Z",
+    "ingested_at": "2026-11-03T18:18:29.690Z"
+  },
+  {
+    "id": "f648a5c8-28fe-435c-b86a-8ad2e79a030c",
+    "title": "Vishram Vadi Nu Ghar",
+    "creator": "Ikshhana Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187587/vishram-vadi-nu-ghar-ikshhana-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/9089/3271/8400/01d0/ef9f/newsletter/Front_Elevation_of_Farm_House_Manan_Surti.jpg?1793102309",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T03:00:00.000Z",
+    "ingested_at": "2026-11-03T18:18:29.691Z"
+  },
+  {
+    "id": "7413e133-4205-4b90-a9b5-01781514d852",
+    "title": "House in Dahiya",
+    "creator": "Studio Toggle",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187668/house-in-dahiya-studio-toggle",
+    "image_url": "https://images.adsttc.com/media/images/6ae1/ebf1/20d6/d839/1bac/0ac5/newsletter/house-in-dahiya-studio-toggle_11.jpg?1793190914",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T02:00:00.000Z",
+    "ingested_at": "2026-11-03T18:18:29.691Z"
   }
 ]

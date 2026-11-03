@@ -13742,5 +13742,68 @@
     "material": [],
     "published_at": "2026-11-02T10:49:32.000Z",
     "ingested_at": "2026-11-02T20:40:31.745Z"
+  },
+  {
+    "id": "f0f8d301-310f-4351-90f8-345204cd2e08",
+    "title": "exposed concrete blocks and red tiles shape garage-turned-apartment in barcelona",
+    "creator": "lablanca",
+    "location": "Torre Baró",
+    "country": "Barcelona",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/exposed-concrete-blocks-red-tiles-garage-apartment-barcelona-llerona-lablanca/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/red-tiles-garage-apartment-barcelona-llerona-lablanca-designboom-700-500x400-22b08q85r699.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in barcelona",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T15:45:43.000Z",
+    "ingested_at": "2026-11-03T18:18:30.745Z"
+  },
+  {
+    "id": "43a8b327-9b21-4662-afc6-73cc77ce3537",
+    "title": "in new delhi, built99 connects 99 architecture and design practices to a wider critical discourse",
+    "creator": "mariana rodrigues",
+    "location": "ITC Maurya",
+    "country": "New Delhi",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/built99-connects-99-practices-wider-critical-discourse/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/built99-flagship-event-designboom-700-500x400-22b08q85r204.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "architecture in india",
+      "Built99"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T11:00:05.000Z",
+    "ingested_at": "2026-11-03T18:18:30.748Z"
+  },
+  {
+    "id": "c85fa9d9-cd89-4668-9e54-b63864a34031",
+    "title": "ultramarine drapes and restored 1950s marble anchor cinemazero redesign by alberto caiola",
+    "creator": "Alberto Caiola Studio",
+    "location": "Pordenone",
+    "country": "Italy",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ultramarine-drapes-restored-1950s-marble-cinemazero-redesign-alberto-caiola/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/italy-alberto-caiola-renovation-cinemazero-blue-designboom-700-500x400-22b08q85r046.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "alberto caiola",
+      "architecture in italy",
+      "cinemas",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T08:10:09.000Z",
+    "ingested_at": "2026-11-03T18:18:30.750Z"
   }
 ]
