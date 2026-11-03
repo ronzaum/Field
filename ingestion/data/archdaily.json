@@ -38500,5 +38500,39 @@
     "material": [],
     "published_at": "2026-11-02T06:00:00.000Z",
     "ingested_at": "2026-11-02T20:40:30.484Z"
+  },
+  {
+    "id": "9fa80ae0-eebc-494a-9aac-e17e962f73d6",
+    "title": "Akartz House",
+    "creator": "Ápiron",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187965/akartz-house-apiron",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/40e1/bcbc/3500/01ae/acff/newsletter/_piron_Casa_Akatz_014.jpg?1793605993",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T19:00:00.000Z",
+    "ingested_at": "2026-11-03T02:49:44.558Z"
+  },
+  {
+    "id": "618a8cc0-a2d9-47e4-81a2-9ca34f9fb541",
+    "title": "Country House",
+    "creator": "Arquipélago Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036417/country-house-arquipelago-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/68fb/e5ee/8950/3400/0167/82f8/newsletter/0401.arquipelago.CasaQuinta-PKOK2228.jpg?1761338887",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-02T16:00:00.000Z",
+    "ingested_at": "2026-11-03T02:49:44.559Z"
   }
 ]
