@@ -38687,5 +38687,39 @@
     "material": [],
     "published_at": "2026-11-03T12:00:00.000Z",
     "ingested_at": "2026-11-03T23:54:28.924Z"
+  },
+  {
+    "id": "0cbd7dcc-8656-468d-904e-76b8622858d0",
+    "title": "Hotel Amares",
+    "creator": "Cel-Ras Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187993/amares-cel-ras-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ae9/a52d/bcbc/3500/01ae/b0d1/newsletter/JPG_HD_Amares_color-0062.jpg?1793697101",
+    "typology": [
+      "Hospitality Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T19:00:00.000Z",
+    "ingested_at": "2026-11-04T05:40:54.215Z"
+  },
+  {
+    "id": "a087a4ff-e0c5-47e3-8138-8d188e2176f6",
+    "title": "House Toca",
+    "creator": "ARKITITO Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035246/house-toca-arkitito-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/68f6/d160/9662/4135/afe7/d12c/newsletter/casa-toca-arkitito-arquitetura_1.jpg?1761005937",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T17:00:00.000Z",
+    "ingested_at": "2026-11-04T05:40:54.216Z"
   }
 ]

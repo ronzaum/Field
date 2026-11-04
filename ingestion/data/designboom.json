@@ -13805,5 +13805,23 @@
     "material": [],
     "published_at": "2026-11-03T08:10:09.000Z",
     "ingested_at": "2026-11-03T18:18:30.750Z"
+  },
+  {
+    "id": "968a13a9-4142-452b-9805-b9010aa8e1aa",
+    "title": "live-build documentary captures 1:1 timber pavilions at studio in the woods workshop",
+    "creator": "Invisible Studio",
+    "location": "Architectural Association (AA) Hooke Park",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/live-build-documentary-11-timber-pavilions-studio-woods-workshop/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/studio-woods-documentary-crossing-lookout-horizon-designboom-700-500x400-22b08q85r446.jpg",
+    "typology": [
+      "architecture",
+      "readers"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T00:55:42.000Z",
+    "ingested_at": "2026-11-04T05:40:55.464Z"
   }
 ]
