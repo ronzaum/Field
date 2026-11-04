@@ -1884,5 +1884,25 @@
     "material": [],
     "published_at": "2026-11-02T11:00:00.000Z",
     "ingested_at": "2026-11-02T20:40:30.888Z"
+  },
+  {
+    "id": "03c4c21d-3f8c-4cc7-ac6b-fdac0b1a224d",
+    "title": "Ontario house",
+    "creator": "Brian O'Brian takes cues from farm buildings",
+    "location": "Corrugated metal",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/11/04/hemlock-house-ontario-brian-o-brian/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/11/hemlock-house-ontario-brian-o-brian_dezeen_sq-1-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Ontario",
+      "Cabins"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T20:00:00.000Z",
+    "ingested_at": "2026-11-04T21:08:43.564Z"
   }
 ]
