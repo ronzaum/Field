@@ -13823,5 +13823,114 @@
     "material": [],
     "published_at": "2026-11-04T00:55:42.000Z",
     "ingested_at": "2026-11-04T05:40:55.464Z"
+  },
+  {
+    "id": "470e64d9-5ded-4d23-ac33-e6dd6638fe4d",
+    "title": "meet six rings, a cultural-retail space by onassis foundation in the heart of athens",
+    "creator": "thomai tsimpou",
+    "location": "99 Patission Boulevard",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/onassis-foundation-global-fashion-greek-creativity-historic-athens-arcade-six-rings-tim-etchells-loukas-bakas/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/onassis-foundation-global-fashion-greek-creativity-historic-athens-arcade-six-rings-tim-etchells-loukas-bakas-designboom-700-500x400-22b08q85r072.jpg",
+    "typology": [
+      "architecture",
+      "architecture in greece",
+      "facades",
+      "onassis foundation"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T11:30:56.000Z",
+    "ingested_at": "2026-11-04T14:04:34.827Z"
+  },
+  {
+    "id": "2c14bb6b-2aac-4d37-940b-808ed0c501df",
+    "title": "podcast: curing urban isolation through collective care and architectural intuition",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-03-04/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/indx-global-room-for-utopias-podcast-02-700-1-500x400-22b08q85r572.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "interviews",
+      "video",
+      "architecture for humanity",
+      "architecture in india",
+      "architecture interviews",
+      "podcast: room for utopias",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T11:00:48.000Z",
+    "ingested_at": "2026-11-04T14:04:34.844Z"
+  },
+  {
+    "id": "58f44483-854b-4012-a0bd-1423fb60e515",
+    "title": "sharjah design centre announces opening with seven specialist labs in the UAE",
+    "creator": "Taller de Arquitectura – Mauricio Rocha in collaboration with Daniel Rosselló",
+    "location": "Sharjah",
+    "country": "United Arab Emirates",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sharjah-design-centre-uae-united-arab-emirates-seven-specialist-labs-2029-mauricio-rocha-daniel-rossello/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/sharjah-design-centre-uae-united-arab-emirates-seven-specialist-labs-2029-mauricio-rocha-daniel-rossello-designboom-700-500x400-22b08q85r355.jpg",
+    "typology": [
+      "architecture",
+      "art and architecture in the united arab emirates",
+      "TALLER | mauricio rocha"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T09:35:37.000Z",
+    "ingested_at": "2026-11-04T14:04:34.854Z"
+  },
+  {
+    "id": "7599df67-0a76-4529-879c-f1d50e28f5f6",
+    "title": "pixelated ceramic tiles and folded aluminum compose electrical substation’s facade in virginia",
+    "creator": "Atelier Manferdini",
+    "location": "Crystal City",
+    "country": "USA",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/pixelated-ceramic-tiles-folded-aluminum-electrical-substation-facade-virginia-atelier-manferdini-invisible/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/atelier-manferdini-crystal-substation-virginia-invisible-facade-ceramic-aluminum-led-designboom-700-500x400-22b08q85r550.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "aluminum architecture and design",
+      "architecture in the US",
+      "atelier manferdini",
+      "ceramic art and design",
+      "facades",
+      "LED"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T07:45:26.000Z",
+    "ingested_at": "2026-11-04T14:04:34.859Z"
+  },
+  {
+    "id": "4d6a6b56-38f8-4e38-bac6-6a8a4f0367dc",
+    "title": "prince de conti hotel turns historic parisian interiors into theatrical guest rooms",
+    "creator": "Iñaki Laguardia",
+    "location": "Paris",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/prince-de-conti-hotel-saint-germain-des-pres-paris/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/paris-prince-de-conti-hotel-saint-germain-des-pres-designboom-designboom-013-2-500x400-22b08q85r776.jpg",
+    "typology": [
+      "architecture",
+      "architecture in paris",
+      "hotel architecture and design interiors",
+      "interiors",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-03T23:38:06.000Z",
+    "ingested_at": "2026-11-04T14:04:34.872Z"
   }
 ]

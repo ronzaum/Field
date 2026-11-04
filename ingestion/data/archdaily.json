@@ -38721,5 +38721,73 @@
     "material": [],
     "published_at": "2026-11-03T17:00:00.000Z",
     "ingested_at": "2026-11-04T05:40:54.216Z"
+  },
+  {
+    "id": "6b83f002-761b-4c4c-8436-1936d2d6f129",
+    "title": "Black Miller House",
+    "creator": "Three Sixty Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187590/black-miller-house-three-sixty-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/a572/20d6/d811/3b1a/5848/newsletter/black-miller-house-three-sixty-architecture_7.jpg?1793107332",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T07:00:00.000Z",
+    "ingested_at": "2026-11-04T14:04:32.892Z"
+  },
+  {
+    "id": "93bc3d3f-af13-44b0-b40a-d65c25ae2900",
+    "title": "Súria Library",
+    "creator": "Javier de las Heras Solé",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187981/suria-library-javier-de-las-heras-sole",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/e29d/62dc/0e01/8725/7818/newsletter/suria-library-javier-de-las-heras-sole_31.jpg?1793647279",
+    "typology": [
+      "Cultural Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T06:00:00.000Z",
+    "ingested_at": "2026-11-04T14:04:32.892Z"
+  },
+  {
+    "id": "f8fea146-e708-4911-9511-439a13156c37",
+    "title": "Villa Sahar",
+    "creator": "Mahfoud Laasri Architecte - MLA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187663/villa-sahar-mahfoud-laasri-architecte-mla",
+    "image_url": "https://images.adsttc.com/media/images/6ae1/dfed/3271/8400/01d0/f505/newsletter/IMG_4469-Pano-1.jpg?1793187927",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T03:00:00.000Z",
+    "ingested_at": "2026-11-04T14:04:32.893Z"
+  },
+  {
+    "id": "d48d9181-3746-4a5a-89f2-6c8c151881d3",
+    "title": "Funamoto Dental Clinic",
+    "creator": "STUDIO ALUC",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187279/funamoto-dental-clinic-studio-aluc",
+    "image_url": "https://images.adsttc.com/media/images/6ad8/e595/3271/8400/01d0/d9f0/newsletter/Funamoto_Dental_Clinic_high-2.jpg?1792599492",
+    "typology": [
+      "dental clinic"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T02:00:00.000Z",
+    "ingested_at": "2026-11-04T14:04:32.893Z"
   }
 ]
