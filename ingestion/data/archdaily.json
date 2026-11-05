@@ -38857,5 +38857,56 @@
     "material": [],
     "published_at": "2026-11-04T10:00:00.000Z",
     "ingested_at": "2026-11-04T21:08:43.328Z"
+  },
+  {
+    "id": "03e7d990-bae8-4c00-811a-ffd2c76c392e",
+    "title": "Tabasco 267 Apartment",
+    "creator": "CAAM Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188090/tabasco-267-apartment-caam-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/619e/bcbc/3500/01ae/ad80/newsletter/_S__CAAM_TABASCO_267_ZAICKZ_MOZ_01.jpg?1793614258",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T19:00:00.000Z",
+    "ingested_at": "2026-11-05T02:05:10.414Z"
+  },
+  {
+    "id": "5786e992-89dc-4923-9378-a4b598caf33d",
+    "title": "Sewing Atelier Studio",
+    "creator": "Atelier 77 + Matéria Base",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034969/sewing-atelier-studio-atelier-77-plus-materia-base",
+    "image_url": "https://images.adsttc.com/media/images/68e8/f28c/7f27/f83e/d9e7/d82b/newsletter/atelie-de-costura-atelier-77-plus-materia-base_23.jpg?1760096918",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T17:00:00.000Z",
+    "ingested_at": "2026-11-05T02:05:10.414Z"
+  },
+  {
+    "id": "8d8b14b4-b3fd-4b80-b154-687e266856bc",
+    "title": "Coco House",
+    "creator": "CVA Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188096/coco-house-cva-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/7199/1f37/4900/010d/120c/newsletter/07_Carlos_Velez.jpg?1793815001",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-04T15:00:00.000Z",
+    "ingested_at": "2026-11-05T02:05:10.414Z"
   }
 ]
