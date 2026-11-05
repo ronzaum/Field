@@ -38925,5 +38925,107 @@
     "material": [],
     "published_at": "2026-11-05T02:00:00.000Z",
     "ingested_at": "2026-11-05T10:35:15.141Z"
+  },
+  {
+    "id": "85bf6152-44dd-45e0-abf2-c2bbef96b274",
+    "title": "Backyard Townhouses",
+    "creator": "Behin Ha",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188061/backyard-townhouses-behin-ha",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/1ba1/1f37/4900/010d/103b/newsletter/Behin_Ha_-_11_Beacon_Avenue_-_PH_F_08_rev_-_photo___StudioSZ___Justin_Szeremeta_LR_3000_PX.jpg?1793792956",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T12:00:00.000Z",
+    "ingested_at": "2026-11-05T18:36:01.615Z"
+  },
+  {
+    "id": "5a2c39d7-79a0-4ecf-ad87-31b08b98cc80",
+    "title": "Suspension House",
+    "creator": "Fougeron Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/986670/suspension-house-fougeron-architecture",
+    "image_url": "https://images.adsttc.com/media/images/62ed/3611/54c3/bc7b/5a74/42a8/newsletter/suspension-house-fougeron-architecture_14.jpg?1659713056",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T11:00:00.000Z",
+    "ingested_at": "2026-11-05T18:36:01.615Z"
+  },
+  {
+    "id": "466b244a-6b7e-4b9b-9c0b-86e9c330f2ad",
+    "title": "School De Hagewinde Roeselare",
+    "creator": "laagland architecten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187771/school-de-hagewinde-roeselare",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/62a0/3a16/4b00/01b5/dfc0/newsletter/Roeselare_DeHagewinde_MichielVergauwerPhotography_04.jpg?1793286832",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T10:00:00.000Z",
+    "ingested_at": "2026-11-05T18:36:01.615Z"
+  },
+  {
+    "id": "c82614ca-af84-4da2-89aa-908bbbf87b69",
+    "title": "Ersatzneubau Winkel",
+    "creator": "Kollektiv.w AG",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188023/ersatzneubau-winkel-kollekti-ag",
+    "image_url": "https://images.adsttc.com/media/images/6aea/0961/a85b/a800/01f0/2040/newsletter/241018_EFH_Roggliswil_106.jpg?1793722848",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T07:00:00.000Z",
+    "ingested_at": "2026-11-05T18:36:01.616Z"
+  },
+  {
+    "id": "5555fa21-a4b6-4d6d-ae8e-2e29726e7370",
+    "title": "House with Rope and Ladder",
+    "creator": "Förstberg Ling",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187773/house-with-rope-and-ladder-forstberg-ling",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/6330/3a16/4b00/01b5/dfff/newsletter/FL_baske_S-54.jpg?1793286991",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T06:00:00.000Z",
+    "ingested_at": "2026-11-05T18:36:01.616Z"
+  },
+  {
+    "id": "0ee9c7f8-c38e-4217-a3ff-536e303d3b42",
+    "title": "Khao Phra Tamnak House",
+    "creator": "SPACE | STORY | STUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187736/khao-phra-tamnak-house-space-story-studio",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/b416/a8ed/4101/8962/350a/newsletter/khao-phra-tamnak-house-space-story-studio_27.jpg?1793373212",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T03:00:00.000Z",
+    "ingested_at": "2026-11-05T18:36:01.616Z"
   }
 ]
