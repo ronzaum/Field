@@ -14017,5 +14017,43 @@
     "material": [],
     "published_at": "2026-11-05T11:50:28.000Z",
     "ingested_at": "2026-11-05T18:36:02.632Z"
+  },
+  {
+    "id": "bfb62d92-fbc6-4d01-8438-d6b8dbe10588",
+    "title": "architecture that invites nature as a designer, from dissolving walls to insect-built pavilions",
+    "creator": "kat barandy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/nature-take-over-dissolving-walls-insect-built-pavilions/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/architecture-shaped-natural-forces-posthuman-utopias-designboom-700-500x400-22b08q85r419.jpg",
+    "typology": [
+      "architecture",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T22:35:12.000Z",
+    "ingested_at": "2026-11-05T23:58:52.382Z"
+  },
+  {
+    "id": "bffcf85f-bbcc-4cb6-9fa2-cff892c506eb",
+    "title": "hurricane-proof polycarbonate wraps resilient 24-hour public library in miami",
+    "creator": "89th Studio",
+    "location": "Claude Pepper Park",
+    "country": "Miami",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/hurricane-proof-polycarbonate-resilient-24-hour-public-library-miami-89th-studio/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/resilient-24-hour-public-library-miami-89th-studio-designboom-700-500x400-22b08q85r279.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in miami",
+      "library architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T20:10:03.000Z",
+    "ingested_at": "2026-11-05T23:58:52.386Z"
   }
 ]

@@ -39027,5 +39027,56 @@
     "material": [],
     "published_at": "2026-11-05T03:00:00.000Z",
     "ingested_at": "2026-11-05T18:36:01.616Z"
+  },
+  {
+    "id": "22d6be06-d1f4-4f4f-85ba-8d72ace31fa3",
+    "title": "Santo António Primary School Requalification and Modernization Project",
+    "creator": "BFJ Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188048/santo-antonio-primary-school-requalification-and-modernization-project-bfj-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aea/9288/1f37/4900/010d/0eee/newsletter/0044.jpg?1793757862",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T17:00:00.000Z",
+    "ingested_at": "2026-11-05T23:58:51.228Z"
+  },
+  {
+    "id": "fc887ffc-1143-4ed1-83e9-beba28f76544",
+    "title": "Casa del Loro",
+    "creator": "Workshop, Diseño y Construcción",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188093/casa-del-loro-workshop-diseno-y-construccion",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/70d0/1f37/4900/010d/11e6/newsletter/CASA_DEL_LORO_Workshop-49.jpg?1793814789",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T15:00:00.000Z",
+    "ingested_at": "2026-11-05T23:58:51.228Z"
+  },
+  {
+    "id": "919a3e9e-ade9-43fd-9861-311f5e01a62b",
+    "title": "Atlântica House",
+    "creator": "Felipe Hess Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1068562/atlantica-house-felipe-hess-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/68e5/4363/9f15/2801/89b4/4e33/newsletter/casa-atlantica-felipe-hess-arquitetos_19.jpg?1759855469",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-05T13:00:00.000Z",
+    "ingested_at": "2026-11-05T23:58:51.228Z"
   }
 ]
