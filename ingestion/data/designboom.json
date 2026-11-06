@@ -14075,5 +14075,27 @@
     "material": [],
     "published_at": "2026-11-06T11:00:21.000Z",
     "ingested_at": "2026-11-06T14:52:56.528Z"
+  },
+  {
+    "id": "3a1b9cd8-1458-49eb-9083-1d4deafea97a",
+    "title": "powerhouse parramatta’s steel-latticed museum opens with art by es devlin and james turrell",
+    "creator": "Moreau Kusunoki",
+    "location": "Parramatta",
+    "country": "Australia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/powerhouse-parramatta-steel-lattice-museum-opens-art-es-devlin-james-turrell-sydney-australia/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-700-500x400-22b08q85r010.jpg",
+    "typology": [
+      "architecture",
+      "architecture in australia",
+      "facades",
+      "moreau kusunoki",
+      "museums and galleries",
+      "OMA / rem koolhaas"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T15:26:59.000Z",
+    "ingested_at": "2026-11-06T20:45:45.826Z"
   }
 ]

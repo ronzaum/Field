@@ -39180,5 +39180,56 @@
     "material": [],
     "published_at": "2026-11-06T00:00:00.000Z",
     "ingested_at": "2026-11-06T14:52:55.440Z"
+  },
+  {
+    "id": "d7c7f113-e557-4b92-b02e-42436f96a5a7",
+    "title": "Veras Cultural Center",
+    "creator": "Terra e Tuma Arquitetos Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1152564/veras-cultural-center-terra-e-tuma-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/68e9/13ed/3e7a/3200/0160/92e7/newsletter/terraetuma_pkok_centro_cultural_veras_17.jpg?1760105503",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T12:00:00.000Z",
+    "ingested_at": "2026-11-06T20:45:44.508Z"
+  },
+  {
+    "id": "f1716876-0035-4e9f-b9a4-ea958065463d",
+    "title": "JS449 Apartment Building",
+    "creator": "Duque Motta & AA + FIA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1012976/js449-apartment-building-duque-motta-and-aa-plus-fia",
+    "image_url": "https://images.adsttc.com/media/images/65a7/1f9c/e32f/dc2b/9745/b907/newsletter/edificio-js449-duque-motta-and-aa-plus-fia_7.jpg?1705451706",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T11:00:00.000Z",
+    "ingested_at": "2026-11-06T20:45:44.509Z"
+  },
+  {
+    "id": "acef7c85-f0f3-4a60-ac6d-8666f92902a2",
+    "title": "Cadence Courtyard Tower",
+    "creator": "Alison Brooks Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188074/cadence-kings-cross-alison-brooks-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/28ad/d2cc/6001/8a4f/6b8c/newsletter/cadence-kings-cross-alison-brooks-architects_1.jpg?1793796324",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T10:00:00.000Z",
+    "ingested_at": "2026-11-06T20:45:44.509Z"
   }
 ]

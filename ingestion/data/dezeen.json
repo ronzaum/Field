@@ -1947,5 +1947,28 @@
     "material": [],
     "published_at": "2026-11-06T09:00:00.000Z",
     "ingested_at": "2026-11-06T14:52:55.807Z"
+  },
+  {
+    "id": "df9293ec-f930-425c-ac47-7b892319abba",
+    "title": "Aluminium canopy encases waterfront pavilion in Providence",
+    "creator": "Architecture Research Office",
+    "location": "Metal",
+    "country": "USA",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/11/06/195-district-park-pavilion-architecture-research-office/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/11/195-district-park-pavilion-architecture-research-office-sq_dezeen_2364_col_0-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Exclusives",
+      "Steel",
+      "Pavilions",
+      "Green roofs",
+      "Rhode Island",
+      "Providence"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T16:00:00.000Z",
+    "ingested_at": "2026-11-06T20:45:44.781Z"
   }
 ]
