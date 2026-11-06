@@ -14055,5 +14055,25 @@
     "material": [],
     "published_at": "2026-11-05T20:10:03.000Z",
     "ingested_at": "2026-11-05T23:58:52.386Z"
+  },
+  {
+    "id": "6bc03d36-b48e-4223-acd3-a381bc51fd38",
+    "title": "SCI-Arc task force champions long-term architectural strategies for fire-prone areas",
+    "creator": "mariana rodrigues",
+    "location": "Los Angeles",
+    "country": "California",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sci-arc-resilient-futures-task-force/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/sci-arc-resilient-futures-task-force-designboom-700-500x400-22b08q85r445.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "adaptive architecture",
+      "SCI-Arc"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T11:00:21.000Z",
+    "ingested_at": "2026-11-06T14:52:56.528Z"
   }
 ]

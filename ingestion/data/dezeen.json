@@ -1924,5 +1924,28 @@
     "material": [],
     "published_at": "2026-11-05T10:30:00.000Z",
     "ingested_at": "2026-11-05T18:36:01.901Z"
+  },
+  {
+    "id": "f6d3a94b-72d9-4655-a664-5c0e69de4ad9",
+    "title": "Library",
+    "creator": "Collective Architecture breathes new life into Scottish high street",
+    "location": "Libraries",
+    "country": "Scotland",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/11/06/collective-architecture-paisley-central-library-rias-doolan-award/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/11/paisley-central-library-collective-architecture-sq_dezeen_2364_col_0-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Videos",
+      "Public and leisure",
+      "Architecture videos",
+      "Adaptive reuse",
+      "Collective Architecture",
+      "Royal Incorporation of Architects in Scotland"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T09:00:00.000Z",
+    "ingested_at": "2026-11-06T14:52:55.807Z"
   }
 ]

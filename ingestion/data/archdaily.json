@@ -39095,5 +39095,90 @@
     "material": [],
     "published_at": "2026-11-05T19:00:00.000Z",
     "ingested_at": "2026-11-06T06:23:58.990Z"
+  },
+  {
+    "id": "105e1b70-cc8b-47da-a1eb-1514fccb0b60",
+    "title": "MASEREEL Artist Residences",
+    "creator": "{define} + FRANTZEN et al architecten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187689/masereel-artist-residences",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/08f3/3271/8400/01d0/f690/newsletter/Masereel_PHOTO_define_G02_EXTERIOR_BUILDING_HERO_2880px_robbyvandenhouwe__DSC0749.tif__-_00000009.jpg?1793198341",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T07:00:00.000Z",
+    "ingested_at": "2026-11-06T14:52:55.439Z"
+  },
+  {
+    "id": "ced863b0-9c66-444f-a0d3-e055c7e3b395",
+    "title": "Cliff House",
+    "creator": "GASAP",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187693/cliff-house",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/098c/3271/8400/01d0/f715/newsletter/02.jpg?1793199291",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T06:00:00.000Z",
+    "ingested_at": "2026-11-06T14:52:55.439Z"
+  },
+  {
+    "id": "49d9011d-fb65-46d9-ac05-e9db01694b42",
+    "title": "Al-Mastaba Installation at Amman Design Week 2026",
+    "creator": "Laith Matarweh Studio for Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/newsletter/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T03:00:00.000Z",
+    "ingested_at": "2026-11-06T14:52:55.439Z"
+  },
+  {
+    "id": "a1a3cab1-1956-49a9-ae7e-0f69af020e9f",
+    "title": "Shimizu Clinic",
+    "creator": "Yano Aoyama Architecture Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186233/shimizu-clinic-yano-aoyama-architecture-design",
+    "image_url": "https://images.adsttc.com/media/images/6abf/9d08/07c3/d100/017f/cb9f/newsletter/009_Exterior_vegetal_filtering.jpg?1790942515",
+    "typology": [
+      "clinic"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T02:00:00.000Z",
+    "ingested_at": "2026-11-06T14:52:55.440Z"
+  },
+  {
+    "id": "35fb0553-6a71-4911-9631-bfe91a015872",
+    "title": "Chun’an Distillery",
+    "creator": "PRA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186996/chunan-distillery-pra",
+    "image_url": "https://images.adsttc.com/media/images/6ad1/c359/aadf/a000/01e3/a7f2/newsletter/Roof_close_up_.jpg?1792132013",
+    "typology": [
+      "Tourism"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T00:00:00.000Z",
+    "ingested_at": "2026-11-06T14:52:55.440Z"
   }
 ]
