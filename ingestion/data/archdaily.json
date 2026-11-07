@@ -39231,5 +39231,22 @@
     "material": [],
     "published_at": "2026-11-06T10:00:00.000Z",
     "ingested_at": "2026-11-06T20:45:44.509Z"
+  },
+  {
+    "id": "b312e081-e0f0-4fb9-9da5-435a851b468a",
+    "title": "Greenhouse House 23",
+    "creator": "Yemail Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188199/greenhouse-house-23-yemail-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6aec/4131/1f37/4900/010d/14d3/newsletter/12.jpg?1793868167",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T15:00:00.000Z",
+    "ingested_at": "2026-11-07T00:45:28.470Z"
   }
 ]
