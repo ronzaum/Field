@@ -39248,5 +39248,56 @@
     "material": [],
     "published_at": "2026-11-06T15:00:00.000Z",
     "ingested_at": "2026-11-07T00:45:28.470Z"
+  },
+  {
+    "id": "490ecbe2-4f5a-4a66-b7a2-be1e94c47d1d",
+    "title": "Concrete House",
+    "creator": "Vierna9 + CIRAL Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188203/concrete-house-vierna9-plus-ciral-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6a9e/da4a/de72/0d00/014c/cf88/newsletter/Casa_de_Hormig_n__7_.jpg?1788795559",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T19:00:00.000Z",
+    "ingested_at": "2026-11-07T06:55:46.973Z"
+  },
+  {
+    "id": "ea9f821c-b935-49b4-bdad-391c40241d61",
+    "title": "Sertão Block and Amparo House",
+    "creator": "Asa Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188218/sertao-block-and-amparo-house-asa-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/cece/bcbc/3500/01ae/b034/newsletter/IMG_1389-Pano_AD.jpg?1793642257",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T17:00:00.000Z",
+    "ingested_at": "2026-11-07T06:55:46.973Z"
+  },
+  {
+    "id": "7e636ddc-f9e4-4df5-9c98-fa0310739c44",
+    "title": "Restaurante Preta Maria",
+    "creator": "Estudio Guto Requena",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187988/restaurante-preta-maria-estudio-guto-requena",
+    "image_url": "https://images.adsttc.com/media/images/6ae9/11cb/62dc/0e2e/be8d/3f16/newsletter/restaurante-preta-maria-estudio-guto-requena_7.jpg?1793659378",
+    "typology": [
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-11-06T13:00:00.000Z",
+    "ingested_at": "2026-11-07T06:55:46.974Z"
   }
 ]

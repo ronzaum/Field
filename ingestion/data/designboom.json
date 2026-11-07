@@ -14097,5 +14097,28 @@
     "material": [],
     "published_at": "2026-11-06T15:26:59.000Z",
     "ingested_at": "2026-11-06T20:45:45.826Z"
+  },
+  {
+    "id": "52b49640-42e6-4a2d-8a25-099862d9b55c",
+    "title": "peter morris brings miami art deco to london’s gothic streets with pink ‘cloud house’",
+    "creator": "Peter Morris Architects",
+    "location": "London",
+    "country": "UK",
+    "year": 2026,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/peter-morris-miami-art-deco-london-gothic-pink-cloud-house-london/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/cloud-house-peter-morris-architects-designboom-700-500x400-22b08q85r478.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in london",
+      "architecture in the UK",
+      "facades",
+      "pink",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T03:25:53.000Z",
+    "ingested_at": "2026-11-07T06:55:48.100Z"
   }
 ]
