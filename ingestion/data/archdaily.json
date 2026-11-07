@@ -39299,5 +39299,22 @@
     "material": [],
     "published_at": "2026-11-06T13:00:00.000Z",
     "ingested_at": "2026-11-07T06:55:46.974Z"
+  },
+  {
+    "id": "4eb568a7-c16a-4bd0-8efa-1fbe92e0632b",
+    "title": "Beach house",
+    "creator": "Sebastian Honnér",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187683/beach-house",
+    "image_url": "https://images.adsttc.com/media/images/6ae1/fddc/3271/8400/01d0/f633/newsletter/6259861-89.jpg?1793195516",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T06:00:00.000Z",
+    "ingested_at": "2026-11-07T13:50:48.822Z"
   }
 ]
