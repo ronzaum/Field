@@ -14143,5 +14143,28 @@
     "material": [],
     "published_at": "2026-11-06T22:35:27.000Z",
     "ingested_at": "2026-11-07T13:50:50.649Z"
+  },
+  {
+    "id": "be50e740-72ec-49f5-b61b-368f9aea6e38",
+    "title": "atelier gabu hand-builds observation tower on french hillside using timber and translucent fabric",
+    "creator": "Atelier GABU",
+    "location": "Vaudémont",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/atelier-gabu-observation-tower-french-hillside-timber-translucent-fabric-brunebasse/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/atelier-gabu-timber-observation-tower-france-designboom-700-500x400-22b08q85r029.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in france",
+      "interactive installation",
+      "observatory architecture and design",
+      "temporary pavilions",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T08:45:43.000Z",
+    "ingested_at": "2026-11-07T22:35:23.890Z"
   }
 ]

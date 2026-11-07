@@ -39350,5 +39350,73 @@
     "material": [],
     "published_at": "2026-11-07T10:00:00.000Z",
     "ingested_at": "2026-11-07T18:33:24.759Z"
+  },
+  {
+    "id": "d6d1d487-91f2-473a-9394-f9f6ed9d07c4",
+    "title": "House with Forest Windows",
+    "creator": "Yosuke Tomiya Architectural Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186270/house-with-forest-windows-yosuke-tomiya-architectural-design",
+    "image_url": "https://images.adsttc.com/media/images/6ac0/0585/90e2/9d01/89d2/dbf1/newsletter/house-with-forest-windows-yosuke-tomiya-architectural-design_1.jpg?1790969246",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T17:00:00.000Z",
+    "ingested_at": "2026-11-07T22:35:21.164Z"
+  },
+  {
+    "id": "f58b424d-858e-46b4-b180-1719bead4f58",
+    "title": "Apartment Renovation in the Ensanche of Bilbao",
+    "creator": "BABELstudio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
+    "image_url": "https://images.adsttc.com/media/images/6ad0/d744/b2c4/c300/0178/f8e4/newsletter/ENSANCHE_002.jpg?1792071512",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T16:00:00.000Z",
+    "ingested_at": "2026-11-07T22:35:21.165Z"
+  },
+  {
+    "id": "0849a955-6699-4ebb-b349-e9b57a400293",
+    "title": "Mila House",
+    "creator": "Isla Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1027157/mila-house-isla-architects",
+    "image_url": "https://images.adsttc.com/media/images/67b6/2e80/cd9a/d701/88b4/b096/newsletter/casa-mila-isla-architects_10.jpg?1739992716",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T15:00:00.000Z",
+    "ingested_at": "2026-11-07T22:35:21.165Z"
+  },
+  {
+    "id": "e88dab13-2556-4b95-a2eb-a7eea55fef27",
+    "title": "Amabile Apartment",
+    "creator": "Denis Joelsons",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188223/amabile-apartment-denis-joelsons",
+    "image_url": "https://images.adsttc.com/media/images/6aee/7426/4ba6/4700/01d0/7d6b/newsletter/Amabile_01.jpg?1794012270",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T13:00:00.000Z",
+    "ingested_at": "2026-11-07T22:35:21.165Z"
   }
 ]
