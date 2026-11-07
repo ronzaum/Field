@@ -39316,5 +39316,39 @@
     "material": [],
     "published_at": "2026-11-07T06:00:00.000Z",
     "ingested_at": "2026-11-07T13:50:48.822Z"
+  },
+  {
+    "id": "415698ab-e85a-40ef-9068-4f778f76598e",
+    "title": "Edicola 518",
+    "creator": "Giuseppe Arezzi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187621/edicola-518-giuseppe-arezzi",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/cb8f/3271/8400/01d0/f23d/newsletter/01_The_Kiosk_Edicola_518_Design_Giuseppe_Arezzi_2026_Ph.Credit_Giovanni_Emilio_Galanello.jpg?1793117090",
+    "typology": [
+      "Small Scale"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T11:00:00.000Z",
+    "ingested_at": "2026-11-07T18:33:24.759Z"
+  },
+  {
+    "id": "3a498445-2e42-4d0f-b1d2-dd514f1aed66",
+    "title": "Massó Apartment",
+    "creator": "Castroferro Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187909/masso-apartment-castroferro-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6aa2/e202/05b6/9900/01b5/3af8/newsletter/cf_masso_39.jpg?1789059709",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T10:00:00.000Z",
+    "ingested_at": "2026-11-07T18:33:24.759Z"
   }
 ]
