@@ -39435,5 +39435,39 @@
     "material": [],
     "published_at": "2026-11-07T21:00:00.000Z",
     "ingested_at": "2026-11-08T10:01:24.075Z"
+  },
+  {
+    "id": "827900f8-80f1-446e-a20b-d8ab5070ad12",
+    "title": "Florian Residence 1",
+    "creator": "Benthem Crouwel Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188055/florian-residence-1-benthem-crouwel-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/354c/c723/9a01/895a/271a/newsletter/florian-residence-1-benthem-crouwel-architects_13.jpg?1793799508",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-08T10:00:00.000Z",
+    "ingested_at": "2026-11-08T16:37:42.441Z"
+  },
+  {
+    "id": "3cf9c659-d7db-4bb2-ad8d-aeae4e36dae2",
+    "title": "One Orient Headquarters",
+    "creator": "gmp Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187779/one-orient-headquarters-von-gerkan-marg-and-partners-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/7392/1c13/4b01/a2d9/b95f/newsletter/one-orient-headquarters-von-gerkan-marg-and-partners-architects_1.jpg?1793291175",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-08T06:00:00.000Z",
+    "ingested_at": "2026-11-08T16:37:42.441Z"
   }
 ]
