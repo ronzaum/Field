@@ -39469,5 +39469,39 @@
     "material": [],
     "published_at": "2026-11-08T06:00:00.000Z",
     "ingested_at": "2026-11-08T16:37:42.441Z"
+  },
+  {
+    "id": "0832aed3-25eb-4cd6-9f63-47a1094a49d0",
+    "title": "Populus",
+    "creator": "Studio Gang",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1031563/populus-hotel-and-social-hub-studio-gang",
+    "image_url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b27/d367/0bcd/newsletter/populus-hotel-and-social-hub-studio-gang_3.jpg?1750950365",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-11-08T15:00:00.000Z",
+    "ingested_at": "2026-11-08T21:00:09.714Z"
+  },
+  {
+    "id": "c57c15b3-5bf0-4803-ae03-327d598eb6bc",
+    "title": "Fuentesaúco Pharmacy",
+    "creator": "David Hernandez Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/f733/3271/8400/01d0/fa5c/newsletter/01_Exterior_01_David_Hernandez_Sergio_Murillo.jpg?1793259355",
+    "typology": [
+      "Pharmacy"
+    ],
+    "material": [],
+    "published_at": "2026-11-08T11:00:00.000Z",
+    "ingested_at": "2026-11-08T21:00:09.714Z"
   }
 ]
