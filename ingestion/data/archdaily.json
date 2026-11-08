@@ -39418,5 +39418,22 @@
     "material": [],
     "published_at": "2026-11-07T13:00:00.000Z",
     "ingested_at": "2026-11-07T22:35:21.165Z"
+  },
+  {
+    "id": "118efc23-7b3b-4348-a2e6-1881aa6554b1",
+    "title": "U House",
+    "creator": "NAQI & Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187503/u-house-naqi-and-partners",
+    "image_url": "https://images.adsttc.com/media/images/6adf/304a/3271/8400/01d0/e953/newsletter/UHouse-2.jpg?1793011815",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-07T21:00:00.000Z",
+    "ingested_at": "2026-11-08T10:01:24.075Z"
   }
 ]
