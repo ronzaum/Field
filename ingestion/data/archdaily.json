@@ -39503,5 +39503,39 @@
     "material": [],
     "published_at": "2026-11-08T11:00:00.000Z",
     "ingested_at": "2026-11-08T21:00:09.714Z"
+  },
+  {
+    "id": "6bce862b-35b1-44b1-b7fb-cdf96b846063",
+    "title": "The Giant's Garden Daycare",
+    "creator": "design CHOU",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187390/the-giants-garden-daycare-design-chou",
+    "image_url": "https://images.adsttc.com/media/images/6ada/2de5/3271/8400/01d0/e135/newsletter/giants_garden_1.jpg?1792683509",
+    "typology": [
+      "Educational Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-08T17:00:00.000Z",
+    "ingested_at": "2026-11-09T00:46:13.438Z"
+  },
+  {
+    "id": "8e330008-788b-4cda-ac1d-f40845478956",
+    "title": "Molina de Segura Pedestrian Bridge",
+    "creator": "FVAI",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188208/molina-de-segura-pedestrian-bridge-fvai",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/5853/07c3/d100/017f/dd74/newsletter/03_Pasarela_Molina_del_Segura__Milena_Villalba.jpg?1791383660",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-08T16:00:00.000Z",
+    "ingested_at": "2026-11-09T00:46:13.438Z"
   }
 ]
