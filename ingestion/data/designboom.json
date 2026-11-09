@@ -14209,5 +14209,72 @@
     "material": [],
     "published_at": "2026-11-08T08:45:41.000Z",
     "ingested_at": "2026-11-08T16:37:43.666Z"
+  },
+  {
+    "id": "26961eb9-c32a-44a2-8301-511dc41cda9e",
+    "title": "podcast: architecture that refuses signature styles for spaces shaped by instinct",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-05-06/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/indx-global-room-for-utopias-podcast-03-designboom-700-500x400-22b08q85r148.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "interviews",
+      "video",
+      "architecture in india",
+      "architecture interviews",
+      "podcast: room for utopias",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-09T11:00:46.000Z",
+    "ingested_at": "2026-11-09T18:33:58.994Z"
+  },
+  {
+    "id": "0e7d5b56-bf65-454c-97b9-03cbeea00be6",
+    "title": "inside mikoü architecture and its search for meaning in craft and construction",
+    "creator": "thomai tsimpou",
+    "location": "Paris",
+    "country": "France",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel-designboom-700-500x400-22b08q85r353.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "video",
+      "architecture interviews",
+      "films",
+      "Mikoü Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-09T09:45:59.000Z",
+    "ingested_at": "2026-11-09T18:33:59.002Z"
+  },
+  {
+    "id": "65ab84a6-9508-4c5d-b012-ad32ba3e3294",
+    "title": "pearce+ co-builds guerrilla shading pavilion from salvaged timber and canvas sails in camden",
+    "creator": "PEARCE+",
+    "location": "Camden Town",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/pearce-plus-guerrilla-shading-pavilion-salvaged-timber-canvas-sails-camden-london/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/pearce-plus-guerrilla-shading-pavilion-salvaged-timber-canvas-sails-camden-designboom-700-1-500x400-22b08q85r074.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in london",
+      "mobile units",
+      "temporary pavilions"
+    ],
+    "material": [],
+    "published_at": "2026-11-09T08:15:05.000Z",
+    "ingested_at": "2026-11-09T18:33:59.004Z"
   }
 ]
