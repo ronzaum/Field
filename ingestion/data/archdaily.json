@@ -39537,5 +39537,39 @@
     "material": [],
     "published_at": "2026-11-08T16:00:00.000Z",
     "ingested_at": "2026-11-09T00:46:13.438Z"
+  },
+  {
+    "id": "11becac7-592a-400e-928d-c28247f26ca9",
+    "title": "House with Ghost Roof and Garden",
+    "creator": "OOOarchitecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187591/house-with-ghost-roof-and-garden-oooarchitecture",
+    "image_url": "https://images.adsttc.com/media/images/6ae0/a488/3271/8400/01d0/eff9/newsletter/GRH_00.jpg?1793107122",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-09T02:00:00.000Z",
+    "ingested_at": "2026-11-09T07:47:42.708Z"
+  },
+  {
+    "id": "b0209e1c-7f0c-4153-bdc1-44942dc6eb59",
+    "title": "NH Residence Renovation",
+    "creator": "Dhanie & Sal",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/newsletter/12.jpg?1793362920",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-08T21:00:00.000Z",
+    "ingested_at": "2026-11-09T07:47:42.709Z"
   }
 ]
