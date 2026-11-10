@@ -39673,5 +39673,56 @@
     "material": [],
     "published_at": "2026-11-09T03:00:00.000Z",
     "ingested_at": "2026-11-09T18:33:57.812Z"
+  },
+  {
+    "id": "54ba4904-0f48-491b-87d5-fffa5b20caea",
+    "title": "Horizontal House",
+    "creator": "Estudio Galera",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188317/horizontal-house-estudio-galera",
+    "image_url": "https://images.adsttc.com/media/images/6af1/e7cd/4ba6/4700/01d0/8374/newsletter/DMA_2664.jpg?1794238443",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-09T19:00:00.000Z",
+    "ingested_at": "2026-11-10T01:56:09.579Z"
+  },
+  {
+    "id": "8f230e20-a7f8-4574-990e-252989c11554",
+    "title": "Roberta Schioppa",
+    "creator": "Denis Joelsons Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188343/roberta-schioppa-denis-joelsons-studio",
+    "image_url": "https://images.adsttc.com/media/images/6af2/1525/8074/f401/89de/d931/newsletter/atelier-roberta-schioppa-denis-joelsons_15.jpg?1794250074",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-11-09T17:00:00.000Z",
+    "ingested_at": "2026-11-10T01:56:09.579Z"
+  },
+  {
+    "id": "64d82ca2-2438-46a4-b4fa-c0859c21d5a5",
+    "title": "Visitor Center at La Hacienda Clase Azul",
+    "creator": "Elías Rizo Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188331/visitor-center-at-la-hacienda-clase-azul-elias-rizo-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cae/newsletter/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__16_.jpg?1793973485",
+    "typology": [
+      "Learning"
+    ],
+    "material": [],
+    "published_at": "2026-11-09T15:00:00.000Z",
+    "ingested_at": "2026-11-10T01:56:09.579Z"
   }
 ]
