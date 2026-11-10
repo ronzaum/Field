@@ -39809,5 +39809,73 @@
     "material": [],
     "published_at": "2026-11-10T06:00:00.000Z",
     "ingested_at": "2026-11-10T17:36:04.389Z"
+  },
+  {
+    "id": "48e04818-abd0-4ed5-b519-034e4c81c9bb",
+    "title": "Casa Nostra Kindergarten",
+    "creator": "Sarquella Torres",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188230/casa-nostra-kindergarten-sarquella-plus-torres-arquitectes",
+    "image_url": "https://images.adsttc.com/media/images/6af0/c350/e43f/5e01/8839/8616/newsletter/casa-nostra-kindergarten-sarquella-plus-torres-arquitectes_3.jpg?1794163561",
+    "typology": [
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T15:00:00.000Z",
+    "ingested_at": "2026-11-10T23:01:32.143Z"
+  },
+  {
+    "id": "ea85e301-fe2a-43b9-82e9-a69f2970d4a4",
+    "title": "Benfica AM & MR Villa",
+    "creator": "João Tiago Aguiar, Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188291/benfica-am-and-mr-villa-joao-tiago-aguiar-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6af1/c386/4ba6/4700/01d0/8243/newsletter/JTABenficaFN0182.jpg?1794229141",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T13:00:00.000Z",
+    "ingested_at": "2026-11-10T23:01:32.143Z"
+  },
+  {
+    "id": "99922201-fa85-4dc1-b6e7-2e468655abe8",
+    "title": "Downtown Cary Park",
+    "creator": "Machado Silvetti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188292/downtown-cary-park-machado-silvetti",
+    "image_url": "https://images.adsttc.com/media/images/6af1/c431/4ba6/4700/01d0/8271/newsletter/04_Cary_DTP_ARCH-50.jpg?1794229336",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T12:00:00.000Z",
+    "ingested_at": "2026-11-10T23:01:32.143Z"
+  },
+  {
+    "id": "b435a52f-71f1-48c5-837e-6609e31ab144",
+    "title": "Viking Fortress Borgring Experience Center",
+    "creator": "LOOP Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033647/viking-fortress-borgring-experience-center-loop-architects",
+    "image_url": "https://images.adsttc.com/media/images/68b5/b77a/f0a1/3200/01f3/539d/newsletter/LOOP_Architects_Borgring-187-3000px.jpg?1756739500",
+    "typology": [
+      "Museums & Exhibit"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T11:00:00.000Z",
+    "ingested_at": "2026-11-10T23:01:32.143Z"
   }
 ]
