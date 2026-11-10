@@ -39724,5 +39724,39 @@
     "material": [],
     "published_at": "2026-11-09T15:00:00.000Z",
     "ingested_at": "2026-11-10T01:56:09.579Z"
+  },
+  {
+    "id": "289bc027-5ad2-4dcc-9808-0423b5c71685",
+    "title": "Scalpers Headquarters",
+    "creator": "Estudio Hábito",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188141/scalpers-headquarters",
+    "image_url": "https://images.adsttc.com/media/images/6aec/abac/d2cc/6001/8a4f/7147/newsletter/scalpers-headquarters_2.jpg?1793895376",
+    "typology": [
+      "Offices Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T03:00:00.000Z",
+    "ingested_at": "2026-11-10T09:35:47.049Z"
+  },
+  {
+    "id": "321903c4-c4e9-4a59-ba5e-ee2e5d67f02f",
+    "title": "Ambang House",
+    "creator": "Tamara Wibowo Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188142/ambang-house-tamara-wibowo-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aec/b2b4/c723/9a01/895a/2d0a/newsletter/ambang-house-tamara-wibowo-architects_30.jpg?1793897168",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T02:00:00.000Z",
+    "ingested_at": "2026-11-10T09:35:47.049Z"
   }
 ]
