@@ -14299,5 +14299,25 @@
     "material": [],
     "published_at": "2026-11-09T16:15:58.000Z",
     "ingested_at": "2026-11-10T01:56:10.467Z"
+  },
+  {
+    "id": "b0039e9c-3d3f-49ea-8704-061cb2b3913d",
+    "title": "built99 guide celebrates and archives architectural intelligence of 99 indian practices",
+    "creator": "tim spears",
+    "location": "ITC Maurya",
+    "country": "New Delhi",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/built99-guide-india-architecture-studios/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/build99-guide-2026-designboom700-500x400-22b08q85r597.gif",
+    "typology": [
+      "architecture",
+      "featured",
+      "architecture in india",
+      "Built99"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T10:25:40.000Z",
+    "ingested_at": "2026-11-10T17:36:05.465Z"
   }
 ]

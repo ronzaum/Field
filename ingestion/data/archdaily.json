@@ -39758,5 +39758,56 @@
     "material": [],
     "published_at": "2026-11-10T02:00:00.000Z",
     "ingested_at": "2026-11-10T09:35:47.049Z"
+  },
+  {
+    "id": "20f47fd6-017a-4f4d-b07d-30e7c7e09bfe",
+    "title": "Bridge House",
+    "creator": "Studioshaw",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188214/bridge-house-studioshaw",
+    "image_url": "https://images.adsttc.com/media/images/6aee/2479/c723/9a01/895a/30f1/newsletter/bridge-house-studioshaw_2.jpg?1793991827",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T10:00:00.000Z",
+    "ingested_at": "2026-11-10T17:36:04.389Z"
+  },
+  {
+    "id": "063507bd-1d00-4198-b86e-cf1623a7932d",
+    "title": "Huus a de Wegere",
+    "creator": "Kollektiv.w AG",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188024/huus-a-de-wegere-kollekti-ag",
+    "image_url": "https://images.adsttc.com/media/images/6aea/09be/a85b/a800/01f0/2060/newsletter/DSC01503-Bearbeitet.jpg?1793722848",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T07:00:00.000Z",
+    "ingested_at": "2026-11-10T17:36:04.389Z"
+  },
+  {
+    "id": "f124f2a3-6ac2-4166-bebe-7b543381fa4f",
+    "title": "Minimal Maximum",
+    "creator": "Stempel & Tesar Architekti",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/newsletter/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-10T06:00:00.000Z",
+    "ingested_at": "2026-11-10T17:36:04.389Z"
   }
 ]
