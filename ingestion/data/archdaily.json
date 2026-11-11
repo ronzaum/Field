@@ -39979,5 +39979,90 @@
     "material": [],
     "published_at": "2026-11-11T02:00:00.000Z",
     "ingested_at": "2026-11-11T13:53:10.506Z"
+  },
+  {
+    "id": "559f457a-738f-4520-9936-f762e3530ffc",
+    "title": "CST #185",
+    "creator": "tini + delavegacanolasso",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188279/cst-number-185-tini-plus-delavegacanolasso",
+    "image_url": "https://images.adsttc.com/media/images/6af1/a0c5/e43f/5e01/8839/896a/newsletter/cst-number-185-tini-plus-delavegacanolasso_15.jpg?1794220324",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T15:00:00.000Z",
+    "ingested_at": "2026-11-11T21:09:22.253Z"
+  },
+  {
+    "id": "b487e553-e80e-4bc3-b8c5-0e77f6090955",
+    "title": "Casa Fogo",
+    "creator": "Pablo Patriota Arquitetos Associados",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188433/casa-fogo-pablo-patriota-arquitetos-associados",
+    "image_url": "https://images.adsttc.com/media/images/6af3/5981/eabd/2a00/0192/c0af/newsletter/WALTER_DIAS_2026.10.02_PABLO_PATRIOTA_ALTA_07.jpg?1794333102",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T13:00:00.000Z",
+    "ingested_at": "2026-11-11T21:09:22.253Z"
+  },
+  {
+    "id": "db5361fb-61c2-4dc4-a0f3-50cf8738360b",
+    "title": "Freedom Mobile Arch Amphitheatre",
+    "creator": "Revery Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6af2/21e9/eabd/2a00/0192/bc78/newsletter/Revery_Freedom_Mobile_Arch_Credit_Ema_Peter__29_.jpg?1794253503",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T12:00:00.000Z",
+    "ingested_at": "2026-11-11T21:09:22.253Z"
+  },
+  {
+    "id": "6d7f574e-7cf6-4871-968c-d6a6700386f4",
+    "title": "Danubio Budapest Building",
+    "creator": "T2.a Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1003582/danubio-budapest-building-t-architects",
+    "image_url": "https://images.adsttc.com/media/images/64a6/8e74/cb9c/4621/9f93/eaa7/newsletter/danubio-budapest-building-t-architects_14.jpg?1688637064",
+    "typology": [
+      "Residential"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T11:00:00.000Z",
+    "ingested_at": "2026-11-11T21:09:22.253Z"
+  },
+  {
+    "id": "d39b8d5b-d21f-4625-b1ea-8be65e15fbc8",
+    "title": "Planá Kindergarten",
+    "creator": "PROAM ARCHITEKTI",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187802/plana-kindergarten-proam-architekti",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/d82c/a8ed/4101/8962/32cb/newsletter/plana-kindergarten-proam-architekti_3.jpg?1793316920",
+    "typology": [
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T10:00:00.000Z",
+    "ingested_at": "2026-11-11T21:09:22.254Z"
   }
 ]
