@@ -1970,5 +1970,23 @@
     "material": [],
     "published_at": "2026-11-06T16:00:00.000Z",
     "ingested_at": "2026-11-06T20:45:44.781Z"
+  },
+  {
+    "id": "4dc2264f-549a-4a25-95cd-8dbb03ea45ec",
+    "title": "Public toilets in Paris",
+    "creator": "Chartier-Corbasson \"elevate the ordinary\"",
+    "location": "Paris",
+    "country": "France",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/11/11/public-toilets-chartier-corbasson-paris/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/11/public-toilets-chartier-corbasson-paris-sq_dezeen_2364_col_0-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Toilets"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T11:00:00.000Z",
+    "ingested_at": "2026-11-11T13:53:10.775Z"
   }
 ]

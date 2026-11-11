@@ -14341,5 +14341,47 @@
     "material": [],
     "published_at": "2026-11-10T19:25:57.000Z",
     "ingested_at": "2026-11-10T23:01:33.272Z"
+  },
+  {
+    "id": "89cd28ae-22c1-4176-a0d0-b51fad5f0f56",
+    "title": "sumayya vally’s counterspace to design elie khouri art foundation in dubai",
+    "creator": "Sumayya Vally / Counterspace",
+    "location": "Jumeirah 1",
+    "country": "UAE",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai-designboom-700-500x400-22b08q85r610.jpg",
+    "typology": [
+      "architecture",
+      "architecture in dubai",
+      "art and architecture in the united arab emirates",
+      "counterspace",
+      "museums and galleries"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T11:06:45.000Z",
+    "ingested_at": "2026-11-11T13:53:11.684Z"
+  },
+  {
+    "id": "1b170a5e-4c9f-48c6-b64a-4f2252924126",
+    "title": "jean nouvel’s shenzhen opera house takes shape on the waterfront, with completion set for 2028",
+    "creator": "Ateliers Jean Nouvel",
+    "location": "Dongjiaotou",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/jean-nouvel-shenzhen-opera-house-waterfront-completion-2028/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/jean-nouvel-shenzhen-opera-house-waterfront-completion-2028-designboom-700-500x400-22b08q85r111.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "architecture in shenzhen",
+      "jean nouvel",
+      "theaters"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T11:00:16.000Z",
+    "ingested_at": "2026-11-11T13:53:11.690Z"
   }
 ]
