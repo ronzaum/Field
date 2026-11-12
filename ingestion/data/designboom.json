@@ -14383,5 +14383,46 @@
     "material": [],
     "published_at": "2026-11-11T11:00:16.000Z",
     "ingested_at": "2026-11-11T13:53:11.690Z"
+  },
+  {
+    "id": "dda63f8c-7284-4cc6-92f5-9184c7b000c0",
+    "title": "BIG imagines a future beyond temporary shelter for uganda’s bidi bidi refugees",
+    "creator": "Bjarke Ingels Group (BIG)",
+    "location": "Bidi Bidi",
+    "country": "northern Uganda",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org-designboom-700-500x400-22b08q85r663.jpg",
+    "typology": [
+      "architecture",
+      "architecture in uganda",
+      "bjarke ingels group / BIG",
+      "masterplans and urban revitalization",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T10:25:52.000Z",
+    "ingested_at": "2026-11-12T10:48:28.045Z"
+  },
+  {
+    "id": "3949a94e-be75-4d34-a339-3109b4f7dc56",
+    "title": "garton group architecture lines tropical costa rican home casa black in stone and timber",
+    "creator": "Garton Group Architecture",
+    "location": "Playa Grande",
+    "country": "Costa Rica",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/garton-group-architecture-tropical-costa-rican-home-casa-black-stone-timber/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/playa-grande-costa-rica-casa-black-garton-group-architecture-designboom-700-500x400-22b08q85r713.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in costa rica",
+      "residential architecture and interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T07:15:12.000Z",
+    "ingested_at": "2026-11-12T10:48:28.052Z"
   }
 ]

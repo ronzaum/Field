@@ -40098,5 +40098,56 @@
     "material": [],
     "published_at": "2026-11-11T17:00:00.000Z",
     "ingested_at": "2026-11-12T02:46:16.886Z"
+  },
+  {
+    "id": "d8b13f8e-ab1a-4b41-a236-dce10315c154",
+    "title": "House on Alley 37",
+    "creator": "kelvan_studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188258/house-on-alley-37-kelvan-studio",
+    "image_url": "https://images.adsttc.com/media/images/6af1/169b/4ba6/4700/01d0/7f9b/newsletter/29.jpg?1794184909",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T03:00:00.000Z",
+    "ingested_at": "2026-11-12T10:48:27.007Z"
+  },
+  {
+    "id": "bdc160d4-e511-44b2-b56f-30dfc810443c",
+    "title": "Wellness Pavilion",
+    "creator": "K-Thengono Design Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188257/wellness-pavilion-k-thengono-design-studio",
+    "image_url": "https://images.adsttc.com/media/images/6af1/153f/4ba6/4700/01d0/7f89/newsletter/K-Thengono_Design_Studio_Wellness_Pavilion_Credits_to_FINE_Projects_11.jpg?1794184673",
+    "typology": [
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T02:00:00.000Z",
+    "ingested_at": "2026-11-12T10:48:27.007Z"
+  },
+  {
+    "id": "5471cfcf-e783-4989-aac4-59cea9d14311",
+    "title": "Tsuyama Hotel I & II Renovation",
+    "creator": "NAAD + studio tata",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
+    "image_url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/newsletter/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470",
+    "typology": [
+      "Hotels Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T00:00:00.000Z",
+    "ingested_at": "2026-11-12T10:48:27.008Z"
   }
 ]
