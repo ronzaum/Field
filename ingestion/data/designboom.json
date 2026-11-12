@@ -14424,5 +14424,25 @@
     "material": [],
     "published_at": "2026-11-12T07:15:12.000Z",
     "ingested_at": "2026-11-12T10:48:28.052Z"
+  },
+  {
+    "id": "674adbac-605f-41b8-b426-c0113e33bf46",
+    "title": "built99 positions india’s contextual intelligence on the global stage",
+    "creator": "mariana rodrigues",
+    "location": "ITC Maurya",
+    "country": "New Delhi",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/built99-india-contextual-intelligence/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/ITC-Maurya-Illuminated-at-Night-built99-designboom-700-500x400-22b08q85r487.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "architecture in india",
+      "Built99"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T11:00:34.000Z",
+    "ingested_at": "2026-11-12T18:45:20.826Z"
   }
 ]

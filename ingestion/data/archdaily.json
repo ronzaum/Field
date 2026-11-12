@@ -40149,5 +40149,73 @@
     "material": [],
     "published_at": "2026-11-12T00:00:00.000Z",
     "ingested_at": "2026-11-12T10:48:27.008Z"
+  },
+  {
+    "id": "ec34bd66-72c3-4467-acfc-7d9fe67575a0",
+    "title": "Glorya Kaufman Performing Arts Center",
+    "creator": "AUX Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/987473/glorya-kaufman-performing-arts-center-aux-architecture",
+    "image_url": "https://images.adsttc.com/media/images/62fd/aeb3/9a9a/f107/038b/d279/newsletter/glorya-kaufman-performing-arts-center-aux-architecture_32.jpg?1660792517",
+    "typology": [
+      "Educational Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T11:00:00.000Z",
+    "ingested_at": "2026-11-12T18:45:19.724Z"
+  },
+  {
+    "id": "b0544215-d017-4a57-be3c-e17ae4c8d2cd",
+    "title": "Ex Macello di Treviso",
+    "creator": "TIXA Studio associato",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187696/ex-macello-di-treviso",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/0a67/3271/8400/01d0/f75b/newsletter/hires.tobias.kaser.027.jpg?1793198789",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T10:00:00.000Z",
+    "ingested_at": "2026-11-12T18:45:19.725Z"
+  },
+  {
+    "id": "6a559f3e-8374-4ec3-a33e-8b176753ba5a",
+    "title": "Family Scraper de Maasbode",
+    "creator": "van Bergen Kolpa architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187942/family-scraper-de-maasbode-van-bergen-kolpa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/7385/bcbc/3500/01ae/adaf/newsletter/14-MAASBODE-VANBERGENKOLPA-_FILIP_DUJARDIN.jpg?1793618861",
+    "typology": [
+      "Coliving"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T07:00:00.000Z",
+    "ingested_at": "2026-11-12T18:45:19.725Z"
+  },
+  {
+    "id": "017151c1-56df-44c6-a1e1-8e272560eceb",
+    "title": "Les Balcons de Sermenaz",
+    "creator": "HEMAA Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188045/les-balcons-de-sermenaz-hemaa-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6aea/7e7c/c723/9a01/895a/2449/newsletter/les-balcons-de-sermenaz-hemaa-architectes_10.jpg?1793752774",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T06:00:00.000Z",
+    "ingested_at": "2026-11-12T18:45:19.725Z"
   }
 ]
