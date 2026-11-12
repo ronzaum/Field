@@ -40064,5 +40064,39 @@
     "material": [],
     "published_at": "2026-11-11T10:00:00.000Z",
     "ingested_at": "2026-11-11T21:09:22.254Z"
+  },
+  {
+    "id": "46b5f29f-7d00-44b2-8a7b-4088895d2afd",
+    "title": "Plantando Semillas Community Center",
+    "creator": "Taller ACÁ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1009565/plantando-semillas-community-center-taller-aca",
+    "image_url": "https://images.adsttc.com/media/images/654b/dbac/f96c/7645/9ebc/9858/newsletter/centro-comunitario-plantando-semillas-taller-aca_5.jpg?1699470269",
+    "typology": [
+      "Community center"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T19:00:00.000Z",
+    "ingested_at": "2026-11-12T02:46:16.885Z"
+  },
+  {
+    "id": "c38fc890-3ba4-4c91-a6d8-16e36c2e1c84",
+    "title": "Comporta House",
+    "creator": "Aurora Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188426/comporta-house-aurora-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6af3/5083/c23f/1f46/c926/e6b3/newsletter/casa-na-comporta-aurora-arquitectos_35.jpg?1794330801",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-11T17:00:00.000Z",
+    "ingested_at": "2026-11-12T02:46:16.886Z"
   }
 ]
