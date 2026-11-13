@@ -40336,5 +40336,73 @@
     "material": [],
     "published_at": "2026-11-12T19:00:00.000Z",
     "ingested_at": "2026-11-13T07:42:16.134Z"
+  },
+  {
+    "id": "152a9642-f230-4d01-aeff-053597250621",
+    "title": "Neuweilerstrasse Development",
+    "creator": "Volpatohatz",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188089/neuweilerstrasse-mixed-use-development-volpatohatz",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/45bd/1f37/4900/010d/11a5/newsletter/01_DSCF1098.jpg?1793803766",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T10:00:00.000Z",
+    "ingested_at": "2026-11-13T16:00:02.019Z"
+  },
+  {
+    "id": "8abed1e6-dd5a-435c-9bf9-89d469bd4fb5",
+    "title": "Capsule Retreat",
+    "creator": "East Architecture Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188053/capsule-retreat-east-architecture-studio",
+    "image_url": "https://images.adsttc.com/media/images/6aea/bcbb/d2cc/6001/8a4f/6a41/newsletter/capsule-retreat-east-architecture-studio_3.jpg?1793768661",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T07:00:00.000Z",
+    "ingested_at": "2026-11-13T16:00:02.020Z"
+  },
+  {
+    "id": "efc5b316-abec-4de2-87bf-4b8960dc4a08",
+    "title": "Maison de l'Environnement et de la Biodiversité",
+    "creator": "Bulle, Poirier & Justman Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187694/maison-de-lenvironnement-et-de-la-biodiversite",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/09ff/3271/8400/01d0/f72e/newsletter/10.jpg?1793198735",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T06:00:00.000Z",
+    "ingested_at": "2026-11-13T16:00:02.020Z"
+  },
+  {
+    "id": "985f1ad9-31ab-4382-9668-c6a58badebfd",
+    "title": "Casa Tranquilo",
+    "creator": "DADO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188078/casa-tranquilo-dado",
+    "image_url": "https://images.adsttc.com/media/images/6aeb/26dc/1f37/4900/010d/10e5/newsletter/01.jpg?1793795834",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T03:00:00.000Z",
+    "ingested_at": "2026-11-13T16:00:02.021Z"
   }
 ]

@@ -14467,5 +14467,71 @@
     "material": [],
     "published_at": "2026-11-13T03:10:43.000Z",
     "ingested_at": "2026-11-13T07:42:17.166Z"
+  },
+  {
+    "id": "924e383c-3279-411f-aabb-da969417d132",
+    "title": "arnaud behzadi on designing beyond beauty, from paris’ doobie’s to pavyllon lyon",
+    "creator": "Arnaud Behzadi Architectures",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/arnaud-behzadi-doobies-paris-pavyllon-lyon/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-7-500x400-22b08q85r380.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture interviews",
+      "bar architecture and design",
+      "interview",
+      "restaurant and café design"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T13:28:59.000Z",
+    "ingested_at": "2026-11-13T16:00:03.016Z"
+  },
+  {
+    "id": "5289faeb-365c-4183-8755-f6de0702dc6d",
+    "title": "bacteria become the builders in ETH zurich’s exploration of living architecture",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bacteria-builders-eth-zurich-exploration-living-architecture-karen-antorveza-paez/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/bacteria-builders-eth-zurich-exploration-living-architecture-karen-antorveza-paez-designboom-700-500x400-22b08q85r573.jpg",
+    "typology": [
+      "architecture",
+      "video",
+      "3D printing",
+      "biomaterials",
+      "ETH zurich",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T10:10:04.000Z",
+    "ingested_at": "2026-11-13T16:00:03.025Z"
+  },
+  {
+    "id": "b042657f-967e-4392-bda9-390d9b349786",
+    "title": "prefabricated timber house by NOA is designed to move with its owners",
+    "creator": "NOA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-700-500x400-22b08q85r002.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "modular design",
+      "NOA",
+      "prefabricated homes and buildings",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T08:45:06.000Z",
+    "ingested_at": "2026-11-13T16:00:03.031Z"
   }
 ]
