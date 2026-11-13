@@ -40217,5 +40217,73 @@
     "material": [],
     "published_at": "2026-11-12T06:00:00.000Z",
     "ingested_at": "2026-11-12T18:45:19.725Z"
+  },
+  {
+    "id": "a31ef90b-1e7f-44a4-80c1-d2a2bde4e59e",
+    "title": "ELL House",
+    "creator": "SUITE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188436/ell-house-suite",
+    "image_url": "https://images.adsttc.com/media/images/6af2/f698/eabd/2a00/0192/bea0/newsletter/240517_Suite_Arquitetos_032_Ricardo_Bassetti_2804.jpg?1794307759",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T17:00:00.000Z",
+    "ingested_at": "2026-11-13T00:00:14.342Z"
+  },
+  {
+    "id": "f4915db1-9eb7-4d0b-9b3d-e6fc4ae97224",
+    "title": "BALSA (Self-Sufficient Boat for Laboratories and Services in the Amazon)",
+    "creator": "CASA [Ciudades Auto Sostenibles Amazónicas]",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188558/balsa-self-sufficient-boat-for-laboratories-and-services-in-the-amazon-casa-ciudades-auto-sostenibles-amazonicas",
+    "image_url": "https://images.adsttc.com/media/images/6af5/9cca/eabd/2a00/0192/d469/newsletter/BALSA_dron.jpg?1794481440",
+    "typology": [
+      "Transportation"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T15:00:00.000Z",
+    "ingested_at": "2026-11-13T00:00:14.342Z"
+  },
+  {
+    "id": "68efb54f-1ca2-4968-83c4-49217416353d",
+    "title": "Culto Café",
+    "creator": "Luiz Solano + TLR.C",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188445/culto-cafe-luiz-solano-plus-tl",
+    "image_url": "https://images.adsttc.com/media/images/6af2/fe57/eabd/2a00/0192/beff/newsletter/mg_culto_sp_20260724_130-Pano_c.jpg?1794309805",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T13:00:00.000Z",
+    "ingested_at": "2026-11-13T00:00:14.342Z"
+  },
+  {
+    "id": "04d677ca-e1de-4074-aec3-9ca4f57aa4ec",
+    "title": "House in the Woods",
+    "creator": "Tom Lontine Architect",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036053/house-in-the-woods-tom-lontine-architect",
+    "image_url": "https://images.adsttc.com/media/images/6917/1724/20ca/aa00/01ef/7d40/newsletter/02_20241025_Lontine_Venezia_18.jpg?1763121003",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T12:00:00.000Z",
+    "ingested_at": "2026-11-13T00:00:14.343Z"
   }
 ]
