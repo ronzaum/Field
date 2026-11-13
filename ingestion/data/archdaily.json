@@ -40404,5 +40404,73 @@
     "material": [],
     "published_at": "2026-11-13T03:00:00.000Z",
     "ingested_at": "2026-11-13T16:00:02.021Z"
+  },
+  {
+    "id": "55c3005c-5df9-4406-8d2c-df20ffc41f6e",
+    "title": "Sima House",
+    "creator": "Dosorozco",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188590/sima-house-dosorozco",
+    "image_url": "https://images.adsttc.com/media/images/6af5/94bf/eabd/2a00/0192/d425/newsletter/CASA_SIMA_DZCO-6.jpg?1794479329",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T15:00:00.000Z",
+    "ingested_at": "2026-11-13T21:55:32.660Z"
+  },
+  {
+    "id": "496d42cc-e924-4492-9dde-387f28379a14",
+    "title": "Bachour Café",
+    "creator": "Estudio Guto Requena",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188603/bachour-cafe-estudio-guto-requena",
+    "image_url": "https://images.adsttc.com/media/images/6af3/b0e6/8074/f401/89de/e114/newsletter/cafe-bachour-estudio-guto-requena_2.jpg?1794355444",
+    "typology": [
+      "Coffee Shop"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T13:00:00.000Z",
+    "ingested_at": "2026-11-13T21:55:32.660Z"
+  },
+  {
+    "id": "7837d083-af7d-4e58-83bd-70ce15c0bfad",
+    "title": "Pavilion in the Oaks",
+    "creator": "Mork-Ulnes Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035266/pavilion-in-the-oaks-mork-ulnes-architects",
+    "image_url": "https://images.adsttc.com/media/images/68f7/6fcb/683c/c410/d8ce/5240/newsletter/pavilion-in-the-oaks-mork-ulnes-architects_1.jpg?1761046493",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T12:00:00.000Z",
+    "ingested_at": "2026-11-13T21:55:32.660Z"
+  },
+  {
+    "id": "ded53ffe-04e5-4dfb-a4a7-51770227846c",
+    "title": "Kerena Funeral Services",
+    "creator": "MYT+GLVDK",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1003816/kerena-funeral-services-myt-plus-glvdk",
+    "image_url": "https://images.adsttc.com/media/images/65fc/8db9/b626/e801/7cb4/4d73/newsletter/servicio-funerario-kerena-myt-plus-glvdk_3.jpg?1711050201",
+    "typology": [
+      "Burial"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T11:00:00.000Z",
+    "ingested_at": "2026-11-13T21:55:32.661Z"
   }
 ]
