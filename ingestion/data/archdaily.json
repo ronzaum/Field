@@ -40285,5 +40285,56 @@
     "material": [],
     "published_at": "2026-11-12T12:00:00.000Z",
     "ingested_at": "2026-11-13T00:00:14.343Z"
+  },
+  {
+    "id": "e725d282-aaaa-4e8e-92dd-5da16a9330d0",
+    "title": "LYNK&CO Motorsport Experience Center Chengdu",
+    "creator": "MUDA-Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188168/lynk-and-co-motorsport-experience-center-chengdu-muda-architects",
+    "image_url": "https://images.adsttc.com/media/images/6af4/2aef/c23f/1f01/895a/f1ec/newsletter/lynk-and-co-motorsport-experience-center-chengdu-muda-architects_30.jpg?1794386686",
+    "typology": [
+      "Showroom"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T02:00:00.000Z",
+    "ingested_at": "2026-11-13T07:42:16.134Z"
+  },
+  {
+    "id": "00b2d78d-41b1-4ab3-9bbd-b7f113992fad",
+    "title": "Mekong Breeze House",
+    "creator": "Re: Edge Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188378/mekong-breeze-house-re-edge-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6af2/cef8/eabd/2a00/0192/be12/newsletter/Exterior_-_2880px__72ppl__RGB-17.jpg?1794297715",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T00:00:00.000Z",
+    "ingested_at": "2026-11-13T07:42:16.134Z"
+  },
+  {
+    "id": "bc33e907-3273-4bd0-9b4f-5cfa0dfcf6ba",
+    "title": "Casa de las Lavanderas",
+    "creator": "Raúl Sanchez Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188496/casa-de-las-lavanderas-raul-sanchez",
+    "image_url": "https://images.adsttc.com/media/images/6af4/7557/8074/f401/89de/e472/newsletter/casa-de-las-lavanderas-raul-sanchez_7.jpg?1794405735",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-12T19:00:00.000Z",
+    "ingested_at": "2026-11-13T07:42:16.134Z"
   }
 ]
