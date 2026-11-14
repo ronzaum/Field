@@ -40540,5 +40540,56 @@
     "material": [],
     "published_at": "2026-11-14T06:00:00.000Z",
     "ingested_at": "2026-11-14T16:30:39.803Z"
+  },
+  {
+    "id": "2683160a-adf4-47a6-ad5b-4b35753fab10",
+    "title": "Minthis Resort Development",
+    "creator": "Woods Bagot",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1009606/minthis-hills-woods-baggot",
+    "image_url": "https://images.adsttc.com/media/images/654e/6c41/08e4/4436/8242/6c3c/newsletter/minthis-hills-woods-baggot_1.jpg?1699638370",
+    "typology": [
+      "Wellness Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T15:00:00.000Z",
+    "ingested_at": "2026-11-14T21:13:29.416Z"
+  },
+  {
+    "id": "a1a108c7-cffb-49ee-936e-792a00ab6c0c",
+    "title": "LAND OVER WATER",
+    "creator": "FIRM architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187695/land-over-water-firm-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f74c/newsletter/Giovanni_Nardi_Photography_5Y6A7006.jpg?1793198649",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T11:00:00.000Z",
+    "ingested_at": "2026-11-14T21:13:29.417Z"
+  },
+  {
+    "id": "8fac9f46-c8fc-4b9e-b09c-ea579bd47edd",
+    "title": "Maryland House",
+    "creator": "Remi C.T.",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188511/maryland-house",
+    "image_url": "https://images.adsttc.com/media/images/6af4/9801/eabd/2a00/0192/c6b2/newsletter/MH_RCT_05_EDIT.jpg?1794414625",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T10:00:00.000Z",
+    "ingested_at": "2026-11-14T21:13:29.417Z"
   }
 ]
