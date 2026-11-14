@@ -40472,5 +40472,39 @@
     "material": [],
     "published_at": "2026-11-13T11:00:00.000Z",
     "ingested_at": "2026-11-13T21:55:32.661Z"
+  },
+  {
+    "id": "63d1e6e1-c1de-49e2-b248-3faf6f24f2bd",
+    "title": "Itchimbía Housing",
+    "creator": "Mejía Narváez Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188630/itchimbia-housing-mejia-narvaez-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e383/newsletter/BICUBIK_0144.jpg?1794572460",
+    "typology": [
+      "Residential Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T19:00:00.000Z",
+    "ingested_at": "2026-11-14T02:08:00.225Z"
+  },
+  {
+    "id": "63729936-9a87-4074-8747-fb8647a80943",
+    "title": "FM House",
+    "creator": "Dado Castello Branco Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188439/fm-house-dado-castello-branco-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6af3/1c26/eabd/2a00/0192/bf2d/newsletter/124.jpg?1794317377",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-13T17:00:00.000Z",
+    "ingested_at": "2026-11-14T02:08:00.225Z"
   }
 ]
