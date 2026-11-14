@@ -40523,5 +40523,22 @@
     "material": [],
     "published_at": "2026-11-14T02:00:00.000Z",
     "ingested_at": "2026-11-14T09:58:16.708Z"
+  },
+  {
+    "id": "9aea071e-8bd2-4e2a-a9de-d5afd5bed149",
+    "title": "Vandeuren III-IV",
+    "creator": "P&P Architectes + Atelier d'Architecture A4",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/newsletter/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T06:00:00.000Z",
+    "ingested_at": "2026-11-14T16:30:39.803Z"
   }
 ]

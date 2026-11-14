@@ -2008,5 +2008,27 @@
     "material": [],
     "published_at": "2026-11-13T11:30:00.000Z",
     "ingested_at": "2026-11-13T16:00:02.387Z"
+  },
+  {
+    "id": "b5a131d1-b127-4e35-b6de-c6281684263e",
+    "title": "Japanese sauna",
+    "creator": "Daichi Inc makes \"people feel as though they are dissolving into the forest\"",
+    "location": null,
+    "country": "Japan",
+    "year": null,
+    "source": "dezeen",
+    "source_url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
+    "image_url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg",
+    "typology": [
+      "Architecture",
+      "Japanese architecture",
+      "Woodland",
+      "Public and leisure",
+      "Saunas",
+      "Wooden architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T11:00:00.000Z",
+    "ingested_at": "2026-11-14T16:30:40.012Z"
   }
 ]
