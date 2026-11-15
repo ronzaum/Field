@@ -40676,5 +40676,56 @@
     "material": [],
     "published_at": "2026-11-15T06:00:00.000Z",
     "ingested_at": "2026-11-15T16:16:22.240Z"
+  },
+  {
+    "id": "a3d41e7c-ae07-4b31-9b77-f300d5c6c7b0",
+    "title": "Agnews K12 Campus",
+    "creator": "LPA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1006617/agnews-k12-campus-lpa-design-studios",
+    "image_url": "https://images.adsttc.com/media/images/64ff/0d1a/9e3f/b94d/c42f/8415/newsletter/agnews-k12-campus-lpa-design-studios_5.jpg?1694436659",
+    "typology": [
+      "High School"
+    ],
+    "material": [],
+    "published_at": "2026-11-15T15:00:00.000Z",
+    "ingested_at": "2026-11-15T21:33:33.553Z"
+  },
+  {
+    "id": "041add49-d5ad-4b9e-b682-e3e04df03686",
+    "title": "Apartment NDRX",
+    "creator": "Studio Gypsandconcrete",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187502/apartment-ndrx-studio-gypsandconcrete",
+    "image_url": "https://images.adsttc.com/media/images/6adf/2538/3271/8400/01d0/e92d/newsletter/1.jpg?1793008985",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-15T11:00:00.000Z",
+    "ingested_at": "2026-11-15T21:33:33.553Z"
+  },
+  {
+    "id": "2e3e010d-532a-406a-bf70-9b74c8651230",
+    "title": "Heathside House",
+    "creator": "Manea Kella",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187742/heathside-house-manea-kella",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb74/newsletter/Manea_Kella-Heathside_House-French_Tye-13-LOW-RES.jpg?1793271840",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-15T10:00:00.000Z",
+    "ingested_at": "2026-11-15T21:33:33.553Z"
   }
 ]
