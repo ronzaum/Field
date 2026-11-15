@@ -40659,5 +40659,22 @@
     "material": [],
     "published_at": "2026-11-14T21:00:00.000Z",
     "ingested_at": "2026-11-15T08:59:50.277Z"
+  },
+  {
+    "id": "ff0c0fcf-ee2e-4fb3-bbcd-a0ab384a0057",
+    "title": "OkiDoki Matcha Bar",
+    "creator": "Dobrochna Rajcic",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
+    "image_url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/newsletter/migdal_okidoki_6.jpg?1794132644",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-15T06:00:00.000Z",
+    "ingested_at": "2026-11-15T16:16:22.240Z"
   }
 ]
