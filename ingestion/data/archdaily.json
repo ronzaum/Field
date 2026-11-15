@@ -40625,5 +40625,39 @@
     "material": [],
     "published_at": "2026-11-14T16:00:00.000Z",
     "ingested_at": "2026-11-15T01:37:27.000Z"
+  },
+  {
+    "id": "ee3adb3b-4d7f-498b-9a67-93397aca9bd3",
+    "title": "Wangshan Qingshui Water Treatment Plant",
+    "creator": "POA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188533/wangshan-qingshui-water-treatment-plant-poa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6af5/6fae/8074/f401/89de/e7f3/newsletter/wangshan-qingshui-water-treatment-plant-poa-architects_17.jpg?1794469878",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-15T02:00:00.000Z",
+    "ingested_at": "2026-11-15T08:59:50.277Z"
+  },
+  {
+    "id": "d60c4673-3df8-4ca9-aca8-23cb1aa1f191",
+    "title": "HUSTLR Pickleball & Social Club",
+    "creator": "CYS Architect Sdn Bhd",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187878/hustlr-pickleball-and-social-club-cys-architect-sdn-bhd",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/be68/bfbd/4c00/01ee/5ab3/newsletter/HUSLTR-1.jpg?1793375985",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T21:00:00.000Z",
+    "ingested_at": "2026-11-15T08:59:50.277Z"
   }
 ]
