@@ -40591,5 +40591,39 @@
     "material": [],
     "published_at": "2026-11-14T10:00:00.000Z",
     "ingested_at": "2026-11-14T21:13:29.417Z"
+  },
+  {
+    "id": "9733bdce-611d-4afe-b03e-61a2670d849f",
+    "title": "Vanguard House",
+    "creator": "Ming Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187949/vanguard-house-ming-architects",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae64/newsletter/Ming_Architects_-_3_Moonbeam_View-4.jpg?1793622406",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T17:00:00.000Z",
+    "ingested_at": "2026-11-15T01:37:27.000Z"
+  },
+  {
+    "id": "6d1e92d9-b64d-42ae-932a-4663fcfdbd29",
+    "title": "Sona Listening Practices",
+    "creator": "Épico Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188633/sona-listening-practices-epico-studio",
+    "image_url": "https://images.adsttc.com/media/images/6af7/0222/eabd/2a00/0192/e3d9/newsletter/06_sona__foto_maria_fernanda_l_pez_y_erik_l_pez_.jpg?1794572879",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-11-14T16:00:00.000Z",
+    "ingested_at": "2026-11-15T01:37:27.000Z"
   }
 ]
