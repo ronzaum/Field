@@ -40744,5 +40744,73 @@
     "material": [],
     "published_at": "2026-11-15T17:00:00.000Z",
     "ingested_at": "2026-11-16T01:40:58.892Z"
+  },
+  {
+    "id": "50243ad7-d004-4d8e-97eb-6ba279b16a8e",
+    "title": "Baashyaam Experience Centre",
+    "creator": "Architecture Dialogue",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187877/baashyaam-experience-centre-architecture-dialogue",
+    "image_url": "https://images.adsttc.com/media/images/6ae4/bcc4/bfbd/4c00/01ee/5aa2/newsletter/22.jpg?1793375549",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T03:00:00.000Z",
+    "ingested_at": "2026-11-16T09:16:46.519Z"
+  },
+  {
+    "id": "ed33d149-c18b-4a0f-9ca7-46654d51af32",
+    "title": "Villa Nabu",
+    "creator": "Alexis Dornier",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188377/villa-nabu-alexis-dornier",
+    "image_url": "https://images.adsttc.com/media/images/6af2/addd/eabd/2a00/0192/bde4/newsletter/KIE_AlexisDornier-Tampah-Hills-Nabu-20_Copy.jpg?1794289171",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T02:00:00.000Z",
+    "ingested_at": "2026-11-16T09:16:46.519Z"
+  },
+  {
+    "id": "a8c784b3-a6b9-451a-98c5-7deb7b2cec1f",
+    "title": "Vegetable Building",
+    "creator": "Cho and Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188498/vegetable-building-cho-and-partners",
+    "image_url": "https://images.adsttc.com/media/images/6af4/7566/eabd/2a00/0192/c5cc/newsletter/VegetableBuilding_DahaePark_02.jpg?1794405815",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T00:00:00.000Z",
+    "ingested_at": "2026-11-16T09:16:46.519Z"
+  },
+  {
+    "id": "8d85e3e8-4772-4df2-addd-7ac9c4c125cc",
+    "title": "Heritage Park Mito - Wedding Venue and Restaurant",
+    "creator": "Archipatch",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187395/heritage-park-mito-wedding-venue-and-restaurant-archipatch",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/a279/62dc/0e01/8725/75b8/newsletter/heritage-park-mito-wedding-venue-and-restaurant-archipatch_18.jpg?1793630860",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-15T21:00:00.000Z",
+    "ingested_at": "2026-11-16T09:16:46.520Z"
   }
 ]

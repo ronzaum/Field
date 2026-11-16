@@ -14617,5 +14617,25 @@
     "material": [],
     "published_at": "2026-11-15T21:35:39.000Z",
     "ingested_at": "2026-11-16T01:41:00.727Z"
+  },
+  {
+    "id": "8e2b433a-892d-4a96-b197-bd92e7c0dadd",
+    "title": "SP architects gives antalya’s former expo grounds a second life for COP31",
+    "creator": "Iñaki Laguardia",
+    "location": "Aksu",
+    "country": "Turkey",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sp-architects-cop31-antalya-expo-grounds-architecture/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/sp-architects-cop31-antalya-expo-grounds-architecture-designboom-2-500x400-22b08q85r889.jpeg",
+    "typology": [
+      "architecture",
+      "architecture in turkey",
+      "climate change",
+      "COP31"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T06:32:32.000Z",
+    "ingested_at": "2026-11-16T09:16:48.211Z"
   }
 ]
