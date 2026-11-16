@@ -40812,5 +40812,90 @@
     "material": [],
     "published_at": "2026-11-15T21:00:00.000Z",
     "ingested_at": "2026-11-16T09:16:46.520Z"
+  },
+  {
+    "id": "c6bc4523-8c94-4d0b-945b-2d596945552f",
+    "title": "Baw Beese House",
+    "creator": "Disbrow Iannuzzi",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035163/baw-beese-house-disbrow-iannuzzi",
+    "image_url": "https://images.adsttc.com/media/images/68f2/5486/66e5/d600/015e/8693/newsletter/09_Giraffe_RoundThreePhotography_Lodholz_Exterior_DSC9796-Landscape.jpg?1760711838",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T12:00:00.000Z",
+    "ingested_at": "2026-11-16T20:08:41.716Z"
+  },
+  {
+    "id": "16fed4f9-3d91-4904-8178-85200607d0c2",
+    "title": "Link House",
+    "creator": "Openideas Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1010840/link-house-openideas-architects",
+    "image_url": "https://images.adsttc.com/media/images/6571/f4e0/23c8/ee0c/30dd/1696/newsletter/link-house-openideas-architects_1.jpg?1701967098",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T11:00:00.000Z",
+    "ingested_at": "2026-11-16T20:08:41.717Z"
+  },
+  {
+    "id": "d959dfb0-afc6-4135-8170-b8b1e15ddb62",
+    "title": "Verra",
+    "creator": "MVRDV",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188676/verra-mvrdv",
+    "image_url": "https://images.adsttc.com/media/images/6afa/9178/c23f/1f52/896d/7123/newsletter/verra-mvrdv_18.jpg?1794806179",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T10:00:00.000Z",
+    "ingested_at": "2026-11-16T20:08:41.717Z"
+  },
+  {
+    "id": "8e59faf3-0391-42c4-9988-9fda8834d012",
+    "title": "Grotto Observation Park Pavilion",
+    "creator": "RAD+ar (Research Artistic Design + architecture)",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188282/grotto-observation-park-pavilion-rad-plus-ar-research-artistic-design-plus-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6af6/96dc/8074/f401/89de/eab4/newsletter/grotto-observation-park-pavilion-rad-plus-ar-research-artistic-design-plus-architecture_26.jpg?1794545453",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T07:00:00.000Z",
+    "ingested_at": "2026-11-16T20:08:41.717Z"
+  },
+  {
+    "id": "cc4c2aa4-13f7-4b6e-956e-21c4e7d54ca7",
+    "title": "Strømsbu Sawmill",
+    "creator": "Henning Larsen",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188565/stromsbu-sawmill-henning-larsen",
+    "image_url": "https://images.adsttc.com/media/images/6af6/06f9/8074/f401/89de/e9d3/newsletter/stromsbu-sawmill-henning-larsen_27.jpg?1794508571",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T06:00:00.000Z",
+    "ingested_at": "2026-11-16T20:08:41.717Z"
   }
 ]

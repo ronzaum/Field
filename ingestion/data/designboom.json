@@ -14637,5 +14637,30 @@
     "material": [],
     "published_at": "2026-11-16T06:32:32.000Z",
     "ingested_at": "2026-11-16T09:16:48.211Z"
+  },
+  {
+    "id": "ac43736f-e4bb-4b44-98ad-811edfc5e9b6",
+    "title": "podcast: indian architects adapt building codes and restore soil through trust",
+    "creator": "tim spears",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-07-08/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/indx-global-room-for-utopias-podcast-04-designboom-700-500x400-22b08q85r285.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "interviews",
+      "video",
+      "architecture in india",
+      "architecture interviews",
+      "paris design week 2026",
+      "podcast: room for utopias",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T11:00:24.000Z",
+    "ingested_at": "2026-11-16T20:08:42.929Z"
   }
 ]
