@@ -40897,5 +40897,73 @@
     "material": [],
     "published_at": "2026-11-16T06:00:00.000Z",
     "ingested_at": "2026-11-16T20:08:41.717Z"
+  },
+  {
+    "id": "ae3237d4-c1c6-4b77-9f9c-86c3c90e099e",
+    "title": "Lambda House",
+    "creator": "Guillem Carrera",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188716/lambda-house-guillem-carrera",
+    "image_url": "https://images.adsttc.com/media/images/6af7/0039/eabd/2a00/0192/e355/newsletter/01.jpg?1794572377",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T19:00:00.000Z",
+    "ingested_at": "2026-11-17T03:33:09.888Z"
+  },
+  {
+    "id": "9ff52e92-25e7-4ad5-88d1-bdb45f11c932",
+    "title": "Pinhal House",
+    "creator": "Cornetta Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188612/pinhal-house-cornetta-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6af7/106d/eabd/2a00/0192/e49f/newsletter/_08A2234B-Pano_copyright_manuel_sa.jpg?1794576533",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T17:00:00.000Z",
+    "ingested_at": "2026-11-17T03:33:09.888Z"
+  },
+  {
+    "id": "dd87321a-b7e7-46cc-ab5f-471ec622e099",
+    "title": "The Floating Cultural Center El Embarcadero",
+    "creator": "Natura Futura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188694/the-floating-cultural-center-el-embarcadero-natura-futura",
+    "image_url": "https://images.adsttc.com/media/images/6afa/fb2d/8074/f464/a9f9/3283/newsletter/centro-cultural-flotante-el-embarcadero-natura-futura_12.jpg?1794833211",
+    "typology": [
+      "Learning"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T15:00:00.000Z",
+    "ingested_at": "2026-11-17T03:33:09.889Z"
+  },
+  {
+    "id": "f9408f1d-9c35-4bef-b241-d44529cc4440",
+    "title": "The Black Timber",
+    "creator": "SO Arquitetura & Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188494/the-black-timber-so-arquitetura-and-design",
+    "image_url": "https://images.adsttc.com/media/images/6af4/6d3f/c23f/1f01/895a/f3d8/newsletter/the-black-timber-so-arquitetura-and-design_21.jpg?1794403714",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T13:00:00.000Z",
+    "ingested_at": "2026-11-17T03:33:09.889Z"
   }
 ]
