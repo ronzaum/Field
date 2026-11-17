@@ -41016,5 +41016,124 @@
     "material": [],
     "published_at": "2026-11-17T00:00:00.000Z",
     "ingested_at": "2026-11-17T12:56:34.645Z"
+  },
+  {
+    "id": "425f7916-01bf-4430-8aeb-4fca215f8897",
+    "title": "Restoration of the Picote Engineers' Houses and Gardens",
+    "creator": "Cannatà & Fernandes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188792/restoration-of-the-picote-engineers-houses-and-gardens-cannata-and-fernandes",
+    "image_url": "https://images.adsttc.com/media/images/6af7/0e2d/eabd/2a00/0192/e47a/newsletter/01_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575937",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T13:00:00.000Z",
+    "ingested_at": "2026-11-17T21:39:26.821Z"
+  },
+  {
+    "id": "146d99c9-33a4-4522-81ac-83b9e921ded4",
+    "title": "Anchorage Road Artist Studio",
+    "creator": "Ballman Khapalova",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1034577/anchorage-road-artist-studio-ballman-khapalova",
+    "image_url": "https://images.adsttc.com/media/images/68da/c5fe/dfc9/5e13/0554/444e/newsletter/anchorage-road-artist-studio-ballman-khapalova_2.jpg?1759168053",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T12:00:00.000Z",
+    "ingested_at": "2026-11-17T21:39:26.821Z"
+  },
+  {
+    "id": "d264d7e3-6b44-4ea1-a8e6-4cd11f2371d4",
+    "title": "North Boulder Library",
+    "creator": "WORKac",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1030123/north-boulder-library-workac",
+    "image_url": "https://images.adsttc.com/media/images/6823/a1e0/5513/910e/326f/f811/newsletter/north-boulder-library-workac_6.jpg?1747165698",
+    "typology": [
+      "Library"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T11:00:00.000Z",
+    "ingested_at": "2026-11-17T21:39:26.821Z"
+  },
+  {
+    "id": "301d3518-ce2a-482d-9482-b93b116a985c",
+    "title": "ROOT",
+    "creator": "LEVS architecten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188651/root-levs-architecten",
+    "image_url": "https://images.adsttc.com/media/images/6af8/27ee/eabd/2a00/0192/f2c8/newsletter/LEVS_ROOT-47-min.jpg?1794648155",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T10:00:00.000Z",
+    "ingested_at": "2026-11-17T21:39:26.822Z"
+  },
+  {
+    "id": "c9fdbba2-b134-4b99-b56d-22663f3225ca",
+    "title": "The Cloud House",
+    "creator": "Peter Morris Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188660/the-cloud-house-peter-morris-architects",
+    "image_url": "https://images.adsttc.com/media/images/6af9/1093/c23f/1f01/895a/fe91/newsletter/the-cloud-house-peter-morris-architects_41.jpg?1794707612",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T07:00:00.000Z",
+    "ingested_at": "2026-11-17T21:39:26.822Z"
+  },
+  {
+    "id": "94e6473b-0999-4162-8ea9-b5eca08a1936",
+    "title": "VinziRast am Land",
+    "creator": "gaupenraub+/-",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188510/vinzirast-am-land",
+    "image_url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c69d/newsletter/VRaL_KK_9209_kurt-kuball.jpg?1794414530",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T06:00:00.000Z",
+    "ingested_at": "2026-11-17T21:39:26.822Z"
+  },
+  {
+    "id": "83fd9050-e4e6-41bd-9882-2123982dd631",
+    "title": "Casa Lambda",
+    "creator": "Guillem Carrera",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188716/casa-lambda-guillem-carrera",
+    "image_url": "https://images.adsttc.com/media/images/6af7/0039/eabd/2a00/0192/e355/newsletter/01.jpg?1794572377",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-16T19:00:00.000Z",
+    "ingested_at": "2026-11-17T21:39:26.823Z"
   }
 ]
