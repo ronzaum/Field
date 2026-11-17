@@ -14683,5 +14683,56 @@
     "material": [],
     "published_at": "2026-11-17T00:55:55.000Z",
     "ingested_at": "2026-11-17T03:33:11.034Z"
+  },
+  {
+    "id": "ae9dbc07-0401-4769-ad86-0396fb31e42a",
+    "title": "john pawson sets white ribbon staircase against 18th century baroque portal at the madrid EDITION",
+    "creator": "OAB (Office of Architecture in Barcelona) and Ruiz-Larrea",
+    "location": "Plaza de Celenque 2",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/john-pawson-white-ribbon-staircase-18th-century-baroque-portal-madrid-edition-hotel-spain/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/john-pawson-madrid-edition-hotel-designboom-700-500x400-22b08q85r196.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in spain",
+      "designer boutique hotels",
+      "EDITION Hotels",
+      "hotel architecture and design",
+      "john pawson",
+      "OAB"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T11:24:08.000Z",
+    "ingested_at": "2026-11-17T12:56:35.793Z"
+  },
+  {
+    "id": "078d4e7d-d529-4d6b-b59f-378e1f99d675",
+    "title": "kato taverna and ROOVICE strip 1960s tokyo apartment to concrete shell for 50-sqm renovation",
+    "creator": "kato taverna",
+    "location": "Setagaya-ku",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kato-taverna-roovice-1960s-tokyo-apartment-concrete-shell-50-sqm-renovation/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-700-1-500x400-22b08q85r087.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in tokyo",
+      "concrete architecture and design",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "ROOVICE",
+      "spaces under 50 sqm",
+      "steel architecture and design",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T07:15:22.000Z",
+    "ingested_at": "2026-11-17T12:56:35.798Z"
   }
 ]

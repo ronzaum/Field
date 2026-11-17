@@ -40965,5 +40965,56 @@
     "material": [],
     "published_at": "2026-11-16T13:00:00.000Z",
     "ingested_at": "2026-11-17T03:33:09.889Z"
+  },
+  {
+    "id": "f4f8deef-4a3d-4871-a5e3-182e6ec6ded4",
+    "title": "Itan House",
+    "creator": "atelier kọ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188506/itan-house-atelier-ko",
+    "image_url": "https://images.adsttc.com/media/images/6af4/874e/eabd/2a00/0192/c648/newsletter/Maison-Itan_01_Ambre-Alfredo.jpg?1794410360",
+    "typology": [
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T03:00:00.000Z",
+    "ingested_at": "2026-11-17T12:56:34.644Z"
+  },
+  {
+    "id": "8c968650-8516-44ac-9138-ad90b0e59454",
+    "title": "House in Akashi",
+    "creator": "Tato Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188549/house-in-akashi-tato-architects",
+    "image_url": "https://images.adsttc.com/media/images/6af5/a6b1/eabd/2a00/0192/d4b9/newsletter/aksr_010_DA.jpg?1794483916",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T02:00:00.000Z",
+    "ingested_at": "2026-11-17T12:56:34.644Z"
+  },
+  {
+    "id": "55a766c5-56af-47de-b9de-7b5341595c65",
+    "title": "HaloPlaza Hangzhou Vanke Mixed-use Complex",
+    "creator": "Nikken Sekkei",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187950/haloplaza-hangzhou-vanke-mixed-use-complex-nikken-sekkei",
+    "image_url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae70/newsletter/_Exterior_Facade1_ShenzhenGuyuArtCultureCommunication.jpg?1793622516",
+    "typology": [
+      "Offices"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T00:00:00.000Z",
+    "ingested_at": "2026-11-17T12:56:34.645Z"
   }
 ]
