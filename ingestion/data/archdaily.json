@@ -41186,5 +41186,56 @@
     "material": [],
     "published_at": "2026-11-17T15:00:00.000Z",
     "ingested_at": "2026-11-18T03:28:48.069Z"
+  },
+  {
+    "id": "f3854b29-2cdc-47a0-a936-9e6659484887",
+    "title": "OAR Contemporary Art Museum",
+    "creator": "Hyunjoon Yoo + Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188435/oar-contemporary-art-museum-hyunjoon-yoo-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/6af3/64ec/8074/f401/89de/df89/newsletter/oar-contemporary-art-museum-hyunjoon-yoo-plus-partners_1.jpg?1794335997",
+    "typology": [
+      "Museum"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T03:00:00.000Z",
+    "ingested_at": "2026-11-18T12:50:03.364Z"
+  },
+  {
+    "id": "13b5d4a8-95d8-444c-b1b4-ccbc9bfb7d2b",
+    "title": "Villa N&N",
+    "creator": "SAOTA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188547/villa-n-and-n-saota",
+    "image_url": "https://images.adsttc.com/media/images/6af5/9f86/eabd/2a00/0192/d47d/newsletter/CI_ABJ_VillaN_N_Ext_001_002_AL_HR.jpg?1794482266",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T02:00:00.000Z",
+    "ingested_at": "2026-11-18T12:50:03.364Z"
+  },
+  {
+    "id": "5dd5e099-ed95-4ada-8def-a3b4f70d2eda",
+    "title": "A two-way facade",
+    "creator": "CYS.ASDO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188752/a-two-way-facade-cysdo",
+    "image_url": "https://images.adsttc.com/media/images/6afc/51e9/eabd/2a00/0192/fa2b/newsletter/b.jpg?1794920956",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T00:00:00.000Z",
+    "ingested_at": "2026-11-18T12:50:03.364Z"
   }
 ]
