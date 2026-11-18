@@ -41135,5 +41135,56 @@
     "material": [],
     "published_at": "2026-11-16T19:00:00.000Z",
     "ingested_at": "2026-11-17T21:39:26.823Z"
+  },
+  {
+    "id": "afd569c9-3314-44c3-bdd3-2ac027860413",
+    "title": "Dream House",
+    "creator": "Seiro Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188808/dream-house-seiro-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6af7/00c9/eabd/2a00/0192/e3ab/newsletter/SEIRO_ENCANTO-1-2048x1535.jpg?1794572506",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T19:00:00.000Z",
+    "ingested_at": "2026-11-18T03:28:48.068Z"
+  },
+  {
+    "id": "38e8d91d-adcd-45df-8878-094cbf09d9c6",
+    "title": "Cabeceiras do Aricanduva Municipal Natural Park",
+    "creator": "Natureza Urbana",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188795/cabeceiras-do-aricanduva-municipal-natural-park-natureza-urbana",
+    "image_url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f395/newsletter/DSCF5858-Editar-copiar.jpg?1794806786",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T17:00:00.000Z",
+    "ingested_at": "2026-11-18T03:28:48.068Z"
+  },
+  {
+    "id": "1e4ee1ad-6166-47ab-8517-1404c0624908",
+    "title": "Madre Culebra Cabin",
+    "creator": "Taller Viga Maestra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188802/madre-culebra-cabin-taller-viga-maestra",
+    "image_url": "https://images.adsttc.com/media/images/6afc/673f/eabd/2a00/0192/faf2/newsletter/07_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926448",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-17T15:00:00.000Z",
+    "ingested_at": "2026-11-18T03:28:48.069Z"
   }
 ]
