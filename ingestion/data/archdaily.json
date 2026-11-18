@@ -41237,5 +41237,90 @@
     "material": [],
     "published_at": "2026-11-18T00:00:00.000Z",
     "ingested_at": "2026-11-18T12:50:03.364Z"
+  },
+  {
+    "id": "02235720-2c23-40e7-88ef-7903062a672e",
+    "title": "Place des Montréalaises",
+    "creator": "Lemay + Angela Silver + AtkinsRéalis",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188837/place-des-montrealaises-lemay-plus-angela-silver-plus-atkinsrealis",
+    "image_url": "https://images.adsttc.com/media/images/6afd/7a7f/eabd/2a00/0193/1c1e/newsletter/001-Place-des-Montrealaises_Lemay_AngelaSilver_AtkinsRealis_credit-Vincent-Brillant.jpg?1794996905",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T12:00:00.000Z",
+    "ingested_at": "2026-11-18T21:13:21.886Z"
+  },
+  {
+    "id": "4b1b6686-d692-4762-8cc2-596b1307db4a",
+    "title": "Preistoriche Green Lodge",
+    "creator": "Studio Apostoli",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1012444/preistoriche-green-lodge-studio-apostoli",
+    "image_url": "https://images.adsttc.com/media/images/65aa/dd5f/e32f/dc0a/72e5/d70b/newsletter/preistoriche-green-lodge-studio-apostoli_9.jpg?1705696626",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T11:00:00.000Z",
+    "ingested_at": "2026-11-18T21:13:21.886Z"
+  },
+  {
+    "id": "6b86c260-9d91-4d05-83fa-803c5c0c21df",
+    "title": "Renovation and Extension of La Beaujoire Nursery and Primary School in Nantes",
+    "creator": "Dominique Coulon & associés",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188659/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes",
+    "image_url": "https://images.adsttc.com/media/images/6af8/b99e/c23f/1f01/895a/fe5b/newsletter/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes_27.jpg?1794685357",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T10:00:00.000Z",
+    "ingested_at": "2026-11-18T21:13:21.886Z"
+  },
+  {
+    "id": "05bcad36-4584-4b3b-a4f1-dae6b652108e",
+    "title": "Pod for Happiness",
+    "creator": "Craft Narrative",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188502/pod-for-happiness-craft-narrative",
+    "image_url": "https://images.adsttc.com/media/images/6af4/821f/c23f/1f01/895a/f4b6/newsletter/pod-for-happiness-craft-narrative_4.jpg?1794409026",
+    "typology": [
+      "Landscape Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T07:00:00.000Z",
+    "ingested_at": "2026-11-18T21:13:21.887Z"
+  },
+  {
+    "id": "4fc1b3da-fdc6-468c-8558-eef419521f11",
+    "title": "Fiona's Studio",
+    "creator": "Edward McCann Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188643/fionas-studio-edward-mccann-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6af7/cf00/eabd/2a00/0192/f1c5/newsletter/Artist_Studio-02___Agnese_Sanvito.jpg?1794625306",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T06:00:00.000Z",
+    "ingested_at": "2026-11-18T21:13:21.887Z"
   }
 ]

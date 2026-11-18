@@ -14796,5 +14796,50 @@
     "material": [],
     "published_at": "2026-11-18T11:46:06.000Z",
     "ingested_at": "2026-11-18T12:50:04.148Z"
+  },
+  {
+    "id": "64be5a90-76be-4572-bf04-b2b7592b4ae0",
+    "title": "BIG stacks timber volumes with alpine views for new neighborhood in switzerland",
+    "creator": "kat barandy",
+    "location": "Thun",
+    "country": "Switzerland",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/big-timber-alpine-neighborhood-switzerland-siegenthalergut-thun-bjarke-ingels-group/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/BIG-siegenthalergut-hotel-urban-district-switzerland-designboom-700-500x400-22b08q85r455.jpg",
+    "typology": [
+      "architecture",
+      "architecture in switzerland",
+      "bjarke ingels group / BIG",
+      "facades",
+      "hotel architecture and design",
+      "residential architecture and interiors",
+      "wood and timber architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T19:21:34.000Z",
+    "ingested_at": "2026-11-18T21:13:22.872Z"
+  },
+  {
+    "id": "293ba972-675b-41e9-b874-d827fcd77599",
+    "title": "AT-LARS’ adaptable museum combines scaffolding and translucent facade in indonesia",
+    "creator": "AT-LARS",
+    "location": "Lombok",
+    "country": "Indonesia",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/at-lars-adaptable-museum-scaffolding-translucent-facade-indonesia/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/pertamina-motogp-experience-gallery-indonesia-at-lars-designboom-700-500x400-22b08q85r463.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in indonesia",
+      "modular design",
+      "museums and galleries",
+      "scaffolding"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T16:45:28.000Z",
+    "ingested_at": "2026-11-18T21:13:22.878Z"
   }
 ]
