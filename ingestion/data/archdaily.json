@@ -41322,5 +41322,39 @@
     "material": [],
     "published_at": "2026-11-18T06:00:00.000Z",
     "ingested_at": "2026-11-18T21:13:21.887Z"
+  },
+  {
+    "id": "b13c9fff-d01f-4ea8-973c-22326c9f3d6b",
+    "title": "The Balcony of Guápulo",
+    "creator": "IWI Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188870/the-balcony-of-guapulo-iwi-studio",
+    "image_url": "https://images.adsttc.com/media/images/6afd/98ad/8074/f464/a9f9/3c07/newsletter/el-balcon-de-guapulo-iwi-studio_7.jpg?1795004710",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T19:00:00.000Z",
+    "ingested_at": "2026-11-19T03:01:03.520Z"
+  },
+  {
+    "id": "90e1f1b6-688a-49d2-9744-ae07b79d42e9",
+    "title": "Kaybe Tulum - Multisensorial Park",
+    "creator": "Arquitectura Mixta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188847/kaybe-tulum-multisensorial-park-arquitectura-mixta",
+    "image_url": "https://images.adsttc.com/media/images/6afd/b839/eabd/2a00/0193/1cf3/newsletter/ArquitecturaMixtaKaybe16PachaMotherMedia.jpg?1795012707",
+    "typology": [
+      "Park"
+    ],
+    "material": [],
+    "published_at": "2026-11-18T15:00:00.000Z",
+    "ingested_at": "2026-11-19T03:01:03.520Z"
   }
 ]
