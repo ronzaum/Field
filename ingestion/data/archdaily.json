@@ -41424,5 +41424,107 @@
     "material": [],
     "published_at": "2026-11-19T00:00:00.000Z",
     "ingested_at": "2026-11-19T12:40:25.339Z"
+  },
+  {
+    "id": "413af432-582f-4871-aafe-6a0b2e216400",
+    "title": "Bar Barra Peñasco",
+    "creator": "Estudio CR",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188958/bar-barra-penasco-estudio-cr",
+    "image_url": "https://images.adsttc.com/media/images/6afd/b80c/eabd/2a00/0193/1cda/newsletter/01_Barra_Pen_asco.jpg?1795012706",
+    "typology": [
+      "Restaurants & Bars"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T15:00:00.000Z",
+    "ingested_at": "2026-11-19T21:15:06.587Z"
+  },
+  {
+    "id": "915eb41c-16c0-44c8-80b5-de3b602190fa",
+    "title": "Oslo Houses",
+    "creator": "Nommo Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188935/oslo-houses-nommo-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6afe/fc6a/eabd/2a00/0193/2415/newsletter/JVS_20260810_CASAS_OSLO_46.jpg?1795095682",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T13:00:00.000Z",
+    "ingested_at": "2026-11-19T21:15:06.588Z"
+  },
+  {
+    "id": "cb3abb54-72df-478f-a663-853bc23db6c5",
+    "title": "L’Accueil Primary School",
+    "creator": "CCM2 Architectes + Roy Jacques Darisse architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188345/laccueil-primary-school-ccm2-architectes-plus-roy-jacques-darisse-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6af7/1ac9/c23f/1f01/895a/fb63/newsletter/laccueil-primary-school-ccm2-architectes-plus-roy-jacques-darisse-architectes_17.jpg?1794579163",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T12:00:00.000Z",
+    "ingested_at": "2026-11-19T21:15:06.588Z"
+  },
+  {
+    "id": "a311d0a1-188b-468f-8882-631e729a36af",
+    "title": "Clarke House",
+    "creator": "Austin Maynard Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1030061/clarke-house-austin-maynard-architects",
+    "image_url": "https://images.adsttc.com/media/images/6821/f38e/2465/c929/5dbc/bd8b/newsletter/clarke-house-austin-maynard-architects_1.jpg?1747055526",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T11:00:00.000Z",
+    "ingested_at": "2026-11-19T21:15:06.588Z"
+  },
+  {
+    "id": "882aad3a-f10e-47e8-9565-66eee17a7859",
+    "title": "Guilliers School Restaurant",
+    "creator": "eeun architecure",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188550/guilliers-school-restaurant-eeun-architecure",
+    "image_url": "https://images.adsttc.com/media/images/6af5/ab33/eabd/2a00/0192/d4e1/newsletter/50-DSCF7159.jpg?1794485150",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T10:00:00.000Z",
+    "ingested_at": "2026-11-19T21:15:06.589Z"
+  },
+  {
+    "id": "ac470344-dafa-4323-a44d-9cb299e245de",
+    "title": "Can Amor de la Isla",
+    "creator": "KOSMOS Architects + Blanca Gardelegui",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188731/can-amor-de-la-isla-kosmos-architects-plus-blanca-gardelegui",
+    "image_url": "https://images.adsttc.com/media/images/6afc/1fa1/c23f/1f52/896d/75d2/newsletter/can-amor-de-la-isla-kosmos-architects-plus-blanca-gardelegui_12.jpg?1794908080",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T07:00:00.000Z",
+    "ingested_at": "2026-11-19T21:15:06.589Z"
   }
 ]
