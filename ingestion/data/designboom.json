@@ -14841,5 +14841,52 @@
     "material": [],
     "published_at": "2026-11-18T16:45:28.000Z",
     "ingested_at": "2026-11-18T21:13:22.878Z"
+  },
+  {
+    "id": "7f84c16c-9afb-41fc-94f3-e611d2c73392",
+    "title": "podcast: indian architects ask who shapes homes: algorithms or occupants",
+    "creator": "tim spears",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-09-10/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/indx-global-room-for-utopias-05-designboom-1800-500x400-22b08q85r112.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "interviews",
+      "video",
+      "architecture in india",
+      "architecture interviews",
+      "paris design week 2026",
+      "podcast: room for utopias",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T11:00:49.000Z",
+    "ingested_at": "2026-11-19T12:40:27.179Z"
+  },
+  {
+    "id": "b0f9d7d0-1061-41dd-a2c4-e775b1de31ed",
+    "title": "floating concrete cylinder suspends over water basin for buddhist memorial in japan",
+    "creator": "ASSISTANT",
+    "location": "Odawara",
+    "country": "Japan",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/floating-concrete-cylinder-water-basin-buddhist-memorial-japan-assistant/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/fukuden-ji-buddhist-temple-odawara-japan-memorial-assistant-designboom-700-500x400-22b08q85r376.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "video",
+      "architecture in japan",
+      "megumi matsubara & hiroi ariyama",
+      "memorials and monuments"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T03:10:04.000Z",
+    "ingested_at": "2026-11-19T12:40:27.186Z"
   }
 ]
