@@ -41543,5 +41543,56 @@
     "material": [],
     "published_at": "2026-11-19T19:00:00.000Z",
     "ingested_at": "2026-11-20T02:53:49.832Z"
+  },
+  {
+    "id": "eef53690-fea7-4d5c-ad43-615c9d1abc2d",
+    "title": "Student Dining Block at S. R. University",
+    "creator": "SJK Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188784/student-dining-block-at-s-r-university-sjk-architects",
+    "image_url": "https://images.adsttc.com/media/images/6afc/7f78/c23f/1f52/896d/7831/newsletter/student-dining-block-at-s-r-university-sjk-architects_10.jpg?1794932629",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T03:00:00.000Z",
+    "ingested_at": "2026-11-20T11:08:43.502Z"
+  },
+  {
+    "id": "aee70f4e-0856-4caf-ac0a-c32483494641",
+    "title": "Thepwatana Solar Parking Roof",
+    "creator": "Openbox Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188939/thepwatana-solar-parking-roof-openbox-architects",
+    "image_url": "https://images.adsttc.com/media/images/6aff/01bf/eabd/2a00/0193/24a2/newsletter/TWPR-OPNBX_by_Panoramic_Studio__17_.jpg?1795097044",
+    "typology": [
+      "Infrastructure"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T02:00:00.000Z",
+    "ingested_at": "2026-11-20T11:08:43.503Z"
+  },
+  {
+    "id": "f219c593-2608-4b9b-ae6f-f0326c605823",
+    "title": "Lost Villa Songyang Mountain Retreat",
+    "creator": "Architects KONGKONG",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188845/lost-villa-songyang-mountain-retreat-architects-kongkong",
+    "image_url": "https://images.adsttc.com/media/images/6afd/aef8/c23f/1f6a/4351/63bd/newsletter/lost-villa-songyang-mountain-retreat-architects-kongkong_2.jpg?1795010319",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T00:00:00.000Z",
+    "ingested_at": "2026-11-20T11:08:43.503Z"
   }
 ]

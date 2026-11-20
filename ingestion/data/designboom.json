@@ -14909,5 +14909,43 @@
     "material": [],
     "published_at": "2026-11-19T15:55:47.000Z",
     "ingested_at": "2026-11-19T21:15:07.502Z"
+  },
+  {
+    "id": "b2e84059-bb87-4cc7-88bf-976e3d37ea24",
+    "title": "how ifi lighting awakens human senses through precise illumination",
+    "creator": "IFI Lighting",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/ifi-lighting/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/ifi-lighting_homa-house-serifos_designboom_700-500x400-22b08q85r184.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "lighting design"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T09:30:00.000Z",
+    "ingested_at": "2026-11-20T11:08:44.495Z"
+  },
+  {
+    "id": "3946e291-0e04-432a-b15c-4bc692a5076f",
+    "title": "corrugated metal and sawtooth roofs wrap occupational center in northern portugal",
+    "creator": "Salto Studio",
+    "location": "Vila Nova de Paiva",
+    "country": "Portugal",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/corrugated-metal-sawtooth-roofs-occupational-center-northern-portugal-salto-studio-caci-5-3-8/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/salto-studio-occupational-center-portugal-designboom-700-1-500x400-22b08q85r991.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in portugal"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T03:10:46.000Z",
+    "ingested_at": "2026-11-20T11:08:44.502Z"
   }
 ]
