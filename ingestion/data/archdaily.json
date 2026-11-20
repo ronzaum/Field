@@ -41594,5 +41594,107 @@
     "material": [],
     "published_at": "2026-11-20T00:00:00.000Z",
     "ingested_at": "2026-11-20T11:08:43.503Z"
+  },
+  {
+    "id": "04a2a296-0164-4f13-a7c9-5c821d6af10b",
+    "title": "Canal Beach Nature Resort",
+    "creator": "Atelier Bugio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036166/canal-beach-nature-resort-atelier-bugio",
+    "image_url": "https://images.adsttc.com/media/images/691b/d321/20ca/aa00/01ef/8011/newsletter/HAL_F_03.jpg?1763431400",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T13:00:00.000Z",
+    "ingested_at": "2026-11-20T19:49:36.512Z"
+  },
+  {
+    "id": "f5c965d7-3825-4a8d-97e2-565945847dba",
+    "title": "Darwin Bridges",
+    "creator": "Provencher_Roy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188489/darwin-bridges-provencher-roy",
+    "image_url": "https://images.adsttc.com/media/images/6af4/68ff/c23f/1f01/895a/f372/newsletter/darwin-bridges-provencher-roy_1.jpg?1794402580",
+    "typology": [
+      "Bridges"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T12:00:00.000Z",
+    "ingested_at": "2026-11-20T19:49:36.512Z"
+  },
+  {
+    "id": "d15f20d0-2090-496b-b94c-ce9af964e87b",
+    "title": "Hotel Casa Zamná Tulum",
+    "creator": "Studio Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1022043/hotel-casa-zamna-tulum-studio-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6703/f3a4/4003/1832/c759/7f17/newsletter/hotel-casa-zamna-tulum-studio-arquitectos_23.jpg?1728312787",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T11:00:00.000Z",
+    "ingested_at": "2026-11-20T19:49:36.513Z"
+  },
+  {
+    "id": "30921d80-916e-4d28-a114-f5f0384e8f0f",
+    "title": "Snake Building",
+    "creator": "C+S Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188693/snake-building-c-plus-s-architects",
+    "image_url": "https://images.adsttc.com/media/images/6afa/fce2/c23f/1f52/896d/7230/newsletter/snake-building-c-plus-s-architects_1.jpg?1794833686",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T10:00:00.000Z",
+    "ingested_at": "2026-11-20T19:49:36.513Z"
+  },
+  {
+    "id": "43c10dd5-afeb-422d-a0fb-f5f2155735de",
+    "title": "Design Museum Gent",
+    "creator": "Carmody Groarke + ATAMA + RE-ST",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188828/design-museum-gent-carmody-groarke-plus-atama-plus-re-st",
+    "image_url": "https://images.adsttc.com/media/images/6afd/6115/c23f/1f60/4095/9683/newsletter/design-museum-gent-carmody-groarke-plus-atama-plus-re-st_7.jpg?1794990386",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T07:00:00.000Z",
+    "ingested_at": "2026-11-20T19:49:36.513Z"
+  },
+  {
+    "id": "91a2a67a-a547-42be-ae13-bf4ced47f852",
+    "title": "Skroget",
+    "creator": "Rare Collectiv",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187770/skroget-rare-collectiv",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/6274/3a16/4b00/01b5/df99/newsletter/01_Merethe_Amundsen_Ruud.jpg?1793286829",
+    "typology": [
+      "Small Scale"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T06:00:00.000Z",
+    "ingested_at": "2026-11-20T19:49:36.513Z"
   }
 ]
