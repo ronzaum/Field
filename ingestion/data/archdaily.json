@@ -41526,5 +41526,22 @@
     "material": [],
     "published_at": "2026-11-19T07:00:00.000Z",
     "ingested_at": "2026-11-19T21:15:06.589Z"
+  },
+  {
+    "id": "966647c8-37f8-4ff4-8833-e7b342954f40",
+    "title": "Casa Sierra Morena I",
+    "creator": "Gallese Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188976/casa-sierra-morena-i-gallese-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6aff/835d/eabd/2a00/0193/2753/newsletter/18.jpg?1795130271",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-19T19:00:00.000Z",
+    "ingested_at": "2026-11-20T02:53:49.832Z"
   }
 ]
