@@ -41781,5 +41781,73 @@
     "material": [],
     "published_at": "2026-11-21T06:00:00.000Z",
     "ingested_at": "2026-11-21T17:14:05.026Z"
+  },
+  {
+    "id": "34d22f61-1c2f-40b2-9bd5-5764dddc4606",
+    "title": "Biarritz Building",
+    "creator": "Ariel Jacubovich | Oficina de Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189023/biarritz-building-ariel-jacubovich-oficina-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6b00/af59/94d7/ea00/019c/fee4/newsletter/javier_agustin_rojas_biarritz_DJI_0165_high.jpg?1795207065",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T16:00:00.000Z",
+    "ingested_at": "2026-11-21T22:56:23.943Z"
+  },
+  {
+    "id": "58184ebc-e341-4682-a3d6-221054c4e5c4",
+    "title": "Aquatics Centre Paris",
+    "creator": "VenhoevenCS + Ateliers 2/3/4/",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1019578/aquatics-centre-paris-venhoevencs-plus-ateliers-2-3-4",
+    "image_url": "https://images.adsttc.com/media/images/66ab/638b/2933/476f/9500/f8f4/newsletter/aquatics-centre-paris-venhoevencs-plus-ateliers-2-3-4_16.jpg?1722508197",
+    "typology": [
+      "swimming pool"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T15:00:00.000Z",
+    "ingested_at": "2026-11-21T22:56:23.943Z"
+  },
+  {
+    "id": "bdd18cd2-b016-4291-a207-50b40e7b3fa0",
+    "title": "House AL",
+    "creator": "N2B Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036137/house-al-n2b-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/6916/895c/20ca/aa00/01ef/7cd7/newsletter/N2bArquitetura_Foto_CarolinaMossin_005.jpg?1763084697",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T13:00:00.000Z",
+    "ingested_at": "2026-11-21T22:56:23.943Z"
+  },
+  {
+    "id": "8d36355d-dac9-4049-af1f-90f7c870ef76",
+    "title": "Ca la Tecla Renovation",
+    "creator": "Hiha Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188973/ca-la-tecla-renovation-hiha-studio",
+    "image_url": "https://images.adsttc.com/media/images/6afd/b8d1/eabd/2a00/0193/1d05/newsletter/001.jpg?1795012843",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T11:00:00.000Z",
+    "ingested_at": "2026-11-21T22:56:23.944Z"
   }
 ]
