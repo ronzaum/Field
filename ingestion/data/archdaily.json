@@ -41747,5 +41747,39 @@
     "material": [],
     "published_at": "2026-11-20T15:00:00.000Z",
     "ingested_at": "2026-11-21T01:13:29.350Z"
+  },
+  {
+    "id": "90da403d-2c4f-4c6d-a47f-bd6f43d2ce60",
+    "title": "Lamberth Palace Arches",
+    "creator": "Tigg + Coll Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188720/lamberth-palace-arches-tigg-plus-coll-architects",
+    "image_url": "https://images.adsttc.com/media/images/6afb/7c67/8074/f464/a9f9/3436/newsletter/lamberth-palace-arches-tigg-plus-coll-architects_12.jpg?1794866572",
+    "typology": [
+      "Other facilities"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T10:00:00.000Z",
+    "ingested_at": "2026-11-21T17:14:05.026Z"
+  },
+  {
+    "id": "435597ed-343f-467b-a674-78c81f9c855b",
+    "title": "FLEISCHEREI, A RESTAURANT REWORKED",
+    "creator": "Allen Kaufmann Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188648/fleischerei-a-restaurant-reworked-allen-kaufmann-architekten",
+    "image_url": "https://images.adsttc.com/media/images/6af7/debe/eabd/2a00/0192/f26a/newsletter/AK_110_1_FEATURED.jpg?1794629325",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T06:00:00.000Z",
+    "ingested_at": "2026-11-21T17:14:05.026Z"
   }
 ]
