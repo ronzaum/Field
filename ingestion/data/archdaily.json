@@ -41696,5 +41696,56 @@
     "material": [],
     "published_at": "2026-11-20T06:00:00.000Z",
     "ingested_at": "2026-11-20T19:49:36.513Z"
+  },
+  {
+    "id": "11caaea9-80d4-4516-a8bb-791434278991",
+    "title": "Exhibition Artifact",
+    "creator": "Configuración Visual",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188961/exhibition-artifact-configuracion-visual",
+    "image_url": "https://images.adsttc.com/media/images/6afd/bac3/eabd/2a00/0193/1d80/newsletter/11.jpg?1795013453",
+    "typology": [
+      "Temporary installations"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T19:00:00.000Z",
+    "ingested_at": "2026-11-21T01:13:29.349Z"
+  },
+  {
+    "id": "8377c23b-6e91-4e9a-a3e5-7eb84d9bd9db",
+    "title": "House Duas Marias I",
+    "creator": "Canoa Arquitetura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura",
+    "image_url": "https://images.adsttc.com/media/images/691f/98b1/6138/2e01/88ea/c75a/newsletter/casa-duas-marias-i-canoa-arquitetura_1.jpg?1763678415",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T17:00:00.000Z",
+    "ingested_at": "2026-11-21T01:13:29.350Z"
+  },
+  {
+    "id": "12fb8153-af41-4a1a-a34a-6db64320b1af",
+    "title": "Hotel Tepoztlán",
+    "creator": "Taller Carlos Marín + Pasquinel Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/941774/hotel-tepoztlan-taller-carlos-marin-plus-pasquinel-studio",
+    "image_url": "https://images.adsttc.com/media/images/5ee7/84c1/b357/6520/0900/00be/newsletter/8D5A8022.jpg?1592231094",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-11-20T15:00:00.000Z",
+    "ingested_at": "2026-11-21T01:13:29.350Z"
   }
 ]
