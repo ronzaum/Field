@@ -41883,5 +41883,90 @@
     "material": [],
     "published_at": "2026-11-21T17:00:00.000Z",
     "ingested_at": "2026-11-22T02:56:56.425Z"
+  },
+  {
+    "id": "1adc609c-ca8f-4b4c-bd38-223f1b04faa6",
+    "title": "Sede Ser Headquarters",
+    "creator": "Atelier 77",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036139/sede-ser-headquarters-atelier-77",
+    "image_url": "https://images.adsttc.com/media/images/6915/c980/20ca/aa00/01ef/7b82/newsletter/EspacoSerCidadao_2.jpg?1763035550",
+    "typology": [
+      "Institute"
+    ],
+    "material": [],
+    "published_at": "2026-11-22T13:00:00.000Z",
+    "ingested_at": "2026-11-22T19:16:01.954Z"
+  },
+  {
+    "id": "eb0252ac-0457-4959-a00c-39a6559b8314",
+    "title": "LDN House",
+    "creator": "ERENTIA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189024/ldn-house-erentia",
+    "image_url": "https://images.adsttc.com/media/images/6af5/96cd/eabd/2a00/0192/d43d/newsletter/_S__ERENTIA_LDN_EDMUND_SUMNER_05.jpg?1794479894",
+    "typology": [
+      "Residential Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-22T11:00:00.000Z",
+    "ingested_at": "2026-11-22T19:16:01.954Z"
+  },
+  {
+    "id": "16bbdcc2-eb83-4688-be54-e76623ad04f7",
+    "title": "AUA Najarian Center",
+    "creator": "Storaket Architectural Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188267/aua-najarian-center-storaket-architectural-studio",
+    "image_url": "https://images.adsttc.com/media/images/6af1/8cde/4ba6/4700/01d0/80c2/newsletter/AUA_Najarian_Center_01.jpg?1794215205",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-22T10:00:00.000Z",
+    "ingested_at": "2026-11-22T19:16:01.955Z"
+  },
+  {
+    "id": "038f1d1c-c5a9-4b1e-bf76-4aba385b5ff0",
+    "title": "ATO RAMEN",
+    "creator": "CUDO:",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187743/ato-ramen-cudo",
+    "image_url": "https://images.adsttc.com/media/images/6ae3/2a35/3271/8400/01d0/fb95/newsletter/migdal_cudo_ato_1.jpg?1793272773",
+    "typology": [
+      "Restaurant & Bar Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-22T06:00:00.000Z",
+    "ingested_at": "2026-11-22T19:16:01.955Z"
+  },
+  {
+    "id": "88c2eb47-a36a-4703-9fb8-1f0c3e7e7328",
+    "title": "Biarritz Building - Cooperative Housing",
+    "creator": "Ariel Jacubovich | Oficina de Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189023/biarritz-building-cooperative-housing-ariel-jacubovich-oficina-de-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6b00/af59/94d7/ea00/019c/fee4/newsletter/javier_agustin_rojas_biarritz_DJI_0165_high.jpg?1795207065",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T16:00:00.000Z",
+    "ingested_at": "2026-11-22T19:16:01.955Z"
   }
 ]
