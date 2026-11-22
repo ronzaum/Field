@@ -41849,5 +41849,39 @@
     "material": [],
     "published_at": "2026-11-21T11:00:00.000Z",
     "ingested_at": "2026-11-21T22:56:23.944Z"
+  },
+  {
+    "id": "bcba3343-9921-4125-b431-79ecffd721d2",
+    "title": "Strata House",
+    "creator": "VPA Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188548/strata-house-vpa-architects",
+    "image_url": "https://images.adsttc.com/media/images/6af5/a136/eabd/2a00/0192/d4a7/newsletter/DJI_20260312174636_0452_D.jpg?1794482945",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T21:00:00.000Z",
+    "ingested_at": "2026-11-22T02:56:56.425Z"
+  },
+  {
+    "id": "21447461-aac9-4ccb-b8e6-84ab29315b29",
+    "title": "Police Station for the People",
+    "creator": "STUDIO MOTLEY",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188485/police-station-for-the-people-studio-motley",
+    "image_url": "https://images.adsttc.com/media/images/6af4/571a/eabd/2a00/0192/c552/newsletter/E_MKGs_HR-72.jpg?1794398152",
+    "typology": [
+      "Police Station"
+    ],
+    "material": [],
+    "published_at": "2026-11-21T17:00:00.000Z",
+    "ingested_at": "2026-11-22T02:56:56.425Z"
   }
 ]
