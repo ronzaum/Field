@@ -15051,5 +15051,74 @@
     "material": [],
     "published_at": "2026-11-22T21:15:58.000Z",
     "ingested_at": "2026-11-23T00:39:17.900Z"
+  },
+  {
+    "id": "cffaebdb-6f45-48b3-a470-ed09217124e7",
+    "title": "inside ZHA’s royal theater in morocco, white curves meet crystalline caverns",
+    "creator": "Zaha Hadid Architects (ZHA)",
+    "location": "Rabat",
+    "country": "Morocco",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/zha-royal-theater-rabat-morocco-curves-crystalline-hufton-crow/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/ZHA-architects-theatre-royal-de-rabat-morocco-hufton-crow-designboom-700-500x400-22b08q85r106.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architectural photography",
+      "architecture in morocco",
+      "hufton + crow",
+      "theaters",
+      "zaha hadid"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T19:10:51.000Z",
+    "ingested_at": "2026-11-23T21:01:12.600Z"
+  },
+  {
+    "id": "283e2ea8-bcca-440b-8644-a1cccb91c9c4",
+    "title": "bold shapes and rounded partitions soften divisions within new york apartment by SABO project",
+    "creator": "SABO project",
+    "location": "Lower East Side",
+    "country": "New York",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/bold-shapes-rounded-partitions-soft-divisions-new-york-apartment-sabo-project/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/new-york-soft-division-renovation-apartment-sabo-project-designboom-700-500x400-22b08q85r813.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in new york",
+      "renovation and restoration architecture and design",
+      "residential architecture and interiors",
+      "SABO project",
+      "steel architecture and design",
+      "textile and fabric art"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T16:45:29.000Z",
+    "ingested_at": "2026-11-23T21:01:12.604Z"
+  },
+  {
+    "id": "64cb38c2-912e-493c-8310-2369f0f1df03",
+    "title": "gerhard richter’s pavilion opens in doha, wrapped in patterns inspired by islamic geometry",
+    "creator": "thomai tsimpou",
+    "location": "MIA Park",
+    "country": "Qatar",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/gerhard-richter-pavilion-doha-patterns-islamic-geometry-selldorf-architects/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/gerhard-richter-pavilion-doha-patterns-islamic-geometry-selldorf-architects-designboom-700-500x400-22b08q85r731.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "art and architecture in qatar",
+      "gerhard richter",
+      "museums and galleries",
+      "selldorf architects"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T11:20:40.000Z",
+    "ingested_at": "2026-11-23T21:01:12.613Z"
   }
 ]

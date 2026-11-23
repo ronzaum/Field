@@ -42070,5 +42070,141 @@
     "material": [],
     "published_at": "2026-11-22T21:00:00.000Z",
     "ingested_at": "2026-11-23T08:45:55.050Z"
+  },
+  {
+    "id": "db06409c-a66e-410b-880b-d1c54979cf9e",
+    "title": "TS Building",
+    "creator": "De Rungs Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189081/ts-building-de-rungs-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6b04/6e2d/dd54/ea01/8880/eedd/newsletter/ts-building-de-rungs-arquitectos_3.jpg?1795452485",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T15:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.421Z"
+  },
+  {
+    "id": "389e06b2-4fe2-456a-b75d-e9d2f76c3684",
+    "title": "House in Besteiros",
+    "creator": "Rasura Arquitetos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1068580/house-in-besteiros-rasura-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/6916/8508/20ca/aa00/01ef/7cc0/newsletter/Casa_Besteiros_Alexander_Bogorodskiy-34.jpg?1763083665",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T13:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.421Z"
+  },
+  {
+    "id": "0c34349d-b90a-4b02-89a9-628e3d46d28c",
+    "title": "Soft Division Apartment",
+    "creator": "SABO project",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188937/soft-division-apartment-sabo-project",
+    "image_url": "https://images.adsttc.com/media/images/6aff/0031/eabd/2a00/0193/2472/newsletter/sabo-work-division-02.jpg?1795096644",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T12:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.422Z"
+  },
+  {
+    "id": "db41373a-ee29-4f48-ba66-6f745a4bdfe9",
+    "title": "McAnally Residence",
+    "creator": "MADDOCK",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/991131/mcanally-residence-maddock",
+    "image_url": "https://images.adsttc.com/media/images/6357/cdf4/f0bd/244b/a971/d557/newsletter/mcanally-residence-maddock_34.jpg?1666698800",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T11:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.422Z"
+  },
+  {
+    "id": "3c593364-d891-4799-95b7-2a37160d15e4",
+    "title": "Farmhouse in Novohradské Hory Reconstruction",
+    "creator": "Jan Vranovský",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188647/farmhouse-in-novohradske-hory-reconstruction-jan-vranovsky",
+    "image_url": "https://images.adsttc.com/media/images/6af7/de30/eabd/2a00/0192/f24e/newsletter/Novohradske_hory_2.jpg?1794629203",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T10:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.422Z"
+  },
+  {
+    "id": "d22a7390-fe36-446e-8b9e-a272a56bf297",
+    "title": "Red Top Meadows Residential Treatment Facility",
+    "creator": "untitled architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188919/red-top-meadows-residential-treatment-facility-untitled-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6afe/e7ab/eabd/2a00/0193/2381/newsletter/krafty_photos_red_top_summer-15.jpg?1795090445",
+    "typology": [
+      "Healthcare"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T07:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.423Z"
+  },
+  {
+    "id": "cc9d31a3-e49d-4e3d-95ae-8c3aa83b5d6f",
+    "title": "Stammhaus",
+    "creator": "KOSMOS Architects + Gordon Selbach",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188730/stammhaus-kosmos-architects-plus-gordon-selbach",
+    "image_url": "https://images.adsttc.com/media/images/6afb/cdf8/c23f/1f52/896d/752e/newsletter/stammhaus-kosmos-architects-plus-gordon-selbach_4.jpg?1794887198",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T06:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.423Z"
+  },
+  {
+    "id": "568274a7-138f-4b86-be72-a57b785cca75",
+    "title": "Powerhouse Parramatta",
+    "creator": "Moreau Kusunoki + Genton",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188953/powerhouse-parramatta-moreau-kusunoki-plus-genton",
+    "image_url": "https://images.adsttc.com/media/images/6aff/1562/c23f/1f6a/4351/69b4/newsletter/powerhouse-parramatta-moreau-kusunoki-plus-genton_1.jpg?1795102079",
+    "typology": [
+      "Museums & Exhibit"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T03:00:00.000Z",
+    "ingested_at": "2026-11-23T21:01:11.423Z"
   }
 ]
