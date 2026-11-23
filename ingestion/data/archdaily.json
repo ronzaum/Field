@@ -41968,5 +41968,56 @@
     "material": [],
     "published_at": "2026-11-21T16:00:00.000Z",
     "ingested_at": "2026-11-22T19:16:01.955Z"
+  },
+  {
+    "id": "1fc77b93-a7ed-4e43-8e55-2747dc330132",
+    "title": "M-House",
+    "creator": "Country House. Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188497/m-house-country-house-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6af4/7458/eabd/2a00/0192/c5b8/newsletter/a-62.jpg?1794405628",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-22T17:00:00.000Z",
+    "ingested_at": "2026-11-23T00:39:17.014Z"
+  },
+  {
+    "id": "efeaeef8-417d-473e-b5b6-76e205e49b4d",
+    "title": "Casa Amigó",
+    "creator": "Estudio Travertino",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188597/casa-amigo-estudio-travertino",
+    "image_url": "https://images.adsttc.com/media/images/6af7/0351/eabd/2a00/0192/e3ed/newsletter/01-AMIGO-TRAVERTINO.jpg?1794573153",
+    "typology": [
+      "Apartment Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-22T16:00:00.000Z",
+    "ingested_at": "2026-11-23T00:39:17.014Z"
+  },
+  {
+    "id": "f6473408-1653-4e4d-b131-f1340ac56cb5",
+    "title": "Rosaleda Terrace",
+    "creator": "RH-EL",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1025369/rosaleda-terrace-rh-el",
+    "image_url": "https://images.adsttc.com/media/images/677b/fcf0/8774/0101/87cd/3fd8/newsletter/terraza-rosaleda-rh-el_1.jpg?1736178960",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-22T15:00:00.000Z",
+    "ingested_at": "2026-11-23T00:39:17.015Z"
   }
 ]
