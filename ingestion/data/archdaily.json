@@ -42206,5 +42206,39 @@
     "material": [],
     "published_at": "2026-11-23T03:00:00.000Z",
     "ingested_at": "2026-11-23T21:01:11.423Z"
+  },
+  {
+    "id": "d0a7de62-c472-4804-b89b-d0bff773d565",
+    "title": "Paper Stilt House",
+    "creator": "Esteban Uribe Architect",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189106/paper-stilt-house-esteban-uribe-architect",
+    "image_url": "https://images.adsttc.com/media/images/6b04/7163/94d7/ea00/019d/02bb/newsletter/_DSC4995_Antonella_Torti.jpg?1795453454",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T19:00:00.000Z",
+    "ingested_at": "2026-11-24T05:47:48.688Z"
+  },
+  {
+    "id": "33b971fd-3a5d-43dc-93a1-2a5d5624ff25",
+    "title": "Floresta Building",
+    "creator": "MMBB Arquitetos + Rodrigo Oliveira Paisagismo",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189052/floresta-building-mmbb-arquitetos-plus-rodrigo-oliveira-paisagismo",
+    "image_url": "https://images.adsttc.com/media/images/6aff/3d7c/eabd/2a00/0193/25bd/newsletter/Nelson_Kon_61DJI_0593_-_Copia.jpg?1795112559",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-23T17:00:00.000Z",
+    "ingested_at": "2026-11-24T05:47:48.689Z"
   }
 ]
