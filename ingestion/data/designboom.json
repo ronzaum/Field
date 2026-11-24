@@ -15120,5 +15120,72 @@
     "material": [],
     "published_at": "2026-11-23T11:20:40.000Z",
     "ingested_at": "2026-11-23T21:01:12.613Z"
+  },
+  {
+    "id": "dd0097c4-c967-4f48-933a-786a1540358f",
+    "title": "can le corbusier’s last building be disassembled and shipped?",
+    "creator": "Le Corbusier",
+    "location": "Zürich",
+    "country": "Switzerland",
+    "year": 1967,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/interviews/can-le-corbusier-last-building-disassembled-shipped/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/pavillon-le-corbusier-designboom-700-500x400-22b08q85r822.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in switzerland",
+      "exhibition design",
+      "le corbusier",
+      "prefabricated homes and buildings",
+      "STATES OF MOTION"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T11:25:21.000Z",
+    "ingested_at": "2026-11-24T17:18:10.928Z"
+  },
+  {
+    "id": "d6e04935-edc0-4335-b6c6-743a12de3f5a",
+    "title": "the architecture of waiting: reimagining train stations as places for public life",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/waiting-train-stations-places-public-life/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/waiting-train-stations-places-public-life-designboom-700-500x400-22b08q85r606.jpg",
+    "typology": [
+      "architecture",
+      "airport architecture and design",
+      "STATES OF MOTION",
+      "trains"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T10:25:39.000Z",
+    "ingested_at": "2026-11-24T17:18:10.942Z"
+  },
+  {
+    "id": "7cb197ea-7f14-45c0-aec8-043a3ac2f343",
+    "title": "london museum opens new home in smithfield’s historic general market",
+    "creator": "Stanton Williams",
+    "location": "Smithfield General Market",
+    "country": "UK",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap-designboom-700-500x400-22b08q85r203.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in london",
+      "architecture in the UK",
+      "asif khan",
+      "museums and galleries",
+      "renovation and restoration architecture and design",
+      "stanton williams"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T10:00:25.000Z",
+    "ingested_at": "2026-11-24T17:18:10.956Z"
   }
 ]

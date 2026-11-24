@@ -42240,5 +42240,141 @@
     "material": [],
     "published_at": "2026-11-23T17:00:00.000Z",
     "ingested_at": "2026-11-24T05:47:48.689Z"
+  },
+  {
+    "id": "f3b88f63-5efc-48d8-89ad-40c1441a2ae9",
+    "title": "Private Residence",
+    "creator": "naturehumaine architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188855/private-residence-naturehumaine-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6afd/d88d/eabd/2a00/0193/1db2/newsletter/PreVert_1180_web.jpg?1795020960",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T12:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.065Z"
+  },
+  {
+    "id": "b0d12e69-0d52-4310-8c8e-0ad867fedd72",
+    "title": "Fenix Art Museum",
+    "creator": "MAD Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1030328/fenix-art-museum-mad-architects",
+    "image_url": "https://images.adsttc.com/media/images/682c/9a38/82d8/2601/88bc/cacc/newsletter/fenix-art-museum-mad-architects_4.jpg?1747753551",
+    "typology": [
+      "Refurbishment"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T11:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.066Z"
+  },
+  {
+    "id": "31d3f07b-8d75-4039-84bd-9d3094612e46",
+    "title": "Kindergarten Aegelmatt",
+    "creator": "Brandenberger Kloter",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188642/kindergarten-aegelmatt-brandenberger-kloter",
+    "image_url": "https://images.adsttc.com/media/images/6af7/ce1d/eabd/2a00/0192/f1b0/newsletter/Aegelmatt_01_Aussenansicht_mit_Spielplatz_Foto_Willem_Pab.jpg?1794625080",
+    "typology": [
+      "Kindergarten"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T10:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.066Z"
+  },
+  {
+    "id": "fed1bf28-64f8-4394-94be-e9018e743872",
+    "title": "Grand Terminal Doha",
+    "creator": "Hassell",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189080/grand-terminal-doha-hassell",
+    "image_url": "https://images.adsttc.com/media/images/6b04/5f25/dd54/ea01/8880/eeac/newsletter/grand-terminal-doha-hassell_1.jpg?1795448640",
+    "typology": [
+      "Cruise Terminal"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T07:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.066Z"
+  },
+  {
+    "id": "8b73f081-f1f1-4d84-8d57-900416fdeded",
+    "title": "Private House in Kaklebi",
+    "creator": "Werkraum Design Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188266/private-house-in-kaklebi",
+    "image_url": "https://images.adsttc.com/media/images/6af1/8c88/4ba6/4700/01d0/80a0/newsletter/Grigory_Sokolinsky_19.jpg?1794215149",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T06:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.067Z"
+  },
+  {
+    "id": "003c4b9a-4141-42a3-98c9-9874aaf4faee",
+    "title": "FORESTSCOPE",
+    "creator": "Sakakura Associates Architects and Engineers",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189070/forestscope-sakakura-associates-architects-and-engineers",
+    "image_url": "https://images.adsttc.com/media/images/6b04/49dd/94d7/ea00/019d/01e2/newsletter/_DSC4094_.jpg?1795443204",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T03:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.067Z"
+  },
+  {
+    "id": "513e6a6d-ea76-4ee8-8941-0105858d72ae",
+    "title": "Abishkar Residence",
+    "creator": "SYSTEM architects - EKNC",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1187086/abishkar-residence-system-architects-eknc",
+    "image_url": "https://images.adsttc.com/media/images/6b04/5146/2bc2/8501/8901/2892/newsletter/abishkar-residence-system-architects-eknc_22.jpg?1795445095",
+    "typology": [
+      "Apartments"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T02:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.067Z"
+  },
+  {
+    "id": "551b0bbd-566c-44a0-abd5-e209072c5b35",
+    "title": "Sans Raison Renovation",
+    "creator": "Mountain Soil Interior Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189109/sans-raison-renovation-mountain-soil-interior-design",
+    "image_url": "https://images.adsttc.com/media/images/6b04/fe9d/2bc2/8501/8901/2b03/newsletter/sans-raison-renovation-mountain-soil-interior-design_19.jpg?1795489443",
+    "typology": [
+      "Interior Design"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T00:00:00.000Z",
+    "ingested_at": "2026-11-24T17:18:10.067Z"
   }
 ]
