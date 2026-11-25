@@ -42512,5 +42512,107 @@
     "material": [],
     "published_at": "2026-11-25T02:00:00.000Z",
     "ingested_at": "2026-11-25T12:23:05.729Z"
+  },
+  {
+    "id": "99e5ac02-912c-4bdf-8445-b37b203e59d6",
+    "title": "Folklores Cocina de México",
+    "creator": "Araujo Galván Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1153300/folklores-cocina-de-mexico-araujo-galvan-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/67d0/afb9/c0be/6901/89b3/a7f0/newsletter/folklores-cocina-de-mexico-araujo-galvan-arquitectos_2.jpg?1741729799",
+    "typology": [
+      "Restaurant"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T15:00:00.000Z",
+    "ingested_at": "2026-11-25T22:15:20.962Z"
+  },
+  {
+    "id": "87989232-fe60-4b4b-b8f2-5376bfa766b5",
+    "title": "Casa GLS",
+    "creator": "Filipe Saraiva",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189197/casa-gls-filipe-saraiva",
+    "image_url": "https://images.adsttc.com/media/images/6b06/5d73/2bc2/8569/f469/8431/newsletter/casa-gls-filipe-saraiva_34.jpg?1795579332",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T13:00:00.000Z",
+    "ingested_at": "2026-11-25T22:15:20.962Z"
+  },
+  {
+    "id": "06215bec-3b4d-40f3-8ec3-f566f626c70a",
+    "title": "UBC Arts Student Centre",
+    "creator": "Leckie Studio Architecture + Design",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188947/ubc-arts-student-centre-leckie-studio-architecture-plus-design",
+    "image_url": "https://images.adsttc.com/media/images/6aff/0852/eabd/2a00/0193/2514/newsletter/02_-_ASC_-_Exterior.jpg?1795098773",
+    "typology": [
+      "Student Hall"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T12:00:00.000Z",
+    "ingested_at": "2026-11-25T22:15:20.963Z"
+  },
+  {
+    "id": "8e781ba5-e1c8-45e2-8d6e-3997fe8229fd",
+    "title": "Saha Casa Boutique",
+    "creator": "Ho Khue Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1033454/saha-casa-boutique-ho-khue-architects",
+    "image_url": "https://images.adsttc.com/media/images/68ad/c3e5/fe17/7701/89a5/d5ac/newsletter/saha-casa-boutique-ho-khue-architects_4.jpg?1756218367",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T11:00:00.000Z",
+    "ingested_at": "2026-11-25T22:15:20.963Z"
+  },
+  {
+    "id": "6c26a7f6-55b7-49aa-b8b0-1edd0eb4b8c1",
+    "title": "Church and Cultural Centre, Veneux-les-Sablons, France",
+    "creator": "Bertrand Taquet Architectes",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189111/church-and-cultural-centre-veneux-les-sablons-france-bertrand-taquet-architectes",
+    "image_url": "https://images.adsttc.com/media/images/6b05/0143/94d7/ea00/019d/04c8/newsletter/03_ANS20260925_8862-02_26-27_BTA__glise_HD.jpg?1795490185",
+    "typology": [
+      "Cultural Center"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T10:00:00.000Z",
+    "ingested_at": "2026-11-25T22:15:20.964Z"
+  },
+  {
+    "id": "bbc764ea-f290-4064-8298-b9ed72700c40",
+    "title": "Avara Residence",
+    "creator": "mxsxt",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189202/avara-residence-mxsxt",
+    "image_url": "https://images.adsttc.com/media/images/6b06/9d96/94d7/ea00/019d/0b2b/newsletter/Avara_Medveja_mxsxt_53.jpg?1795595720",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T07:00:00.000Z",
+    "ingested_at": "2026-11-25T22:15:20.964Z"
   }
 ]
