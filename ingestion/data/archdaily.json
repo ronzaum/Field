@@ -42461,5 +42461,56 @@
     "material": [],
     "published_at": "2026-11-24T13:00:00.000Z",
     "ingested_at": "2026-11-25T02:05:05.943Z"
+  },
+  {
+    "id": "4a8bfed3-154e-4179-a522-74e1d36d5521",
+    "title": "LeopoldQuartier",
+    "creator": "Gangoly & Kristiner Architekten",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188641/leopoldquartier",
+    "image_url": "https://images.adsttc.com/media/images/6af7/cbf1/eabd/2a00/0192/f19d/newsletter/105_-_02_Exterior_Tag_Gangoly_Kristiner_Leopoldquartier_Patrick_Johannsen_Fotografie-31.jpg?1794624558",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T06:00:00.000Z",
+    "ingested_at": "2026-11-25T12:23:05.729Z"
+  },
+  {
+    "id": "a0b98ab9-49da-4a33-9123-cca8efb1e4aa",
+    "title": "Tawila Island Resort",
+    "creator": "JT+Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189086/tawila-island-resort-jt-plus-partners",
+    "image_url": "https://images.adsttc.com/media/images/6b04/8445/2bc2/8501/8901/297f/newsletter/tawila-island-resort-jt-plus-partners_2.jpg?1795458135",
+    "typology": [
+      "Hotels"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T03:00:00.000Z",
+    "ingested_at": "2026-11-25T12:23:05.729Z"
+  },
+  {
+    "id": "0ddbf72c-2919-489a-bf41-46c3e36c68f7",
+    "title": "Tochigi JIMINIE Club Study Center Mikamo",
+    "creator": "TAISEI DESIGN Planners Architects & Engineers",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189095/tochigi-jiminie-club-study-center-mikamo-taisei-design-planners-architects-and-engineers",
+    "image_url": "https://images.adsttc.com/media/images/6b04/963b/dd54/ea01/8880/efd6/newsletter/tochigi-jiminie-club-study-center-mikamo-taisei-design-planners-architects-and-engineers_2.jpg?1795462743",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T02:00:00.000Z",
+    "ingested_at": "2026-11-25T12:23:05.729Z"
   }
 ]

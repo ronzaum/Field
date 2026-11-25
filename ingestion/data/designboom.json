@@ -15209,5 +15209,93 @@
     "material": [],
     "published_at": "2026-11-24T21:45:52.000Z",
     "ingested_at": "2026-11-25T02:05:07.190Z"
+  },
+  {
+    "id": "4a49d8e4-f1ea-429c-9057-db69f21ad7b4",
+    "title": "the search for a home without a fixed address, from prefabricated houses to floating dwellings",
+    "creator": "thomai tsimpou",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/search-home-fixed-address-prefabricated-houses-floating-dwellings/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/search-home-fixed-address-prefabricated-houses-floating-dwellings-designboom-700-500x400-22b08q85r938.jpg",
+    "typology": [
+      "architecture",
+      "floating architecture",
+      "portable and emergency architecture",
+      "prefabricated homes and buildings",
+      "residential architecture and interiors",
+      "STATES OF MOTION"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T11:50:54.000Z",
+    "ingested_at": "2026-11-25T12:23:06.506Z"
+  },
+  {
+    "id": "d0c9b43d-7e8b-4d14-a2d4-e6c7b874c366",
+    "title": "human point frames architecture as an unfolding timeline",
+    "creator": "Human Point",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/human-point-architecture/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/whispering-elia-mykonos_human-point_-designboom_700-500x400-22b08q85r800.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "interviews"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T11:00:50.000Z",
+    "ingested_at": "2026-11-25T12:23:06.516Z"
+  },
+  {
+    "id": "5b9154e7-3b83-4066-8701-928bee6c8d69",
+    "title": "kanal-centre pompidou opens in brussels inside restored 1930s citroën garage",
+    "creator": "thomai tsimpou",
+    "location": "Square Sainctelette 21",
+    "country": "Belgium",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates-designboom-700-500x400-22b08q85r450.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "video",
+      "architecture in belgium",
+      "centre pompidou",
+      "EM2N",
+      "museums and galleries",
+      "renovation and restoration architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T09:20:19.000Z",
+    "ingested_at": "2026-11-25T12:23:06.527Z"
+  },
+  {
+    "id": "999c9103-d575-4b4a-a9d2-70f9dcef74e4",
+    "title": "can le corbusier’s last building be disassembled and shipped?",
+    "creator": "Le Corbusier",
+    "location": "Zürich",
+    "country": "Switzerland",
+    "year": 1967,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/can-le-corbusier-last-building-disassembled-shipped/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/pavillon-le-corbusier-designboom-700-500x400-22b08q85r822.jpg",
+    "typology": [
+      "architecture",
+      "interviews",
+      "architecture in switzerland",
+      "exhibition design",
+      "le corbusier",
+      "prefabricated homes and buildings",
+      "STATES OF MOTION"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T11:25:21.000Z",
+    "ingested_at": "2026-11-25T12:23:06.534Z"
   }
 ]
