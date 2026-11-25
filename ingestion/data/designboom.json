@@ -15187,5 +15187,27 @@
     "material": [],
     "published_at": "2026-11-24T10:00:25.000Z",
     "ingested_at": "2026-11-24T17:18:10.956Z"
+  },
+  {
+    "id": "7308b2da-521e-477b-83c8-f67fac24c531",
+    "title": "SO–IL imagines a museum wrapped in shimmering glass scales in the norwegian forest",
+    "creator": "ZNA Studio",
+    "location": "Jevnaker",
+    "country": "Norway",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/so-il-museum-shimmering-glass-scales-norway-forest-kistefos/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/SO-IL-kistefos-museum-norway-designboom-700-500x400-22b08q85r948.jpg",
+    "typology": [
+      "architecture",
+      "interiors",
+      "architecture in norway",
+      "facades",
+      "museums and galleries",
+      "SO – IL"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T21:45:52.000Z",
+    "ingested_at": "2026-11-25T02:05:07.190Z"
   }
 ]

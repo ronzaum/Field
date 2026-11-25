@@ -42376,5 +42376,90 @@
     "material": [],
     "published_at": "2026-11-24T00:00:00.000Z",
     "ingested_at": "2026-11-24T17:18:10.067Z"
+  },
+  {
+    "id": "62fdf2c9-be3d-4dad-be3e-f8d7e4240910",
+    "title": "Mesaguamo House",
+    "creator": "Trópico Arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1018042/mesaguamo-house-tropico-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6679/a8a7/f15c/cd3c/a6a2/9fd8/newsletter/casa-mesaguamo-tropico-arquitectura_14.jpg?1719249131",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T19:00:00.000Z",
+    "ingested_at": "2026-11-25T02:05:05.941Z"
+  },
+  {
+    "id": "c4aa53cd-38a9-461f-a4cc-8a063946da33",
+    "title": "Colina 31 House",
+    "creator": "Pereira Miguel Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189096/colina-31-house-pereira-miguel-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6b04/8a0f/94d7/ea00/019d/0373/newsletter/COLINA_31_HIGH-52.jpg?1795459848",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T17:00:00.000Z",
+    "ingested_at": "2026-11-25T02:05:05.941Z"
+  },
+  {
+    "id": "ab51e4e7-88cc-4b34-80d7-f65ca413af70",
+    "title": "Jiujiang Ferry Cultural Complex Renovation",
+    "creator": "TURTLEHILL DESIGN",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1026978/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design",
+    "image_url": "https://images.adsttc.com/media/images/67af/6bd3/5886/6801/89c7/43da/newsletter/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design_9.jpg?1739549673",
+    "typology": [
+      "Adaptive reuse"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T16:00:00.000Z",
+    "ingested_at": "2026-11-25T02:05:05.942Z"
+  },
+  {
+    "id": "baa583c5-b8fe-45d9-b45b-9f8646b20edc",
+    "title": "Rivas Struque House",
+    "creator": "Mas Fernandez Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1151143/rivas-struque-house-mas-fernandez-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6797/ca9c/e4b3/5801/8aa5/a685/newsletter/casa-rivas-struque-mas-fernandez-arquitectos_3.jpg?1738001082",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T15:00:00.000Z",
+    "ingested_at": "2026-11-25T02:05:05.942Z"
+  },
+  {
+    "id": "d8d0d072-5c5f-4f1b-8c8a-e6e070f40c09",
+    "title": "Paola Lenti Flagship",
+    "creator": "Armentano Arquitetura | AARQ",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189170/paola-lenti-flagship-armentano-arquitetura-aarq",
+    "image_url": "https://images.adsttc.com/media/images/6b04/877d/94d7/ea00/019d/0341/newsletter/_T2A4062.jpg?1795459181",
+    "typology": [
+      "Store"
+    ],
+    "material": [],
+    "published_at": "2026-11-24T13:00:00.000Z",
+    "ingested_at": "2026-11-25T02:05:05.943Z"
   }
 ]
