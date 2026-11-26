@@ -15319,5 +15319,50 @@
     "material": [],
     "published_at": "2026-11-25T16:55:00.000Z",
     "ingested_at": "2026-11-25T22:15:22.587Z"
+  },
+  {
+    "id": "0e05a4fe-c999-4e2c-a2d2-da990e1ee237",
+    "title": "podcast: how to create utopia for everyone when architecture scales to the metropolis",
+    "creator": "lisa kostyra",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-11/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/indx-global-room-for-utopias-06-designboom-700-500x400-22b08q85r482.jpg",
+    "typology": [
+      "architecture",
+      "featured",
+      "interviews",
+      "video",
+      "architecture in india",
+      "architecture interviews",
+      "podcast: room for utopias",
+      "POSTHUMAN UTOPIAS"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T09:30:13.000Z",
+    "ingested_at": "2026-11-26T14:51:29.822Z"
+  },
+  {
+    "id": "dad91152-03ab-4485-bbd6-57c0287ae801",
+    "title": "clustered cycladic village residences shape aristides dallas architects’ hospitality masterplan",
+    "creator": "Aristides Dallas Architects",
+    "location": "Cyclades",
+    "country": "Greece",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/clustered-cycladic-village-residences-aristides-dallas-architects-hospitality-masterplan-shared-ground/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/shared-ground-hospitality-masterplan-aristides-dallas-architects-cyclades-designboom-700-1-500x400-22b08q85r387.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in greece",
+      "aristides dallas architects",
+      "hotel architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T07:15:05.000Z",
+    "ingested_at": "2026-11-26T14:51:29.828Z"
   }
 ]

@@ -42648,5 +42648,90 @@
     "material": [],
     "published_at": "2026-11-25T17:00:00.000Z",
     "ingested_at": "2026-11-26T04:48:04.608Z"
+  },
+  {
+    "id": "280b0f92-ca23-42d1-b966-f3bb2d494ad7",
+    "title": "Wujiaba Flight Path 1922 Park Pavilions",
+    "creator": "Potential Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189198/wujiaba-flight-path-1922-pavilions-potential-architects",
+    "image_url": "https://images.adsttc.com/media/images/6b06/7194/94d7/ea00/019d/0aff/newsletter/____Arch-Exist-__-24.jpg?1795584661",
+    "typology": [
+      "Public Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T07:00:00.000Z",
+    "ingested_at": "2026-11-26T14:51:28.954Z"
+  },
+  {
+    "id": "fac45bee-e44e-46f6-a24f-81016f94471c",
+    "title": "LES LUCIOLES",
+    "creator": "AQMA + RODA",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188912/les-lucioles-aqma-plus-roda",
+    "image_url": "https://images.adsttc.com/media/images/6afe/cd10/eabd/2a00/0193/22d0/newsletter/CERGY_AQMA_RODA_1.jpg?1795083568",
+    "typology": [
+      "Elementary & Middle school"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T06:00:00.000Z",
+    "ingested_at": "2026-11-26T14:51:28.955Z"
+  },
+  {
+    "id": "f42df998-91bd-4535-b048-a146f7ab82a7",
+    "title": "House Y",
+    "creator": "monotrum",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189216/house-y-monotrum",
+    "image_url": "https://images.adsttc.com/media/images/6b06/b042/94d7/ea00/019d/0bfc/newsletter/2026_0113_0166.jpg?1795600474",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T03:00:00.000Z",
+    "ingested_at": "2026-11-26T14:51:28.955Z"
+  },
+  {
+    "id": "43bb3e79-f46d-4012-ba54-6af8e600a4f9",
+    "title": "Hill House",
+    "creator": "Taylor Knights",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189208/hill-house-taylor-knights",
+    "image_url": "https://images.adsttc.com/media/images/6b06/ac57/94d7/ea00/019d/0b8e/newsletter/TKA_Wheelers_0466.jpg?1795599513",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T02:00:00.000Z",
+    "ingested_at": "2026-11-26T14:51:28.955Z"
+  },
+  {
+    "id": "d0c58672-3da8-4fd2-b96a-5ac0e1d1efc9",
+    "title": "BW House",
+    "creator": "Studio S+AO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189236/bw-house-studio-s-plus-ao",
+    "image_url": "https://images.adsttc.com/media/images/6b06/ff39/94d7/ea00/019d/0dbe/newsletter/_AP_7162-Pano-Edit.jpg?1795620746",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T00:00:00.000Z",
+    "ingested_at": "2026-11-26T14:51:28.956Z"
   }
 ]
