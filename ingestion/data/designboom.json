@@ -15364,5 +15364,44 @@
     "material": [],
     "published_at": "2026-11-26T07:15:05.000Z",
     "ingested_at": "2026-11-26T14:51:29.828Z"
+  },
+  {
+    "id": "e7f43be7-a641-49be-87d5-b401a79b2189",
+    "title": "sinuous stone-roofed visitor center meanders through the mountains of china",
+    "creator": "kat barandy",
+    "location": "Huangguoshu Scenic Area",
+    "country": "China",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/sinuous-stone-roofed-visitor-center-mountains-china-huangguoshu-scenic-area/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/huangguoshu-waterfall-tianxingqiao-scenic-area-china-designboom-700-500x400-22b08q85r823.jpg",
+    "typology": [
+      "architecture",
+      "architecture in china",
+      "rooftop architecture and design"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T19:10:19.000Z",
+    "ingested_at": "2026-11-26T23:36:44.673Z"
+  },
+  {
+    "id": "b9d4564f-842f-4ef6-ad7c-c23264f49075",
+    "title": "concrete, lime-washed brick, and color-blocked zones organize movebon boutique training studio",
+    "creator": "JOTAJOTA+",
+    "location": "Calle Ardemans 5",
+    "country": "Spain",
+    "year": null,
+    "source": "designboom",
+    "source_url": "https://www.designboom.com/architecture/concrete-block-lime-washed-brick-color-blocked-zones-movebon-boutique-training-studio-jotajotamas/",
+    "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/movebon-boutique-training-studio-jotajotamas-madrid-designboom-700-500x400-22b08q85r890.jpg",
+    "typology": [
+      "architecture",
+      "readers",
+      "architecture in spain",
+      "sports centers"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T16:55:16.000Z",
+    "ingested_at": "2026-11-26T23:36:44.678Z"
   }
 ]

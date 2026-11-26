@@ -42733,5 +42733,124 @@
     "material": [],
     "published_at": "2026-11-26T00:00:00.000Z",
     "ingested_at": "2026-11-26T14:51:28.956Z"
+  },
+  {
+    "id": "278515ca-203a-477d-919a-d7f73495d409",
+    "title": "Modular Bahia",
+    "creator": "UNA Barbara e Valentim",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035950/modular-bahia-una-barbara-e-valentim",
+    "image_url": "https://images.adsttc.com/media/images/6913/c1fd/11d9/5601/88ba/eb60/newsletter/modular-bahia-una-barbara-e-valentim_4.jpg?1762902541",
+    "typology": [
+      "Cabins & Lodges"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T17:00:00.000Z",
+    "ingested_at": "2026-11-26T23:36:43.674Z"
+  },
+  {
+    "id": "fc013a28-6a04-4dc7-b584-355ec5a68c34",
+    "title": "Casa Lucerna",
+    "creator": "Belen Ilarri Studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189308/casa-lucerna-belen-ilarri-studio",
+    "image_url": "https://images.adsttc.com/media/images/6b08/521f/3a81/a801/8917/c95b/newsletter/casa-lucerna-belen-ilarri-studio_4.jpg?1795707480",
+    "typology": [
+      "Restoration"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T15:00:00.000Z",
+    "ingested_at": "2026-11-26T23:36:43.674Z"
+  },
+  {
+    "id": "7c12fc10-f962-4abe-96fa-c24f2b957f01",
+    "title": "The Carmine House",
+    "creator": "NPS Arquitectos",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1036373/the-carmine-house-nps-arquitectos",
+    "image_url": "https://images.adsttc.com/media/images/6925/9bc5/bacd/cd00/0116/0f73/newsletter/11_CASACARMIM_NPS.jpg?1764072456",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T13:00:00.000Z",
+    "ingested_at": "2026-11-26T23:36:43.675Z"
+  },
+  {
+    "id": "1103cab1-0cd5-4c08-ae1a-b89d59496c7d",
+    "title": "Zunli Tea House",
+    "creator": "OUT OF OFFICE DESIGN",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188938/zunli-tea-house-out-of-office-design",
+    "image_url": "https://images.adsttc.com/media/images/6aff/01b3/eabd/2a00/0193/2493/newsletter/IMG_11.jpg?1795097063",
+    "typology": [
+      "House Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T12:00:00.000Z",
+    "ingested_at": "2026-11-26T23:36:43.675Z"
+  },
+  {
+    "id": "e9caadd3-6687-4ef8-8200-69cce153a752",
+    "title": "Fulldraw Winery",
+    "creator": "Clayton Korte",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1013852/fulldraw-winery-clayton-korte",
+    "image_url": "https://images.adsttc.com/media/images/65de/4f1a/95e7/e14f/5a95/c840/newsletter/fulldraw-winery-clayton-korte_4.jpg?1709068134",
+    "typology": [
+      "Winery"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T11:00:00.000Z",
+    "ingested_at": "2026-11-26T23:36:43.675Z"
+  },
+  {
+    "id": "3487fc58-776b-4538-8124-044cb4a0f947",
+    "title": "Central Kitchen Graz",
+    "creator": "Superfuturegroup",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1188913/central-kitchen-graz-superfuturegroup",
+    "image_url": "https://images.adsttc.com/media/images/6afe/d02a/eabd/2a00/0193/22ef/newsletter/c-oberhofer-K_G-02-web.jpg?1795084349",
+    "typology": [
+      "Institutional buildings"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T10:00:00.000Z",
+    "ingested_at": "2026-11-26T23:36:43.675Z"
+  },
+  {
+    "id": "cc89d2ce-10dd-40dc-9f36-8e98b90aa6f1",
+    "title": "Sotarrá House",
+    "creator": "FOR arquitectura / FOR arquitectura",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189258/sotarra-house-for-arquitectura-for-arquitectura",
+    "image_url": "https://images.adsttc.com/media/images/6afd/b906/eabd/2a00/0193/1d2a/newsletter/JL260310_FORARQ-SOTARRA-1.jpg?1795012889",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-25T19:00:00.000Z",
+    "ingested_at": "2026-11-26T23:36:43.677Z"
   }
 ]
