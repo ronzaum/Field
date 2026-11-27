@@ -42886,5 +42886,107 @@
     "material": [],
     "published_at": "2026-11-26T19:00:00.000Z",
     "ingested_at": "2026-11-27T07:41:42.605Z"
+  },
+  {
+    "id": "a3458923-2bcb-4a11-ac51-30f6103da007",
+    "title": "Villa Dellago",
+    "creator": "JM Architecture",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1032631/villa-dellago-jm-architecture",
+    "image_url": "https://images.adsttc.com/media/images/688a/0ab7/cb12/3801/8612/d588/newsletter/villa-dellago-jm-architecture_1.jpg?1753877202",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T11:00:00.000Z",
+    "ingested_at": "2026-11-27T17:58:23.272Z"
+  },
+  {
+    "id": "36523b5a-c6b8-45b8-9221-3de5569e5eef",
+    "title": "Argentine Media Library",
+    "creator": "CONTINUO ARCHITECTURE",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189058/argentine-media-library-continuo-architecture",
+    "image_url": "https://images.adsttc.com/media/images/6b04/3611/94d7/ea00/019d/0140/newsletter/DSCF11000_11.jpg?1795438112",
+    "typology": [
+      "Library"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T10:00:00.000Z",
+    "ingested_at": "2026-11-27T17:58:23.273Z"
+  },
+  {
+    "id": "b965b8fb-39e2-431c-8ae8-2825a3503976",
+    "title": "Housing on the Marshes",
+    "creator": "OFIS Architects",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189136/housing-on-the-marshes-ofis-architects",
+    "image_url": "https://images.adsttc.com/media/images/6b07/f74c/3a81/a801/8917/c6ee/newsletter/housing-on-the-marshes-ofis-architects_24.jpg?1795684553",
+    "typology": [
+      "Housing"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T07:00:00.000Z",
+    "ingested_at": "2026-11-27T17:58:23.273Z"
+  },
+  {
+    "id": "8fabce29-9784-4b0b-b4e2-6ce267a966ed",
+    "title": "The Ribbon",
+    "creator": "Orms",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189047/the-ribbon-orms",
+    "image_url": "https://images.adsttc.com/media/images/6b04/2d6c/94d7/ea00/019d/0098/newsletter/Orms_-_The_Ribbon___Tim_Soar__19_.jpg?1795436016",
+    "typology": [
+      "Mixed Use Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T06:00:00.000Z",
+    "ingested_at": "2026-11-27T17:58:23.274Z"
+  },
+  {
+    "id": "d08c8d6c-1234-4f82-b4c9-b0bcdf31b161",
+    "title": "SHISHI Dates Cafe",
+    "creator": "Naqsh architectural & engineering consultancy",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189235/shishi-dates-cafe-naqsh-architectural-and-engineering-consultancy",
+    "image_url": "https://images.adsttc.com/media/images/6b06/fe10/94d7/ea00/019d/0da9/newsletter/SHISHI_07.jpg?1795620394",
+    "typology": [
+      "Coffee Shop Interiors"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T03:00:00.000Z",
+    "ingested_at": "2026-11-27T17:58:23.274Z"
+  },
+  {
+    "id": "b58387e5-ad2c-4ccc-8539-e57a618015cf",
+    "title": "Title Roll Building",
+    "creator": "Cho and Partners",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189224/title-roll-building-cho-and-partners",
+    "image_url": "https://images.adsttc.com/media/images/6b06/d4c4/2bc2/8501/8901/3110/newsletter/title-roll-building-cho-and-partners_2.jpg?1795609852",
+    "typology": [
+      "Commercial Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T02:00:00.000Z",
+    "ingested_at": "2026-11-27T17:58:23.274Z"
   }
 ]
