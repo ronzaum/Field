@@ -42852,5 +42852,39 @@
     "material": [],
     "published_at": "2026-11-25T19:00:00.000Z",
     "ingested_at": "2026-11-26T23:36:43.677Z"
+  },
+  {
+    "id": "28fc165a-5fb6-4ba0-b530-d5933c4f1aeb",
+    "title": "Peacock Forest Retreat",
+    "creator": "line+ studio",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189277/peacock-forest-retreat-line-plus-studio",
+    "image_url": "https://images.adsttc.com/media/images/6b08/0418/6c38/4800/0147/42b4/newsletter/02-________.jpg?1795687486",
+    "typology": [
+      "Hospitality Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T00:00:00.000Z",
+    "ingested_at": "2026-11-27T07:41:42.605Z"
+  },
+  {
+    "id": "1408db64-40ee-4607-b8ab-dc744664d38d",
+    "title": "High Andean Refuge in Quichuay",
+    "creator": "Pircanato / Pircanato",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189328/high-andean-refuge-in-quichuay-pircanato-pircanato",
+    "image_url": "https://images.adsttc.com/media/images/6b08/4961/6c38/4800/0147/442d/newsletter/IMG02.jpg?1795705297",
+    "typology": [
+      "Sustainability"
+    ],
+    "material": [],
+    "published_at": "2026-11-26T19:00:00.000Z",
+    "ingested_at": "2026-11-27T07:41:42.605Z"
   }
 ]
