@@ -43039,5 +43039,39 @@
     "material": [],
     "published_at": "2026-11-27T12:00:00.000Z",
     "ingested_at": "2026-11-28T01:21:28.608Z"
+  },
+  {
+    "id": "44b11c21-606e-4f38-852b-e811d73c0c57",
+    "title": "S House",
+    "creator": "BOV ESTUDIO / BOV ESTUDIO",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189382/s-house-bov-estudio-bov-estudio",
+    "image_url": "https://images.adsttc.com/media/images/6b09/c3d9/3a16/4b00/0109/3322/newsletter/BOV_Estudio_-_Casa_S___Javier_Bravo_245.jpg?1795802091",
+    "typology": [
+      "Renovation"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T19:00:00.000Z",
+    "ingested_at": "2026-11-28T09:59:54.665Z"
+  },
+  {
+    "id": "d3765767-1b90-4df5-a7d9-45f411563b50",
+    "title": "Fig Tree House",
+    "creator": "Estúdio Lava",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035916/fig-tree-house-estudio-lava",
+    "image_url": "https://images.adsttc.com/media/images/690d/d867/436b/c600/01fd/bf59/newsletter/0411.EstudioLava.CasaFigueira-PKOK0055.jpg?1762515066",
+    "typology": [
+      "Houses"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T17:00:00.000Z",
+    "ingested_at": "2026-11-28T09:59:54.666Z"
   }
 ]
