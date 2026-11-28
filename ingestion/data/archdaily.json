@@ -42988,5 +42988,56 @@
     "material": [],
     "published_at": "2026-11-27T02:00:00.000Z",
     "ingested_at": "2026-11-27T17:58:23.274Z"
+  },
+  {
+    "id": "9befe464-cd2b-412d-8542-7d73bed8f72b",
+    "title": "Espira Yoga Shala",
+    "creator": "Arquitectura Mixta",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189371/espira-yoga-shala-arquitectura-mixta",
+    "image_url": "https://images.adsttc.com/media/images/6b09/c55f/3a16/4b00/0109/3348/newsletter/ArquitecturaMixtaEspira1PPY.jpg?1795802529",
+    "typology": [
+      "Healthcare Architecture"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T15:00:00.000Z",
+    "ingested_at": "2026-11-28T01:21:28.608Z"
+  },
+  {
+    "id": "b0edbcaa-e3c2-4afb-a450-a75563e9907c",
+    "title": "Intermodal Hub of Lousada",
+    "creator": "spaceworkers",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1035818/intermodal-hub-of-lousada-spaceworkers",
+    "image_url": "https://images.adsttc.com/media/images/690d/2aa6/b04b/1c13/755a/3b77/newsletter/intermodal-hub-of-lousada-spaceworkers_1.jpg?1762470589",
+    "typology": [
+      "Transportation Hub"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T13:00:00.000Z",
+    "ingested_at": "2026-11-28T01:21:28.608Z"
+  },
+  {
+    "id": "b77859c2-64f4-4941-a1be-a114d8367da5",
+    "title": "Verrière House",
+    "creator": "Projectoire",
+    "location": null,
+    "country": null,
+    "year": null,
+    "source": "archdaily",
+    "source_url": "https://www.archdaily.com/1189089/verriere-house-projectoire",
+    "image_url": "https://images.adsttc.com/media/images/6b04/89bc/94d7/ea00/019d/0351/newsletter/Projectoire_Shcoolcraft_160620226_0256.jpg?1795459540",
+    "typology": [
+      "Extension"
+    ],
+    "material": [],
+    "published_at": "2026-11-27T12:00:00.000Z",
+    "ingested_at": "2026-11-28T01:21:28.608Z"
   }
 ]
